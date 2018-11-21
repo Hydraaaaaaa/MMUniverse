@@ -1,0 +1,1023 @@
+fileFormatVersion: 2
+guid: 45bb467c06f94fe458b3b47f52d02ac3
+timeCreated: 1442628832
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M372Da0
+    21300002: M372Db0
+    21300004: M372Dc0
+    21300006: M372Dd0
+    21300008: M372Fa0
+    21300010: M372Fb0
+    21300012: M372Fc0
+    21300014: M372Na0
+    21300016: M372Na1
+    21300018: M372Na2
+    21300020: M372Na3
+    21300022: M372Na4
+    21300024: M372Nb0
+    21300026: M372Nb1
+    21300028: M372Nb2
+    21300030: M372Nb3
+    21300032: M372Nb4
+    21300034: M372Nc0
+    21300036: M372Nc1
+    21300038: M372Nc2
+    21300040: M372Nc3
+    21300042: M372Nc4
+    21300044: M372Nd0
+    21300046: M372Nd1
+    21300048: M372Nd2
+    21300050: M372Nd3
+    21300052: M372Nd4
+    21300054: M372Ne0
+    21300056: M372Ne1
+    21300058: M372Ne2
+    21300060: M372Ne3
+    21300062: M372Ne4
+    21300064: M372Nf0
+    21300066: M372Nf1
+    21300068: M372Nf2
+    21300070: M372Nf3
+    21300072: M372Nf4
+    21300074: M372Ng0
+    21300076: M372Ng1
+    21300078: M372Ng2
+    21300080: M372Ng3
+    21300082: M372Ng4
+    21300084: M372Sa0
+    21300086: M372Sa1
+    21300088: M372Sa2
+    21300090: M372Sa3
+    21300092: M372Sa4
+    21300094: M372Wa0
+    21300096: M372Wa1
+    21300098: M372Wa2
+    21300100: M372Wa3
+    21300102: M372Wa4
+    21300104: M372Wb0
+    21300106: M372Wb1
+    21300108: M372Wb2
+    21300110: M372Wb3
+    21300112: M372Wb4
+    21300114: M372Wc0
+    21300116: M372Wc1
+    21300118: M372Wc2
+    21300120: M372Wc3
+    21300122: M372Wc4
+    21300124: M372Wd0
+    21300126: M372Wd1
+    21300128: M372Wd2
+    21300130: M372Wd3
+    21300132: M372Wd4
+    21300134: M372We0
+    21300136: M372We1
+    21300138: M372We2
+    21300140: M372We3
+    21300142: M372We4
+    21300144: M372Wf0
+    21300146: M372Wf1
+    21300148: M372Wf2
+    21300150: M372Wf3
+    21300152: M372Wf4
+    21300154: M372Wg0
+    21300156: M372Wg1
+    21300158: M372Wg2
+    21300160: M372Wg3
+    21300162: M372Wg4
+    21300164: M372Wh0
+    21300166: M372Wh1
+    21300168: M372Wh2
+    21300170: M372Wh3
+    21300172: M372Wh4
+    21300174: M372Xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: M372Da0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1835
+        width: 215
+        height: 211
+      alignment: 9
+      pivot: {x: -.0139534883, y: 1.20853078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Db0
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1907
+        width: 178
+        height: 139
+      alignment: 9
+      pivot: {x: -.162921354, y: 1.58992803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Dc0
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1946
+        width: 174
+        height: 100
+      alignment: 9
+      pivot: {x: -.212643683, y: 2.3499999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Dd0
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1990
+        width: 144
+        height: 56
+      alignment: 9
+      pivot: {x: -.416666657, y: 4.55357122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Fa0
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1833
+        width: 83
+        height: 213
+      alignment: 9
+      pivot: {x: -1.03614461, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Fb0
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1834
+        width: 89
+        height: 212
+      alignment: 9
+      pivot: {x: -.977528095, y: 1.20754719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Fc0
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1834
+        width: 82
+        height: 212
+      alignment: 9
+      pivot: {x: -1.08536589, y: 1.20754719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Na0
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1851
+        width: 86
+        height: 195
+      alignment: 9
+      pivot: {x: -1.03488374, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Na1
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 1851
+        width: 82
+        height: 195
+      alignment: 9
+      pivot: {x: -1.13414633, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Na2
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1851
+        width: 90
+        height: 195
+      alignment: 9
+      pivot: {x: -1, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Na3
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1851
+        width: 90
+        height: 195
+      alignment: 9
+      pivot: {x: -.944444418, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Na4
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 1851
+        width: 85
+        height: 195
+      alignment: 9
+      pivot: {x: -.952941179, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nb0
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1839
+        width: 139
+        height: 207
+      alignment: 9
+      pivot: {x: -.424460441, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nb1
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1839
+        width: 128
+        height: 207
+      alignment: 9
+      pivot: {x: -.546875, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nb2
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1838
+        width: 86
+        height: 208
+      alignment: 9
+      pivot: {x: -1.04651165, y: 1.23076928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nb3
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1838
+        width: 110
+        height: 208
+      alignment: 9
+      pivot: {x: -.772727251, y: 1.23076928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nb4
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1838
+        width: 138
+        height: 208
+      alignment: 9
+      pivot: {x: -.420289844, y: 1.23076928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nc0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1609
+        width: 184
+        height: 222
+      alignment: 9
+      pivot: {x: -.163043484, y: 1.15315318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nc1
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1609
+        width: 143
+        height: 222
+      alignment: 9
+      pivot: {x: -.37062937, y: 1.15315318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nc2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1610
+        width: 134
+        height: 221
+      alignment: 9
+      pivot: {x: -.447761208, y: 1.15837109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nc3
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1609
+        width: 141
+        height: 222
+      alignment: 9
+      pivot: {x: -.453900695, y: 1.15315318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nc4
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1609
+        width: 184
+        height: 222
+      alignment: 9
+      pivot: {x: -.228260875, y: 1.15315318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nd0
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1644
+        width: 193
+        height: 187
+      alignment: 9
+      pivot: {x: -.165803105, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nd1
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1644
+        width: 156
+        height: 187
+      alignment: 9
+      pivot: {x: -.224358976, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nd2
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1644
+        width: 99
+        height: 187
+      alignment: 9
+      pivot: {x: -.73737371, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nd3
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 1643
+        width: 132
+        height: 188
+      alignment: 9
+      pivot: {x: -.409090906, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nd4
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1643
+        width: 193
+        height: 188
+      alignment: 9
+      pivot: {x: -.160621762, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Ne0
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1626
+        width: 142
+        height: 205
+      alignment: 9
+      pivot: {x: -.42957747, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Ne1
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 1625
+        width: 141
+        height: 206
+      alignment: 9
+      pivot: {x: -.354609936, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Ne2
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1625
+        width: 100
+        height: 206
+      alignment: 9
+      pivot: {x: -.670000017, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Ne3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1401
+        width: 92
+        height: 206
+      alignment: 9
+      pivot: {x: -.760869563, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Ne4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1401
+        width: 142
+        height: 206
+      alignment: 9
+      pivot: {x: -.373239428, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nf0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1398
+        width: 112
+        height: 209
+      alignment: 9
+      pivot: {x: -.660714269, y: 1.22488034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nf1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1398
+        width: 98
+        height: 209
+      alignment: 9
+      pivot: {x: -.795918345, y: 1.22488034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nf2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1398
+        width: 65
+        height: 209
+      alignment: 9
+      pivot: {x: -1.43076921, y: 1.22488034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nf3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1398
+        width: 70
+        height: 209
+      alignment: 9
+      pivot: {x: -1.27142859, y: 1.22488034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Nf4
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1398
+        width: 112
+        height: 209
+      alignment: 9
+      pivot: {x: -.625, y: 1.22488034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Ng0
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1397
+        width: 98
+        height: 210
+      alignment: 9
+      pivot: {x: -.795918345, y: 1.21904767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Ng1
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1397
+        width: 83
+        height: 210
+      alignment: 9
+      pivot: {x: -.951807201, y: 1.21904767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Ng2
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1397
+        width: 69
+        height: 210
+      alignment: 9
+      pivot: {x: -1.31884062, y: 1.21904767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Ng3
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1397
+        width: 81
+        height: 210
+      alignment: 9
+      pivot: {x: -1.02469134, y: 1.21904767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Ng4
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1397
+        width: 98
+        height: 210
+      alignment: 9
+      pivot: {x: -.816326559, y: 1.21904767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Sa0
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1394
+        width: 78
+        height: 213
+      alignment: 9
+      pivot: {x: -1.12820518, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Sa1
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1394
+        width: 72
+        height: 213
+      alignment: 9
+      pivot: {x: -1.25, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Sa2
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1394
+        width: 66
+        height: 213
+      alignment: 9
+      pivot: {x: -1.40909088, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Sa3
+      rect:
+        serializedVersion: 2
+        x: 1368
+        y: 1394
+        width: 68
+        height: 213
+      alignment: 9
+      pivot: {x: -1.33823526, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Sa4
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1394
+        width: 78
+        height: 213
+      alignment: 9
+      pivot: {x: -1.15384614, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wa0
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 1393
+        width: 90
+        height: 214
+      alignment: 9
+      pivot: {x: -.933333337, y: 1.19626164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wa1
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1393
+        width: 81
+        height: 214
+      alignment: 9
+      pivot: {x: -1.07407403, y: 1.19626164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wa2
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 1393
+        width: 69
+        height: 214
+      alignment: 9
+      pivot: {x: -1.30434787, y: 1.19626164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wa3
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1393
+        width: 78
+        height: 214
+      alignment: 9
+      pivot: {x: -1.12820518, y: 1.19626164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wa4
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1393
+        width: 90
+        height: 214
+      alignment: 9
+      pivot: {x: -.911111116, y: 1.19626164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wb0
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 1395
+        width: 90
+        height: 212
+      alignment: 9
+      pivot: {x: -.944444418, y: 1.20754719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wb1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1179
+        width: 84
+        height: 212
+      alignment: 9
+      pivot: {x: -1.03571427, y: 1.20754719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wb2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1179
+        width: 87
+        height: 212
+      alignment: 9
+      pivot: {x: -1, y: 1.20754719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wb3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1179
+        width: 86
+        height: 212
+      alignment: 9
+      pivot: {x: -.976744175, y: 1.20754719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wb4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1179
+        width: 90
+        height: 212
+      alignment: 9
+      pivot: {x: -.888888896, y: 1.20754719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wc0
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1180
+        width: 89
+        height: 211
+      alignment: 9
+      pivot: {x: -.977528095, y: 1.21327019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wc1
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1180
+        width: 95
+        height: 211
+      alignment: 9
+      pivot: {x: -.852631569, y: 1.21327019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wc2
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1180
+        width: 107
+        height: 211
+      alignment: 9
+      pivot: {x: -.700934589, y: 1.21327019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wc3
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1180
+        width: 101
+        height: 211
+      alignment: 9
+      pivot: {x: -.742574275, y: 1.21327019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wc4
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1180
+        width: 89
+        height: 211
+      alignment: 9
+      pivot: {x: -.898876429, y: 1.21327019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wd0
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1179
+        width: 86
+        height: 212
+      alignment: 9
+      pivot: {x: -1.02325583, y: 1.20754719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wd1
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1179
+        width: 79
+        height: 212
+      alignment: 9
+      pivot: {x: -1.03797472, y: 1.20754719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wd2
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1179
+        width: 84
+        height: 212
+      alignment: 9
+      pivot: {x: -.940476179, y: 1.20754719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wd3
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1179
+        width: 95
+        height: 212
+      alignment: 9
+      pivot: {x: -.747368395, y: 1.20754719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wd4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1179
+        width: 85
+        height: 212
+      alignment: 9
+      pivot: {x: -.964705884, y: 1.20754719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372We0
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 1177
+        width: 85
+        height: 214
+      alignment: 9
+      pivot: {x: -1.02352941, y: 1.19626164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372We1
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1177
+        width: 82
+        height: 214
+      alignment: 9
+      pivot: {x: -1, y: 1.19626164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372We2
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1177
+        width: 73
+        height: 214
+      alignment: 9
+      pivot: {x: -1.17808223, y: 1.19626164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372We3
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1177
+        width: 70
+        height: 214
+      alignment: 9
+      pivot: {x: -1.2571429, y: 1.19626164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372We4
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1177
+        width: 85
+        height: 214
+      alignment: 9
+      pivot: {x: -.988235295, y: 1.19626164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wf0
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1178
+        width: 87
+        height: 213
+      alignment: 9
+      pivot: {x: -.977011502, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wf1
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1178
+        width: 98
+        height: 213
+      alignment: 9
+      pivot: {x: -.785714269, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wf2
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1178
+        width: 83
+        height: 213
+      alignment: 9
+      pivot: {x: -1.06024098, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wf3
+      rect:
+        serializedVersion: 2
+        x: 1966
+        y: 1178
+        width: 80
+        height: 213
+      alignment: 9
+      pivot: {x: -1.125, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wf4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 962
+        width: 87
+        height: 213
+      alignment: 9
+      pivot: {x: -.965517223, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wg0
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 964
+        width: 85
+        height: 211
+      alignment: 9
+      pivot: {x: -1, y: 1.21327019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wg1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 964
+        width: 118
+        height: 211
+      alignment: 9
+      pivot: {x: -.516949177, y: 1.21327019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wg2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 964
+        width: 107
+        height: 211
+      alignment: 9
+      pivot: {x: -.66355139, y: 1.21327019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wg3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 965
+        width: 90
+        height: 210
+      alignment: 9
+      pivot: {x: -.911111116, y: 1.21904767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wg4
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 965
+        width: 85
+        height: 210
+      alignment: 9
+      pivot: {x: -1.01176476, y: 1.21904767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wh0
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 962
+        width: 89
+        height: 213
+      alignment: 9
+      pivot: {x: -.932584286, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wh1
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 962
+        width: 94
+        height: 213
+      alignment: 9
+      pivot: {x: -.840425551, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wh2
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 962
+        width: 77
+        height: 213
+      alignment: 9
+      pivot: {x: -1.03896105, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wh3
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 962
+        width: 73
+        height: 213
+      alignment: 9
+      pivot: {x: -1.15068495, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Wh4
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 962
+        width: 89
+        height: 213
+      alignment: 9
+      pivot: {x: -.943820238, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M372Xa0
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1137
+        width: 142
+        height: 38
+      alignment: 9
+      pivot: {x: -.422535211, y: 6.73684216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

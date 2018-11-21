@@ -1,0 +1,16 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# Sprite sheet: Body03.png (256 x 512)
+# $TexturePacker:SmartUpdate:f5f74f3a024f445355543ff9ce8cab8e:2a17cd106fdfea971f68716ebb4c203d:f6c8905298940e357db5cb5c69c25e0e$
+#
+
+PC03Bod;2;157;173;353;0.5;0.5
+PC03Lad;177;389;47;121;0.5;0.5
+PC03Lau;2;77;104;78;0.5;0.5
+PC03Lh;226;383;18;22;0.5;0.5
+PC03Lhu;226;432;20;78;0.5;0.5
+PC03Rh;226;407;19;23;0.5;0.5

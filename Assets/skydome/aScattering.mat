@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: aScattering
+  m_Shader: {fileID: 4800000, guid: 0a7e69fca97ba064a831fe518b793207, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+      data:
+        first:
+          name: noisetex
+        second:
+          m_Texture: {fileID: 2800000, guid: 76018f36586e3f648b654e9611e21e5f, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+      data:
+        first:
+          name: starTexture
+        second:
+          m_Texture: {fileID: 2800000, guid: a8281d2e8ff9d3441a3fca5ea2f2b00d, type: 3}
+          m_Scale: {x: 1, y: 1}
+          m_Offset: {x: 0, y: 0}
+    m_Floats:
+      data:
+        first:
+          name: DirectionalityFactor
+        second: 0
+      data:
+        first:
+          name: SunColorIntensity
+        second: 0
+      data:
+        first:
+          name: fade
+        second: 0
+      data:
+        first:
+          name: tint
+        second: 1
+      data:
+        first:
+          name: cloudSpeed1
+        second: 1
+      data:
+        first:
+          name: cloudSpeed2
+        second: 1
+      data:
+        first:
+          name: plane_height1
+        second: 1
+      data:
+        first:
+          name: plane_height2
+        second: 1
+    m_Colors:
+      data:
+        first:
+          name: LightDir
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: vBetaRayleigh
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: vBetaMie
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: g_vEyePt
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: g_vSunColor
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: BetaRayTheta
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: BetaMieTheta
+        second: {r: 0, g: 0, b: 0, a: 1}
+      data:
+        first:
+          name: wind_direction
+        second: {r: .873693049, g: 1.2048682, b: 1.23658633, a: .300000012}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6

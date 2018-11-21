@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: bc941ad8a54206545b68885a325cfc62
+timeCreated: 1434285296
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC1501
+    21300002: PC1502
+    21300004: PC1503
+    21300006: PC1504
+    21300008: PC1505
+    21300010: PC1506
+    21300012: PC1507
+    21300014: PC1508
+    21300016: PC1509
+    21300018: PC1510
+    21300020: PC1511
+    21300022: PC1512
+    21300024: PC1513
+    21300026: PC1514
+    21300028: PC1515
+    21300030: PC1516
+    21300032: PC1517
+    21300034: PC1518
+    21300036: PC1519
+    21300038: PC1520
+    21300040: PC1521
+    21300042: PC1522
+    21300044: PC1523
+    21300046: PC1524
+    21300048: PC1525
+    21300050: PC1526
+    21300052: PC1527
+    21300054: PC1528
+    21300056: PC1529
+    21300058: PC1530
+    21300060: PC1531
+    21300062: PC1532
+    21300064: PC1533
+    21300066: PC1534
+    21300068: PC1535
+    21300070: PC1536
+    21300072: PC1537
+    21300074: PC1538
+    21300076: PC1539
+    21300078: PC1540
+    21300080: PC1541
+    21300082: PC1542
+    21300084: PC1543
+    21300086: PC1544
+    21300088: PC1545
+    21300090: PC1546
+    21300092: PC1547
+    21300094: PC1548
+    21300096: PC1549
+    21300098: PC1550
+    21300100: PC1551
+    21300102: PC1552
+    21300104: PC1553
+    21300106: PC1554
+    21300108: PC1555
+    21300110: PC1556
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC1501
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 943
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1502
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 943
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1503
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 943
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1504
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 943
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1505
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 943
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1506
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 943
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1507
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 943
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1508
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 943
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1509
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 862
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1510
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 862
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1511
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 862
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1512
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 862
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1513
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 862
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1514
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 862
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1515
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 862
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1516
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 862
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1517
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 781
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1518
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 781
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1519
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 781
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1520
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 781
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1521
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 781
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1522
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 781
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1523
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 781
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1524
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 781
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1525
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 700
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1526
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 700
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1527
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 700
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1528
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 700
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1529
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 700
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1530
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 700
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1531
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 700
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1532
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 700
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1533
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 619
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1534
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 619
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1535
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 619
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1536
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 619
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1537
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 619
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1538
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 619
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1539
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 619
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1540
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 619
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1541
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 538
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1542
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 538
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1543
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 538
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1544
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 538
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1545
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 538
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1546
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 538
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1547
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 538
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1548
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 538
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1549
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 457
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1550
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 457
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1551
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 457
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1552
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 457
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1553
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 457
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1554
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 457
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1555
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 457
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1556
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 457
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1331 @@
+fileFormatVersion: 2
+guid: 808605b9e3c445344874313647d9da12
+timeCreated: 1442629292
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: m406aa0
+    21300002: m406aa1
+    21300004: m406aa2
+    21300006: m406aa3
+    21300008: m406aa4
+    21300010: m406ab0
+    21300012: m406ab1
+    21300014: m406ab2
+    21300016: m406ab3
+    21300018: m406ab4
+    21300020: m406ac0
+    21300022: m406ac1
+    21300024: m406ac2
+    21300026: m406ac3
+    21300028: m406ac4
+    21300030: m406ad0
+    21300032: m406ad1
+    21300034: m406ad2
+    21300036: m406ad3
+    21300038: m406ad4
+    21300040: m406ae0
+    21300042: m406ae1
+    21300044: m406ae2
+    21300046: m406ae3
+    21300048: m406ae4
+    21300050: m406af0
+    21300052: m406af1
+    21300054: m406af2
+    21300056: m406af3
+    21300058: m406af4
+    21300060: m406da0
+    21300062: m406db0
+    21300064: m406dc0
+    21300066: m406dd0
+    21300068: m406fa0
+    21300070: m406fb0
+    21300072: m406fc0
+    21300074: m406fd0
+    21300076: m406fe0
+    21300078: m406ff0
+    21300080: m406na0
+    21300082: m406na1
+    21300084: m406na2
+    21300086: m406na3
+    21300088: m406na4
+    21300090: m406nb0
+    21300092: m406nb1
+    21300094: m406nb2
+    21300096: m406nb3
+    21300098: m406nb4
+    21300100: m406nc0
+    21300102: m406nc1
+    21300104: m406nc2
+    21300106: m406nc3
+    21300108: m406nc4
+    21300110: m406nd0
+    21300112: m406nd1
+    21300114: m406nd2
+    21300116: m406nd3
+    21300118: m406nd4
+    21300120: m406ne0
+    21300122: m406ne1
+    21300124: m406ne2
+    21300126: m406ne3
+    21300128: m406ne4
+    21300130: m406nf0
+    21300132: m406nf1
+    21300134: m406nf2
+    21300136: m406nf3
+    21300138: m406nf4
+    21300140: m406sa0
+    21300142: m406sa1
+    21300144: m406sa2
+    21300146: m406sa3
+    21300148: m406sa4
+    21300150: m406wa0
+    21300152: m406wa1
+    21300154: m406wa2
+    21300156: m406wa3
+    21300158: m406wa4
+    21300160: m406wb0
+    21300162: m406wb1
+    21300164: m406wb2
+    21300166: m406wb3
+    21300168: m406wb4
+    21300170: m406wc0
+    21300172: m406wc1
+    21300174: m406wc2
+    21300176: m406wc3
+    21300178: m406wc4
+    21300180: m406wd0
+    21300182: m406wd1
+    21300184: m406wd2
+    21300186: m406wd3
+    21300188: m406wd4
+    21300190: m406we0
+    21300192: m406we1
+    21300194: m406we2
+    21300196: m406we3
+    21300198: m406we4
+    21300200: m406wf0
+    21300202: m406wf1
+    21300204: m406wf2
+    21300206: m406wf3
+    21300208: m406wf4
+    21300210: m406wg0
+    21300212: m406wg1
+    21300214: m406wg2
+    21300216: m406wg3
+    21300218: m406wg4
+    21300220: m406wh0
+    21300222: m406wh1
+    21300224: m406wh2
+    21300226: m406wh3
+    21300228: m406wh4
+    21300230: m406xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: m406aa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1836
+        width: 92
+        height: 210
+      alignment: 9
+      pivot: {x: -.760869563, y: 1.21904767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406aa1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1836
+        width: 76
+        height: 210
+      alignment: 9
+      pivot: {x: -1.01315784, y: 1.21904767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406aa2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1836
+        width: 88
+        height: 210
+      alignment: 9
+      pivot: {x: -.647727251, y: 1.21904767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406aa3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1835
+        width: 114
+        height: 211
+      alignment: 9
+      pivot: {x: -.464912295, y: 1.21327019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406aa4
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1835
+        width: 92
+        height: 211
+      alignment: 9
+      pivot: {x: -1.02173913, y: 1.21327019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ab0
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1859
+        width: 91
+        height: 187
+      alignment: 9
+      pivot: {x: -1.05494511, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ab1
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1859
+        width: 96
+        height: 187
+      alignment: 9
+      pivot: {x: -.583333313, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ab2
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1859
+        width: 120
+        height: 187
+      alignment: 9
+      pivot: {x: -.200000003, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ab3
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1859
+        width: 132
+        height: 187
+      alignment: 9
+      pivot: {x: -.0833333358, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ab4
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1859
+        width: 93
+        height: 187
+      alignment: 9
+      pivot: {x: -.720430136, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ac0
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1859
+        width: 117
+        height: 187
+      alignment: 9
+      pivot: {x: -.623931646, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ac1
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1858
+        width: 139
+        height: 188
+      alignment: 9
+      pivot: {x: -.482014388, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ac2
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1858
+        width: 156
+        height: 188
+      alignment: 9
+      pivot: {x: -.243589744, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ac3
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1857
+        width: 123
+        height: 189
+      alignment: 9
+      pivot: {x: -.48780489, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ac4
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 1857
+        width: 115
+        height: 189
+      alignment: 9
+      pivot: {x: -.5826087, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ad0
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1866
+        width: 139
+        height: 180
+      alignment: 9
+      pivot: {x: -.446043164, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ad1
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1866
+        width: 91
+        height: 180
+      alignment: 9
+      pivot: {x: -1, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ad2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1654
+        width: 165
+        height: 179
+      alignment: 9
+      pivot: {x: -.551515162, y: 1.43016756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ad3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1658
+        width: 192
+        height: 175
+      alignment: 9
+      pivot: {x: -.333333343, y: 1.46285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ad4
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1655
+        width: 136
+        height: 178
+      alignment: 9
+      pivot: {x: -.404411763, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ae0
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1660
+        width: 115
+        height: 173
+      alignment: 9
+      pivot: {x: -.904347837, y: 1.47976875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ae1
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1670
+        width: 165
+        height: 163
+      alignment: 9
+      pivot: {x: -.551515162, y: 1.57055211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ae2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1670
+        width: 132
+        height: 163
+      alignment: 9
+      pivot: {x: -.696969688, y: 1.57055211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ae3
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1671
+        width: 104
+        height: 162
+      alignment: 9
+      pivot: {x: -.673076928, y: 1.58024693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ae4
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 1671
+        width: 111
+        height: 162
+      alignment: 9
+      pivot: {x: -.369369358, y: 1.58024693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406af0
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1652
+        width: 101
+        height: 181
+      alignment: 9
+      pivot: {x: -1, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406af1
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1656
+        width: 137
+        height: 177
+      alignment: 9
+      pivot: {x: -.664233565, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406af2
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1656
+        width: 104
+        height: 177
+      alignment: 9
+      pivot: {x: -.884615362, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406af3
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1656
+        width: 61
+        height: 177
+      alignment: 9
+      pivot: {x: -1.70491803, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406af4
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1656
+        width: 101
+        height: 177
+      alignment: 9
+      pivot: {x: -.554455459, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406da0
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1670
+        width: 165
+        height: 163
+      alignment: 9
+      pivot: {x: -.200000003, y: 1.52760732}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406db0
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1650
+        width: 125
+        height: 183
+      alignment: 9
+      pivot: {x: -.463999987, y: 1.39890707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406dc0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1511
+        width: 151
+        height: 137
+      alignment: 9
+      pivot: {x: -.337748349, y: 1.86861312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406dd0
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1549
+        width: 207
+        height: 99
+      alignment: 9
+      pivot: {x: -.0289855078, y: 2.58585858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406fa0
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1461
+        width: 119
+        height: 187
+      alignment: 9
+      pivot: {x: -.49579832, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406fb0
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1459
+        width: 129
+        height: 189
+      alignment: 9
+      pivot: {x: -.4108527, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406fc0
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1419
+        width: 133
+        height: 229
+      alignment: 9
+      pivot: {x: -.390977442, y: 1.11790395}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406fd0
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1405
+        width: 130
+        height: 243
+      alignment: 9
+      pivot: {x: -.423076928, y: 1.05349791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406fe0
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 1409
+        width: 132
+        height: 239
+      alignment: 9
+      pivot: {x: -.401515156, y: 1.07112968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ff0
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1405
+        width: 129
+        height: 243
+      alignment: 9
+      pivot: {x: -.426356584, y: 1.05349791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406na0
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1442
+        width: 150
+        height: 206
+      alignment: 9
+      pivot: {x: -.326666653, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406na1
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1441
+        width: 123
+        height: 207
+      alignment: 9
+      pivot: {x: -.373983741, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406na2
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1440
+        width: 117
+        height: 208
+      alignment: 9
+      pivot: {x: -.324786335, y: 1.23076928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406na3
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 1439
+        width: 110
+        height: 209
+      alignment: 9
+      pivot: {x: -.590909064, y: 1.22488034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406na4
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1439
+        width: 150
+        height: 209
+      alignment: 9
+      pivot: {x: -.379999995, y: 1.22488034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nb0
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1481
+        width: 128
+        height: 167
+      alignment: 9
+      pivot: {x: -.3984375, y: 1.53293419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nb1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1235
+        width: 160
+        height: 168
+      alignment: 9
+      pivot: {x: -.00625000009, y: 1.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nb2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1235
+        width: 136
+        height: 168
+      alignment: 9
+      pivot: {x: -.154411763, y: 1.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nb3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1235
+        width: 119
+        height: 168
+      alignment: 9
+      pivot: {x: -.260504216, y: 1.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nb4
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1235
+        width: 131
+        height: 168
+      alignment: 9
+      pivot: {x: -.572519064, y: 1.52380955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nc0
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1249
+        width: 182
+        height: 154
+      alignment: 9
+      pivot: {x: 0, y: 1.66233766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nc1
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1249
+        width: 144
+        height: 154
+      alignment: 9
+      pivot: {x: -.118055552, y: 1.66233766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nc2
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1248
+        width: 100
+        height: 155
+      alignment: 9
+      pivot: {x: -.569999993, y: 1.65161288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nc3
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1248
+        width: 156
+        height: 155
+      alignment: 9
+      pivot: {x: -.282051295, y: 1.65161288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nc4
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1248
+        width: 183
+        height: 155
+      alignment: 9
+      pivot: {x: -.398907095, y: 1.65161288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nd0
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1226
+        width: 108
+        height: 177
+      alignment: 9
+      pivot: {x: -.657407403, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nd1
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1226
+        width: 107
+        height: 177
+      alignment: 9
+      pivot: {x: -.495327115, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nd2
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1226
+        width: 116
+        height: 177
+      alignment: 9
+      pivot: {x: -.646551728, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nd3
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 1226
+        width: 134
+        height: 177
+      alignment: 9
+      pivot: {x: -.529850721, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nd4
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1226
+        width: 110
+        height: 177
+      alignment: 9
+      pivot: {x: -.690909088, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ne0
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1225
+        width: 97
+        height: 178
+      alignment: 9
+      pivot: {x: -.752577305, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ne1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1045
+        width: 111
+        height: 178
+      alignment: 9
+      pivot: {x: -.513513505, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ne2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1045
+        width: 118
+        height: 178
+      alignment: 9
+      pivot: {x: -.686440706, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ne3
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1045
+        width: 105
+        height: 178
+      alignment: 9
+      pivot: {x: -.790476203, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406ne4
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1045
+        width: 98
+        height: 178
+      alignment: 9
+      pivot: {x: -.877551019, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nf0
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1041
+        width: 96
+        height: 182
+      alignment: 9
+      pivot: {x: -.739583313, y: 1.40659344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nf1
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1041
+        width: 122
+        height: 182
+      alignment: 9
+      pivot: {x: -.524590135, y: 1.40659344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nf2
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1041
+        width: 101
+        height: 182
+      alignment: 9
+      pivot: {x: -.891089082, y: 1.40659344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nf3
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1041
+        width: 71
+        height: 182
+      alignment: 9
+      pivot: {x: -1.23943663, y: 1.40659344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406nf4
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 1041
+        width: 96
+        height: 182
+      alignment: 9
+      pivot: {x: -.927083313, y: 1.40659344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406sa0
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 1039
+        width: 97
+        height: 184
+      alignment: 9
+      pivot: {x: -.783505142, y: 1.39130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406sa1
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1039
+        width: 110
+        height: 184
+      alignment: 9
+      pivot: {x: -.727272749, y: 1.39130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406sa2
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1038
+        width: 78
+        height: 185
+      alignment: 9
+      pivot: {x: -1.17948723, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406sa3
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1038
+        width: 63
+        height: 185
+      alignment: 9
+      pivot: {x: -1.49206352, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406sa4
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 1038
+        width: 96
+        height: 185
+      alignment: 9
+      pivot: {x: -.875, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wa0
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1039
+        width: 64
+        height: 184
+      alignment: 9
+      pivot: {x: -1.421875, y: 1.39130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wa1
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1038
+        width: 126
+        height: 185
+      alignment: 9
+      pivot: {x: -.603174627, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wa2
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1039
+        width: 142
+        height: 184
+      alignment: 9
+      pivot: {x: -.5, y: 1.38586962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wa3
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1038
+        width: 94
+        height: 185
+      alignment: 9
+      pivot: {x: -.872340441, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wa4
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1038
+        width: 64
+        height: 185
+      alignment: 9
+      pivot: {x: -1.578125, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wb0
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1034
+        width: 81
+        height: 189
+      alignment: 9
+      pivot: {x: -1.02469134, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wb1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 843
+        width: 108
+        height: 189
+      alignment: 9
+      pivot: {x: -.740740716, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wb2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 843
+        width: 136
+        height: 189
+      alignment: 9
+      pivot: {x: -.566176474, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wb3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 843
+        width: 108
+        height: 189
+      alignment: 9
+      pivot: {x: -.740740716, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wb4
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 843
+        width: 82
+        height: 189
+      alignment: 9
+      pivot: {x: -1.10975611, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wc0
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 842
+        width: 96
+        height: 190
+      alignment: 9
+      pivot: {x: -.802083313, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wc1
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 842
+        width: 87
+        height: 190
+      alignment: 9
+      pivot: {x: -.988505721, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wc2
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 842
+        width: 114
+        height: 190
+      alignment: 9
+      pivot: {x: -.850877166, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wc3
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 842
+        width: 116
+        height: 190
+      alignment: 9
+      pivot: {x: -.724137902, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wc4
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 842
+        width: 96
+        height: 190
+      alignment: 9
+      pivot: {x: -.864583313, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wd0
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 845
+        width: 99
+        height: 187
+      alignment: 9
+      pivot: {x: -.75757575, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wd1
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 845
+        width: 102
+        height: 187
+      alignment: 9
+      pivot: {x: -.715686262, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wd2
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 845
+        width: 122
+        height: 187
+      alignment: 9
+      pivot: {x: -.704918027, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wd3
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 845
+        width: 131
+        height: 187
+      alignment: 9
+      pivot: {x: -.641221344, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wd4
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 845
+        width: 99
+        height: 187
+      alignment: 9
+      pivot: {x: -.828282833, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406we0
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 847
+        width: 102
+        height: 185
+      alignment: 9
+      pivot: {x: -.676470578, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406we1
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 847
+        width: 111
+        height: 185
+      alignment: 9
+      pivot: {x: -.603603601, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406we2
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 847
+        width: 128
+        height: 185
+      alignment: 9
+      pivot: {x: -.5859375, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406we3
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 847
+        width: 146
+        height: 185
+      alignment: 9
+      pivot: {x: -.513698637, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406we4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 655
+        width: 101
+        height: 185
+      alignment: 9
+      pivot: {x: -.841584146, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wf0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 651
+        width: 97
+        height: 189
+      alignment: 9
+      pivot: {x: -.783505142, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wf1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 651
+        width: 107
+        height: 189
+      alignment: 9
+      pivot: {x: -.65420562, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wf2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 652
+        width: 137
+        height: 188
+      alignment: 9
+      pivot: {x: -.547445238, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wf3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 651
+        width: 145
+        height: 189
+      alignment: 9
+      pivot: {x: -.510344803, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wf4
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 651
+        width: 97
+        height: 189
+      alignment: 9
+      pivot: {x: -.855670094, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wg0
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 650
+        width: 98
+        height: 190
+      alignment: 9
+      pivot: {x: -.775510192, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wg1
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 650
+        width: 101
+        height: 190
+      alignment: 9
+      pivot: {x: -.79207921, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wg2
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 650
+        width: 130
+        height: 190
+      alignment: 9
+      pivot: {x: -.707692325, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wg3
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 650
+        width: 119
+        height: 190
+      alignment: 9
+      pivot: {x: -.731092453, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wg4
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 650
+        width: 98
+        height: 190
+      alignment: 9
+      pivot: {x: -.836734712, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wh0
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 651
+        width: 85
+        height: 189
+      alignment: 9
+      pivot: {x: -.964705884, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wh1
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 651
+        width: 109
+        height: 189
+      alignment: 9
+      pivot: {x: -.798165143, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wh2
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 651
+        width: 134
+        height: 189
+      alignment: 9
+      pivot: {x: -.649253726, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wh3
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 651
+        width: 109
+        height: 189
+      alignment: 9
+      pivot: {x: -.752293587, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406wh4
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 651
+        width: 85
+        height: 189
+      alignment: 9
+      pivot: {x: -1.04705882, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m406xa0
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 800
+        width: 204
+        height: 40
+      alignment: 9
+      pivot: {x: -.0637254938, y: 6.4000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

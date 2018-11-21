@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: c037f5536a392f149ae2e04e3f720aa9
+timeCreated: 1442629760
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M390Aa0
+    21300002: M390Aa1
+    21300004: M390Aa2
+    21300006: M390Aa3
+    21300008: M390Aa4
+    21300010: M390Ab0
+    21300012: M390Ab1
+    21300014: M390Ab2
+    21300016: M390Ab3
+    21300018: M390Ab4
+    21300020: M390Ac0
+    21300022: M390Ac1
+    21300024: M390Ac2
+    21300026: M390Ac3
+    21300028: M390Ac4
+    21300030: M390Ad0
+    21300032: M390Ad1
+    21300034: M390Ad2
+    21300036: M390Ad3
+    21300038: M390Ad4
+    21300040: M390Ae0
+    21300042: M390Ae1
+    21300044: M390Ae2
+    21300046: M390Ae3
+    21300048: M390Ae4
+    21300050: M390Af0
+    21300052: M390Af1
+    21300054: M390Af2
+    21300056: M390Af3
+    21300058: M390Af4
+    21300060: M390Ag0
+    21300062: M390Ag1
+    21300064: M390Ag2
+    21300066: M390Ag3
+    21300068: M390Ag4
+    21300070: M390Da0
+    21300072: M390Da1
+    21300074: M390Da2
+    21300076: M390Da3
+    21300078: M390Da4
+    21300080: M390Db0
+    21300082: M390Db1
+    21300084: M390Db2
+    21300086: M390Db3
+    21300088: M390Db4
+    21300090: M390Na0
+    21300092: M390Na1
+    21300094: M390Na2
+    21300096: M390Na3
+    21300098: M390Na4
+    21300100: M390Nb0
+    21300102: M390Nb1
+    21300104: M390Nb2
+    21300106: M390Nb3
+    21300108: M390Nb4
+    21300110: M390Nc0
+    21300112: M390Nc1
+    21300114: M390Nc2
+    21300116: M390Nc3
+    21300118: M390Nc4
+    21300120: M390Nd0
+    21300122: M390Nd1
+    21300124: M390Nd2
+    21300126: M390Nd3
+    21300128: M390Nd4
+    21300130: M390Ne0
+    21300132: M390Ne1
+    21300134: M390Ne2
+    21300136: M390Ne3
+    21300138: M390Ne4
+    21300140: M390Nf0
+    21300142: M390Nf1
+    21300144: M390Nf2
+    21300146: M390Nf3
+    21300148: M390Nf4
+    21300150: M390Ng0
+    21300152: M390Ng1
+    21300154: M390Ng2
+    21300156: M390Ng3
+    21300158: M390Ng4
+    21300160: M390Sa0
+    21300162: M390Sa1
+    21300164: M390Sa2
+    21300166: M390Sa3
+    21300168: M390Sa4
+    21300170: M390Wa0
+    21300172: M390Wa1
+    21300174: M390Wa2
+    21300176: M390Wa3
+    21300178: M390Wa4
+    21300180: M390Wb0
+    21300182: M390Wb1
+    21300184: M390Wb2
+    21300186: M390Wb3
+    21300188: M390Wb4
+    21300190: M390Wc0
+    21300192: M390Wc1
+    21300194: M390Wc2
+    21300196: M390Wc3
+    21300198: M390Wc4
+    21300200: M390Wd0
+    21300202: M390Wd1
+    21300204: M390Wd2
+    21300206: M390Wd3
+    21300208: M390Wd4
+    21300210: M390We0
+    21300212: M390We1
+    21300214: M390We2
+    21300216: M390We3
+    21300218: M390We4
+    21300220: M390Wf0
+    21300222: M390Wf1
+    21300224: M390Wf2
+    21300226: M390Wf3
+    21300228: M390Wf4
+    21300230: M390Wg0
+    21300232: M390Wg1
+    21300234: M390Wg2
+    21300236: M390Wg3
+    21300238: M390Wg4
+    21300240: M390Xa0
+    21300242: M390Xa1
+    21300244: M390Xa2
+    21300246: M390Xa3
+    21300248: M390Xa4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: M390Aa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1929
+        width: 199
+        height: 117
+      alignment: 9
+      pivot: {x: -.140703514, y: 1.87179482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Aa1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1928
+        width: 161
+        height: 118
+      alignment: 9
+      pivot: {x: -.198757768, y: 1.85593224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Aa2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1928
+        width: 110
+        height: 118
+      alignment: 9
+      pivot: {x: -.472727269, y: 1.85593224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Aa3
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 1928
+        width: 162
+        height: 118
+      alignment: 9
+      pivot: {x: -.203703701, y: 1.85593224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Aa4
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1929
+        width: 200
+        height: 117
+      alignment: 9
+      pivot: {x: -.140000001, y: 1.87179482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ab0
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1916
+        width: 201
+        height: 130
+      alignment: 9
+      pivot: {x: -.139303476, y: 1.66153848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ab1
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1917
+        width: 149
+        height: 129
+      alignment: 9
+      pivot: {x: -.187919468, y: 1.67441857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ab2
+      rect:
+        serializedVersion: 2
+        x: 1198
+        y: 1916
+        width: 86
+        height: 130
+      alignment: 9
+      pivot: {x: -.918604672, y: 1.66923082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ab3
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1916
+        width: 146
+        height: 130
+      alignment: 9
+      pivot: {x: -.212328762, y: 1.66923082}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ab4
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 1915
+        width: 202
+        height: 131
+      alignment: 9
+      pivot: {x: -.128712878, y: 1.65648854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ac0
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 1945
+        width: 203
+        height: 101
+      alignment: 9
+      pivot: {x: -.133004919, y: 2.24752474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ac1
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 1946
+        width: 155
+        height: 100
+      alignment: 9
+      pivot: {x: -.193548381, y: 2.26999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ac2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1813
+        width: 98
+        height: 100
+      alignment: 9
+      pivot: {x: -.765306115, y: 2.26999998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ac3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1812
+        width: 153
+        height: 101
+      alignment: 9
+      pivot: {x: -.209150329, y: 2.25742579}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ac4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1810
+        width: 204
+        height: 103
+      alignment: 9
+      pivot: {x: -.127450988, y: 2.22330093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ad0
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1843
+        width: 203
+        height: 70
+      alignment: 9
+      pivot: {x: -.133004919, y: 3.35714293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ad1
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1843
+        width: 161
+        height: 70
+      alignment: 9
+      pivot: {x: -.366459638, y: 3.35714293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ad2
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1843
+        width: 112
+        height: 70
+      alignment: 9
+      pivot: {x: -.723214269, y: 3.35714293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ad3
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1842
+        width: 167
+        height: 71
+      alignment: 9
+      pivot: {x: -.347305387, y: 3.32394361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ad4
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1842
+        width: 201
+        height: 71
+      alignment: 9
+      pivot: {x: -.134328365, y: 3.32394361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ae0
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1846
+        width: 177
+        height: 67
+      alignment: 9
+      pivot: {x: -.220338985, y: 3.79104471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ae1
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1846
+        width: 148
+        height: 67
+      alignment: 9
+      pivot: {x: -.540540516, y: 3.79104471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ae2
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 1846
+        width: 116
+        height: 67
+      alignment: 9
+      pivot: {x: -.724137902, y: 3.79104471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ae3
+      rect:
+        serializedVersion: 2
+        x: 1764
+        y: 1847
+        width: 148
+        height: 66
+      alignment: 9
+      pivot: {x: -.547297299, y: 3.83333325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ae4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1742
+        width: 174
+        height: 66
+      alignment: 9
+      pivot: {x: -.241379306, y: 3.83333325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Af0
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1728
+        width: 202
+        height: 80
+      alignment: 9
+      pivot: {x: -.128712878, y: 3.07500005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Af1
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1728
+        width: 160
+        height: 80
+      alignment: 9
+      pivot: {x: -.362500012, y: 3.07500005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Af2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1728
+        width: 119
+        height: 80
+      alignment: 9
+      pivot: {x: -.60504204, y: 3.07500005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Af3
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1728
+        width: 163
+        height: 80
+      alignment: 9
+      pivot: {x: -.355828226, y: 3.07500005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Af4
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1728
+        width: 200
+        height: 80
+      alignment: 9
+      pivot: {x: -.140000001, y: 3.07500005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ag0
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1705
+        width: 203
+        height: 103
+      alignment: 9
+      pivot: {x: -.133004919, y: 2.27184463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ag1
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1705
+        width: 164
+        height: 103
+      alignment: 9
+      pivot: {x: -.292682916, y: 2.27184463}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ag2
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1704
+        width: 124
+        height: 104
+      alignment: 9
+      pivot: {x: -.475806445, y: 2.25961542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ag3
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 1704
+        width: 154
+        height: 104
+      alignment: 9
+      pivot: {x: -.337662339, y: 2.25961542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ag4
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1704
+        width: 202
+        height: 104
+      alignment: 9
+      pivot: {x: -.128712878, y: 2.25961542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Da0
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1670
+        width: 140
+        height: 138
+      alignment: 9
+      pivot: {x: -.371428579, y: 1.84782612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Da1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1530
+        width: 103
+        height: 138
+      alignment: 9
+      pivot: {x: -.621359229, y: 1.84782612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Da2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1530
+        width: 86
+        height: 138
+      alignment: 9
+      pivot: {x: -.767441869, y: 1.84782612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Da3
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1530
+        width: 125
+        height: 138
+      alignment: 9
+      pivot: {x: -.512000024, y: 1.84782612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Da4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1530
+        width: 141
+        height: 138
+      alignment: 9
+      pivot: {x: -.446808517, y: 1.84782612}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Db0
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1602
+        width: 148
+        height: 66
+      alignment: 9
+      pivot: {x: -.304054052, y: 3.87878799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Db1
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1603
+        width: 125
+        height: 65
+      alignment: 9
+      pivot: {x: -.479999989, y: 3.93846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Db2
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1603
+        width: 114
+        height: 65
+      alignment: 9
+      pivot: {x: -.491228074, y: 3.93846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Db3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1603
+        width: 146
+        height: 65
+      alignment: 9
+      pivot: {x: -.33561644, y: 3.93846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Db4
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1603
+        width: 148
+        height: 65
+      alignment: 9
+      pivot: {x: -.42567569, y: 3.93846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Na0
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1545
+        width: 201
+        height: 123
+      alignment: 9
+      pivot: {x: -.134328365, y: 1.81300819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Na1
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 1546
+        width: 159
+        height: 122
+      alignment: 9
+      pivot: {x: -.194968551, y: 1.82786882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Na2
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1546
+        width: 111
+        height: 122
+      alignment: 9
+      pivot: {x: -.360360354, y: 1.82786882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Na3
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1546
+        width: 167
+        height: 122
+      alignment: 9
+      pivot: {x: -.167664677, y: 1.82786882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Na4
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1544
+        width: 203
+        height: 124
+      alignment: 9
+      pivot: {x: -.133004919, y: 1.80645156}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nb0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1401
+        width: 201
+        height: 127
+      alignment: 9
+      pivot: {x: -.134328365, y: 1.75590551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nb1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1401
+        width: 160
+        height: 127
+      alignment: 9
+      pivot: {x: -.231250003, y: 1.75590551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nb2
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1401
+        width: 94
+        height: 127
+      alignment: 9
+      pivot: {x: -.478723407, y: 1.76377952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nb3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1400
+        width: 157
+        height: 128
+      alignment: 9
+      pivot: {x: -.203821659, y: 1.7578125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nb4
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1399
+        width: 202
+        height: 129
+      alignment: 9
+      pivot: {x: -.138613865, y: 1.74418604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nc0
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1399
+        width: 168
+        height: 129
+      alignment: 9
+      pivot: {x: -.273809522, y: 1.68217051}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nc1
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1399
+        width: 152
+        height: 129
+      alignment: 9
+      pivot: {x: -.25, y: 1.68992245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nc2
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1399
+        width: 92
+        height: 129
+      alignment: 9
+      pivot: {x: -.532608688, y: 1.68992245}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nc3
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1398
+        width: 114
+        height: 130
+      alignment: 9
+      pivot: {x: -.377192974, y: 1.68461537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nc4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1398
+        width: 170
+        height: 130
+      alignment: 9
+      pivot: {x: -.247058824, y: 1.67692304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nd0
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1404
+        width: 138
+        height: 124
+      alignment: 9
+      pivot: {x: -.420289844, y: 1.89516127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nd1
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1403
+        width: 133
+        height: 125
+      alignment: 9
+      pivot: {x: -.353383452, y: 1.88800001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nd2
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1403
+        width: 118
+        height: 125
+      alignment: 9
+      pivot: {x: -.398305088, y: 1.88800001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nd3
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 1402
+        width: 111
+        height: 126
+      alignment: 9
+      pivot: {x: -.432432443, y: 1.88095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nd4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1270
+        width: 140
+        height: 126
+      alignment: 9
+      pivot: {x: -.421428561, y: 1.88095236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ne0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1280
+        width: 155
+        height: 116
+      alignment: 9
+      pivot: {x: -.316129029, y: 2.18965507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ne1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1280
+        width: 160
+        height: 116
+      alignment: 9
+      pivot: {x: -.300000012, y: 2.18965507}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ne2
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1279
+        width: 133
+        height: 117
+      alignment: 9
+      pivot: {x: -.383458644, y: 2.17948723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ne3
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1279
+        width: 115
+        height: 117
+      alignment: 9
+      pivot: {x: -.4173913, y: 2.17948723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ne4
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1279
+        width: 155
+        height: 117
+      alignment: 9
+      pivot: {x: -.341935486, y: 2.17948723}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nf0
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 1321
+        width: 190
+        height: 75
+      alignment: 9
+      pivot: {x: -.163157895, y: 3.20000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nf1
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1320
+        width: 183
+        height: 76
+      alignment: 9
+      pivot: {x: -.158469945, y: 3.17105269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nf2
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1319
+        width: 103
+        height: 77
+      alignment: 9
+      pivot: {x: -.611650467, y: 3.14285707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nf3
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 1319
+        width: 127
+        height: 77
+      alignment: 9
+      pivot: {x: -.448818892, y: 3.14285707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Nf4
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 1319
+        width: 192
+        height: 77
+      alignment: 9
+      pivot: {x: -.182291672, y: 3.14285707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ng0
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 1288
+        width: 200
+        height: 108
+      alignment: 9
+      pivot: {x: -.140000001, y: 2.20370364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ng1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1160
+        width: 180
+        height: 108
+      alignment: 9
+      pivot: {x: -.25, y: 2.20370364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ng2
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1160
+        width: 126
+        height: 108
+      alignment: 9
+      pivot: {x: -.420634925, y: 2.20370364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ng3
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 1160
+        width: 150
+        height: 108
+      alignment: 9
+      pivot: {x: -.373333335, y: 2.20370364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Ng4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1160
+        width: 199
+        height: 108
+      alignment: 9
+      pivot: {x: -.145728648, y: 2.20370364}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Sa0
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1153
+        width: 163
+        height: 115
+      alignment: 9
+      pivot: {x: -.288343549, y: 1.86956525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Sa1
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1151
+        width: 150
+        height: 117
+      alignment: 9
+      pivot: {x: -.340000004, y: 1.83760679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Sa2
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1151
+        width: 128
+        height: 117
+      alignment: 9
+      pivot: {x: -.34375, y: 1.83760679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Sa3
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1151
+        width: 150
+        height: 117
+      alignment: 9
+      pivot: {x: -.340000004, y: 1.83760679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Sa4
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1153
+        width: 163
+        height: 115
+      alignment: 9
+      pivot: {x: -.282208592, y: 1.86956525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wa0
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1181
+        width: 197
+        height: 87
+      alignment: 9
+      pivot: {x: -.147208124, y: 2.40229893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wa1
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1180
+        width: 170
+        height: 88
+      alignment: 9
+      pivot: {x: -.276470602, y: 2.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wa2
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1180
+        width: 128
+        height: 88
+      alignment: 9
+      pivot: {x: -.34375, y: 2.375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wa3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1061
+        width: 171
+        height: 88
+      alignment: 9
+      pivot: {x: -.280701756, y: 2.38636374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wa4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1061
+        width: 195
+        height: 88
+      alignment: 9
+      pivot: {x: -.158974364, y: 2.38636374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wb0
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1099
+        width: 201
+        height: 50
+      alignment: 9
+      pivot: {x: -.139303476, y: 4.34000015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wb1
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1098
+        width: 172
+        height: 51
+      alignment: 9
+      pivot: {x: -.319767445, y: 4.27450991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wb2
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1098
+        width: 134
+        height: 51
+      alignment: 9
+      pivot: {x: -.335820884, y: 4.27450991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wb3
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1099
+        width: 172
+        height: 50
+      alignment: 9
+      pivot: {x: -.319767445, y: 4.34000015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wb4
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1100
+        width: 199
+        height: 49
+      alignment: 9
+      pivot: {x: -.140703514, y: 4.40816307}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wc0
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1067
+        width: 131
+        height: 82
+      alignment: 9
+      pivot: {x: -.480916023, y: 3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wc1
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1066
+        width: 147
+        height: 83
+      alignment: 9
+      pivot: {x: -.37414965, y: 2.97590351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wc2
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1067
+        width: 132
+        height: 82
+      alignment: 9
+      pivot: {x: -.340909094, y: 3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wc3
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1067
+        width: 146
+        height: 82
+      alignment: 9
+      pivot: {x: -.376712322, y: 3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wc4
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1067
+        width: 131
+        height: 82
+      alignment: 9
+      pivot: {x: -.473282456, y: 3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wd0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 986
+        width: 162
+        height: 73
+      alignment: 9
+      pivot: {x: -.302469134, y: 3.26027393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wd1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 986
+        width: 147
+        height: 73
+      alignment: 9
+      pivot: {x: -.380952388, y: 3.26027393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wd2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 986
+        width: 126
+        height: 73
+      alignment: 9
+      pivot: {x: -.357142866, y: 3.26027393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wd3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 986
+        width: 146
+        height: 73
+      alignment: 9
+      pivot: {x: -.376712322, y: 3.26027393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wd4
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 987
+        width: 162
+        height: 72
+      alignment: 9
+      pivot: {x: -.277777791, y: 3.29166675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390We0
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1009
+        width: 204
+        height: 50
+      alignment: 9
+      pivot: {x: -.127450988, y: 4.03999996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390We1
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1009
+        width: 168
+        height: 50
+      alignment: 9
+      pivot: {x: -.238095239, y: 4.03999996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390We2
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1008
+        width: 127
+        height: 51
+      alignment: 9
+      pivot: {x: -.346456707, y: 3.98039222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390We3
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 1008
+        width: 165
+        height: 51
+      alignment: 9
+      pivot: {x: -.25454545, y: 3.98039222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390We4
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 1008
+        width: 204
+        height: 51
+      alignment: 9
+      pivot: {x: -.127450988, y: 3.98039222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wf0
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 969
+        width: 201
+        height: 90
+      alignment: 9
+      pivot: {x: -.139303476, y: 2.29999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wf1
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 968
+        width: 156
+        height: 91
+      alignment: 9
+      pivot: {x: -.307692319, y: 2.2747252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wf2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 874
+        width: 128
+        height: 92
+      alignment: 9
+      pivot: {x: -.34375, y: 2.2608695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wf3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 874
+        width: 162
+        height: 92
+      alignment: 9
+      pivot: {x: -.277777791, y: 2.2608695}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wf4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 875
+        width: 201
+        height: 91
+      alignment: 9
+      pivot: {x: -.134328365, y: 2.28571439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wg0
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 840
+        width: 138
+        height: 126
+      alignment: 9
+      pivot: {x: -.427536219, y: 1.67460322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wg1
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 839
+        width: 138
+        height: 127
+      alignment: 9
+      pivot: {x: -.398550719, y: 1.66929138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wg2
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 839
+        width: 128
+        height: 127
+      alignment: 9
+      pivot: {x: -.34375, y: 1.66929138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wg3
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 838
+        width: 139
+        height: 128
+      alignment: 9
+      pivot: {x: -.388489217, y: 1.6640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Wg4
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 838
+        width: 138
+        height: 128
+      alignment: 9
+      pivot: {x: -.427536219, y: 1.6640625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Xa0
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 908
+        width: 147
+        height: 58
+      alignment: 9
+      pivot: {x: -.319727898, y: 4.41379309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Xa1
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 908
+        width: 124
+        height: 58
+      alignment: 9
+      pivot: {x: -.491935492, y: 4.41379309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Xa2
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 908
+        width: 110
+        height: 58
+      alignment: 9
+      pivot: {x: -.545454562, y: 4.41379309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Xa3
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 908
+        width: 144
+        height: 58
+      alignment: 9
+      pivot: {x: -.340277791, y: 4.41379309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M390Xa4
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 908
+        width: 147
+        height: 58
+      alignment: 9
+      pivot: {x: -.421768695, y: 4.41379309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

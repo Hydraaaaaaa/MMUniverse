@@ -1,0 +1,1364 @@
+fileFormatVersion: 2
+guid: 51bc44b21c31d0945b90c27037c5a1b3
+timeCreated: 1442628954
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M290Aa0
+    21300002: M290Aa1
+    21300004: M290Aa2
+    21300006: M290Aa3
+    21300008: M290Aa4
+    21300010: M290Ab0
+    21300012: M290Ab1
+    21300014: M290Ab2
+    21300016: M290Ab3
+    21300018: M290Ab4
+    21300020: M290Ac0
+    21300022: M290Ac1
+    21300024: M290Ac2
+    21300026: M290Ac3
+    21300028: M290Ac4
+    21300030: M290Ad0
+    21300032: M290Ad1
+    21300034: M290Ad2
+    21300036: M290Ad3
+    21300038: M290Ad4
+    21300040: M290Ae0
+    21300042: M290Ae1
+    21300044: M290Ae2
+    21300046: M290Ae3
+    21300048: M290Ae4
+    21300050: M290Af0
+    21300052: M290Af1
+    21300054: M290Af2
+    21300056: M290Af3
+    21300058: M290Af4
+    21300060: M290Ag0
+    21300062: M290Ag1
+    21300064: M290Ag2
+    21300066: M290Ag3
+    21300068: M290Ag4
+    21300070: M290Da0
+    21300072: M290Db0
+    21300074: M290Dc0
+    21300076: M290Dd0
+    21300078: M290Fa0
+    21300080: M290Fb0
+    21300082: M290Fc0
+    21300084: M290Fd0
+    21300086: M290Na0
+    21300088: M290Na1
+    21300090: M290Na2
+    21300092: M290Na3
+    21300094: M290Na4
+    21300096: M290Nb0
+    21300098: M290Nb1
+    21300100: M290Nb2
+    21300102: M290Nb3
+    21300104: M290Nb4
+    21300106: M290Nc0
+    21300108: M290Nc1
+    21300110: M290Nc2
+    21300112: M290Nc3
+    21300114: M290Nc4
+    21300116: M290Nd0
+    21300118: M290Nd1
+    21300120: M290Nd2
+    21300122: M290Nd3
+    21300124: M290Nd4
+    21300126: M290Ne0
+    21300128: M290Ne1
+    21300130: M290Ne2
+    21300132: M290Ne3
+    21300134: M290Ne4
+    21300136: M290Nf0
+    21300138: M290Nf1
+    21300140: M290Nf2
+    21300142: M290Nf3
+    21300144: M290Nf4
+    21300146: M290Sa0
+    21300148: M290Sa1
+    21300150: M290Sa2
+    21300152: M290Sa3
+    21300154: M290Sa4
+    21300156: M290Wa0
+    21300158: M290Wa1
+    21300160: M290Wa2
+    21300162: M290Wa3
+    21300164: M290Wa4
+    21300166: M290Wb0
+    21300168: M290Wb1
+    21300170: M290Wb2
+    21300172: M290Wb3
+    21300174: M290Wb4
+    21300176: M290Wc0
+    21300178: M290Wc1
+    21300180: M290Wc2
+    21300182: M290Wc3
+    21300184: M290Wc4
+    21300186: M290Wd0
+    21300188: M290Wd1
+    21300190: M290Wd2
+    21300192: M290Wd3
+    21300194: M290Wd4
+    21300196: M290We0
+    21300198: M290We1
+    21300200: M290We2
+    21300202: M290We3
+    21300204: M290We4
+    21300206: M290Wf0
+    21300208: M290Wf1
+    21300210: M290Wf2
+    21300212: M290Wf3
+    21300214: M290Wf4
+    21300216: M290Wg0
+    21300218: M290Wg1
+    21300220: M290Wg2
+    21300222: M290Wg3
+    21300224: M290Wg4
+    21300226: M290Wh0
+    21300228: M290Wh1
+    21300230: M290Wh2
+    21300232: M290Wh3
+    21300234: M290Wh4
+    21300236: M290Xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: M290Aa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1862
+        width: 90
+        height: 184
+      alignment: 9
+      pivot: {x: -.722222209, y: 1.39130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Aa1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1861
+        width: 93
+        height: 185
+      alignment: 9
+      pivot: {x: -.774193525, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Aa2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1861
+        width: 76
+        height: 185
+      alignment: 9
+      pivot: {x: -1.19736838, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Aa3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1861
+        width: 69
+        height: 185
+      alignment: 9
+      pivot: {x: -1.43478262, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Aa4
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1861
+        width: 88
+        height: 185
+      alignment: 9
+      pivot: {x: -1.1704545, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ab0
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1872
+        width: 92
+        height: 174
+      alignment: 9
+      pivot: {x: -.804347813, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ab1
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1872
+        width: 140
+        height: 174
+      alignment: 9
+      pivot: {x: -.18571429, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ab2
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1872
+        width: 136
+        height: 174
+      alignment: 9
+      pivot: {x: -.22794117, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ab3
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1872
+        width: 81
+        height: 174
+      alignment: 9
+      pivot: {x: -1.04938269, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ab4
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1872
+        width: 94
+        height: 174
+      alignment: 9
+      pivot: {x: -.957446814, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ac0
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 1866
+        width: 126
+        height: 180
+      alignment: 9
+      pivot: {x: -.484126985, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ac1
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1866
+        width: 117
+        height: 180
+      alignment: 9
+      pivot: {x: -.658119678, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ac2
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1866
+        width: 76
+        height: 180
+      alignment: 9
+      pivot: {x: -1.36842108, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ac3
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1866
+        width: 96
+        height: 180
+      alignment: 9
+      pivot: {x: -1.01041663, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ac4
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1866
+        width: 126
+        height: 180
+      alignment: 9
+      pivot: {x: -.547619045, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ad0
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1876
+        width: 78
+        height: 170
+      alignment: 9
+      pivot: {x: -1.26923072, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ad1
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1877
+        width: 124
+        height: 169
+      alignment: 9
+      pivot: {x: -.806451619, y: 1.51479292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ad2
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1877
+        width: 154
+        height: 169
+      alignment: 9
+      pivot: {x: -.662337661, y: 1.51479292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ad3
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1877
+        width: 135
+        height: 169
+      alignment: 9
+      pivot: {x: -.629629612, y: 1.51479292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ad4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1690
+        width: 78
+        height: 169
+      alignment: 9
+      pivot: {x: -1.01282048, y: 1.51479292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ae0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1685
+        width: 81
+        height: 174
+      alignment: 9
+      pivot: {x: -1.24691355, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ae1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1685
+        width: 128
+        height: 174
+      alignment: 9
+      pivot: {x: -.765625, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ae2
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 1686
+        width: 128
+        height: 173
+      alignment: 9
+      pivot: {x: -.8125, y: 1.47976875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ae3
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1686
+        width: 98
+        height: 173
+      alignment: 9
+      pivot: {x: -.897959173, y: 1.47976875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ae4
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1686
+        width: 83
+        height: 173
+      alignment: 9
+      pivot: {x: -.903614461, y: 1.47976875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Af0
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1675
+        width: 78
+        height: 184
+      alignment: 9
+      pivot: {x: -1.30769229, y: 1.39130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Af1
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1675
+        width: 88
+        height: 184
+      alignment: 9
+      pivot: {x: -1.19318187, y: 1.39130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Af2
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1675
+        width: 92
+        height: 184
+      alignment: 9
+      pivot: {x: -1.1630435, y: 1.39130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Af3
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 1676
+        width: 80
+        height: 183
+      alignment: 9
+      pivot: {x: -1.29999995, y: 1.39890707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Af4
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1676
+        width: 78
+        height: 183
+      alignment: 9
+      pivot: {x: -.974358976, y: 1.39890707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ag0
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1672
+        width: 76
+        height: 187
+      alignment: 9
+      pivot: {x: -1.26315784, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ag1
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1672
+        width: 69
+        height: 187
+      alignment: 9
+      pivot: {x: -1.49275362, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ag2
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 1672
+        width: 69
+        height: 187
+      alignment: 9
+      pivot: {x: -1.55072463, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ag3
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1672
+        width: 68
+        height: 187
+      alignment: 9
+      pivot: {x: -1.5, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ag4
+      rect:
+        serializedVersion: 2
+        x: 1326
+        y: 1672
+        width: 76
+        height: 187
+      alignment: 9
+      pivot: {x: -1.10526311, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Da0
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1694
+        width: 129
+        height: 165
+      alignment: 9
+      pivot: {x: -.434108526, y: 1.5515151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Db0
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 1728
+        width: 105
+        height: 131
+      alignment: 9
+      pivot: {x: -.72380954, y: 1.93129766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Dc0
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1767
+        width: 106
+        height: 92
+      alignment: 9
+      pivot: {x: -.707547188, y: 2.652174}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Dd0
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1789
+        width: 129
+        height: 70
+      alignment: 9
+      pivot: {x: -.503875971, y: 3.65714288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Fa0
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 1670
+        width: 71
+        height: 189
+      alignment: 9
+      pivot: {x: -1.2957747, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Fb0
+      rect:
+        serializedVersion: 2
+        x: 1954
+        y: 1669
+        width: 71
+        height: 190
+      alignment: 9
+      pivot: {x: -1.2957747, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Fc0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1477
+        width: 72
+        height: 190
+      alignment: 9
+      pivot: {x: -1.26388884, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Fd0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1477
+        width: 70
+        height: 190
+      alignment: 9
+      pivot: {x: -1.31428576, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Na0
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1479
+        width: 101
+        height: 188
+      alignment: 9
+      pivot: {x: -.693069279, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Na1
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1478
+        width: 101
+        height: 189
+      alignment: 9
+      pivot: {x: -.811881185, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Na2
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1478
+        width: 76
+        height: 189
+      alignment: 9
+      pivot: {x: -1.22368419, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Na3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1478
+        width: 99
+        height: 189
+      alignment: 9
+      pivot: {x: -.898989916, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Na4
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1478
+        width: 100
+        height: 189
+      alignment: 9
+      pivot: {x: -.850000024, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nb0
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1480
+        width: 158
+        height: 187
+      alignment: 9
+      pivot: {x: -.234177217, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nb1
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1480
+        width: 137
+        height: 187
+      alignment: 9
+      pivot: {x: -.313868612, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nb2
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1481
+        width: 80
+        height: 186
+      alignment: 9
+      pivot: {x: -.975000024, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nb3
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1480
+        width: 122
+        height: 187
+      alignment: 9
+      pivot: {x: -.55737704, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nb4
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 1480
+        width: 159
+        height: 187
+      alignment: 9
+      pivot: {x: -.383647799, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nc0
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 1496
+        width: 158
+        height: 171
+      alignment: 9
+      pivot: {x: -.202531651, y: 1.49707603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nc1
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 1497
+        width: 148
+        height: 170
+      alignment: 9
+      pivot: {x: -.256756753, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nc2
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 1497
+        width: 126
+        height: 170
+      alignment: 9
+      pivot: {x: -.420634925, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nc3
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1496
+        width: 123
+        height: 171
+      alignment: 9
+      pivot: {x: -.471544713, y: 1.49707603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nc4
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 1496
+        width: 158
+        height: 171
+      alignment: 9
+      pivot: {x: -.41772151, y: 1.49707603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nd0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1310
+        width: 142
+        height: 165
+      alignment: 9
+      pivot: {x: -.330985904, y: 1.5515151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nd1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1310
+        width: 126
+        height: 165
+      alignment: 9
+      pivot: {x: -.444444448, y: 1.5515151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nd2
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1309
+        width: 119
+        height: 166
+      alignment: 9
+      pivot: {x: -.49579832, y: 1.54216862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nd3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1309
+        width: 114
+        height: 166
+      alignment: 9
+      pivot: {x: -.561403513, y: 1.54216862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nd4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1309
+        width: 144
+        height: 166
+      alignment: 9
+      pivot: {x: -.458333343, y: 1.54216862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ne0
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1301
+        width: 108
+        height: 174
+      alignment: 9
+      pivot: {x: -.620370388, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ne1
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1301
+        width: 104
+        height: 174
+      alignment: 9
+      pivot: {x: -.663461566, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ne2
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1301
+        width: 99
+        height: 174
+      alignment: 9
+      pivot: {x: -.707070708, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ne3
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1301
+        width: 88
+        height: 174
+      alignment: 9
+      pivot: {x: -1, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Ne4
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1301
+        width: 108
+        height: 174
+      alignment: 9
+      pivot: {x: -.75, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nf0
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1291
+        width: 83
+        height: 184
+      alignment: 9
+      pivot: {x: -1, y: 1.39130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nf1
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1291
+        width: 83
+        height: 184
+      alignment: 9
+      pivot: {x: -.987951815, y: 1.39130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nf2
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1291
+        width: 73
+        height: 184
+      alignment: 9
+      pivot: {x: -1.17808223, y: 1.39130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nf3
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 1291
+        width: 80
+        height: 184
+      alignment: 9
+      pivot: {x: -1.16250002, y: 1.39130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Nf4
+      rect:
+        serializedVersion: 2
+        x: 1501
+        y: 1291
+        width: 83
+        height: 184
+      alignment: 9
+      pivot: {x: -1.08433735, y: 1.39130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Sa0
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1286
+        width: 69
+        height: 189
+      alignment: 9
+      pivot: {x: -1.34782612, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Sa1
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1285
+        width: 63
+        height: 190
+      alignment: 9
+      pivot: {x: -1.50793648, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Sa2
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 1285
+        width: 57
+        height: 190
+      alignment: 9
+      pivot: {x: -1.70175433, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Sa3
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 1285
+        width: 62
+        height: 190
+      alignment: 9
+      pivot: {x: -1.56451619, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Sa4
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1285
+        width: 69
+        height: 190
+      alignment: 9
+      pivot: {x: -1.36231887, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wa0
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1285
+        width: 68
+        height: 190
+      alignment: 9
+      pivot: {x: -1.38235295, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wa1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1093
+        width: 67
+        height: 190
+      alignment: 9
+      pivot: {x: -1.37313437, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wa2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1093
+        width: 63
+        height: 190
+      alignment: 9
+      pivot: {x: -1.44444442, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wa3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1093
+        width: 68
+        height: 190
+      alignment: 9
+      pivot: {x: -1.35294116, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wa4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1093
+        width: 68
+        height: 190
+      alignment: 9
+      pivot: {x: -1.38235295, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wb0
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1095
+        width: 68
+        height: 188
+      alignment: 9
+      pivot: {x: -1.38235295, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wb1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1094
+        width: 70
+        height: 189
+      alignment: 9
+      pivot: {x: -1.28571427, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wb2
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1094
+        width: 70
+        height: 189
+      alignment: 9
+      pivot: {x: -1.32857144, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wb3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1094
+        width: 66
+        height: 189
+      alignment: 9
+      pivot: {x: -1.439394, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wb4
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1094
+        width: 68
+        height: 189
+      alignment: 9
+      pivot: {x: -1.38235295, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wc0
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1096
+        width: 67
+        height: 187
+      alignment: 9
+      pivot: {x: -1.41791046, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wc1
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1096
+        width: 85
+        height: 187
+      alignment: 9
+      pivot: {x: -.941176474, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wc2
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1096
+        width: 93
+        height: 187
+      alignment: 9
+      pivot: {x: -.817204297, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wc3
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1096
+        width: 74
+        height: 187
+      alignment: 9
+      pivot: {x: -1.1891892, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wc4
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1096
+        width: 67
+        height: 187
+      alignment: 9
+      pivot: {x: -1.4029851, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wd0
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1094
+        width: 68
+        height: 189
+      alignment: 9
+      pivot: {x: -1.38235295, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wd1
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1094
+        width: 75
+        height: 189
+      alignment: 9
+      pivot: {x: -1.12, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wd2
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1094
+        width: 77
+        height: 189
+      alignment: 9
+      pivot: {x: -1.06493509, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wd3
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1094
+        width: 71
+        height: 189
+      alignment: 9
+      pivot: {x: -1.28169012, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wd4
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1094
+        width: 68
+        height: 189
+      alignment: 9
+      pivot: {x: -1.38235295, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290We0
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1093
+        width: 68
+        height: 190
+      alignment: 9
+      pivot: {x: -1.38235295, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290We1
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1093
+        width: 68
+        height: 190
+      alignment: 9
+      pivot: {x: -1.35294116, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290We2
+      rect:
+        serializedVersion: 2
+        x: 1533
+        y: 1093
+        width: 62
+        height: 190
+      alignment: 9
+      pivot: {x: -1.5, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290We3
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1093
+        width: 65
+        height: 190
+      alignment: 9
+      pivot: {x: -1.46153843, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290We4
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1093
+        width: 68
+        height: 190
+      alignment: 9
+      pivot: {x: -1.38235295, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wf0
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1094
+        width: 69
+        height: 189
+      alignment: 9
+      pivot: {x: -1.34782612, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wf1
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1094
+        width: 69
+        height: 189
+      alignment: 9
+      pivot: {x: -1.34782612, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wf2
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1094
+        width: 61
+        height: 189
+      alignment: 9
+      pivot: {x: -1.52459013, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wf3
+      rect:
+        serializedVersion: 2
+        x: 1939
+        y: 1094
+        width: 66
+        height: 189
+      alignment: 9
+      pivot: {x: -1.40909088, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wf4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 902
+        width: 69
+        height: 189
+      alignment: 9
+      pivot: {x: -1.36231887, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wg0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 904
+        width: 69
+        height: 187
+      alignment: 9
+      pivot: {x: -1.34782612, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wg1
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 904
+        width: 76
+        height: 187
+      alignment: 9
+      pivot: {x: -1.14473689, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wg2
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 904
+        width: 90
+        height: 187
+      alignment: 9
+      pivot: {x: -.844444454, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wg3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 904
+        width: 83
+        height: 187
+      alignment: 9
+      pivot: {x: -.97590363, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wg4
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 904
+        width: 69
+        height: 187
+      alignment: 9
+      pivot: {x: -1.36231887, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wh0
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 902
+        width: 69
+        height: 189
+      alignment: 9
+      pivot: {x: -1.34782612, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wh1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 902
+        width: 67
+        height: 189
+      alignment: 9
+      pivot: {x: -1.38805974, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wh2
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 902
+        width: 70
+        height: 189
+      alignment: 9
+      pivot: {x: -1.2428571, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wh3
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 902
+        width: 71
+        height: 189
+      alignment: 9
+      pivot: {x: -1.23943663, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Wh4
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 902
+        width: 68
+        height: 189
+      alignment: 9
+      pivot: {x: -1.38235295, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M290Xa0
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1051
+        width: 159
+        height: 40
+      alignment: 9
+      pivot: {x: -.270440251, y: 6.4000001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

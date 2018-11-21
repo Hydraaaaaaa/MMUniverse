@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: 6dad0e4491eb8dc40a773eb30b510deb
+timeCreated: 1434285295
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC1801
+    21300002: PC1802
+    21300004: PC1803
+    21300006: PC1804
+    21300008: PC1805
+    21300010: PC1806
+    21300012: PC1807
+    21300014: PC1808
+    21300016: PC1809
+    21300018: PC1810
+    21300020: PC1811
+    21300022: PC1812
+    21300024: PC1813
+    21300026: PC1814
+    21300028: PC1815
+    21300030: PC1816
+    21300032: PC1817
+    21300034: PC1818
+    21300036: PC1819
+    21300038: PC1820
+    21300040: PC1821
+    21300042: PC1822
+    21300044: PC1823
+    21300046: PC1824
+    21300048: PC1825
+    21300050: PC1826
+    21300052: PC1827
+    21300054: PC1828
+    21300056: PC1829
+    21300058: PC1830
+    21300060: PC1831
+    21300062: PC1832
+    21300064: PC1833
+    21300066: PC1834
+    21300068: PC1835
+    21300070: PC1836
+    21300072: PC1837
+    21300074: PC1838
+    21300076: PC1839
+    21300078: PC1840
+    21300080: PC1841
+    21300082: PC1842
+    21300084: PC1843
+    21300086: PC1844
+    21300088: PC1845
+    21300090: PC1846
+    21300092: PC1847
+    21300094: PC1848
+    21300096: PC1849
+    21300098: PC1850
+    21300100: PC1851
+    21300102: PC1852
+    21300104: PC1853
+    21300106: PC1854
+    21300108: PC1855
+    21300110: PC1856
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC1801
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 943
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1802
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 943
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1803
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 943
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1804
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 943
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1805
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 943
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1806
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 943
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1807
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 943
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1808
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 943
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1809
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 862
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1810
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 862
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1811
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 862
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1812
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 862
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1813
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 862
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1814
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 862
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1815
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 862
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1816
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 862
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1817
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 781
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1818
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 781
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1819
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 781
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1820
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 781
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1821
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 781
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1822
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 781
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1823
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 781
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1824
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 781
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1825
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 700
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1826
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 700
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1827
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 700
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1828
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 700
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1829
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 700
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1830
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 700
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1831
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 700
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1832
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 700
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1833
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 619
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1834
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 619
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1835
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 619
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1836
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 619
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1837
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 619
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1838
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 619
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1839
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 619
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1840
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 619
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1841
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 538
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1842
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 538
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1843
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 538
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1844
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 538
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1845
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 538
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1846
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 538
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1847
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 538
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1848
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 538
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1849
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 457
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1850
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 457
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1851
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 457
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1852
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 457
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1853
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 457
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1854
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 457
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1855
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 457
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC1856
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 457
+        width: 58
+        height: 79
+      alignment: 9
+      pivot: {x: .508620679, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

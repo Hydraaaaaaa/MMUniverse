@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &101356
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 417466}
+  - 82: {fileID: 8220836}
+  - 114: {fileID: 11473662}
+  m_Layer: 0
+  m_Name: GameMenu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &417466
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101356}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -198.58, y: 6.8946996, z: -225.57}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!82 &8220836
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101356}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 24342732, guid: 12e06c8fb2c9cd847be3e5acc22667a1,
+    type: 2}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!114 &11473662
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101356}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f0179bf428a0c1469e89b1b57aa9bd1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ButtonSkin_Empty: {fileID: 11400000, guid: c74840ae4a2fcbe43af9d126ed53c63a, type: 2}
+  win_id: 0
+  paused: 0
+  menu_open: 0
+  aTexture: {fileID: 2800000, guid: e909552bc59a446439ee02b5f0705de3, type: 3}
+  win1_tex: {fileID: 2800000, guid: a47e7cd568b04014389500b3963ab50c, type: 3}
+  Chest_tex: {fileID: 2800000, guid: ba8f25126c74e6141b124c88befe53e1, type: 3}
+  nullTexture: {fileID: 0}
+  slider:
+  - {fileID: 2800000, guid: a2183d6dbc87013408baf165276fd7bc, type: 3}
+  - {fileID: 2800000, guid: 44d458046e842ac4f8f8506012671c38, type: 3}
+  - {fileID: 2800000, guid: eb08fa74c30cb22439813ebfa8444ae6, type: 3}
+  - {fileID: 2800000, guid: 2ce276218b143fc45868174097b6158d, type: 3}
+  - {fileID: 2800000, guid: 9ad8e272f73a71543bb87fd8d46f1070, type: 3}
+  - {fileID: 2800000, guid: ed68460ba065e604e8647a8ddfa55a60, type: 3}
+  - {fileID: 2800000, guid: abd2051665dce6942bb32808765f496c, type: 3}
+  - {fileID: 2800000, guid: 95a5da15e36dfac4c87aa2959415be6c, type: 3}
+  - {fileID: 2800000, guid: 661f039a6f9515e4e9136fe8d1460ad4, type: 3}
+  - {fileID: 2800000, guid: c5640054639d4064296d0cdfa86ddb47, type: 3}
+  - {fileID: 2800000, guid: c5640054639d4064296d0cdfa86ddb47, type: 3}
+  music_coord: 1a0000002b0000003c0000004c0000005d0000006e0000008000000090000000a2000000b3000000
+  fadeColor: {r: 0, g: 0, b: 0, a: 0}
+  Harp: {fileID: 8300000, guid: 16eb7433304c25443bb4d91a9251e3d8, type: 3}
+  Audio: {fileID: 8220836}
+  Music: {fileID: 0}
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 101356}
+  m_IsPrefabParent: 1

@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 8d8578b29329b5a4db27b842b480461f
+timeCreated: 1442629372
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: m479Ab0
+    21300002: m479Ac0
+    21300004: m479Ad0
+    21300006: m479Ae0
+    21300008: m479Af0
+    21300010: m479Ag0
+    21300012: m479Ah0
+    21300014: m479Ai0
+    21300016: m479Aj0
+    21300018: m479Ak0
+    21300020: m479Al0
+    21300022: m479Am0
+    21300024: m479An0
+    21300026: m479Ao0
+    21300028: m479Ap0
+    21300030: m479Aq0
+    21300032: m479Ar0
+    21300034: m479As0
+    21300036: m479Da0
+    21300038: m479Db0
+    21300040: m479Dc0
+    21300042: m479Dd0
+    21300044: m479De0
+    21300046: m479Df0
+    21300048: m479Na0
+    21300050: m479Nb0
+    21300052: m479Nc0
+    21300054: m479Nd0
+    21300056: m479Ne0
+    21300058: m479Nf0
+    21300060: m479Ng0
+    21300062: m479Sa0
+    21300064: m479Xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: m479Ab0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1815
+        width: 181
+        height: 231
+      alignment: 9
+      pivot: {x: -.287292808, y: 1.10822511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Ac0
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1815
+        width: 181
+        height: 231
+      alignment: 9
+      pivot: {x: -.287292808, y: 1.10822511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Ad0
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1815
+        width: 181
+        height: 231
+      alignment: 9
+      pivot: {x: -.287292808, y: 1.10822511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Ae0
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1815
+        width: 181
+        height: 231
+      alignment: 9
+      pivot: {x: -.287292808, y: 1.10822511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Af0
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1815
+        width: 181
+        height: 231
+      alignment: 9
+      pivot: {x: -.287292808, y: 1.10822511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Ag0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1585
+        width: 165
+        height: 228
+      alignment: 9
+      pivot: {x: -.333333343, y: 1.12280703}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Ah0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1587
+        width: 153
+        height: 226
+      alignment: 9
+      pivot: {x: -.359477133, y: 1.13274336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Ai0
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1592
+        width: 148
+        height: 221
+      alignment: 9
+      pivot: {x: -.371621609, y: 1.15837109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Aj0
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1600
+        width: 164
+        height: 213
+      alignment: 9
+      pivot: {x: -.335365862, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Ak0
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1590
+        width: 181
+        height: 223
+      alignment: 9
+      pivot: {x: -.3038674, y: 1.14798212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Al0
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1588
+        width: 179
+        height: 225
+      alignment: 9
+      pivot: {x: -.30726257, y: 1.13777781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Am0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1358
+        width: 182
+        height: 225
+      alignment: 9
+      pivot: {x: -.302197814, y: 1.13777781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479An0
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1359
+        width: 184
+        height: 224
+      alignment: 9
+      pivot: {x: -.298913032, y: 1.14285719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Ao0
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1361
+        width: 184
+        height: 222
+      alignment: 9
+      pivot: {x: -.298913032, y: 1.15315318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Ap0
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1358
+        width: 181
+        height: 225
+      alignment: 9
+      pivot: {x: -.3038674, y: 1.13777781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Aq0
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1352
+        width: 178
+        height: 231
+      alignment: 9
+      pivot: {x: -.30898875, y: 1.10822511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Ar0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1119
+        width: 179
+        height: 231
+      alignment: 9
+      pivot: {x: -.296089381, y: 1.10822511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479As0
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1119
+        width: 180
+        height: 231
+      alignment: 9
+      pivot: {x: -.288888901, y: 1.10822511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Da0
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1119
+        width: 180
+        height: 231
+      alignment: 9
+      pivot: {x: -.288888901, y: 1.10822511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Db0
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1146
+        width: 184
+        height: 204
+      alignment: 9
+      pivot: {x: -.25, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Dc0
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1174
+        width: 181
+        height: 176
+      alignment: 9
+      pivot: {x: -.259668499, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Dd0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 883
+        width: 238
+        height: 234
+      alignment: 9
+      pivot: {x: -.0630252138, y: 1.09401715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479De0
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 887
+        width: 253
+        height: 230
+      alignment: 9
+      pivot: {x: -.0118577071, y: 1.11304343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Df0
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 965
+        width: 256
+        height: 152
+      alignment: 9
+      pivot: {x: 0, y: 1.68421054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Na0
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 918
+        width: 156
+        height: 199
+      alignment: 9
+      pivot: {x: -.339743584, y: 1.28643215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Nb0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 691
+        width: 149
+        height: 190
+      alignment: 9
+      pivot: {x: -.328859061, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Nc0
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 690
+        width: 147
+        height: 191
+      alignment: 9
+      pivot: {x: -.346938789, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Nd0
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 686
+        width: 154
+        height: 195
+      alignment: 9
+      pivot: {x: -.344155848, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Ne0
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 667
+        width: 173
+        height: 214
+      alignment: 9
+      pivot: {x: -.317919075, y: 1.19626164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Nf0
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 656
+        width: 195
+        height: 225
+      alignment: 9
+      pivot: {x: -.282051295, y: 1.13777781}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Ng0
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 658
+        width: 191
+        height: 223
+      alignment: 9
+      pivot: {x: -.287958115, y: 1.14798212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Sa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 423
+        width: 181
+        height: 231
+      alignment: 9
+      pivot: {x: -.287292808, y: 1.10822511}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m479Xa0
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 561
+        width: 143
+        height: 93
+      alignment: 9
+      pivot: {x: -.384615391, y: 2.75268817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

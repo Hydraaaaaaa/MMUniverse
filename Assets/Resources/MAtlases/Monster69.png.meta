@@ -1,0 +1,1947 @@
+fileFormatVersion: 2
+guid: 19a8ad7d5de013d4fa6901d61dbb8579
+timeCreated: 1442628196
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M480Aa0
+    21300002: M480Ab0
+    21300004: M480Ac0
+    21300006: M480Ad0
+    21300008: M480Ae0
+    21300010: M480Af0
+    21300012: M480Ag0
+    21300014: M480Ah0
+    21300016: M480Ai0
+    21300018: M480Aj0
+    21300020: M480Da0
+    21300022: M480Db0
+    21300024: M480Dc0
+    21300026: M480Dd0
+    21300028: M480De0
+    21300030: M480Df0
+    21300032: M480Dg0
+    21300034: M480Dh0
+    21300036: M480Di0
+    21300038: M480Dj0
+    21300040: M480Dk0
+    21300042: M480Fa0
+    21300044: M480Fa1
+    21300046: M480Fa2
+    21300048: M480Fa3
+    21300050: M480Fa4
+    21300052: M480Fb0
+    21300054: M480Fb1
+    21300056: M480Fb2
+    21300058: M480Fb3
+    21300060: M480Fb4
+    21300062: M480Fc0
+    21300064: M480Fc1
+    21300066: M480Fc2
+    21300068: M480Fc3
+    21300070: M480Fc4
+    21300072: M480Fd0
+    21300074: M480Fd1
+    21300076: M480Fd2
+    21300078: M480Fd3
+    21300080: M480Fd4
+    21300082: M480Fe0
+    21300084: M480Fe1
+    21300086: M480Fe2
+    21300088: M480Fe3
+    21300090: M480Fe4
+    21300092: M480Ff0
+    21300094: M480Ff1
+    21300096: M480Ff2
+    21300098: M480Ff3
+    21300100: M480Ff4
+    21300102: M480Fg0
+    21300104: M480Fg1
+    21300106: M480Fg2
+    21300108: M480Fg3
+    21300110: M480Fg4
+    21300112: M480Fh0
+    21300114: M480Fh1
+    21300116: M480Fh2
+    21300118: M480Fh3
+    21300120: M480Fh4
+    21300122: M480Fi0
+    21300124: M480Fi1
+    21300126: M480Fi2
+    21300128: M480Fi3
+    21300130: M480Fi4
+    21300132: M480Fj0
+    21300134: M480Fj1
+    21300136: M480Fj2
+    21300138: M480Fj3
+    21300140: M480Fj4
+    21300142: M480Na0
+    21300144: M480Na1
+    21300146: M480Na2
+    21300148: M480Na3
+    21300150: M480Na4
+    21300152: M480Nb0
+    21300154: M480Nb1
+    21300156: M480Nb2
+    21300158: M480Nb3
+    21300160: M480Nb4
+    21300162: M480Nc0
+    21300164: M480Nc1
+    21300166: M480Nc2
+    21300168: M480Nc3
+    21300170: M480Nc4
+    21300172: M480Nd0
+    21300174: M480Nd1
+    21300176: M480Nd2
+    21300178: M480Nd3
+    21300180: M480Nd4
+    21300182: M480Ne0
+    21300184: M480Ne1
+    21300186: M480Ne2
+    21300188: M480Ne3
+    21300190: M480Ne4
+    21300192: M480Nf0
+    21300194: M480Nf1
+    21300196: M480Nf2
+    21300198: M480Nf3
+    21300200: M480Nf4
+    21300202: M480Ng0
+    21300204: M480Ng1
+    21300206: M480Ng2
+    21300208: M480Ng3
+    21300210: M480Ng4
+    21300212: M480Nh0
+    21300214: M480Nh1
+    21300216: M480Nh2
+    21300218: M480Nh3
+    21300220: M480Nh4
+    21300222: M480Ni0
+    21300224: M480Ni1
+    21300226: M480Ni2
+    21300228: M480Ni3
+    21300230: M480Ni4
+    21300232: M480Sa0
+    21300234: M480Sa1
+    21300236: M480Sa2
+    21300238: M480Sa3
+    21300240: M480Sa4
+    21300242: M480Wa0
+    21300244: M480Wa1
+    21300246: M480Wa2
+    21300248: M480Wa3
+    21300250: M480Wa4
+    21300252: M480Wb0
+    21300254: M480Wb1
+    21300256: M480Wb2
+    21300258: M480Wb3
+    21300260: M480Wb4
+    21300262: M480Wc0
+    21300264: M480Wc1
+    21300266: M480Wc2
+    21300268: M480Wc3
+    21300270: M480Wc4
+    21300272: M480Wd0
+    21300274: M480Wd1
+    21300276: M480Wd2
+    21300278: M480Wd3
+    21300280: M480Wd4
+    21300282: M480We0
+    21300284: M480We1
+    21300286: M480We2
+    21300288: M480We3
+    21300290: M480We4
+    21300292: M480Wf0
+    21300294: M480Wf1
+    21300296: M480Wf2
+    21300298: M480Wf3
+    21300300: M480Wf4
+    21300302: M480Wg0
+    21300304: M480Wg1
+    21300306: M480Wg2
+    21300308: M480Wg3
+    21300310: M480Wg4
+    21300312: M480Wh0
+    21300314: M480Wh1
+    21300316: M480Wh2
+    21300318: M480Wh3
+    21300320: M480Wh4
+    21300322: M480Wi0
+    21300324: M480Wi1
+    21300326: M480Wi2
+    21300328: M480Wi3
+    21300330: M480Wi4
+    21300332: M480Wj0
+    21300334: M480Wj1
+    21300336: M480Wj2
+    21300338: M480Wj3
+    21300340: M480Wj4
+    21300342: M480Xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: M480Aa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3910
+        width: 158
+        height: 184
+      alignment: 9
+      pivot: {x: -.310126573, y: 1.15760875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ab0
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3907
+        width: 211
+        height: 187
+      alignment: 9
+      pivot: {x: -.104265399, y: 1.22994649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ac0
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3912
+        width: 251
+        height: 182
+      alignment: 9
+      pivot: {x: -.00796812773, y: 1.29670334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ad0
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 3943
+        width: 247
+        height: 151
+      alignment: 9
+      pivot: {x: -.0161943324, y: 1.49006617}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ae0
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 3961
+        width: 234
+        height: 133
+      alignment: 9
+      pivot: {x: -.055555556, y: 1.72932327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Af0
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 3971
+        width: 214
+        height: 123
+      alignment: 9
+      pivot: {x: -.116822429, y: 1.902439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ag0
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 3964
+        width: 236
+        height: 130
+      alignment: 9
+      pivot: {x: -.0381355919, y: 1.87692308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ah0
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 3963
+        width: 253
+        height: 131
+      alignment: 9
+      pivot: {x: -.00790513866, y: 1.77862597}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ai0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3773
+        width: 238
+        height: 132
+      alignment: 9
+      pivot: {x: -.0420168079, y: 1.63636363}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Aj0
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 3743
+        width: 204
+        height: 162
+      alignment: 9
+      pivot: {x: -.127450988, y: 1.3209877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Da0
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3692
+        width: 220
+        height: 213
+      alignment: 9
+      pivot: {x: -.0363636352, y: 1.16431928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Db0
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 3702
+        width: 246
+        height: 203
+      alignment: 9
+      pivot: {x: -.024390243, y: 1.08374381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Dc0
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 3717
+        width: 201
+        height: 188
+      alignment: 9
+      pivot: {x: -.25870648, y: 1.00531912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Dd0
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 3728
+        width: 171
+        height: 177
+      alignment: 9
+      pivot: {x: -.345029235, y: 1.02259886}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480De0
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 3708
+        width: 171
+        height: 197
+      alignment: 9
+      pivot: {x: -.251461983, y: 1.02538073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Df0
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 3677
+        width: 208
+        height: 228
+      alignment: 9
+      pivot: {x: -.057692308, y: 1.0350877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Dg0
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 3677
+        width: 215
+        height: 228
+      alignment: 9
+      pivot: {x: -.00930232555, y: 1.05263162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Dh0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3446
+        width: 220
+        height: 229
+      alignment: 9
+      pivot: {x: -.0181818176, y: 1.06550217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Di0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 3448
+        width: 221
+        height: 227
+      alignment: 9
+      pivot: {x: -.0814479664, y: 1.123348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Dj0
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 3476
+        width: 209
+        height: 199
+      alignment: 9
+      pivot: {x: -.114832535, y: 1.28643215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Dk0
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 3501
+        width: 222
+        height: 174
+      alignment: 9
+      pivot: {x: -.0855855867, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fa0
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 3446
+        width: 177
+        height: 229
+      alignment: 9
+      pivot: {x: -.220338985, y: 1.10043669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fa1
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 3447
+        width: 179
+        height: 228
+      alignment: 9
+      pivot: {x: -.100558661, y: 1.10526311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fa2
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 3445
+        width: 180
+        height: 230
+      alignment: 9
+      pivot: {x: -.216666669, y: 1.10000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fa3
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 3443
+        width: 179
+        height: 232
+      alignment: 9
+      pivot: {x: -.106145248, y: 1.09482753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fa4
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 3442
+        width: 179
+        height: 233
+      alignment: 9
+      pivot: {x: -.21787709, y: 1.09442055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fb0
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 3448
+        width: 209
+        height: 227
+      alignment: 9
+      pivot: {x: -.114832535, y: 1.11453748}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fb1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3212
+        width: 183
+        height: 228
+      alignment: 9
+      pivot: {x: -.0601092912, y: 1.10964918}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fb2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3210
+        width: 176
+        height: 230
+      alignment: 9
+      pivot: {x: -.227272734, y: 1.10434783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fb3
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 3209
+        width: 185
+        height: 231
+      alignment: 9
+      pivot: {x: -.048648648, y: 1.10389614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fb4
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 3210
+        width: 212
+        height: 230
+      alignment: 9
+      pivot: {x: -.0990566015, y: 1.10869563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fc0
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 3245
+        width: 252
+        height: 195
+      alignment: 9
+      pivot: {x: -.00793650839, y: 1.24615383}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fc1
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 3246
+        width: 201
+        height: 194
+      alignment: 9
+      pivot: {x: 0, y: 1.2525773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fc2
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 3245
+        width: 179
+        height: 195
+      alignment: 9
+      pivot: {x: -.189944133, y: 1.2512821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fc3
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 3245
+        width: 204
+        height: 195
+      alignment: 9
+      pivot: {x: 0, y: 1.2512821}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fc4
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 3244
+        width: 255
+        height: 196
+      alignment: 9
+      pivot: {x: 0, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fd0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3022
+        width: 251
+        height: 185
+      alignment: 9
+      pivot: {x: -.00398406386, y: 1.23783779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fd1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3021
+        width: 208
+        height: 186
+      alignment: 9
+      pivot: {x: -.0192307699, y: 1.23655915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fd2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 3021
+        width: 181
+        height: 186
+      alignment: 9
+      pivot: {x: -.154696137, y: 1.23655915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fd3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 3021
+        width: 203
+        height: 186
+      alignment: 9
+      pivot: {x: -.0443349741, y: 1.24193549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fd4
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 3021
+        width: 254
+        height: 186
+      alignment: 9
+      pivot: {x: -.00787401572, y: 1.24193549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fe0
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 3019
+        width: 248
+        height: 188
+      alignment: 9
+      pivot: {x: -.0120967738, y: 1.21808505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fe1
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 3018
+        width: 185
+        height: 189
+      alignment: 9
+      pivot: {x: -.200000003, y: 1.21693122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fe2
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 3019
+        width: 180
+        height: 188
+      alignment: 9
+      pivot: {x: -.138888896, y: 1.21808505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fe3
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 3019
+        width: 177
+        height: 188
+      alignment: 9
+      pivot: {x: -.248587564, y: 1.21808505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fe4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2829
+        width: 248
+        height: 187
+      alignment: 9
+      pivot: {x: -.0201612897, y: 1.22459888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ff0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2822
+        width: 215
+        height: 194
+      alignment: 9
+      pivot: {x: -.097674422, y: 1.19587624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ff1
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 2823
+        width: 166
+        height: 193
+      alignment: 9
+      pivot: {x: -.307228923, y: 1.19689119}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ff2
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2824
+        width: 177
+        height: 192
+      alignment: 9
+      pivot: {x: -.129943505, y: 1.203125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ff3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2824
+        width: 165
+        height: 192
+      alignment: 9
+      pivot: {x: -.290909082, y: 1.203125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ff4
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 2823
+        width: 215
+        height: 193
+      alignment: 9
+      pivot: {x: -.0930232555, y: 1.2020725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fg0
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2834
+        width: 222
+        height: 182
+      alignment: 9
+      pivot: {x: -.0810810775, y: 1.22527468}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fg1
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 2835
+        width: 172
+        height: 181
+      alignment: 9
+      pivot: {x: -.191860467, y: 1.23204422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fg2
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 2834
+        width: 184
+        height: 182
+      alignment: 9
+      pivot: {x: -.097826086, y: 1.23076928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fg3
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 2833
+        width: 165
+        height: 183
+      alignment: 9
+      pivot: {x: -.224242419, y: 1.22950816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fg4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2637
+        width: 223
+        height: 183
+      alignment: 9
+      pivot: {x: -.0672645718, y: 1.22950816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fh0
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 2633
+        width: 247
+        height: 187
+      alignment: 9
+      pivot: {x: -.0242914986, y: 1.24064171}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fh1
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 2633
+        width: 189
+        height: 187
+      alignment: 9
+      pivot: {x: -.0529100522, y: 1.24598932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fh2
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2633
+        width: 185
+        height: 187
+      alignment: 9
+      pivot: {x: -.113513514, y: 1.24598932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fh3
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 2632
+        width: 188
+        height: 188
+      alignment: 9
+      pivot: {x: -.0585106388, y: 1.24468088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fh4
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 2633
+        width: 249
+        height: 187
+      alignment: 9
+      pivot: {x: -.00803212821, y: 1.25133693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fi0
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 2627
+        width: 247
+        height: 193
+      alignment: 9
+      pivot: {x: -.0161943324, y: 1.25906742}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fi1
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 2626
+        width: 190
+        height: 194
+      alignment: 9
+      pivot: {x: 0, y: 1.25773191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fi2
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 2625
+        width: 183
+        height: 195
+      alignment: 9
+      pivot: {x: -.158469945, y: 1.25641024}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fi3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2428
+        width: 188
+        height: 195
+      alignment: 9
+      pivot: {x: 0, y: 1.26153851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fi4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 2428
+        width: 250
+        height: 195
+      alignment: 9
+      pivot: {x: -.0120000001, y: 1.26153851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fj0
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2427
+        width: 218
+        height: 196
+      alignment: 9
+      pivot: {x: -.0871559605, y: 1.27040815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fj1
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2427
+        width: 193
+        height: 196
+      alignment: 9
+      pivot: {x: 0, y: 1.27040815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fj2
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2426
+        width: 182
+        height: 197
+      alignment: 9
+      pivot: {x: -.192307696, y: 1.26903558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fj3
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 2425
+        width: 193
+        height: 198
+      alignment: 9
+      pivot: {x: 0, y: 1.26767671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Fj4
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2424
+        width: 222
+        height: 199
+      alignment: 9
+      pivot: {x: -.0765765756, y: 1.26633167}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Na0
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 2460
+        width: 227
+        height: 163
+      alignment: 9
+      pivot: {x: -.00881057233, y: 1.25766873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Na1
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 2460
+        width: 209
+        height: 163
+      alignment: 9
+      pivot: {x: -.0191387553, y: 1.25766873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Na2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2259
+        width: 182
+        height: 163
+      alignment: 9
+      pivot: {x: -.203296706, y: 1.25766873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Na3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2260
+        width: 209
+        height: 162
+      alignment: 9
+      pivot: {x: -.047846891, y: 1.26543212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Na4
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2260
+        width: 228
+        height: 162
+      alignment: 9
+      pivot: {x: -.109649122, y: 1.26543212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nb0
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2249
+        width: 229
+        height: 173
+      alignment: 9
+      pivot: {x: -.0786026195, y: 1.18497109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nb1
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2251
+        width: 168
+        height: 171
+      alignment: 9
+      pivot: {x: -.226190478, y: 1.1871345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nb2
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2251
+        width: 160
+        height: 171
+      alignment: 9
+      pivot: {x: -.306250006, y: 1.1871345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nb3
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2252
+        width: 223
+        height: 170
+      alignment: 9
+      pivot: {x: -.0672645718, y: 1.18823528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nb4
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2249
+        width: 229
+        height: 173
+      alignment: 9
+      pivot: {x: -.0349344984, y: 1.18497109}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nc0
+      rect:
+        serializedVersion: 2
+        x: 1646
+        y: 2237
+        width: 199
+        height: 185
+      alignment: 9
+      pivot: {x: -.201005027, y: 1.12972975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nc1
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 2236
+        width: 166
+        height: 186
+      alignment: 9
+      pivot: {x: -.427710831, y: 1.12903225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nc2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2049
+        width: 130
+        height: 185
+      alignment: 9
+      pivot: {x: -.607692301, y: 1.12972975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nc3
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2049
+        width: 163
+        height: 185
+      alignment: 9
+      pivot: {x: -.478527606, y: 1.12972975}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nc4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2049
+        width: 197
+        height: 185
+      alignment: 9
+      pivot: {x: -.0913705602, y: 1.12432432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nd0
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2057
+        width: 165
+        height: 177
+      alignment: 9
+      pivot: {x: -.236363634, y: 1.11299431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nd1
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2056
+        width: 165
+        height: 178
+      alignment: 9
+      pivot: {x: -.272727281, y: 1.10674155}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nd2
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2055
+        width: 147
+        height: 179
+      alignment: 9
+      pivot: {x: -.401360542, y: 1.10055864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nd3
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2056
+        width: 144
+        height: 178
+      alignment: 9
+      pivot: {x: -.590277791, y: 1.10112357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nd4
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 2056
+        width: 163
+        height: 178
+      alignment: 9
+      pivot: {x: -.325153381, y: 1.10112357}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ne0
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 2061
+        width: 216
+        height: 173
+      alignment: 9
+      pivot: {x: -.138888896, y: 1.31213868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ne1
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 2061
+        width: 171
+        height: 173
+      alignment: 9
+      pivot: {x: -.257309943, y: 1.31213868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ne2
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 2060
+        width: 100
+        height: 174
+      alignment: 9
+      pivot: {x: -.699999988, y: 1.30459774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ne3
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2060
+        width: 165
+        height: 174
+      alignment: 9
+      pivot: {x: -.224242419, y: 1.30459774}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ne4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1875
+        width: 216
+        height: 172
+      alignment: 9
+      pivot: {x: -.0462962948, y: 1.31395352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nf0
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1912
+        width: 229
+        height: 135
+      alignment: 9
+      pivot: {x: -.0742358044, y: 1.49629629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nf1
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1912
+        width: 180
+        height: 135
+      alignment: 9
+      pivot: {x: -.027777778, y: 1.49629629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nf2
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1912
+        width: 126
+        height: 135
+      alignment: 9
+      pivot: {x: -.40476191, y: 1.49629629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nf3
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1912
+        width: 182
+        height: 135
+      alignment: 9
+      pivot: {x: -.0604395606, y: 1.49629629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nf4
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1912
+        width: 231
+        height: 135
+      alignment: 9
+      pivot: {x: -.038961038, y: 1.49629629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ng0
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1890
+        width: 232
+        height: 157
+      alignment: 9
+      pivot: {x: -.081896551, y: 1.36942673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ng1
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 1890
+        width: 187
+        height: 157
+      alignment: 9
+      pivot: {x: -.0213903747, y: 1.36942673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ng2
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1890
+        width: 131
+        height: 157
+      alignment: 9
+      pivot: {x: -.450381666, y: 1.36942673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ng3
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1891
+        width: 213
+        height: 156
+      alignment: 9
+      pivot: {x: 0, y: 1.37820518}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ng4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1716
+        width: 247
+        height: 157
+      alignment: 9
+      pivot: {x: -.0121457493, y: 1.3757962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nh0
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1689
+        width: 253
+        height: 184
+      alignment: 9
+      pivot: {x: -.00395256933, y: 1.28260875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nh1
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1689
+        width: 201
+        height: 184
+      alignment: 9
+      pivot: {x: 0, y: 1.28260875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nh2
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1689
+        width: 150
+        height: 184
+      alignment: 9
+      pivot: {x: -.346666664, y: 1.28260875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nh3
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1689
+        width: 194
+        height: 184
+      alignment: 9
+      pivot: {x: 0, y: 1.2880435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Nh4
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1688
+        width: 255
+        height: 185
+      alignment: 9
+      pivot: {x: 0, y: 1.28648651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ni0
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1682
+        width: 200
+        height: 191
+      alignment: 9
+      pivot: {x: -.189999998, y: 1.17277491}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ni1
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 1688
+        width: 199
+        height: 185
+      alignment: 9
+      pivot: {x: -.0402010046, y: 1.21621621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ni2
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 1686
+        width: 197
+        height: 187
+      alignment: 9
+      pivot: {x: -.0812182724, y: 1.20855618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ni3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1493
+        width: 190
+        height: 187
+      alignment: 9
+      pivot: {x: -.042105265, y: 1.20855618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Ni4
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1493
+        width: 211
+        height: 187
+      alignment: 9
+      pivot: {x: -.0805687234, y: 1.21390378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Sa0
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1499
+        width: 138
+        height: 181
+      alignment: 9
+      pivot: {x: -.427536219, y: 1.13259673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Sa1
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1499
+        width: 174
+        height: 181
+      alignment: 9
+      pivot: {x: -.201149419, y: 1.13259673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Sa2
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1498
+        width: 210
+        height: 182
+      alignment: 9
+      pivot: {x: -.0619047619, y: 1.12637365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Sa3
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1498
+        width: 175
+        height: 182
+      alignment: 9
+      pivot: {x: -.194285721, y: 1.12637365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Sa4
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1498
+        width: 140
+        height: 182
+      alignment: 9
+      pivot: {x: -.407142848, y: 1.12637365}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wa0
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 1492
+        width: 182
+        height: 188
+      alignment: 9
+      pivot: {x: -.208791211, y: 1.0691489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wa1
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1491
+        width: 170
+        height: 189
+      alignment: 9
+      pivot: {x: -.19411765, y: 1.06349206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wa2
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 1491
+        width: 218
+        height: 189
+      alignment: 9
+      pivot: {x: -.0412844047, y: 1.06349206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wa3
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1490
+        width: 175
+        height: 190
+      alignment: 9
+      pivot: {x: -.165714279, y: 1.05789471}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wa4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1299
+        width: 183
+        height: 189
+      alignment: 9
+      pivot: {x: -.191256836, y: 1.06349206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wb0
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1327
+        width: 250
+        height: 161
+      alignment: 9
+      pivot: {x: -.0120000001, y: 1.21118009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wb1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1326
+        width: 197
+        height: 162
+      alignment: 9
+      pivot: {x: -.101522841, y: 1.20370376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wb2
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1325
+        width: 226
+        height: 163
+      alignment: 9
+      pivot: {x: -.0221238937, y: 1.19631898}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wb3
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1326
+        width: 203
+        height: 162
+      alignment: 9
+      pivot: {x: -.0886699483, y: 1.20370376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wb4
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1327
+        width: 252
+        height: 161
+      alignment: 9
+      pivot: {x: -.00793650839, y: 1.21118009}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wc0
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1352
+        width: 249
+        height: 136
+      alignment: 9
+      pivot: {x: -.0120481923, y: 1.3897059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wc1
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 1352
+        width: 213
+        height: 136
+      alignment: 9
+      pivot: {x: -.0234741792, y: 1.3897059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wc2
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1354
+        width: 230
+        height: 134
+      alignment: 9
+      pivot: {x: -.0260869563, y: 1.4029851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wc3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1163
+        width: 210
+        height: 134
+      alignment: 9
+      pivot: {x: -.0380952395, y: 1.4029851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wc4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1163
+        width: 252
+        height: 134
+      alignment: 9
+      pivot: {x: -.00793650839, y: 1.4029851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wd0
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1134
+        width: 223
+        height: 163
+      alignment: 9
+      pivot: {x: -.0717488825, y: 1.31901836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wd1
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1135
+        width: 180
+        height: 162
+      alignment: 9
+      pivot: {x: -.161111116, y: 1.3209877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wd2
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1136
+        width: 229
+        height: 161
+      alignment: 9
+      pivot: {x: -.0436681211, y: 1.32919252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wd3
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 1135
+        width: 190
+        height: 162
+      alignment: 9
+      pivot: {x: -.105263159, y: 1.32716048}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wd4
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1135
+        width: 224
+        height: 162
+      alignment: 9
+      pivot: {x: -.0714285746, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480We0
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 1126
+        width: 194
+        height: 171
+      alignment: 9
+      pivot: {x: -.170103088, y: 1.29824567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480We1
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1127
+        width: 166
+        height: 170
+      alignment: 9
+      pivot: {x: -.253012061, y: 1.29999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480We2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 955
+        width: 227
+        height: 169
+      alignment: 9
+      pivot: {x: -.06167401, y: 1.30769229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480We3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 954
+        width: 176
+        height: 170
+      alignment: 9
+      pivot: {x: -.1875, y: 1.30588233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480We4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 954
+        width: 194
+        height: 170
+      alignment: 9
+      pivot: {x: -.14948453, y: 1.31176472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wf0
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 962
+        width: 197
+        height: 162
+      alignment: 9
+      pivot: {x: -.162436545, y: 1.30864203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wf1
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 962
+        width: 169
+        height: 162
+      alignment: 9
+      pivot: {x: -.242603555, y: 1.31481481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wf2
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 962
+        width: 222
+        height: 162
+      alignment: 9
+      pivot: {x: -.0900900885, y: 1.31481481}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wf3
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 963
+        width: 164
+        height: 161
+      alignment: 9
+      pivot: {x: -.268292695, y: 1.32298136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wf4
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 963
+        width: 199
+        height: 161
+      alignment: 9
+      pivot: {x: -.130653262, y: 1.32298136}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wg0
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 978
+        width: 213
+        height: 146
+      alignment: 9
+      pivot: {x: -.10798122, y: 1.35616434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wg1
+      rect:
+        serializedVersion: 2
+        x: 1781
+        y: 978
+        width: 180
+        height: 146
+      alignment: 9
+      pivot: {x: -.172222227, y: 1.35616434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wg2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 805
+        width: 224
+        height: 147
+      alignment: 9
+      pivot: {x: -.0714285746, y: 1.35374153}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wg3
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 805
+        width: 175
+        height: 147
+      alignment: 9
+      pivot: {x: -.194285721, y: 1.3605442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wg4
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 805
+        width: 213
+        height: 147
+      alignment: 9
+      pivot: {x: -.0938967168, y: 1.3605442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wh0
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 810
+        width: 238
+        height: 142
+      alignment: 9
+      pivot: {x: -.0378151275, y: 1.3732394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wh1
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 811
+        width: 194
+        height: 141
+      alignment: 9
+      pivot: {x: -.0876288638, y: 1.38297868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wh2
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 811
+        width: 225
+        height: 141
+      alignment: 9
+      pivot: {x: -.0488888882, y: 1.38297868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wh3
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 811
+        width: 192
+        height: 141
+      alignment: 9
+      pivot: {x: -.0989583358, y: 1.39007092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wh4
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 811
+        width: 239
+        height: 141
+      alignment: 9
+      pivot: {x: -.0334728025, y: 1.39007092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wi0
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 806
+        width: 241
+        height: 146
+      alignment: 9
+      pivot: {x: -.0331950225, y: 1.36986303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wi1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 657
+        width: 197
+        height: 146
+      alignment: 9
+      pivot: {x: -.0304568522, y: 1.36986303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wi2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 657
+        width: 220
+        height: 146
+      alignment: 9
+      pivot: {x: -.0454545468, y: 1.36986303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wi3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 658
+        width: 195
+        height: 145
+      alignment: 9
+      pivot: {x: -.0358974375, y: 1.37931037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wi4
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 658
+        width: 244
+        height: 145
+      alignment: 9
+      pivot: {x: -.0204918031, y: 1.37931037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wj0
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 648
+        width: 195
+        height: 155
+      alignment: 9
+      pivot: {x: -.158974364, y: 1.30967736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wj1
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 648
+        width: 191
+        height: 155
+      alignment: 9
+      pivot: {x: -.0837696344, y: 1.30967736}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wj2
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 647
+        width: 215
+        height: 156
+      alignment: 9
+      pivot: {x: -.0511627905, y: 1.30128205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wj3
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 647
+        width: 190
+        height: 156
+      alignment: 9
+      pivot: {x: -.0842105299, y: 1.30128205}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Wj4
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 646
+        width: 198
+        height: 157
+      alignment: 9
+      pivot: {x: -.141414136, y: 1.29936302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M480Xa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 590
+        width: 235
+        height: 54
+      alignment: 9
+      pivot: {x: -.076595746, y: 4.74074078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

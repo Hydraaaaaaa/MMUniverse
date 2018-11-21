@@ -1,0 +1,1419 @@
+fileFormatVersion: 2
+guid: b6a37714480941e4f9822bb5679f5712
+timeCreated: 1442629691
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: m382aa0
+    21300002: m382aa1
+    21300004: m382aa2
+    21300006: m382aa3
+    21300008: m382aa4
+    21300010: m382ab0
+    21300012: m382ab1
+    21300014: m382ab2
+    21300016: m382ab3
+    21300018: m382ab4
+    21300020: m382ac0
+    21300022: m382ac1
+    21300024: m382ac2
+    21300026: m382ac3
+    21300028: m382ac4
+    21300030: m382ad0
+    21300032: m382ad1
+    21300034: m382ad2
+    21300036: m382ad3
+    21300038: m382ad4
+    21300040: m382ae0
+    21300042: m382ae1
+    21300044: m382ae2
+    21300046: m382ae3
+    21300048: m382ae4
+    21300050: m382af0
+    21300052: m382af1
+    21300054: m382af2
+    21300056: m382af3
+    21300058: m382af4
+    21300060: m382ag0
+    21300062: m382ag1
+    21300064: m382ag2
+    21300066: m382ag3
+    21300068: m382ag4
+    21300070: m382ah0
+    21300072: m382ah1
+    21300074: m382ah2
+    21300076: m382ah3
+    21300078: m382ah4
+    21300080: m382da0
+    21300082: m382db0
+    21300084: m382dc0
+    21300086: m382dd0
+    21300088: m382fa0
+    21300090: m382fb0
+    21300092: m382fc0
+    21300094: m382fd0
+    21300096: m382na0
+    21300098: m382na1
+    21300100: m382na2
+    21300102: m382na3
+    21300104: m382na4
+    21300106: m382nb0
+    21300108: m382nb1
+    21300110: m382nb2
+    21300112: m382nb3
+    21300114: m382nb4
+    21300116: m382nc0
+    21300118: m382nc1
+    21300120: m382nc2
+    21300122: m382nc3
+    21300124: m382nc4
+    21300126: m382nd0
+    21300128: m382nd1
+    21300130: m382nd2
+    21300132: m382nd3
+    21300134: m382nd4
+    21300136: m382ne0
+    21300138: m382ne1
+    21300140: m382ne2
+    21300142: m382ne3
+    21300144: m382ne4
+    21300146: m382nf0
+    21300148: m382nf1
+    21300150: m382nf2
+    21300152: m382nf3
+    21300154: m382nf4
+    21300156: m382sa0
+    21300158: m382sa1
+    21300160: m382sa2
+    21300162: m382sa3
+    21300164: m382sa4
+    21300166: m382wa0
+    21300168: m382wa1
+    21300170: m382wa2
+    21300172: m382wa3
+    21300174: m382wa4
+    21300176: m382wb0
+    21300178: m382wb1
+    21300180: m382wb2
+    21300182: m382wb3
+    21300184: m382wb4
+    21300186: m382wc0
+    21300188: m382wc1
+    21300190: m382wc2
+    21300192: m382wc3
+    21300194: m382wc4
+    21300196: m382wd0
+    21300198: m382wd1
+    21300200: m382wd2
+    21300202: m382wd3
+    21300204: m382wd4
+    21300206: m382we0
+    21300208: m382we1
+    21300210: m382we2
+    21300212: m382we3
+    21300214: m382we4
+    21300216: m382wf0
+    21300218: m382wf1
+    21300220: m382wf2
+    21300222: m382wf3
+    21300224: m382wf4
+    21300226: m382wg0
+    21300228: m382wg1
+    21300230: m382wg2
+    21300232: m382wg3
+    21300234: m382wg4
+    21300236: m382wh0
+    21300238: m382wh1
+    21300240: m382wh2
+    21300242: m382wh3
+    21300244: m382wh4
+    21300246: m382xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: m382aa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1976
+        width: 85
+        height: 70
+      alignment: 9
+      pivot: {x: -.988235295, y: 3.65714288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382aa1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1976
+        width: 160
+        height: 70
+      alignment: 9
+      pivot: {x: -.331250012, y: 3.65714288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382aa2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1976
+        width: 191
+        height: 70
+      alignment: 9
+      pivot: {x: -.261780113, y: 3.65714288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382aa3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1976
+        width: 134
+        height: 70
+      alignment: 9
+      pivot: {x: -.619403005, y: 3.65714288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382aa4
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1976
+        width: 84
+        height: 70
+      alignment: 9
+      pivot: {x: -1.0476191, y: 3.65714288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ab0
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1971
+        width: 89
+        height: 75
+      alignment: 9
+      pivot: {x: -.910112381, y: 3.41333342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ab1
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1971
+        width: 154
+        height: 75
+      alignment: 9
+      pivot: {x: -.33116883, y: 3.41333342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ab2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1894
+        width: 187
+        height: 75
+      alignment: 9
+      pivot: {x: -.235294119, y: 3.41333342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ab3
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1894
+        width: 133
+        height: 75
+      alignment: 9
+      pivot: {x: -.571428597, y: 3.41333342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ab4
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1893
+        width: 88
+        height: 76
+      alignment: 9
+      pivot: {x: -.977272749, y: 3.36842108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ac0
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1865
+        width: 76
+        height: 104
+      alignment: 9
+      pivot: {x: -1.03947365, y: 2.46153855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ac1
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1864
+        width: 164
+        height: 105
+      alignment: 9
+      pivot: {x: -.176829264, y: 2.43809533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ac2
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1864
+        width: 198
+        height: 105
+      alignment: 9
+      pivot: {x: -.0707070678, y: 2.43809533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ac3
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1865
+        width: 146
+        height: 104
+      alignment: 9
+      pivot: {x: -.39041096, y: 2.46153855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ac4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1757
+        width: 76
+        height: 105
+      alignment: 9
+      pivot: {x: -1.32894742, y: 2.43809533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ad0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1725
+        width: 65
+        height: 137
+      alignment: 9
+      pivot: {x: -1.38461542, y: 1.86861312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ad1
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1726
+        width: 148
+        height: 136
+      alignment: 9
+      pivot: {x: -.182432428, y: 1.88235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ad2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1725
+        width: 165
+        height: 137
+      alignment: 9
+      pivot: {x: -.0727272704, y: 1.86861312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ad3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1726
+        width: 111
+        height: 136
+      alignment: 9
+      pivot: {x: -.486486495, y: 1.88235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ad4
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1725
+        width: 66
+        height: 137
+      alignment: 9
+      pivot: {x: -1.530303, y: 1.86861312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ae0
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1771
+        width: 89
+        height: 91
+      alignment: 9
+      pivot: {x: -.910112381, y: 2.81318688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ae1
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1771
+        width: 165
+        height: 91
+      alignment: 9
+      pivot: {x: -.25454545, y: 2.81318688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ae2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1632
+        width: 235
+        height: 91
+      alignment: 9
+      pivot: {x: -.0893617049, y: 2.81318688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ae3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1632
+        width: 186
+        height: 91
+      alignment: 9
+      pivot: {x: -.333333343, y: 2.81318688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ae4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1632
+        width: 87
+        height: 91
+      alignment: 9
+      pivot: {x: -1, y: 2.81318688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382af0
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1618
+        width: 72
+        height: 105
+      alignment: 9
+      pivot: {x: -1.36111116, y: 2.43809533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382af1
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1618
+        width: 174
+        height: 105
+      alignment: 9
+      pivot: {x: -.25287357, y: 2.43809533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382af2
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1618
+        width: 202
+        height: 105
+      alignment: 9
+      pivot: {x: -.138613865, y: 2.43809533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382af3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1511
+        width: 131
+        height: 105
+      alignment: 9
+      pivot: {x: -.519083977, y: 2.43809533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382af4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1511
+        width: 73
+        height: 105
+      alignment: 9
+      pivot: {x: -1.17808223, y: 2.43809533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ag0
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1531
+        width: 86
+        height: 85
+      alignment: 9
+      pivot: {x: -.976744175, y: 3.01176476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ag1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1531
+        width: 156
+        height: 85
+      alignment: 9
+      pivot: {x: -.346153855, y: 3.01176476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ag2
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1531
+        width: 198
+        height: 85
+      alignment: 9
+      pivot: {x: -.181818187, y: 3.01176476}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ag3
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1532
+        width: 143
+        height: 84
+      alignment: 9
+      pivot: {x: -.461538464, y: 3.0476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ag4
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1532
+        width: 85
+        height: 84
+      alignment: 9
+      pivot: {x: -1.01176476, y: 3.0476191}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ah0
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1557
+        width: 92
+        height: 59
+      alignment: 9
+      pivot: {x: -.847826064, y: 4.33898306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ah1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1450
+        width: 181
+        height: 59
+      alignment: 9
+      pivot: {x: -.176795587, y: 4.33898306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ah2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1450
+        width: 206
+        height: 59
+      alignment: 9
+      pivot: {x: -.150485441, y: 4.33898306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ah3
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1450
+        width: 146
+        height: 59
+      alignment: 9
+      pivot: {x: -.472602725, y: 4.33898306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ah4
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1450
+        width: 91
+        height: 59
+      alignment: 9
+      pivot: {x: -.945054948, y: 4.33898306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382da0
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1392
+        width: 174
+        height: 117
+      alignment: 9
+      pivot: {x: -.218390808, y: 2.1880343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382db0
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1382
+        width: 133
+        height: 127
+      alignment: 9
+      pivot: {x: -.458646625, y: 2.00787401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382dc0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1281
+        width: 84
+        height: 99
+      alignment: 9
+      pivot: {x: -1, y: 2.58585858}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382dd0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1314
+        width: 171
+        height: 66
+      alignment: 9
+      pivot: {x: -.23391813, y: 3.87878799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382fa0
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1319
+        width: 92
+        height: 61
+      alignment: 9
+      pivot: {x: -.858695626, y: 4.19672108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382fb0
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1317
+        width: 89
+        height: 63
+      alignment: 9
+      pivot: {x: -.910112381, y: 4.0634923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382fc0
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1315
+        width: 88
+        height: 65
+      alignment: 9
+      pivot: {x: -.931818187, y: 3.93846154}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382fd0
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1309
+        width: 89
+        height: 71
+      alignment: 9
+      pivot: {x: -.910112381, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382na0
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1320
+        width: 89
+        height: 60
+      alignment: 9
+      pivot: {x: -.910112381, y: 4.26666689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382na1
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1320
+        width: 169
+        height: 60
+      alignment: 9
+      pivot: {x: -.260355026, y: 4.26666689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382na2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1219
+        width: 200
+        height: 60
+      alignment: 9
+      pivot: {x: -.180000007, y: 4.26666689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382na3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1219
+        width: 145
+        height: 60
+      alignment: 9
+      pivot: {x: -.489655167, y: 4.26666689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382na4
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1219
+        width: 89
+        height: 60
+      alignment: 9
+      pivot: {x: -.966292143, y: 4.26666689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nb0
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1192
+        width: 186
+        height: 87
+      alignment: 9
+      pivot: {x: -.172043011, y: 2.94252872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nb1
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1192
+        width: 152
+        height: 87
+      alignment: 9
+      pivot: {x: -.467105269, y: 2.94252872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nb2
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1192
+        width: 201
+        height: 87
+      alignment: 9
+      pivot: {x: -.154228851, y: 2.94252872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nb3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1103
+        width: 179
+        height: 87
+      alignment: 9
+      pivot: {x: -.251396656, y: 2.94252872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nb4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1103
+        width: 185
+        height: 87
+      alignment: 9
+      pivot: {x: -.205405399, y: 2.94252872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nc0
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1057
+        width: 186
+        height: 133
+      alignment: 9
+      pivot: {x: -.172043011, y: 1.92481208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nc1
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1057
+        width: 152
+        height: 133
+      alignment: 9
+      pivot: {x: -.467105269, y: 1.92481208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nc2
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1057
+        width: 206
+        height: 133
+      alignment: 9
+      pivot: {x: -.131067961, y: 1.92481208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nc3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 922
+        width: 184
+        height: 133
+      alignment: 9
+      pivot: {x: -.222826093, y: 1.92481208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nc4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 922
+        width: 185
+        height: 133
+      alignment: 9
+      pivot: {x: -.21081081, y: 1.92481208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nd0
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 935
+        width: 179
+        height: 120
+      alignment: 9
+      pivot: {x: -.189944133, y: 2.13333344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nd1
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 935
+        width: 139
+        height: 120
+      alignment: 9
+      pivot: {x: -.597122312, y: 2.13333344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nd2
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 935
+        width: 169
+        height: 120
+      alignment: 9
+      pivot: {x: -.384615391, y: 2.13333344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nd3
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 936
+        width: 151
+        height: 119
+      alignment: 9
+      pivot: {x: -.49006623, y: 2.15126061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nd4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 801
+        width: 177
+        height: 119
+      alignment: 9
+      pivot: {x: -.248587564, y: 2.15126061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ne0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 797
+        width: 158
+        height: 123
+      alignment: 9
+      pivot: {x: -.284810126, y: 2.08130074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ne1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 797
+        width: 140
+        height: 123
+      alignment: 9
+      pivot: {x: -.557142854, y: 2.08130074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ne2
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 798
+        width: 185
+        height: 122
+      alignment: 9
+      pivot: {x: -.270270258, y: 2.09836054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ne3
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 798
+        width: 158
+        height: 122
+      alignment: 9
+      pivot: {x: -.411392391, y: 2.09836054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382ne4
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 798
+        width: 156
+        height: 122
+      alignment: 9
+      pivot: {x: -.346153855, y: 2.09836054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nf0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 735
+        width: 122
+        height: 60
+      alignment: 9
+      pivot: {x: -.516393423, y: 4.26666689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nf1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 735
+        width: 175
+        height: 60
+      alignment: 9
+      pivot: {x: -.21714285, y: 4.26666689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nf2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 735
+        width: 224
+        height: 60
+      alignment: 9
+      pivot: {x: -.0535714291, y: 4.26666689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nf3
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 735
+        width: 162
+        height: 60
+      alignment: 9
+      pivot: {x: -.333333343, y: 4.26666689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382nf4
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 735
+        width: 121
+        height: 60
+      alignment: 9
+      pivot: {x: -.586776853, y: 4.26666689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382sa0
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 735
+        width: 89
+        height: 60
+      alignment: 9
+      pivot: {x: -.910112381, y: 4.26666689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382sa1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 673
+        width: 169
+        height: 60
+      alignment: 9
+      pivot: {x: -.260355026, y: 4.26666689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382sa2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 673
+        width: 200
+        height: 60
+      alignment: 9
+      pivot: {x: -.180000007, y: 4.26666689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382sa3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 673
+        width: 145
+        height: 60
+      alignment: 9
+      pivot: {x: -.489655167, y: 4.26666689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382sa4
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 673
+        width: 89
+        height: 60
+      alignment: 9
+      pivot: {x: -.966292143, y: 4.26666689}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wa0
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 667
+        width: 88
+        height: 66
+      alignment: 9
+      pivot: {x: -1.0454545, y: 3.87878799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wa1
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 667
+        width: 141
+        height: 66
+      alignment: 9
+      pivot: {x: -.510638297, y: 3.87878799}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wa2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 598
+        width: 215
+        height: 67
+      alignment: 9
+      pivot: {x: -.0930232555, y: 3.82089543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wa3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 598
+        width: 184
+        height: 67
+      alignment: 9
+      pivot: {x: -.173913047, y: 3.82089543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wa4
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 598
+        width: 88
+        height: 67
+      alignment: 9
+      pivot: {x: -.863636374, y: 3.82089543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wb0
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 596
+        width: 90
+        height: 69
+      alignment: 9
+      pivot: {x: -.98888886, y: 3.710145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wb1
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 596
+        width: 144
+        height: 69
+      alignment: 9
+      pivot: {x: -.479166657, y: 3.710145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wb2
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 596
+        width: 216
+        height: 69
+      alignment: 9
+      pivot: {x: -.0972222239, y: 3.710145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wb3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 525
+        width: 180
+        height: 69
+      alignment: 9
+      pivot: {x: -.177777782, y: 3.710145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wb4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 525
+        width: 89
+        height: 69
+      alignment: 9
+      pivot: {x: -.865168512, y: 3.710145}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wc0
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 523
+        width: 99
+        height: 71
+      alignment: 9
+      pivot: {x: -.808080792, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wc1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 523
+        width: 162
+        height: 71
+      alignment: 9
+      pivot: {x: -.333333343, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wc2
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 523
+        width: 219
+        height: 71
+      alignment: 9
+      pivot: {x: -.0821917802, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wc3
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 523
+        width: 153
+        height: 71
+      alignment: 9
+      pivot: {x: -.411764711, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wc4
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 523
+        width: 97
+        height: 71
+      alignment: 9
+      pivot: {x: -.8041237, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wd0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 451
+        width: 102
+        height: 70
+      alignment: 9
+      pivot: {x: -.715686262, y: 3.65714288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wd1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 451
+        width: 185
+        height: 70
+      alignment: 9
+      pivot: {x: -.221621618, y: 3.65714288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wd2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 451
+        width: 222
+        height: 70
+      alignment: 9
+      pivot: {x: -.0675675645, y: 3.65714288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wd3
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 451
+        width: 160
+        height: 70
+      alignment: 9
+      pivot: {x: -.356249988, y: 3.65714288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wd4
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 451
+        width: 101
+        height: 70
+      alignment: 9
+      pivot: {x: -.811881185, y: 3.65714288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382we0
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 454
+        width: 100
+        height: 67
+      alignment: 9
+      pivot: {x: -.680000007, y: 3.82089543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382we1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 382
+        width: 186
+        height: 67
+      alignment: 9
+      pivot: {x: -.182795703, y: 3.82089543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382we2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 382
+        width: 207
+        height: 67
+      alignment: 9
+      pivot: {x: -.14009662, y: 3.82089543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382we3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 382
+        width: 129
+        height: 67
+      alignment: 9
+      pivot: {x: -.674418628, y: 3.82089543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382we4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 382
+        width: 99
+        height: 67
+      alignment: 9
+      pivot: {x: -.898989916, y: 3.82089543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wf0
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 381
+        width: 98
+        height: 68
+      alignment: 9
+      pivot: {x: -.632653058, y: 3.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wf1
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 381
+        width: 181
+        height: 68
+      alignment: 9
+      pivot: {x: -.154696137, y: 3.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wf2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 311
+        width: 214
+        height: 68
+      alignment: 9
+      pivot: {x: -.107476637, y: 3.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wf3
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 311
+        width: 147
+        height: 68
+      alignment: 9
+      pivot: {x: -.510204077, y: 3.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wf4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 311
+        width: 98
+        height: 68
+      alignment: 9
+      pivot: {x: -.96938777, y: 3.7647059}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wg0
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 308
+        width: 113
+        height: 71
+      alignment: 9
+      pivot: {x: -.504424751, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wg1
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 308
+        width: 173
+        height: 71
+      alignment: 9
+      pivot: {x: -.231213868, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wg2
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 308
+        width: 223
+        height: 71
+      alignment: 9
+      pivot: {x: -.0582959652, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wg3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 235
+        width: 175
+        height: 71
+      alignment: 9
+      pivot: {x: -.297142863, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wg4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 235
+        width: 112
+        height: 71
+      alignment: 9
+      pivot: {x: -.767857134, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wh0
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 235
+        width: 121
+        height: 71
+      alignment: 9
+      pivot: {x: -.46280992, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wh1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 235
+        width: 165
+        height: 71
+      alignment: 9
+      pivot: {x: -.303030312, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wh2
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 235
+        width: 223
+        height: 71
+      alignment: 9
+      pivot: {x: -.0627802685, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wh3
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 235
+        width: 193
+        height: 71
+      alignment: 9
+      pivot: {x: -.227979273, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382wh4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 119
+        height: 71
+      alignment: 9
+      pivot: {x: -.672268927, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m382xa0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 185
+        width: 172
+        height: 48
+      alignment: 9
+      pivot: {x: -.244186044, y: 5.33333349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,671 @@
+fileFormatVersion: 2
+guid: e90463cda9de9474f8bba7bbd33a1654
+timeCreated: 1442630114
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M206AA0
+    21300002: M206AB0
+    21300004: M206AC0
+    21300006: M206AD0
+    21300008: M206AE0
+    21300010: M206AF0
+    21300012: M206AG0
+    21300014: M206AH0
+    21300016: M206AI0
+    21300018: M206AJ0
+    21300020: M206AK0
+    21300022: M206AL0
+    21300024: M206AM0
+    21300026: M206AN0
+    21300028: M206AO0
+    21300030: M206AP0
+    21300032: M206AQ0
+    21300034: M206AR0
+    21300036: M206AS0
+    21300038: M206AT0
+    21300040: M206DA0
+    21300042: M206DB0
+    21300044: M206DC0
+    21300046: M206DD0
+    21300048: M206DE0
+    21300050: M206DF0
+    21300052: M206DG0
+    21300054: M206DH0
+    21300056: M206DI0
+    21300058: M206DJ0
+    21300060: M206DK0
+    21300062: M206DL0
+    21300064: M206DM0
+    21300066: M206DN0
+    21300068: M206DO0
+    21300070: M206DP0
+    21300072: M206DQ0
+    21300074: M206WA0
+    21300076: M206WB0
+    21300078: M206WC0
+    21300080: M206WD0
+    21300082: M206WE0
+    21300084: M206WF0
+    21300086: M206WG0
+    21300088: M206WH0
+    21300090: M206WI0
+    21300092: M206WJ0
+    21300094: M206WK0
+    21300096: M206WL0
+    21300098: M206WM0
+    21300100: M206WN0
+    21300102: M206WO0
+    21300104: M206WP0
+    21300106: M206WQ0
+    21300108: M206WR0
+    21300110: M206WS0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: M206AA0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 967
+        width: 79
+        height: 55
+      alignment: 9
+      pivot: {x: -.303797454, y: 1.89090908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AB0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 957
+        width: 67
+        height: 65
+      alignment: 9
+      pivot: {x: -.432835817, y: 1.69230771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AC0
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 944
+        width: 69
+        height: 78
+      alignment: 9
+      pivot: {x: -.405797094, y: 1.46153843}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AD0
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 932
+        width: 66
+        height: 90
+      alignment: 9
+      pivot: {x: -.454545468, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AE0
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 932
+        width: 67
+        height: 90
+      alignment: 9
+      pivot: {x: -.432835817, y: 1.27777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AF0
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 921
+        width: 66
+        height: 101
+      alignment: 9
+      pivot: {x: -.424242437, y: 1.18811882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AG0
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 921
+        width: 67
+        height: 101
+      alignment: 9
+      pivot: {x: -.432835817, y: 1.17821777}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AH0
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 925
+        width: 74
+        height: 97
+      alignment: 9
+      pivot: {x: -.337837845, y: 1.16494846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AI0
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 927
+        width: 74
+        height: 95
+      alignment: 9
+      pivot: {x: -.310810804, y: 1.15789473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AJ0
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 934
+        width: 78
+        height: 88
+      alignment: 9
+      pivot: {x: -.256410271, y: 1.1704545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AK0
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 925
+        width: 80
+        height: 97
+      alignment: 9
+      pivot: {x: -.237499997, y: 1.16494846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AL0
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 913
+        width: 115
+        height: 109
+      alignment: 9
+      pivot: {x: -.0260869563, y: 1.14678895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AM0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 805
+        width: 119
+        height: 106
+      alignment: 9
+      pivot: {x: -.075630255, y: 1.17924523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AN0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 808
+        width: 111
+        height: 103
+      alignment: 9
+      pivot: {x: -.0720720738, y: 1.21359229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AO0
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 820
+        width: 104
+        height: 91
+      alignment: 9
+      pivot: {x: -.163461536, y: 1.40659344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AP0
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 836
+        width: 109
+        height: 75
+      alignment: 9
+      pivot: {x: -.110091746, y: 1.5866667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AQ0
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 826
+        width: 107
+        height: 85
+      alignment: 9
+      pivot: {x: -.0934579447, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AR0
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 840
+        width: 113
+        height: 71
+      alignment: 9
+      pivot: {x: -.0707964599, y: 1.63380277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AS0
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 836
+        width: 105
+        height: 75
+      alignment: 9
+      pivot: {x: -.180952385, y: 1.61333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206AT0
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 832
+        width: 92
+        height: 79
+      alignment: 9
+      pivot: {x: -.336956531, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DA0
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 843
+        width: 89
+        height: 68
+      alignment: 9
+      pivot: {x: -.191011235, y: 1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DB0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 731
+        width: 86
+        height: 72
+      alignment: 9
+      pivot: {x: -.244186044, y: 1.48611116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DC0
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 725
+        width: 69
+        height: 78
+      alignment: 9
+      pivot: {x: -.391304344, y: 1.48717952}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DD0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 715
+        width: 65
+        height: 88
+      alignment: 9
+      pivot: {x: -.461538464, y: 1.4204545}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DE0
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 706
+        width: 78
+        height: 97
+      alignment: 9
+      pivot: {x: -.307692319, y: 1.26804125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DF0
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 692
+        width: 93
+        height: 111
+      alignment: 9
+      pivot: {x: -.182795703, y: 1.15315318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DG0
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 695
+        width: 105
+        height: 108
+      alignment: 9
+      pivot: {x: -.104761906, y: 1.0925926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DH0
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 684
+        width: 115
+        height: 119
+      alignment: 9
+      pivot: {x: -.0434782617, y: 1.05882359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DI0
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 682
+        width: 122
+        height: 121
+      alignment: 9
+      pivot: {x: -.00819672085, y: 1.0578512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DJ0
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 687
+        width: 123
+        height: 116
+      alignment: 9
+      pivot: {x: 0, y: 1.08620691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DK0
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 691
+        width: 120
+        height: 112
+      alignment: 9
+      pivot: {x: -.00833333377, y: 1.14285719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DL0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 629
+        width: 71
+        height: 51
+      alignment: 9
+      pivot: {x: -.366197169, y: 1.9803921}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DM0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 622
+        width: 63
+        height: 58
+      alignment: 9
+      pivot: {x: -.555555582, y: 1.87931037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DN0
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 624
+        width: 52
+        height: 56
+      alignment: 9
+      pivot: {x: -.673076928, y: 1.98214281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DO0
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 621
+        width: 52
+        height: 59
+      alignment: 9
+      pivot: {x: -.653846145, y: 1.93220341}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DP0
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 622
+        width: 46
+        height: 58
+      alignment: 9
+      pivot: {x: -.760869563, y: 2.10344839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206DQ0
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 669
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: -5.75, y: 7.63636351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WA0
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 612
+        width: 90
+        height: 68
+      alignment: 9
+      pivot: {x: -.188888893, y: 1.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WB0
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 606
+        width: 87
+        height: 74
+      alignment: 9
+      pivot: {x: -.25287357, y: 1.47297299}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WC0
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 601
+        width: 64
+        height: 79
+      alignment: 9
+      pivot: {x: -.5, y: 1.4810127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WD0
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 594
+        width: 68
+        height: 86
+      alignment: 9
+      pivot: {x: -.441176474, y: 1.41860461}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WE0
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 591
+        width: 77
+        height: 89
+      alignment: 9
+      pivot: {x: -.350649357, y: 1.3820225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WF0
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 583
+        width: 77
+        height: 97
+      alignment: 9
+      pivot: {x: -.363636374, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WG0
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 583
+        width: 79
+        height: 97
+      alignment: 9
+      pivot: {x: -.316455692, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WH0
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 586
+        width: 82
+        height: 94
+      alignment: 9
+      pivot: {x: -.292682916, y: 1.3191489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WI0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 510
+        width: 85
+        height: 71
+      alignment: 9
+      pivot: {x: -.270588249, y: 1.40845072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WJ0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 518
+        width: 87
+        height: 63
+      alignment: 9
+      pivot: {x: -.241379306, y: 1.46031749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WK0
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 517
+        width: 74
+        height: 64
+      alignment: 9
+      pivot: {x: -.351351351, y: 1.484375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WL0
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 510
+        width: 70
+        height: 71
+      alignment: 9
+      pivot: {x: -.371428579, y: 1.45070422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WM0
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 508
+        width: 70
+        height: 73
+      alignment: 9
+      pivot: {x: -.371428579, y: 1.46575344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WN0
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 504
+        width: 69
+        height: 77
+      alignment: 9
+      pivot: {x: -.391304344, y: 1.44155848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WO0
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 496
+        width: 76
+        height: 85
+      alignment: 9
+      pivot: {x: -.302631587, y: 1.35294116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WP0
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 491
+        width: 79
+        height: 90
+      alignment: 9
+      pivot: {x: -.278481007, y: 1.34444439}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WQ0
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 495
+        width: 81
+        height: 86
+      alignment: 9
+      pivot: {x: -.246913582, y: 1.36046517}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WR0
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 500
+        width: 81
+        height: 81
+      alignment: 9
+      pivot: {x: -.271604925, y: 1.38271606}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M206WS0
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 514
+        width: 83
+        height: 67
+      alignment: 9
+      pivot: {x: -.277108431, y: 1.49253726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

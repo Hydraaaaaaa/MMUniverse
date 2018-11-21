@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: a9cd9fdd8f831d74a9091172d5d6736c
+timeCreated: 1440778541
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC17Bod
+    21300002: PC17Lad
+    21300004: PC17Lau
+    21300006: PC17Lh
+    21300008: PC17Lhu
+    21300010: PC17Rh
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC17Bod
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 157
+        width: 173
+        height: 353
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC17Lad
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 389
+        width: 47
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC17Lau
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 77
+        width: 104
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC17Lh
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 383
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC17Lhu
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 432
+        width: 20
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC17Rh
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 407
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

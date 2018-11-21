@@ -1,0 +1,1321 @@
+fileFormatVersion: 2
+guid: 5043e8e644ef09c459d2bff2e47af990
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 1_W
+    100002: 2_W
+    100004: 2Story_S
+    100006: 3_W
+    100008: 3_way_signE
+    100010: 4_W
+    100012: 5_W
+    100014: 6_W
+    100016: 7_W
+    100018: _Ground_
+    100020: _Ground__MeshPart0
+    100022: _Ground__MeshPart1
+    100024: AirGuild_S
+    100026: Alchemist_N
+    100028: Anvil_N
+    100030: Armory1_W
+    100032: Boat_2a01_N
+    100034: Boat_2b01_N
+    100036: Boat_2c01_N
+    100038: Boat_2d01_N
+    100040: Boat_2e01_N
+    100042: Boat_2f01_Mastprt1_
+    100044: Boat_2g01_Mastprt2_
+    100046: Boat_2h01_FrntMast_
+    100048: BodyGuild_N
+    100050: Bridge1_S
+    100052: Cart1_N
+    100054: Cart2_N
+    100056: Cart3_N
+    100058: Cart4_N
+    100060: CaveFall1a
+    100062: CaveFall2_
+    100064: CaveFall3e
+    100066: CaveFall4_E
+    100068: chest_N
+    100070: cover
+    100072: Crate
+    100074: Crate_1
+    100076: Crate_2
+    100078: Crate_3
+    100080: Crate_4
+    100082: DockPrt1_N
+    100084: DockPrt2_N
+    100086: DockPrt3_N
+    100088: DragonCave1_E
+    100090: DragonCave2_E
+    100092: DragonCave3_E
+    100094: FireGuild_E
+    100096: HealerTent_S
+    100098: HseM1_S
+    100100: keg
+    100102: keg_1
+    100104: keg_2
+    100106: keghigh
+    100108: MagicGuild_S
+    100110: MedHousePart1_E
+    100112: MedHousePart2_E
+    100114: OpenHouse_E
+    100116: //RootNode
+    100118: Part1_E
+    100120: Part2_E
+    100122: Part3_E
+    100124: Part4_E
+    100126: Part5_E
+    100128: PoorDwelling_S
+    100130: PoorDwelling_S_1
+    100132: sign_airE
+    100134: sign_alchemyN
+    100136: sign_armoryW
+    100138: sign_bodyW
+    100140: sign_fireN
+    100142: sign_magicW
+    100144: sign_SpiritW
+    100146: sign_templeS
+    100148: sign_trainingN
+    100150: sign_weaponW
+    100152: SpiritGuild_W
+    100154: Tavern_E
+    100156: TownSign_S
+    100158: Training2_N
+    100160: Training_Tutorial
+    100162: Tut02
+    100164: Tut02_1
+    100166: Tut02_10
+    100168: Tut02_11
+    100170: Tut02_12
+    100172: Tut02_13
+    100174: Tut02_2
+    100176: Tut02_3
+    100178: Tut02_4
+    100180: Tut02_5
+    100182: Tut02_6
+    100184: Tut02_7
+    100186: Tut02_8
+    100188: Tut02_9
+    100190: Weaponsmith_W
+    100192: Well_E
+    100194: Well_E_1
+    100196: Well_E_2
+    100198: Well_E_3
+    100200: Well_E_4
+    400000: 1_W
+    400002: 2_W
+    400004: 2Story_S
+    400006: 3_W
+    400008: 3_way_signE
+    400010: 4_W
+    400012: 5_W
+    400014: 6_W
+    400016: 7_W
+    400018: _Ground_
+    400020: _Ground__MeshPart0
+    400022: _Ground__MeshPart1
+    400024: AirGuild_S
+    400026: Alchemist_N
+    400028: Anvil_N
+    400030: Armory1_W
+    400032: Boat_2a01_N
+    400034: Boat_2b01_N
+    400036: Boat_2c01_N
+    400038: Boat_2d01_N
+    400040: Boat_2e01_N
+    400042: Boat_2f01_Mastprt1_
+    400044: Boat_2g01_Mastprt2_
+    400046: Boat_2h01_FrntMast_
+    400048: BodyGuild_N
+    400050: Bridge1_S
+    400052: Cart1_N
+    400054: Cart2_N
+    400056: Cart3_N
+    400058: Cart4_N
+    400060: CaveFall1a
+    400062: CaveFall2_
+    400064: CaveFall3e
+    400066: CaveFall4_E
+    400068: chest_N
+    400070: cover
+    400072: Crate
+    400074: Crate_1
+    400076: Crate_2
+    400078: Crate_3
+    400080: Crate_4
+    400082: DockPrt1_N
+    400084: DockPrt2_N
+    400086: DockPrt3_N
+    400088: DragonCave1_E
+    400090: DragonCave2_E
+    400092: DragonCave3_E
+    400094: FireGuild_E
+    400096: HealerTent_S
+    400098: HseM1_S
+    400100: keg
+    400102: keg_1
+    400104: keg_2
+    400106: keghigh
+    400108: MagicGuild_S
+    400110: MedHousePart1_E
+    400112: MedHousePart2_E
+    400114: OpenHouse_E
+    400116: //RootNode
+    400118: Part1_E
+    400120: Part2_E
+    400122: Part3_E
+    400124: Part4_E
+    400126: Part5_E
+    400128: PoorDwelling_S
+    400130: PoorDwelling_S_1
+    400132: sign_airE
+    400134: sign_alchemyN
+    400136: sign_armoryW
+    400138: sign_bodyW
+    400140: sign_fireN
+    400142: sign_magicW
+    400144: sign_SpiritW
+    400146: sign_templeS
+    400148: sign_trainingN
+    400150: sign_weaponW
+    400152: SpiritGuild_W
+    400154: Tavern_E
+    400156: TownSign_S
+    400158: Training2_N
+    400160: Training_Tutorial
+    400162: Tut02
+    400164: Tut02_1
+    400166: Tut02_10
+    400168: Tut02_11
+    400170: Tut02_12
+    400172: Tut02_13
+    400174: Tut02_2
+    400176: Tut02_3
+    400178: Tut02_4
+    400180: Tut02_5
+    400182: Tut02_6
+    400184: Tut02_7
+    400186: Tut02_8
+    400188: Tut02_9
+    400190: Weaponsmith_W
+    400192: Well_E
+    400194: Well_E_1
+    400196: Well_E_2
+    400198: Well_E_3
+    400200: Well_E_4
+    2300000: 1_W
+    2300002: 2_W
+    2300004: 2Story_S
+    2300006: 3_W
+    2300008: 3_way_signE
+    2300010: 4_W
+    2300012: 5_W
+    2300014: 6_W
+    2300016: 7_W
+    2300018: _Ground__MeshPart0
+    2300020: _Ground__MeshPart1
+    2300022: AirGuild_S
+    2300024: Alchemist_N
+    2300026: Anvil_N
+    2300028: Armory1_W
+    2300030: Boat_2a01_N
+    2300032: Boat_2b01_N
+    2300034: Boat_2c01_N
+    2300036: Boat_2d01_N
+    2300038: Boat_2e01_N
+    2300040: Boat_2f01_Mastprt1_
+    2300042: Boat_2g01_Mastprt2_
+    2300044: Boat_2h01_FrntMast_
+    2300046: BodyGuild_N
+    2300048: Bridge1_S
+    2300050: Cart1_N
+    2300052: Cart2_N
+    2300054: Cart3_N
+    2300056: Cart4_N
+    2300058: CaveFall1a
+    2300060: CaveFall2_
+    2300062: CaveFall3e
+    2300064: CaveFall4_E
+    2300066: chest_N
+    2300068: cover
+    2300070: Crate
+    2300072: Crate_1
+    2300074: Crate_2
+    2300076: Crate_3
+    2300078: Crate_4
+    2300080: DockPrt1_N
+    2300082: DockPrt2_N
+    2300084: DockPrt3_N
+    2300086: DragonCave1_E
+    2300088: DragonCave2_E
+    2300090: DragonCave3_E
+    2300092: FireGuild_E
+    2300094: HealerTent_S
+    2300096: HseM1_S
+    2300098: keg
+    2300100: keg_1
+    2300102: keg_2
+    2300104: keghigh
+    2300106: MagicGuild_S
+    2300108: MedHousePart1_E
+    2300110: MedHousePart2_E
+    2300112: OpenHouse_E
+    2300114: Part1_E
+    2300116: Part2_E
+    2300118: Part3_E
+    2300120: Part4_E
+    2300122: Part5_E
+    2300124: PoorDwelling_S
+    2300126: PoorDwelling_S_1
+    2300128: sign_airE
+    2300130: sign_alchemyN
+    2300132: sign_armoryW
+    2300134: sign_bodyW
+    2300136: sign_fireN
+    2300138: sign_magicW
+    2300140: sign_SpiritW
+    2300142: sign_templeS
+    2300144: sign_trainingN
+    2300146: sign_weaponW
+    2300148: SpiritGuild_W
+    2300150: Tavern_E
+    2300152: TownSign_S
+    2300154: Training2_N
+    2300156: Training_Tutorial
+    2300158: Tut02
+    2300160: Tut02_1
+    2300162: Tut02_10
+    2300164: Tut02_11
+    2300166: Tut02_12
+    2300168: Tut02_13
+    2300170: Tut02_2
+    2300172: Tut02_3
+    2300174: Tut02_4
+    2300176: Tut02_5
+    2300178: Tut02_6
+    2300180: Tut02_7
+    2300182: Tut02_8
+    2300184: Tut02_9
+    2300186: Weaponsmith_W
+    2300188: Well_E
+    2300190: Well_E_1
+    2300192: Well_E_2
+    2300194: Well_E_3
+    2300196: Well_E_4
+    3300000: 1_W
+    3300002: 2_W
+    3300004: 2Story_S
+    3300006: 3_W
+    3300008: 3_way_signE
+    3300010: 4_W
+    3300012: 5_W
+    3300014: 6_W
+    3300016: 7_W
+    3300018: _Ground__MeshPart0
+    3300020: _Ground__MeshPart1
+    3300022: AirGuild_S
+    3300024: Alchemist_N
+    3300026: Anvil_N
+    3300028: Armory1_W
+    3300030: Boat_2a01_N
+    3300032: Boat_2b01_N
+    3300034: Boat_2c01_N
+    3300036: Boat_2d01_N
+    3300038: Boat_2e01_N
+    3300040: Boat_2f01_Mastprt1_
+    3300042: Boat_2g01_Mastprt2_
+    3300044: Boat_2h01_FrntMast_
+    3300046: BodyGuild_N
+    3300048: Bridge1_S
+    3300050: Cart1_N
+    3300052: Cart2_N
+    3300054: Cart3_N
+    3300056: Cart4_N
+    3300058: CaveFall1a
+    3300060: CaveFall2_
+    3300062: CaveFall3e
+    3300064: CaveFall4_E
+    3300066: chest_N
+    3300068: cover
+    3300070: Crate
+    3300072: Crate_1
+    3300074: Crate_2
+    3300076: Crate_3
+    3300078: Crate_4
+    3300080: DockPrt1_N
+    3300082: DockPrt2_N
+    3300084: DockPrt3_N
+    3300086: DragonCave1_E
+    3300088: DragonCave2_E
+    3300090: DragonCave3_E
+    3300092: FireGuild_E
+    3300094: HealerTent_S
+    3300096: HseM1_S
+    3300098: keg
+    3300100: keg_1
+    3300102: keg_2
+    3300104: keghigh
+    3300106: MagicGuild_S
+    3300108: MedHousePart1_E
+    3300110: MedHousePart2_E
+    3300112: OpenHouse_E
+    3300114: Part1_E
+    3300116: Part2_E
+    3300118: Part3_E
+    3300120: Part4_E
+    3300122: Part5_E
+    3300124: PoorDwelling_S
+    3300126: PoorDwelling_S_1
+    3300128: sign_airE
+    3300130: sign_alchemyN
+    3300132: sign_armoryW
+    3300134: sign_bodyW
+    3300136: sign_fireN
+    3300138: sign_magicW
+    3300140: sign_SpiritW
+    3300142: sign_templeS
+    3300144: sign_trainingN
+    3300146: sign_weaponW
+    3300148: SpiritGuild_W
+    3300150: Tavern_E
+    3300152: TownSign_S
+    3300154: Training2_N
+    3300156: Training_Tutorial
+    3300158: Tut02
+    3300160: Tut02_1
+    3300162: Tut02_10
+    3300164: Tut02_11
+    3300166: Tut02_12
+    3300168: Tut02_13
+    3300170: Tut02_2
+    3300172: Tut02_3
+    3300174: Tut02_4
+    3300176: Tut02_5
+    3300178: Tut02_6
+    3300180: Tut02_7
+    3300182: Tut02_8
+    3300184: Tut02_9
+    3300186: Weaponsmith_W
+    3300188: Well_E
+    3300190: Well_E_1
+    3300192: Well_E_2
+    3300194: Well_E_3
+    3300196: Well_E_4
+    4300000: _Ground__MeshPart0
+    4300002: _Ground__MeshPart1
+    4300004: keg_1
+    4300006: Well_E_1
+    4300008: 2Story_S
+    4300010: Tavern_E
+    4300012: Crate
+    4300014: DockPrt2_N
+    4300016: BodyGuild_N
+    4300018: Bridge1_S
+    4300020: sign_bodyW
+    4300022: MedHousePart2_E
+    4300024: Crate_3
+    4300026: Cart2_N
+    4300028: sign_alchemyN
+    4300030: DockPrt1_N
+    4300032: 2_W
+    4300034: 3_W
+    4300036: 4_W
+    4300038: Well_E
+    4300040: 6_W
+    4300042: 7_W
+    4300044: Boat_2a01_N
+    4300046: Part2_E
+    4300048: Armory1_W
+    4300050: 1_W
+    4300052: HealerTent_S
+    4300054: sign_magicW
+    4300056: cover
+    4300058: Tut02_5
+    4300060: DragonCave2_E
+    4300062: AirGuild_S
+    4300064: TownSign_S
+    4300066: sign_weaponW
+    4300068: Boat_2f01_Mastprt1_
+    4300070: Boat_2b01_N
+    4300072: DragonCave1_E
+    4300074: Tut02_1
+    4300076: Tut02_10
+    4300078: Tut02_11
+    4300080: Tut02_6
+    4300082: Part3_E
+    4300084: FireGuild_E
+    4300086: Boat_2h01_FrntMast_
+    4300088: keg_2
+    4300090: Part4_E
+    4300092: OpenHouse_E
+    4300094: 5_W
+    4300096: keg
+    4300098: chest_N
+    4300100: Cart4_N
+    4300102: MedHousePart1_E
+    4300104: sign_fireN
+    4300106: CaveFall4_E
+    4300108: Alchemist_N
+    4300110: Cart3_N
+    4300112: sign_SpiritW
+    4300114: DockPrt3_N
+    4300116: PoorDwelling_S
+    4300118: Well_E_2
+    4300120: Cart1_N
+    4300122: CaveFall1a
+    4300124: Tut02_13
+    4300126: Crate_4
+    4300128: Boat_2c01_N
+    4300130: MagicGuild_S
+    4300132: keghigh
+    4300134: Crate_2
+    4300136: Well_E_4
+    4300138: Tut02_7
+    4300140: Part5_E
+    4300142: CaveFall3e
+    4300144: Part1_E
+    4300146: Boat_2e01_N
+    4300148: PoorDwelling_S_1
+    4300150: Boat_2d01_N
+    4300152: sign_airE
+    4300154: Tut02_9
+    4300156: 3_way_signE
+    4300158: Tut02_12
+    4300160: Boat_2g01_Mastprt2_
+    4300162: Tut02_2
+    4300164: Well_E_3
+    4300166: Training2_N
+    4300168: Weaponsmith_W
+    4300170: Training_Tutorial
+    4300172: CaveFall2_
+    4300174: Tut02_8
+    4300176: Tut02_4
+    4300178: Anvil_N
+    4300180: DragonCave3_E
+    4300182: HseM1_S
+    4300184: Tut02
+    4300186: sign_armoryW
+    4300188: sign_trainingN
+    4300190: SpiritGuild_W
+    4300192: Crate_1
+    4300194: Tut02_3
+    4300196: sign_templeS
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cwb1
+    second: {fileID: 2100000, guid: a6d556d46f6a29140af793fd5bf8abf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DirtTyl
+    second: {fileID: 2100000, guid: 4b6fba46f844d5845bd278d0196a7988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grass
+    second: {fileID: 2100000, guid: bffbb1eb7bd371f4b895ab67b7d197b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm1b1
+    second: {fileID: 2100000, guid: 06517fc92089d3f46a8a5c79ee735b90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm1b2le
+    second: {fileID: 2100000, guid: 5e7ec36052faace43bf302959aec965a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm1b3
+    second: {fileID: 2100000, guid: da93c35e60ac14a48a9458371b0a9902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm1bw
+    second: {fileID: 2100000, guid: 32a18935e540bbc4aaa5ff1766d8ee65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm1d
+    second: {fileID: 2100000, guid: c108cd216f46d9e45bbada3c2b03d623, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm1rf
+    second: {fileID: 2100000, guid: 0f1e1a5a19d35654f86addbe1f418d78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm2b1
+    second: {fileID: 2100000, guid: d66bb0ecaef383b4daee3b3b91ec5010, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm2b2
+    second: {fileID: 2100000, guid: bebfbb27274b98049992f8d131e43a7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm2bs
+    second: {fileID: 2100000, guid: a61e72091483b1c4ca52d7f2bc62ffdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm2bw
+    second: {fileID: 2100000, guid: b68c3ecacafc0274a9b7eb6c408b64a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm2d
+    second: {fileID: 2100000, guid: e4a951f1e0978c8439901e47cdc760fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm2el
+    second: {fileID: 2100000, guid: d75e15d5c878b254cbcef0d16d65bfb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm2elw
+    second: {fileID: 2100000, guid: 79647cc4c2c253e48b373bda974472c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm2elw2
+    second: {fileID: 2100000, guid: 01c6e6f11d2be644bac54c525caa991f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm2er
+    second: {fileID: 2100000, guid: e0d2a745bea3bda439723cc8259bdb28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm2erw
+    second: {fileID: 2100000, guid: 4bbeb4ba43dc4b941803f0c5dc0e542c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm2rf
+    second: {fileID: 2100000, guid: 0ab59b6f3f6832d459db587b26e7d42e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm3b
+    second: {fileID: 2100000, guid: bf7f75f76c525964ebf3b03b53ae2a05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm3bs
+    second: {fileID: 2100000, guid: 106cec1347721694d813d68cf7a1b0d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm3bw2
+    second: {fileID: 2100000, guid: 512d5952124dbb4439f42bd40977f7ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm3bwl2
+    second: {fileID: 2100000, guid: f6da0c46e7630fe4ba9e0376e2fad8d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm3bwr2
+    second: {fileID: 2100000, guid: cb6f39756f82fd341bdf986fab116a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm3ch
+    second: {fileID: 2100000, guid: 1b8410c0598949d45ac482d46126e5e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm3d
+    second: {fileID: 2100000, guid: 0a09d11c80d798f4ba66e0b03b6cdf23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm3el2
+    second: {fileID: 2100000, guid: d3f3cc439e2b4af44b804bc85fbb3995, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm3el2a
+    second: {fileID: 2100000, guid: 09b94a73827422b499a368a1a62c52e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm3er2a
+    second: {fileID: 2100000, guid: 85068619fe600bf4aa2a0f009d8630b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm3er2b
+    second: {fileID: 2100000, guid: 3bae3221c8a3c3345837a0f4282cf2ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhm3rf
+    second: {fileID: 2100000, guid: 0043944417341df4181e77b3dab7b94b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhp1b
+    second: {fileID: 2100000, guid: 7cf5443abf8607c479fab5a865116e72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhp1bs
+    second: {fileID: 2100000, guid: e2eb7de101a2a784a824868463bda4d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhp1bw
+    second: {fileID: 2100000, guid: 123184ba4cb07d04696f5c0f016252ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhp1d
+    second: {fileID: 2100000, guid: a6ba3aa882bf8864bac4d3ce5aff13d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhp1el
+    second: {fileID: 2100000, guid: 584c0fc555750c942b40fd4eff9363ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhp1elw
+    second: {fileID: 2100000, guid: 3847219bcdfab9d41bb2b8a61b9db212, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhp1er
+    second: {fileID: 2100000, guid: f14246b232e6afe4f874d32ba57dab35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhp1erw
+    second: {fileID: 2100000, guid: 61e46e9b00b9fa443a04f6c96d48f6e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhp2b2
+    second: {fileID: 2100000, guid: cd082d7c6bfb53a4fa2946ae87af4b3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhp2rf
+    second: {fileID: 2100000, guid: 3845cf74f3c92974f87ba34fbcc11edf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hhr1rf
+    second: {fileID: 2100000, guid: 7acade3208fc85d43a61709dd4ca4bee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hwm2rf
+    second: {fileID: 2100000, guid: 7b0275a19abaee649a919e8c02b52c7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sign01_1
+    second: {fileID: 2100000, guid: dcc14b52f49a7ec4682757c243b888f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sign01_2
+    second: {fileID: 2100000, guid: 99bf19bface8efc46bc8621c02753c9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sign01_3
+    second: {fileID: 2100000, guid: 9493daf72289caf4480c01b8738a284d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sign01_4
+    second: {fileID: 2100000, guid: 1f907f6c6de192b44b85be5ed96ab16d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T1beds
+    second: {fileID: 2100000, guid: 40c138575e3557a4a964238a0b16058b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T1beds1
+    second: {fileID: 2100000, guid: ba61096249c7f3e46982b6908f043d1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T1beds2
+    second: {fileID: 2100000, guid: e601b54a4d2d0bc43b7c8e2d31b19c60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T1books1
+    second: {fileID: 2100000, guid: 04bbbff8f4d5c5640b47512c9cad1920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T1butt
+    second: {fileID: 2100000, guid: cee23afa909c6354abede3b5f561893d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T1butts
+    second: {fileID: 2100000, guid: 1ab0b941a9daafd4493b358b2d4c6d45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T1cabs
+    second: {fileID: 2100000, guid: 69a57c351022fc441a62f71234c978f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRIM1_16
+    second: {fileID: 2100000, guid: 4744545bd119f834f81d1b68b9b3bc5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRIM2_16a
+    second: {fileID: 2100000, guid: dbfc9563d1b121a4e856d65163fad0a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRIM2_32
+    second: {fileID: 2100000, guid: 68ad2dfdcec5b134db91b12cf9eb5d35, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRIM2_32a
+    second: {fileID: 2100000, guid: 430cb1e251ae1cf47a5550852d906dac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRIM3_16a
+    second: {fileID: 2100000, guid: 67b9e7a7f1906d3478a92c5a97b411da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRIM3_32
+    second: {fileID: 2100000, guid: 4fa6e80a5291d31419fea262a6f7d51b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TRIM3_32a
+    second: {fileID: 2100000, guid: 115abe185c5e1f34aa8477bd6aa6a69c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trim11_32
+    second: {fileID: 2100000, guid: ae45e335319c83c45b0fa0ab44fedb87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trim12_32
+    second: {fileID: 2100000, guid: 4cf40a8bc2fb03848b30f6b55ff48fb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trim7_32
+    second: {fileID: 2100000, guid: 3cc1e46dfb77eb54cbaff81d0664331e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trim7_32a
+    second: {fileID: 2100000, guid: 90711e8662140104e86f0e36839e080e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Trim9_32a
+    second: {fileID: 2100000, guid: 03db138dc5b565b4987e41ef107d2392, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tws1f
+    second: {fileID: 2100000, guid: dd8c1e9b26e12934d918c6de00a7b729, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WtrTyl
+    second: {fileID: 2100000, guid: 1ac322be83cd9d046ab12c62e1313548, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dirt1
+    second: {fileID: 2100000, guid: f707063c2acb72449b5f269c908626a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dirt2
+    second: {fileID: 2100000, guid: e947ed2d2324553429ec22a5f155e16d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dirttyl
+    second: {fileID: 2100000, guid: 4b6fba46f844d5845bd278d0196a7988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drsrEW_s
+    second: {fileID: 2100000, guid: 1af0f3d4397aa1743814c60bc89fcb8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drsrNS_W
+    second: {fileID: 2100000, guid: 64f8ea6354a61914b94c529b38792ab1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drsrNcap
+    second: {fileID: 2100000, guid: 61ad1699f4e6a764caf4b08c5d414b37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drsrS_W
+    second: {fileID: 2100000, guid: 0f8d254e807a974488ce198cf3453d87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drsrew
+    second: {fileID: 2100000, guid: 4fe78ce7856843746b6791f586ceb9a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drsrn_e
+    second: {fileID: 2100000, guid: 55dff321ab3b89d42bce7c5b266f7de6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drsrn_w
+    second: {fileID: 2100000, guid: 1d25c44ba0dbc3249ae33814b15b4c67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drsrne1
+    second: {fileID: 2100000, guid: 3e6f1e884796d104d90cc3611fa49544, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drsrne2
+    second: {fileID: 2100000, guid: 9e1f14898733f5f44bbf40b1887e5fd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drsrns
+    second: {fileID: 2100000, guid: 054d15dfe4aaec34db797ae0dda95bcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drsrscap
+    second: {fileID: 2100000, guid: 99a1bd6e3a40c914f976644401a3647d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: drsrwcap
+    second: {fileID: 2100000, guid: faa5bb6bb0eed354083265641117e75b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grastyl
+    second: {fileID: 2100000, guid: 6d6c57a2e546cea4d8092038c9c6fca1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grdrtE
+    second: {fileID: 2100000, guid: 2c4ee9f0ca11ec44f945adc5a8373dc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grdrtN
+    second: {fileID: 2100000, guid: aa7486ae00628724fb7c2f759c9f5ebc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grdrtNE
+    second: {fileID: 2100000, guid: 1b99e4bc307ed9047bab052ed31f8e5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grdrtNW
+    second: {fileID: 2100000, guid: 6c3a1eff87029aa4483b5705b0c6733a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grdrtS
+    second: {fileID: 2100000, guid: aa36a9729a663054c88299e89c9c1269, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grdrtSE
+    second: {fileID: 2100000, guid: f185b380e950cc24584ea9472ee0b46d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grdrtSW
+    second: {fileID: 2100000, guid: f9e048258c21aef4488e4c34e6cbf8be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grdrtW
+    second: {fileID: 2100000, guid: 0d170aaf9b3acce4995c19ca1cecfc90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grdrtXNE
+    second: {fileID: 2100000, guid: 050199a85efaf0e41b8b959e9b4150e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grdrtXNW
+    second: {fileID: 2100000, guid: ed2e7244d3cbbe041b3905157647fe4d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grdrtXSE
+    second: {fileID: 2100000, guid: 3d5aa5f76cb876f498a61cb3f86adbcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grdrtXSW
+    second: {fileID: 2100000, guid: 32fae18eabe441c4686786d30c853cf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gt001a
+    second: {fileID: 2100000, guid: 61d0198143e23b245a6ae6a18242c390, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gt002a
+    second: {fileID: 2100000, guid: df6e6c2a212078a4095335ca5bc92683, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gt002b
+    second: {fileID: 2100000, guid: aef28528be4d9304081d13781fab6a4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gt002c
+    second: {fileID: 2100000, guid: c63ae4dc1ae022a439fcda3f0dced482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gt002e
+    second: {fileID: 2100000, guid: d8ea4e550421ad14898c4d6f1fb97919, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gt002g
+    second: {fileID: 2100000, guid: 7b068f8b1c08cda49b2aed8f12ace380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gt003a
+    second: {fileID: 2100000, guid: 480cefd65f8ce2940874537621fdae7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pending
+    second: {fileID: 2100000, guid: 1cc10101d3196c84fbf0a2a4a7c1f987, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sgAIR
+    second: {fileID: 2100000, guid: e5744899998a3224195fb49abd891ecc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sgALCH
+    second: {fileID: 2100000, guid: f2d1a0d0871fc354ca02017df4e0843f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sgARM
+    second: {fileID: 2100000, guid: 60b4d301963927f48bd0a94c128e62f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sgBODY
+    second: {fileID: 2100000, guid: eb53682089096844aa0bd0d733599e11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sgFIRE
+    second: {fileID: 2100000, guid: 7b2af5ea2212e424d80e197b79fcf664, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sgMAGI
+    second: {fileID: 2100000, guid: 4acb13a2d629fb548a5ac38b6f2cb1d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sgSPIRIT
+    second: {fileID: 2100000, guid: 2f5a9e29e51a0744696b4d8b7bf4bc57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sgTEMPL
+    second: {fileID: 2100000, guid: 5a074160b5290854a85f0881dc7e30c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sgTRAIN
+    second: {fileID: 2100000, guid: 24b0d6101c77b8c488a3cd50a5c1363e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sgTVRN
+    second: {fileID: 2100000, guid: 7df0c02955c048e4cbf0ccf5753c016b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sgWEAPON
+    second: {fileID: 2100000, guid: 8a078797010305046acfeb653ce2dec5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: solid01
+    second: {fileID: 2100000, guid: 0809c2b92d4ed524fb44af60944e2bf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swdrte
+    second: {fileID: 2100000, guid: cad5ef409e26af94e9f7600e0c974e55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swdrtn
+    second: {fileID: 2100000, guid: 7eca62b27c7bbc0419e4025d90ca5b36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swdrtne
+    second: {fileID: 2100000, guid: 90d0c41d5bed35345989084de6d5e3fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swdrtnw
+    second: {fileID: 2100000, guid: 4694dd027dbbfa2489a9e1a9804b4d66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swdrts
+    second: {fileID: 2100000, guid: 317f0cc03e8472a45b44a292723819ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swdrtse
+    second: {fileID: 2100000, guid: f6f8b3f07c7276e48a4c0f736fe5b8a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swdrtsw
+    second: {fileID: 2100000, guid: b4ca079e65cddb34d9a9cb52d8877775, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swdrtw
+    second: {fileID: 2100000, guid: b6671d7b5cb0b1543bdc5258b648fa15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swdrtxne
+    second: {fileID: 2100000, guid: 9d987a971ff00044fa36e213f0113d92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swdrtxnw
+    second: {fileID: 2100000, guid: 41a97b4a06e2e5e48a0b17905ccd81bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swdrtxse
+    second: {fileID: 2100000, guid: a3988517892586a46af41c2e6305931c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swdrtxsw
+    second: {fileID: 2100000, guid: d56f0091fcc8b304c825cbcb7b4babd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swtyl
+    second: {fileID: 2100000, guid: 990ad19a5b57bdb49ae21dcbc0e7618d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: swtylv2
+    second: {fileID: 2100000, guid: 939e76dfe97d40240aac1bfe687942e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trimD
+    second: {fileID: 2100000, guid: 3246b119b1c2b8b44b537bd9dec3f3c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: trimDa
+    second: {fileID: 2100000, guid: 713d9a14bd7745a409f0165424bc99e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wtrdrE
+    second: {fileID: 2100000, guid: b6577b88b72476c4ba017bc78c141639, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wtrdrN
+    second: {fileID: 2100000, guid: 5e0f0ff883a0fab42aeefa2c095b34f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wtrdrNE
+    second: {fileID: 2100000, guid: 6d4b9f00103468a47a61d5c70e60e07d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wtrdrNW
+    second: {fileID: 2100000, guid: f1a1f2ae483096c4d855f629df3d4d7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wtrdrS
+    second: {fileID: 2100000, guid: d3932d8fc6321ef4a8a4e6968c0672ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wtrdrSE
+    second: {fileID: 2100000, guid: 00154110179c084429790ce7ef92991d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wtrdrSW
+    second: {fileID: 2100000, guid: e8ab0fed4a10abf468293b411485c921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wtrdrW
+    second: {fileID: 2100000, guid: 0a1c5c06de26c8f4bacdc64c23ca6d68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wtrdrXNE
+    second: {fileID: 2100000, guid: 74504dbb8c955b14d884e57d87472848, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wtrdrXNW
+    second: {fileID: 2100000, guid: 69dde85903a54ce439ad356550bb84ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wtrdrXSE
+    second: {fileID: 2100000, guid: 9b9ed2ba9deff5742b50d01dbb5064ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wtrdrXSW
+    second: {fileID: 2100000, guid: 1582aa1215fbeb64095de6775100afba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wtrtyl
+    second: {fileID: 2100000, guid: 1ac322be83cd9d046ab12c62e1313548, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1331 @@
+fileFormatVersion: 2
+guid: 73b8005dbd0114941aa49320b5251222
+timeCreated: 1442629197
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M414Aa0
+    21300002: M414Aa1
+    21300004: M414Aa2
+    21300006: M414Aa3
+    21300008: M414Aa4
+    21300010: M414Ab0
+    21300012: M414Ab1
+    21300014: M414Ab2
+    21300016: M414Ab3
+    21300018: M414Ab4
+    21300020: M414Ac0
+    21300022: M414Ac1
+    21300024: M414Ac2
+    21300026: M414Ac3
+    21300028: M414Ac4
+    21300030: M414Ad0
+    21300032: M414Ad1
+    21300034: M414Ad2
+    21300036: M414Ad3
+    21300038: M414Ad4
+    21300040: M414Ae0
+    21300042: M414Ae1
+    21300044: M414Ae2
+    21300046: M414Ae3
+    21300048: M414Ae4
+    21300050: M414Af0
+    21300052: M414Af1
+    21300054: M414Af2
+    21300056: M414Af3
+    21300058: M414Af4
+    21300060: M414Da0
+    21300062: M414Db0
+    21300064: M414Dc0
+    21300066: M414Dd0
+    21300068: M414De0
+    21300070: M414Fa0
+    21300072: M414Fb0
+    21300074: M414Fc0
+    21300076: M414Fd0
+    21300078: M414Fe0
+    21300080: M414Na0
+    21300082: M414Na1
+    21300084: M414Na2
+    21300086: M414Na3
+    21300088: M414Na4
+    21300090: M414Nb0
+    21300092: M414Nb1
+    21300094: M414Nb2
+    21300096: M414Nb3
+    21300098: M414Nb4
+    21300100: M414Nc0
+    21300102: M414Nc1
+    21300104: M414Nc2
+    21300106: M414Nc3
+    21300108: M414Nc4
+    21300110: M414Nd0
+    21300112: M414Nd1
+    21300114: M414Nd2
+    21300116: M414Nd3
+    21300118: M414Nd4
+    21300120: M414Ne0
+    21300122: M414Ne1
+    21300124: M414Ne2
+    21300126: M414Ne3
+    21300128: M414Ne4
+    21300130: M414Nf0
+    21300132: M414Nf1
+    21300134: M414Nf2
+    21300136: M414Nf3
+    21300138: M414Nf4
+    21300140: M414Sa0
+    21300142: M414Sa1
+    21300144: M414Sa2
+    21300146: M414Sa3
+    21300148: M414Sa4
+    21300150: M414Wa0
+    21300152: M414Wa1
+    21300154: M414Wa2
+    21300156: M414Wa3
+    21300158: M414Wa4
+    21300160: M414Wb0
+    21300162: M414Wb1
+    21300164: M414Wb2
+    21300166: M414Wb3
+    21300168: M414Wb4
+    21300170: M414Wc0
+    21300172: M414Wc1
+    21300174: M414Wc2
+    21300176: M414Wc3
+    21300178: M414Wc4
+    21300180: M414Wd0
+    21300182: M414Wd1
+    21300184: M414Wd2
+    21300186: M414Wd3
+    21300188: M414Wd4
+    21300190: M414We0
+    21300192: M414We1
+    21300194: M414We2
+    21300196: M414We3
+    21300198: M414We4
+    21300200: M414Wf0
+    21300202: M414Wf1
+    21300204: M414Wf2
+    21300206: M414Wf3
+    21300208: M414Wf4
+    21300210: M414Wg0
+    21300212: M414Wg1
+    21300214: M414Wg2
+    21300216: M414Wg3
+    21300218: M414Wg4
+    21300220: M414Wh0
+    21300222: M414Wh1
+    21300224: M414Wh2
+    21300226: M414Wh3
+    21300228: M414Wh4
+    21300230: M414Xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: M414Aa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1834
+        width: 118
+        height: 212
+      alignment: 9
+      pivot: {x: -.355932206, y: 1.20754719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Aa1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1832
+        width: 91
+        height: 214
+      alignment: 9
+      pivot: {x: -.835164845, y: 1.19626164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Aa2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1833
+        width: 79
+        height: 213
+      alignment: 9
+      pivot: {x: -1.16455698, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Aa3
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1834
+        width: 106
+        height: 212
+      alignment: 9
+      pivot: {x: -.924528301, y: 1.20754719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Aa4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1835
+        width: 118
+        height: 211
+      alignment: 9
+      pivot: {x: -.813559294, y: 1.21327019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ab0
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1809
+        width: 112
+        height: 237
+      alignment: 9
+      pivot: {x: -.366071433, y: 1.08016872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ab1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1809
+        width: 134
+        height: 237
+      alignment: 9
+      pivot: {x: -.201492533, y: 1.08016872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ab2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1808
+        width: 138
+        height: 238
+      alignment: 9
+      pivot: {x: -.224637687, y: 1.07563031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ab3
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1807
+        width: 82
+        height: 239
+      alignment: 9
+      pivot: {x: -.926829278, y: 1.07112968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ab4
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 1806
+        width: 113
+        height: 240
+      alignment: 9
+      pivot: {x: -.911504447, y: 1.06666672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ac0
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 1844
+        width: 138
+        height: 202
+      alignment: 9
+      pivot: {x: -.420289844, y: 1.26732671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ac1
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1844
+        width: 103
+        height: 202
+      alignment: 9
+      pivot: {x: -.932038844, y: 1.26732671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ac2
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 1844
+        width: 137
+        height: 202
+      alignment: 9
+      pivot: {x: -.7591241, y: 1.26732671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ac3
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 1845
+        width: 164
+        height: 201
+      alignment: 9
+      pivot: {x: -.554878056, y: 1.27363181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ac4
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 1845
+        width: 136
+        height: 201
+      alignment: 9
+      pivot: {x: -.441176474, y: 1.27363181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ad0
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1866
+        width: 114
+        height: 180
+      alignment: 9
+      pivot: {x: -.859649122, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ad1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1624
+        width: 156
+        height: 180
+      alignment: 9
+      pivot: {x: -.615384638, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ad2
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1624
+        width: 117
+        height: 180
+      alignment: 9
+      pivot: {x: -.880341887, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ad3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1625
+        width: 116
+        height: 179
+      alignment: 9
+      pivot: {x: -.586206913, y: 1.43016756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ad4
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1625
+        width: 111
+        height: 179
+      alignment: 9
+      pivot: {x: -.414414406, y: 1.43016756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ae0
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1615
+        width: 110
+        height: 189
+      alignment: 9
+      pivot: {x: -.890909076, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ae1
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1615
+        width: 146
+        height: 189
+      alignment: 9
+      pivot: {x: -.657534242, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ae2
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1616
+        width: 107
+        height: 188
+      alignment: 9
+      pivot: {x: -.962616801, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ae3
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1616
+        width: 93
+        height: 188
+      alignment: 9
+      pivot: {x: -.870967746, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ae4
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1616
+        width: 107
+        height: 188
+      alignment: 9
+      pivot: {x: -.467289716, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Af0
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1603
+        width: 82
+        height: 201
+      alignment: 9
+      pivot: {x: -1.14634144, y: 1.27363181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Af1
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1603
+        width: 111
+        height: 201
+      alignment: 9
+      pivot: {x: -.864864886, y: 1.27363181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Af2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1603
+        width: 91
+        height: 201
+      alignment: 9
+      pivot: {x: -1.13186812, y: 1.27363181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Af3
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1603
+        width: 74
+        height: 201
+      alignment: 9
+      pivot: {x: -1.22972977, y: 1.27363181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Af4
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1603
+        width: 81
+        height: 201
+      alignment: 9
+      pivot: {x: -.987654328, y: 1.27363181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Da0
+      rect:
+        serializedVersion: 2
+        x: 1532
+        y: 1619
+        width: 147
+        height: 185
+      alignment: 9
+      pivot: {x: -.401360542, y: 1.31891894}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Db0
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1662
+        width: 159
+        height: 142
+      alignment: 9
+      pivot: {x: -.440251559, y: 1.64084506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Dc0
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1726
+        width: 162
+        height: 78
+      alignment: 9
+      pivot: {x: -.26543209, y: 3.28205132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Dd0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1509
+        width: 210
+        height: 92
+      alignment: 9
+      pivot: {x: -.0666666701, y: 2.78260875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414De0
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1539
+        width: 209
+        height: 62
+      alignment: 9
+      pivot: {x: -.095693782, y: 4.12903214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Fa0
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1395
+        width: 96
+        height: 206
+      alignment: 9
+      pivot: {x: -.791666687, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Fb0
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1396
+        width: 109
+        height: 205
+      alignment: 9
+      pivot: {x: -.651376128, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Fc0
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1395
+        width: 95
+        height: 206
+      alignment: 9
+      pivot: {x: -.915789485, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Fd0
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1395
+        width: 88
+        height: 206
+      alignment: 9
+      pivot: {x: -1.0454545, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Fe0
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1395
+        width: 81
+        height: 206
+      alignment: 9
+      pivot: {x: -1.12345684, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Na0
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1407
+        width: 129
+        height: 194
+      alignment: 9
+      pivot: {x: -.248062015, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Na1
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1407
+        width: 147
+        height: 194
+      alignment: 9
+      pivot: {x: -.238095239, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Na2
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1407
+        width: 104
+        height: 194
+      alignment: 9
+      pivot: {x: -.769230783, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Na3
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1406
+        width: 106
+        height: 195
+      alignment: 9
+      pivot: {x: -.915094316, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Na4
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 1406
+        width: 130
+        height: 195
+      alignment: 9
+      pivot: {x: -.730769217, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nb0
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1386
+        width: 107
+        height: 215
+      alignment: 9
+      pivot: {x: -.588785052, y: 1.19069767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nb1
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 1387
+        width: 165
+        height: 214
+      alignment: 9
+      pivot: {x: -.0242424235, y: 1.19626164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nb2
+      rect:
+        serializedVersion: 2
+        x: 1806
+        y: 1387
+        width: 161
+        height: 214
+      alignment: 9
+      pivot: {x: -.0186335407, y: 1.19626164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nb3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1169
+        width: 113
+        height: 215
+      alignment: 9
+      pivot: {x: -.601769924, y: 1.19069767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nb4
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1169
+        width: 109
+        height: 215
+      alignment: 9
+      pivot: {x: -.788990855, y: 1.19069767}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nc0
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1201
+        width: 146
+        height: 183
+      alignment: 9
+      pivot: {x: -.102739729, y: 1.39890707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nc1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1201
+        width: 153
+        height: 183
+      alignment: 9
+      pivot: {x: -.248366013, y: 1.39890707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nc2
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1201
+        width: 128
+        height: 183
+      alignment: 9
+      pivot: {x: -.46875, y: 1.39890707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nc3
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1200
+        width: 106
+        height: 184
+      alignment: 9
+      pivot: {x: -.896226406, y: 1.39130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nc4
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1200
+        width: 147
+        height: 184
+      alignment: 9
+      pivot: {x: -.646258533, y: 1.39130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nd0
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1227
+        width: 152
+        height: 157
+      alignment: 9
+      pivot: {x: -.0394736826, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nd1
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1227
+        width: 132
+        height: 157
+      alignment: 9
+      pivot: {x: -.378787875, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nd2
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 1227
+        width: 109
+        height: 157
+      alignment: 9
+      pivot: {x: -.752293587, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nd3
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 1227
+        width: 146
+        height: 157
+      alignment: 9
+      pivot: {x: -.698630154, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nd4
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1227
+        width: 149
+        height: 157
+      alignment: 9
+      pivot: {x: -.664429545, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ne0
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1214
+        width: 108
+        height: 170
+      alignment: 9
+      pivot: {x: -.462962955, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ne1
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 1214
+        width: 104
+        height: 170
+      alignment: 9
+      pivot: {x: -.625, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ne2
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1214
+        width: 132
+        height: 170
+      alignment: 9
+      pivot: {x: -.621212125, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ne3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 997
+        width: 139
+        height: 170
+      alignment: 9
+      pivot: {x: -.733812928, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Ne4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 997
+        width: 105
+        height: 170
+      alignment: 9
+      pivot: {x: -.942857146, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nf0
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 974
+        width: 92
+        height: 193
+      alignment: 9
+      pivot: {x: -.793478251, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nf1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 974
+        width: 97
+        height: 193
+      alignment: 9
+      pivot: {x: -.824742258, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nf2
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 974
+        width: 125
+        height: 193
+      alignment: 9
+      pivot: {x: -.712000012, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nf3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 974
+        width: 100
+        height: 193
+      alignment: 9
+      pivot: {x: -1.02999997, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Nf4
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 975
+        width: 92
+        height: 192
+      alignment: 9
+      pivot: {x: -.989130437, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Sa0
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 961
+        width: 82
+        height: 206
+      alignment: 9
+      pivot: {x: -1.04878044, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Sa1
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 961
+        width: 100
+        height: 206
+      alignment: 9
+      pivot: {x: -.899999976, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Sa2
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 961
+        width: 89
+        height: 206
+      alignment: 9
+      pivot: {x: -1.15730333, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Sa3
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 961
+        width: 63
+        height: 206
+      alignment: 9
+      pivot: {x: -1.60317457, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Sa4
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 961
+        width: 82
+        height: 206
+      alignment: 9
+      pivot: {x: -1.07317078, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wa0
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 960
+        width: 83
+        height: 207
+      alignment: 9
+      pivot: {x: -1.01204824, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wa1
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 960
+        width: 87
+        height: 207
+      alignment: 9
+      pivot: {x: -1.05747128, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wa2
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 960
+        width: 115
+        height: 207
+      alignment: 9
+      pivot: {x: -.886956513, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wa3
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 960
+        width: 106
+        height: 207
+      alignment: 9
+      pivot: {x: -.915094316, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wa4
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 960
+        width: 83
+        height: 207
+      alignment: 9
+      pivot: {x: -1.07228911, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wb0
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 962
+        width: 89
+        height: 205
+      alignment: 9
+      pivot: {x: -.865168512, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wb1
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 962
+        width: 94
+        height: 205
+      alignment: 9
+      pivot: {x: -.851063848, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wb2
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 962
+        width: 102
+        height: 205
+      alignment: 9
+      pivot: {x: -1, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wb3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 753
+        width: 117
+        height: 205
+      alignment: 9
+      pivot: {x: -.846153855, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wb4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 753
+        width: 88
+        height: 205
+      alignment: 9
+      pivot: {x: -1.02272725, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wc0
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 756
+        width: 105
+        height: 202
+      alignment: 9
+      pivot: {x: -.571428597, y: 1.26732671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wc1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 756
+        width: 107
+        height: 202
+      alignment: 9
+      pivot: {x: -.67289722, y: 1.26732671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wc2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 756
+        width: 98
+        height: 202
+      alignment: 9
+      pivot: {x: -.897959173, y: 1.26732671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wc3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 756
+        width: 125
+        height: 202
+      alignment: 9
+      pivot: {x: -.69599998, y: 1.26732671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wc4
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 756
+        width: 105
+        height: 202
+      alignment: 9
+      pivot: {x: -.866666675, y: 1.26732671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wd0
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 754
+        width: 94
+        height: 204
+      alignment: 9
+      pivot: {x: -.776595771, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wd1
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 754
+        width: 96
+        height: 204
+      alignment: 9
+      pivot: {x: -.833333313, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wd2
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 754
+        width: 122
+        height: 204
+      alignment: 9
+      pivot: {x: -.672131121, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wd3
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 754
+        width: 136
+        height: 204
+      alignment: 9
+      pivot: {x: -.610294104, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wd4
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 754
+        width: 94
+        height: 204
+      alignment: 9
+      pivot: {x: -.946808517, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414We0
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 751
+        width: 87
+        height: 207
+      alignment: 9
+      pivot: {x: -.965517223, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414We1
+      rect:
+        serializedVersion: 2
+        x: 1402
+        y: 751
+        width: 83
+        height: 207
+      alignment: 9
+      pivot: {x: -1.10843372, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414We2
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 751
+        width: 115
+        height: 207
+      alignment: 9
+      pivot: {x: -.913043499, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414We3
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 751
+        width: 118
+        height: 207
+      alignment: 9
+      pivot: {x: -.788135588, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414We4
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 751
+        width: 87
+        height: 207
+      alignment: 9
+      pivot: {x: -.977011502, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wf0
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 753
+        width: 85
+        height: 205
+      alignment: 9
+      pivot: {x: -1.04705882, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wf1
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 753
+        width: 89
+        height: 205
+      alignment: 9
+      pivot: {x: -1.13483143, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wf2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 544
+        width: 116
+        height: 205
+      alignment: 9
+      pivot: {x: -.896551728, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wf3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 544
+        width: 111
+        height: 205
+      alignment: 9
+      pivot: {x: -.765765786, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wf4
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 544
+        width: 86
+        height: 205
+      alignment: 9
+      pivot: {x: -.941860437, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wg0
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 547
+        width: 83
+        height: 202
+      alignment: 9
+      pivot: {x: -1.0963856, y: 1.26732671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wg1
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 547
+        width: 111
+        height: 202
+      alignment: 9
+      pivot: {x: -.765765786, y: 1.26732671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wg2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 547
+        width: 130
+        height: 202
+      alignment: 9
+      pivot: {x: -.653846145, y: 1.26732671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wg3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 547
+        width: 105
+        height: 202
+      alignment: 9
+      pivot: {x: -.761904776, y: 1.26732671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wg4
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 547
+        width: 83
+        height: 202
+      alignment: 9
+      pivot: {x: -.987951815, y: 1.26732671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wh0
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 545
+        width: 87
+        height: 204
+      alignment: 9
+      pivot: {x: -.977011502, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wh1
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 545
+        width: 112
+        height: 204
+      alignment: 9
+      pivot: {x: -.723214269, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wh2
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 545
+        width: 145
+        height: 204
+      alignment: 9
+      pivot: {x: -.537931025, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wh3
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 545
+        width: 110
+        height: 204
+      alignment: 9
+      pivot: {x: -.790909111, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Wh4
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 545
+        width: 87
+        height: 204
+      alignment: 9
+      pivot: {x: -.965517223, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M414Xa0
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 702
+        width: 231
+        height: 47
+      alignment: 9
+      pivot: {x: -.0562770553, y: 5.44680834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

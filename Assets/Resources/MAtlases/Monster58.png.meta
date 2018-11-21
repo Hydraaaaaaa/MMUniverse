@@ -1,0 +1,1342 @@
+fileFormatVersion: 2
+guid: c99db3458ba16f341b3ff2a28631f744
+timeCreated: 1442629887
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: m426Aa0
+    21300002: m426Aa1
+    21300004: m426Aa2
+    21300006: m426Aa3
+    21300008: m426Aa4
+    21300010: m426Ab0
+    21300012: m426Ab1
+    21300014: m426Ab2
+    21300016: m426Ab3
+    21300018: m426Ab4
+    21300020: m426Ac0
+    21300022: m426Ac1
+    21300024: m426Ac2
+    21300026: m426Ac3
+    21300028: m426Ac4
+    21300030: m426Ad0
+    21300032: m426Ad1
+    21300034: m426Ad2
+    21300036: m426Ad3
+    21300038: m426Ad4
+    21300040: m426Ae0
+    21300042: m426Ae1
+    21300044: m426Ae2
+    21300046: m426Ae3
+    21300048: m426Ae4
+    21300050: m426Af0
+    21300052: m426Af1
+    21300054: m426Af2
+    21300056: m426Af3
+    21300058: m426Af4
+    21300060: m426Ag0
+    21300062: m426Ag1
+    21300064: m426Ag2
+    21300066: m426Ag3
+    21300068: m426Ag4
+    21300070: m426Da0
+    21300072: m426Db0
+    21300074: m426Dc0
+    21300076: m426Fa0
+    21300078: m426Fb0
+    21300080: m426Fc0
+    21300082: m426Fd0
+    21300084: m426Fe0
+    21300086: m426Na0
+    21300088: m426Na1
+    21300090: m426Na2
+    21300092: m426Na3
+    21300094: m426Na4
+    21300096: m426Nb0
+    21300098: m426Nb1
+    21300100: m426Nb2
+    21300102: m426Nb3
+    21300104: m426Nb4
+    21300106: m426Nc0
+    21300108: m426Nc1
+    21300110: m426Nc2
+    21300112: m426Nc3
+    21300114: m426Nc4
+    21300116: m426Nd0
+    21300118: m426Nd1
+    21300120: m426Nd2
+    21300122: m426Nd3
+    21300124: m426Nd4
+    21300126: m426Ne0
+    21300128: m426Ne1
+    21300130: m426Ne2
+    21300132: m426Ne3
+    21300134: m426Ne4
+    21300136: m426Nf0
+    21300138: m426Nf1
+    21300140: m426Nf2
+    21300142: m426Nf3
+    21300144: m426Nf4
+    21300146: m426Sa0
+    21300148: m426Sa1
+    21300150: m426Sa2
+    21300152: m426Sa3
+    21300154: m426Sa4
+    21300156: m426Wa0
+    21300158: m426Wa1
+    21300160: m426Wa2
+    21300162: m426Wa3
+    21300164: m426Wa4
+    21300166: m426Wb0
+    21300168: m426Wb1
+    21300170: m426Wb2
+    21300172: m426Wb3
+    21300174: m426Wb4
+    21300176: m426Wc0
+    21300178: m426Wc1
+    21300180: m426Wc2
+    21300182: m426Wc3
+    21300184: m426Wc4
+    21300186: m426Wd0
+    21300188: m426Wd1
+    21300190: m426Wd2
+    21300192: m426Wd3
+    21300194: m426Wd4
+    21300196: m426We0
+    21300198: m426We1
+    21300200: m426We2
+    21300202: m426We3
+    21300204: m426We4
+    21300206: m426Wf0
+    21300208: m426Wf1
+    21300210: m426Wf2
+    21300212: m426Wf3
+    21300214: m426Wf4
+    21300216: m426Wg0
+    21300218: m426Wg1
+    21300220: m426Wg2
+    21300222: m426Wg3
+    21300224: m426Wg4
+    21300226: m426Wh1
+    21300228: m426Wh2
+    21300230: m426Wh4
+    21300232: m426Xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: m426Aa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1866
+        width: 90
+        height: 180
+      alignment: 9
+      pivot: {x: -.977777779, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Aa1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1866
+        width: 87
+        height: 180
+      alignment: 9
+      pivot: {x: -1.045977, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Aa2
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1866
+        width: 72
+        height: 180
+      alignment: 9
+      pivot: {x: -1.27777779, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Aa3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1866
+        width: 91
+        height: 180
+      alignment: 9
+      pivot: {x: -.901098907, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Aa4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1867
+        width: 89
+        height: 179
+      alignment: 9
+      pivot: {x: -.887640476, y: 1.42458105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ab0
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1877
+        width: 92
+        height: 169
+      alignment: 9
+      pivot: {x: -.978260875, y: 1.51479292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ab1
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1877
+        width: 81
+        height: 169
+      alignment: 9
+      pivot: {x: -1.14814818, y: 1.51479292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ab2
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1877
+        width: 89
+        height: 169
+      alignment: 9
+      pivot: {x: -.876404524, y: 1.51479292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ab3
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1878
+        width: 98
+        height: 168
+      alignment: 9
+      pivot: {x: -.683673441, y: 1.51785719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ab4
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1878
+        width: 92
+        height: 168
+      alignment: 9
+      pivot: {x: -.804347813, y: 1.51785719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ac0
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1890
+        width: 99
+        height: 156
+      alignment: 9
+      pivot: {x: -.949494958, y: 1.64102566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ac1
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1890
+        width: 79
+        height: 156
+      alignment: 9
+      pivot: {x: -1.15189874, y: 1.64102566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ac2
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1890
+        width: 104
+        height: 156
+      alignment: 9
+      pivot: {x: -.625, y: 1.64102566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ac3
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1890
+        width: 89
+        height: 156
+      alignment: 9
+      pivot: {x: -.76404494, y: 1.64102566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ac4
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1890
+        width: 99
+        height: 156
+      alignment: 9
+      pivot: {x: -.636363626, y: 1.64102566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ad0
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1864
+        width: 180
+        height: 182
+      alignment: 9
+      pivot: {x: -.233333334, y: 1.40659344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ad1
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1864
+        width: 174
+        height: 182
+      alignment: 9
+      pivot: {x: -.321839094, y: 1.40659344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ad2
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1864
+        width: 145
+        height: 182
+      alignment: 9
+      pivot: {x: -.586206913, y: 1.40659344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ad3
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 1864
+        width: 138
+        height: 182
+      alignment: 9
+      pivot: {x: -.405797094, y: 1.40659344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ad4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1680
+        width: 178
+        height: 182
+      alignment: 9
+      pivot: {x: -.202247187, y: 1.40659344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ae0
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1614
+        width: 121
+        height: 248
+      alignment: 9
+      pivot: {x: -.644628108, y: 1.03225803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ae1
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1615
+        width: 191
+        height: 247
+      alignment: 9
+      pivot: {x: -.214659691, y: 1.03643727}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ae2
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1614
+        width: 195
+        height: 248
+      alignment: 9
+      pivot: {x: -.189743593, y: 1.03225803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ae3
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1614
+        width: 132
+        height: 248
+      alignment: 9
+      pivot: {x: -.621212125, y: 1.03225803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ae4
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1614
+        width: 122
+        height: 248
+      alignment: 9
+      pivot: {x: -.434426218, y: 1.03225803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Af0
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1617
+        width: 102
+        height: 245
+      alignment: 9
+      pivot: {x: -.59803921, y: 1.04489791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Af1
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1617
+        width: 141
+        height: 245
+      alignment: 9
+      pivot: {x: -.283687949, y: 1.04489791}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Af2
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1623
+        width: 178
+        height: 239
+      alignment: 9
+      pivot: {x: -.185393259, y: 1.07112968}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Af3
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1624
+        width: 132
+        height: 238
+      alignment: 9
+      pivot: {x: -.484848499, y: 1.07142854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Af4
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1624
+        width: 100
+        height: 238
+      alignment: 9
+      pivot: {x: -.930000007, y: 1.07142854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ag0
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1670
+        width: 119
+        height: 192
+      alignment: 9
+      pivot: {x: -.378151268, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ag1
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1670
+        width: 158
+        height: 192
+      alignment: 9
+      pivot: {x: -.215189874, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ag2
+      rect:
+        serializedVersion: 2
+        x: 1897
+        y: 1670
+        width: 126
+        height: 192
+      alignment: 9
+      pivot: {x: -.507936537, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ag3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1420
+        width: 102
+        height: 192
+      alignment: 9
+      pivot: {x: -.872548997, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ag4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1420
+        width: 120
+        height: 192
+      alignment: 9
+      pivot: {x: -.75, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Da0
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1507
+        width: 128
+        height: 105
+      alignment: 9
+      pivot: {x: -.4453125, y: 2.43809533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Db0
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 1551
+        width: 169
+        height: 61
+      alignment: 9
+      pivot: {x: -.278106511, y: 4.19672108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Dc0
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1545
+        width: 173
+        height: 67
+      alignment: 9
+      pivot: {x: -.242774561, y: 3.82089543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Fa0
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1420
+        width: 94
+        height: 192
+      alignment: 9
+      pivot: {x: -.914893627, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Fb0
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1422
+        width: 107
+        height: 190
+      alignment: 9
+      pivot: {x: -.766355157, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Fc0
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 1423
+        width: 117
+        height: 189
+      alignment: 9
+      pivot: {x: -.717948735, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Fd0
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 1423
+        width: 108
+        height: 189
+      alignment: 9
+      pivot: {x: -.851851881, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Fe0
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1420
+        width: 125
+        height: 192
+      alignment: 9
+      pivot: {x: -.472000003, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Na0
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1426
+        width: 96
+        height: 186
+      alignment: 9
+      pivot: {x: -.854166687, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Na1
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 1426
+        width: 103
+        height: 186
+      alignment: 9
+      pivot: {x: -.796116531, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Na2
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1426
+        width: 104
+        height: 186
+      alignment: 9
+      pivot: {x: -.75, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Na3
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 1426
+        width: 94
+        height: 186
+      alignment: 9
+      pivot: {x: -.872340441, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Na4
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1426
+        width: 95
+        height: 186
+      alignment: 9
+      pivot: {x: -.83157897, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nb0
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 1448
+        width: 147
+        height: 164
+      alignment: 9
+      pivot: {x: -.163265303, y: 1.56097555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nb1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1254
+        width: 139
+        height: 164
+      alignment: 9
+      pivot: {x: -.187050357, y: 1.56097555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nb2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1254
+        width: 118
+        height: 164
+      alignment: 9
+      pivot: {x: -.372881353, y: 1.56097555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nb3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1253
+        width: 151
+        height: 165
+      alignment: 9
+      pivot: {x: -.258278131, y: 1.5515151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nb4
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1253
+        width: 148
+        height: 165
+      alignment: 9
+      pivot: {x: -.567567587, y: 1.5515151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nc0
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1239
+        width: 149
+        height: 179
+      alignment: 9
+      pivot: {x: -.234899327, y: 1.43016756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nc1
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1239
+        width: 144
+        height: 179
+      alignment: 9
+      pivot: {x: -.138888896, y: 1.43016756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nc2
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1238
+        width: 131
+        height: 180
+      alignment: 9
+      pivot: {x: -.236641228, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nc3
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1238
+        width: 125
+        height: 180
+      alignment: 9
+      pivot: {x: -.296000004, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nc4
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1238
+        width: 151
+        height: 180
+      alignment: 9
+      pivot: {x: -.470198661, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nd0
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1231
+        width: 136
+        height: 187
+      alignment: 9
+      pivot: {x: -.404411763, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nd1
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 1231
+        width: 149
+        height: 187
+      alignment: 9
+      pivot: {x: -.161073819, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nd2
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 1231
+        width: 125
+        height: 187
+      alignment: 9
+      pivot: {x: -.296000004, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nd3
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 1231
+        width: 113
+        height: 187
+      alignment: 9
+      pivot: {x: -.371681422, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nd4
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1231
+        width: 139
+        height: 187
+      alignment: 9
+      pivot: {x: -.460431665, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ne0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1040
+        width: 110
+        height: 189
+      alignment: 9
+      pivot: {x: -.709090889, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ne1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1040
+        width: 137
+        height: 189
+      alignment: 9
+      pivot: {x: -.306569338, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ne2
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1040
+        width: 137
+        height: 189
+      alignment: 9
+      pivot: {x: -.32846716, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ne3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1040
+        width: 120
+        height: 189
+      alignment: 9
+      pivot: {x: -.391666681, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Ne4
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1040
+        width: 112
+        height: 189
+      alignment: 9
+      pivot: {x: -.598214269, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nf0
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1038
+        width: 99
+        height: 191
+      alignment: 9
+      pivot: {x: -.848484874, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nf1
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1038
+        width: 113
+        height: 191
+      alignment: 9
+      pivot: {x: -.539822996, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nf2
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1038
+        width: 110
+        height: 191
+      alignment: 9
+      pivot: {x: -.600000024, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nf3
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1038
+        width: 101
+        height: 191
+      alignment: 9
+      pivot: {x: -.584158421, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Nf4
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1038
+        width: 100
+        height: 191
+      alignment: 9
+      pivot: {x: -.730000019, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Sa0
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1036
+        width: 93
+        height: 193
+      alignment: 9
+      pivot: {x: -.881720424, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Sa1
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1036
+        width: 92
+        height: 193
+      alignment: 9
+      pivot: {x: -.869565189, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Sa2
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 1036
+        width: 77
+        height: 193
+      alignment: 9
+      pivot: {x: -1.19480515, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Sa3
+      rect:
+        serializedVersion: 2
+        x: 1429
+        y: 1036
+        width: 77
+        height: 193
+      alignment: 9
+      pivot: {x: -1.15584421, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Sa4
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1036
+        width: 93
+        height: 193
+      alignment: 9
+      pivot: {x: -.870967746, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wa0
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 1039
+        width: 104
+        height: 190
+      alignment: 9
+      pivot: {x: -.721153855, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wa1
+      rect:
+        serializedVersion: 2
+        x: 1709
+        y: 1039
+        width: 120
+        height: 190
+      alignment: 9
+      pivot: {x: -.416666657, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wa2
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1039
+        width: 115
+        height: 190
+      alignment: 9
+      pivot: {x: -.530434787, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wa3
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1039
+        width: 97
+        height: 190
+      alignment: 9
+      pivot: {x: -.742268026, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wa4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 844
+        width: 104
+        height: 190
+      alignment: 9
+      pivot: {x: -.740384638, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wb0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 842
+        width: 101
+        height: 192
+      alignment: 9
+      pivot: {x: -.762376249, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wb1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 843
+        width: 116
+        height: 191
+      alignment: 9
+      pivot: {x: -.448275864, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wb2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 843
+        width: 114
+        height: 191
+      alignment: 9
+      pivot: {x: -.526315808, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wb3
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 843
+        width: 97
+        height: 191
+      alignment: 9
+      pivot: {x: -.742268026, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wb4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 843
+        width: 101
+        height: 191
+      alignment: 9
+      pivot: {x: -.772277236, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wc0
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 840
+        width: 94
+        height: 194
+      alignment: 9
+      pivot: {x: -.882978737, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wc1
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 840
+        width: 109
+        height: 194
+      alignment: 9
+      pivot: {x: -.587155938, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wc2
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 840
+        width: 98
+        height: 194
+      alignment: 9
+      pivot: {x: -.663265288, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wc3
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 840
+        width: 97
+        height: 194
+      alignment: 9
+      pivot: {x: -.711340189, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wc4
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 840
+        width: 95
+        height: 194
+      alignment: 9
+      pivot: {x: -.83157897, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wd0
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 842
+        width: 97
+        height: 192
+      alignment: 9
+      pivot: {x: -.845360816, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wd1
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 842
+        width: 98
+        height: 192
+      alignment: 9
+      pivot: {x: -.765306115, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wd2
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 842
+        width: 106
+        height: 192
+      alignment: 9
+      pivot: {x: -.632075489, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wd3
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 842
+        width: 105
+        height: 192
+      alignment: 9
+      pivot: {x: -.523809552, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wd4
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 842
+        width: 98
+        height: 192
+      alignment: 9
+      pivot: {x: -.775510192, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426We0
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 844
+        width: 101
+        height: 190
+      alignment: 9
+      pivot: {x: -.79207921, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426We1
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 844
+        width: 92
+        height: 190
+      alignment: 9
+      pivot: {x: -.858695626, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426We2
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 844
+        width: 112
+        height: 190
+      alignment: 9
+      pivot: {x: -.571428597, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426We3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 648
+        width: 120
+        height: 190
+      alignment: 9
+      pivot: {x: -.408333331, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426We4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 648
+        width: 102
+        height: 190
+      alignment: 9
+      pivot: {x: -.725490212, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wf0
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 646
+        width: 98
+        height: 192
+      alignment: 9
+      pivot: {x: -.836734712, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wf1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 646
+        width: 96
+        height: 192
+      alignment: 9
+      pivot: {x: -.802083313, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wf2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 646
+        width: 107
+        height: 192
+      alignment: 9
+      pivot: {x: -.635514021, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wf3
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 646
+        width: 104
+        height: 192
+      alignment: 9
+      pivot: {x: -.519230783, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wf4
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 646
+        width: 99
+        height: 192
+      alignment: 9
+      pivot: {x: -.75757575, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wg0
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 646
+        width: 96
+        height: 192
+      alignment: 9
+      pivot: {x: -.84375, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wg1
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 644
+        width: 104
+        height: 194
+      alignment: 9
+      pivot: {x: -.673076928, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wg2
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 644
+        width: 100
+        height: 194
+      alignment: 9
+      pivot: {x: -.689999998, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wg3
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 646
+        width: 85
+        height: 192
+      alignment: 9
+      pivot: {x: -.894117653, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wg4
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 644
+        width: 95
+        height: 194
+      alignment: 9
+      pivot: {x: -.821052611, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wh1
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 646
+        width: 113
+        height: 192
+      alignment: 9
+      pivot: {x: -.522123873, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wh2
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 646
+        width: 98
+        height: 192
+      alignment: 9
+      pivot: {x: -.663265288, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Wh4
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 646
+        width: 97
+        height: 192
+      alignment: 9
+      pivot: {x: -.814432979, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m426Xa0
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 804
+        width: 182
+        height: 34
+      alignment: 9
+      pivot: {x: -.214285716, y: 7.52941179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

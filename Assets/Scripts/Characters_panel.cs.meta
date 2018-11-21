@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e2193dd72c346434db295ca1590b894b
+timeCreated: 1461432561
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - active_character_oreol: {fileID: 2800000, guid: 966f79e8257a8874b82bf1e272fa63a0,
+      type: 3}
+  executionOrder: 500
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

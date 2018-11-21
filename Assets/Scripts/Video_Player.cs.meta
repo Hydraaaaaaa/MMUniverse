@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: af14ad2f6f0b919439d5b42f354e6165
+timeCreated: 1428603870
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Video: {instanceID: 0}
+  - Video_weaponsmith: {fileID: 15200000, guid: bf88983d388851b4f84b243832a3eb1a,
+      type: 3}
+  - audioClip_weaponsmith: {fileID: 8300000, guid: d221b35ec22c4d54c829bbbec35a8b07,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

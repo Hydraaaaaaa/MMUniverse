@@ -1,0 +1,1375 @@
+fileFormatVersion: 2
+guid: fa67f31530de4e84c84cb7acc0d10f2d
+timeCreated: 1442630334
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: m282aa0
+    21300002: m282aa1
+    21300004: m282aa2
+    21300006: m282aa3
+    21300008: m282aa4
+    21300010: m282ab0
+    21300012: m282ab1
+    21300014: m282ab2
+    21300016: m282ab3
+    21300018: m282ab4
+    21300020: m282ac0
+    21300022: m282ac1
+    21300024: m282ac2
+    21300026: m282ac3
+    21300028: m282ac4
+    21300030: m282ad0
+    21300032: m282ad1
+    21300034: m282ad2
+    21300036: m282ad3
+    21300038: m282ad4
+    21300040: m282ae0
+    21300042: m282ae1
+    21300044: m282ae2
+    21300046: m282ae3
+    21300048: m282ae4
+    21300050: m282af0
+    21300052: m282af1
+    21300054: m282af2
+    21300056: m282af3
+    21300058: m282af4
+    21300060: m282ag0
+    21300062: m282ag1
+    21300064: m282ag2
+    21300066: m282ag3
+    21300068: m282ag4
+    21300070: m282ah0
+    21300072: m282ah1
+    21300074: m282ah2
+    21300076: m282ah3
+    21300078: m282ah4
+    21300080: m282da0
+    21300082: m282db0
+    21300084: m282dc0
+    21300086: m282dd0
+    21300088: m282de0
+    21300090: m282fa0
+    21300092: m282fb0
+    21300094: m282fc0
+    21300096: m282fd0
+    21300098: m282na0
+    21300100: m282na1
+    21300102: m282na2
+    21300104: m282na3
+    21300106: m282na4
+    21300108: m282nb0
+    21300110: m282nb1
+    21300112: m282nb2
+    21300114: m282nb3
+    21300116: m282nb4
+    21300118: m282nc0
+    21300120: m282nc1
+    21300122: m282nc2
+    21300124: m282nc3
+    21300126: m282nc4
+    21300128: m282nd0
+    21300130: m282nd1
+    21300132: m282nd2
+    21300134: m282nd3
+    21300136: m282nd4
+    21300138: m282ne0
+    21300140: m282ne1
+    21300142: m282ne2
+    21300144: m282ne3
+    21300146: m282ne4
+    21300148: m282nf0
+    21300150: m282nf1
+    21300152: m282nf2
+    21300154: m282nf3
+    21300156: m282nf4
+    21300158: m282sa0
+    21300160: m282sa1
+    21300162: m282sa2
+    21300164: m282sa3
+    21300166: m282sa4
+    21300168: m282wa0
+    21300170: m282wa1
+    21300172: m282wa2
+    21300174: m282wa3
+    21300176: m282wa4
+    21300178: m282wb0
+    21300180: m282wb1
+    21300182: m282wb2
+    21300184: m282wb3
+    21300186: m282wb4
+    21300188: m282wc0
+    21300190: m282wc1
+    21300192: m282wc2
+    21300194: m282wc3
+    21300196: m282wc4
+    21300198: m282wd0
+    21300200: m282wd1
+    21300202: m282wd2
+    21300204: m282wd3
+    21300206: m282wd4
+    21300208: m282we0
+    21300210: m282we1
+    21300212: m282we2
+    21300214: m282we3
+    21300216: m282we4
+    21300218: m282wf0
+    21300220: m282wf1
+    21300222: m282wf2
+    21300224: m282wf3
+    21300226: m282wf4
+    21300228: m282wg0
+    21300230: m282wg1
+    21300232: m282wg2
+    21300234: m282wg3
+    21300236: m282wg4
+    21300238: m282xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: m282aa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1880
+        width: 98
+        height: 166
+      alignment: 9
+      pivot: {x: -.846938789, y: 1.54216862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282aa1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1880
+        width: 150
+        height: 166
+      alignment: 9
+      pivot: {x: -.426666677, y: 1.54216862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282aa2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1880
+        width: 147
+        height: 166
+      alignment: 9
+      pivot: {x: -.408163279, y: 1.54216862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282aa3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1880
+        width: 105
+        height: 166
+      alignment: 9
+      pivot: {x: -.72380954, y: 1.54216862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282aa4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1880
+        width: 98
+        height: 166
+      alignment: 9
+      pivot: {x: -.755102038, y: 1.54216862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ab0
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1854
+        width: 96
+        height: 192
+      alignment: 9
+      pivot: {x: -.885416687, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ab1
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1854
+        width: 154
+        height: 192
+      alignment: 9
+      pivot: {x: -.415584415, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ab2
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1855
+        width: 160
+        height: 191
+      alignment: 9
+      pivot: {x: -.381249994, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ab3
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1855
+        width: 114
+        height: 191
+      alignment: 9
+      pivot: {x: -.657894731, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ab4
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1855
+        width: 97
+        height: 191
+      alignment: 9
+      pivot: {x: -.762886584, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ac0
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1839
+        width: 96
+        height: 207
+      alignment: 9
+      pivot: {x: -.895833313, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ac1
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1839
+        width: 131
+        height: 207
+      alignment: 9
+      pivot: {x: -.48854962, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ac2
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 1839
+        width: 154
+        height: 207
+      alignment: 9
+      pivot: {x: -.38961038, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ac3
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 1839
+        width: 112
+        height: 207
+      alignment: 9
+      pivot: {x: -.660714269, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ac4
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1839
+        width: 96
+        height: 207
+      alignment: 9
+      pivot: {x: -.770833313, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ad0
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1839
+        width: 96
+        height: 207
+      alignment: 9
+      pivot: {x: -.90625, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ad1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1630
+        width: 125
+        height: 207
+      alignment: 9
+      pivot: {x: -.519999981, y: 1.23671496}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ad2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1631
+        width: 174
+        height: 206
+      alignment: 9
+      pivot: {x: -.339080453, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ad3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1632
+        width: 141
+        height: 205
+      alignment: 9
+      pivot: {x: -.524822712, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ad4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1632
+        width: 97
+        height: 205
+      alignment: 9
+      pivot: {x: -.752577305, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ae0
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1649
+        width: 96
+        height: 188
+      alignment: 9
+      pivot: {x: -.895833313, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ae1
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1649
+        width: 150
+        height: 188
+      alignment: 9
+      pivot: {x: -.433333337, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ae2
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1649
+        width: 184
+        height: 188
+      alignment: 9
+      pivot: {x: -.326086968, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ae3
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 1650
+        width: 131
+        height: 187
+      alignment: 9
+      pivot: {x: -.572519064, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ae4
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1650
+        width: 96
+        height: 187
+      alignment: 9
+      pivot: {x: -.770833313, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282af0
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 1662
+        width: 97
+        height: 175
+      alignment: 9
+      pivot: {x: -.876288652, y: 1.46285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282af1
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1663
+        width: 134
+        height: 174
+      alignment: 9
+      pivot: {x: -.485074639, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282af2
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1663
+        width: 178
+        height: 174
+      alignment: 9
+      pivot: {x: -.337078661, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282af3
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1663
+        width: 137
+        height: 174
+      alignment: 9
+      pivot: {x: -.554744542, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282af4
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1663
+        width: 97
+        height: 174
+      alignment: 9
+      pivot: {x: -.762886584, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ag0
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1662
+        width: 112
+        height: 175
+      alignment: 9
+      pivot: {x: -.625, y: 1.46285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ag1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1453
+        width: 150
+        height: 175
+      alignment: 9
+      pivot: {x: -.433333337, y: 1.46285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ag2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1453
+        width: 146
+        height: 175
+      alignment: 9
+      pivot: {x: -.424657524, y: 1.46285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ag3
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1453
+        width: 106
+        height: 175
+      alignment: 9
+      pivot: {x: -.716981113, y: 1.46285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ag4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1453
+        width: 112
+        height: 175
+      alignment: 9
+      pivot: {x: -.660714269, y: 1.46285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ah0
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1470
+        width: 112
+        height: 158
+      alignment: 9
+      pivot: {x: -.625, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ah1
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1470
+        width: 143
+        height: 158
+      alignment: 9
+      pivot: {x: -.454545468, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ah2
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1470
+        width: 137
+        height: 158
+      alignment: 9
+      pivot: {x: -.445255488, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ah3
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1470
+        width: 121
+        height: 158
+      alignment: 9
+      pivot: {x: -.628099203, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ah4
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1470
+        width: 112
+        height: 158
+      alignment: 9
+      pivot: {x: -.660714269, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282da0
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 1466
+        width: 130
+        height: 162
+      alignment: 9
+      pivot: {x: -.669230759, y: 1.58024693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282db0
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1467
+        width: 142
+        height: 161
+      alignment: 9
+      pivot: {x: -.633802831, y: 1.59006214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282dc0
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1478
+        width: 152
+        height: 150
+      alignment: 9
+      pivot: {x: -.506578922, y: 1.70666671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282dd0
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1487
+        width: 129
+        height: 141
+      alignment: 9
+      pivot: {x: -.58914727, y: 1.81560278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282de0
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1519
+        width: 147
+        height: 109
+      alignment: 9
+      pivot: {x: -.578231275, y: 2.34862375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282fa0
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1468
+        width: 97
+        height: 160
+      alignment: 9
+      pivot: {x: -.876288652, y: 1.60000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282fb0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1290
+        width: 97
+        height: 161
+      alignment: 9
+      pivot: {x: -.876288652, y: 1.59006214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282fc0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1289
+        width: 97
+        height: 162
+      alignment: 9
+      pivot: {x: -.876288652, y: 1.58024693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282fd0
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1290
+        width: 97
+        height: 161
+      alignment: 9
+      pivot: {x: -.876288652, y: 1.59006214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282na0
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1305
+        width: 123
+        height: 146
+      alignment: 9
+      pivot: {x: -.504065037, y: 1.75342464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282na1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1305
+        width: 142
+        height: 146
+      alignment: 9
+      pivot: {x: -.408450693, y: 1.75342464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282na2
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1305
+        width: 141
+        height: 146
+      alignment: 9
+      pivot: {x: -.390070915, y: 1.75342464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282na3
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1305
+        width: 109
+        height: 146
+      alignment: 9
+      pivot: {x: -.669724762, y: 1.75342464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282na4
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1304
+        width: 122
+        height: 147
+      alignment: 9
+      pivot: {x: -.590163946, y: 1.74149656}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nb0
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1293
+        width: 110
+        height: 158
+      alignment: 9
+      pivot: {x: -.763636351, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nb1
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1293
+        width: 147
+        height: 158
+      alignment: 9
+      pivot: {x: -.326530606, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nb2
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1293
+        width: 151
+        height: 158
+      alignment: 9
+      pivot: {x: -.29801324, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nb3
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1293
+        width: 106
+        height: 158
+      alignment: 9
+      pivot: {x: -.716981113, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nb4
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1293
+        width: 110
+        height: 158
+      alignment: 9
+      pivot: {x: -.563636363, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nc0
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1293
+        width: 117
+        height: 158
+      alignment: 9
+      pivot: {x: -.615384638, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nc1
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1293
+        width: 155
+        height: 158
+      alignment: 9
+      pivot: {x: -.341935486, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nc2
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1293
+        width: 134
+        height: 158
+      alignment: 9
+      pivot: {x: -.462686568, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nc3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1129
+        width: 105
+        height: 158
+      alignment: 9
+      pivot: {x: -.733333349, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nc4
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1129
+        width: 117
+        height: 158
+      alignment: 9
+      pivot: {x: -.572649598, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nd0
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1138
+        width: 116
+        height: 149
+      alignment: 9
+      pivot: {x: -.594827592, y: 1.71812081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nd1
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1138
+        width: 162
+        height: 149
+      alignment: 9
+      pivot: {x: -.339506179, y: 1.71812081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nd2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1138
+        width: 159
+        height: 149
+      alignment: 9
+      pivot: {x: -.408805043, y: 1.71812081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nd3
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1138
+        width: 105
+        height: 149
+      alignment: 9
+      pivot: {x: -.733333349, y: 1.71812081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nd4
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1138
+        width: 115
+        height: 149
+      alignment: 9
+      pivot: {x: -.62608695, y: 1.71812081}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ne0
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1128
+        width: 104
+        height: 159
+      alignment: 9
+      pivot: {x: -.75, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ne1
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1128
+        width: 139
+        height: 159
+      alignment: 9
+      pivot: {x: -.395683467, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ne2
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1128
+        width: 131
+        height: 159
+      alignment: 9
+      pivot: {x: -.496183217, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ne3
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 1128
+        width: 106
+        height: 159
+      alignment: 9
+      pivot: {x: -.726415098, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282ne4
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 1128
+        width: 104
+        height: 159
+      alignment: 9
+      pivot: {x: -.711538434, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nf0
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1128
+        width: 98
+        height: 159
+      alignment: 9
+      pivot: {x: -.857142866, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nf1
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 1128
+        width: 143
+        height: 159
+      alignment: 9
+      pivot: {x: -.405594409, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nf2
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1128
+        width: 141
+        height: 159
+      alignment: 9
+      pivot: {x: -.425531924, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nf3
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 1129
+        width: 110
+        height: 158
+      alignment: 9
+      pivot: {x: -.690909088, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282nf4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 968
+        width: 99
+        height: 158
+      alignment: 9
+      pivot: {x: -.74747473, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282sa0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 967
+        width: 97
+        height: 159
+      alignment: 9
+      pivot: {x: -.876288652, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282sa1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 967
+        width: 122
+        height: 159
+      alignment: 9
+      pivot: {x: -.532786906, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282sa2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 967
+        width: 136
+        height: 159
+      alignment: 9
+      pivot: {x: -.441176474, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282sa3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 967
+        width: 109
+        height: 159
+      alignment: 9
+      pivot: {x: -.697247684, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282sa4
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 967
+        width: 96
+        height: 159
+      alignment: 9
+      pivot: {x: -.78125, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wa0
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 967
+        width: 83
+        height: 159
+      alignment: 9
+      pivot: {x: -1.12048197, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wa1
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 967
+        width: 162
+        height: 159
+      alignment: 9
+      pivot: {x: -.19135803, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wa2
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 968
+        width: 201
+        height: 158
+      alignment: 9
+      pivot: {x: -.00497512426, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wa3
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 968
+        width: 181
+        height: 158
+      alignment: 9
+      pivot: {x: -.0497237556, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wa4
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 968
+        width: 84
+        height: 158
+      alignment: 9
+      pivot: {x: -.940476179, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wb0
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 967
+        width: 83
+        height: 159
+      alignment: 9
+      pivot: {x: -1.08433735, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wb1
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 967
+        width: 173
+        height: 159
+      alignment: 9
+      pivot: {x: -.121387281, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wb2
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 968
+        width: 203
+        height: 158
+      alignment: 9
+      pivot: {x: 0, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wb3
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 968
+        width: 174
+        height: 158
+      alignment: 9
+      pivot: {x: -.0919540226, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wb4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 807
+        width: 83
+        height: 158
+      alignment: 9
+      pivot: {x: -1, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wc0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 806
+        width: 79
+        height: 159
+      alignment: 9
+      pivot: {x: -1.1392405, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wc1
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 806
+        width: 160
+        height: 159
+      alignment: 9
+      pivot: {x: -.212500006, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wc2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 806
+        width: 193
+        height: 159
+      alignment: 9
+      pivot: {x: -.0518134721, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wc3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 807
+        width: 164
+        height: 158
+      alignment: 9
+      pivot: {x: -.158536583, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wc4
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 807
+        width: 77
+        height: 158
+      alignment: 9
+      pivot: {x: -1.14285719, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wd0
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 807
+        width: 87
+        height: 158
+      alignment: 9
+      pivot: {x: -1.02298856, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wd1
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 807
+        width: 144
+        height: 158
+      alignment: 9
+      pivot: {x: -.3125, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wd2
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 807
+        width: 195
+        height: 158
+      alignment: 9
+      pivot: {x: -.0410256423, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wd3
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 807
+        width: 173
+        height: 158
+      alignment: 9
+      pivot: {x: -.0982658938, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wd4
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 807
+        width: 88
+        height: 158
+      alignment: 9
+      pivot: {x: -.897727251, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282we0
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 808
+        width: 89
+        height: 157
+      alignment: 9
+      pivot: {x: -1.01123595, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282we1
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 808
+        width: 136
+        height: 157
+      alignment: 9
+      pivot: {x: -.389705896, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282we2
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 808
+        width: 202
+        height: 157
+      alignment: 9
+      pivot: {x: -.00495049497, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282we3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 647
+        width: 181
+        height: 157
+      alignment: 9
+      pivot: {x: -.0497237556, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282we4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 647
+        width: 90
+        height: 157
+      alignment: 9
+      pivot: {x: -.844444454, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wf0
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 647
+        width: 77
+        height: 157
+      alignment: 9
+      pivot: {x: -1.20779216, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wf1
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 648
+        width: 141
+        height: 156
+      alignment: 9
+      pivot: {x: -.361702114, y: 1.64102566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wf2
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 648
+        width: 204
+        height: 156
+      alignment: 9
+      pivot: {x: 0, y: 1.64102566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wf3
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 648
+        width: 177
+        height: 156
+      alignment: 9
+      pivot: {x: -.0677966103, y: 1.64102566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wf4
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 648
+        width: 76
+        height: 156
+      alignment: 9
+      pivot: {x: -1.14473689, y: 1.64102566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wg0
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 646
+        width: 74
+        height: 158
+      alignment: 9
+      pivot: {x: -1.28378379, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wg1
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 647
+        width: 155
+        height: 157
+      alignment: 9
+      pivot: {x: -.219354838, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wg2
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 647
+        width: 200
+        height: 157
+      alignment: 9
+      pivot: {x: -.0149999997, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wg3
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 647
+        width: 162
+        height: 157
+      alignment: 9
+      pivot: {x: -.172839507, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282wg4
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 647
+        width: 73
+        height: 157
+      alignment: 9
+      pivot: {x: -1.2054795, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m282xa0
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 745
+        width: 176
+        height: 59
+      alignment: 9
+      pivot: {x: -.409090906, y: 4.33898306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 90b217e62a9b276428a7db3aa9558076
+timeCreated: 1440778540
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC04Bod
+    21300002: PC04Lad
+    21300004: PC04Lau
+    21300006: PC04Lh
+    21300008: PC04Lhu
+    21300010: PC04Rh
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC04Bod
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 157
+        width: 173
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 120.5}
+        - {x: -74.5, y: 23.5}
+        - {x: -74.5, y: -176.5}
+        - {x: 74.5, y: -176.5}
+        - {x: 74.5, y: 84.5}
+        - {x: 9.5, y: 120.5}
+    - name: PC04Lad
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 389
+        width: 47
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 56.5}
+        - {x: -16.5, y: 40.5}
+        - {x: -16.5, y: -14.5}
+        - {x: -4.5, y: -60.5}
+        - {x: 23.5, y: -60.5}
+        - {x: 23.5, y: 45.5}
+        - {x: 8.5, y: 56.5}
+    - name: PC04Lau
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 77
+        width: 104
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 39}
+        - {x: -51, y: 11}
+        - {x: -51, y: -39}
+        - {x: 3, y: -39}
+        - {x: 51, y: -20}
+        - {x: 52, y: -18}
+        - {x: 52, y: 39}
+    - name: PC04Lh
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 383
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC04Lhu
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 432
+        width: 20
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: PC04Rh
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 407
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1815 @@
+fileFormatVersion: 2
+guid: e815091da133c074abbdd144b61335b5
+timeCreated: 1442630085
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: m470aa0
+    21300002: m470aa1
+    21300004: m470aa2
+    21300006: m470aa3
+    21300008: m470aa4
+    21300010: m470ab0
+    21300012: m470ab1
+    21300014: m470ab2
+    21300016: m470ab3
+    21300018: m470ab4
+    21300020: m470ac0
+    21300022: m470ac1
+    21300024: m470ac2
+    21300026: m470ac3
+    21300028: m470ac4
+    21300030: m470ad0
+    21300032: m470ad1
+    21300034: m470ad2
+    21300036: m470ad3
+    21300038: m470ad4
+    21300040: m470ae0
+    21300042: m470ae1
+    21300044: m470ae2
+    21300046: m470ae3
+    21300048: m470ae4
+    21300050: m470af0
+    21300052: m470af1
+    21300054: m470af2
+    21300056: m470af3
+    21300058: m470af4
+    21300060: m470ag0
+    21300062: m470ag1
+    21300064: m470ag2
+    21300066: m470ag3
+    21300068: m470ag4
+    21300070: m470ah0
+    21300072: m470ah1
+    21300074: m470ah2
+    21300076: m470ah3
+    21300078: m470ah4
+    21300080: m470da0
+    21300082: m470da1
+    21300084: m470da2
+    21300086: m470da3
+    21300088: m470da4
+    21300090: m470db0
+    21300092: m470db1
+    21300094: m470db2
+    21300096: m470db3
+    21300098: m470db4
+    21300100: m470dc0
+    21300102: m470dc1
+    21300104: m470dc2
+    21300106: m470dc3
+    21300108: m470dc4
+    21300110: m470dd0
+    21300112: m470dd1
+    21300114: m470dd2
+    21300116: m470dd3
+    21300118: m470dd4
+    21300120: m470fa0
+    21300122: m470fa1
+    21300124: m470fa2
+    21300126: m470fa3
+    21300128: m470fa4
+    21300130: m470fb0
+    21300132: m470fb1
+    21300134: m470fb2
+    21300136: m470fb3
+    21300138: m470fb4
+    21300140: m470fc0
+    21300142: m470fc1
+    21300144: m470fc2
+    21300146: m470fc3
+    21300148: m470fc4
+    21300150: m470fd0
+    21300152: m470fd1
+    21300154: m470fd2
+    21300156: m470fd3
+    21300158: m470fd4
+    21300160: m470na0
+    21300162: m470na1
+    21300164: m470na2
+    21300166: m470na3
+    21300168: m470na4
+    21300170: m470nb0
+    21300172: m470nb1
+    21300174: m470nb2
+    21300176: m470nb3
+    21300178: m470nb4
+    21300180: m470nc0
+    21300182: m470nc1
+    21300184: m470nc2
+    21300186: m470nc3
+    21300188: m470nc4
+    21300190: m470nd0
+    21300192: m470nd1
+    21300194: m470nd2
+    21300196: m470nd3
+    21300198: m470nd4
+    21300200: m470ne0
+    21300202: m470ne1
+    21300204: m470ne2
+    21300206: m470ne3
+    21300208: m470ne4
+    21300210: m470nf0
+    21300212: m470nf1
+    21300214: m470nf2
+    21300216: m470nf3
+    21300218: m470nf4
+    21300220: m470sa0
+    21300222: m470sa1
+    21300224: m470sa2
+    21300226: m470sa3
+    21300228: m470sa4
+    21300230: m470wa0
+    21300232: m470wa1
+    21300234: m470wa2
+    21300236: m470wa3
+    21300238: m470wa4
+    21300240: m470wb0
+    21300242: m470wb1
+    21300244: m470wb2
+    21300246: m470wb3
+    21300248: m470wb4
+    21300250: m470wc0
+    21300252: m470wc1
+    21300254: m470wc2
+    21300256: m470wc3
+    21300258: m470wc4
+    21300260: m470wd0
+    21300262: m470wd1
+    21300264: m470wd2
+    21300266: m470wd3
+    21300268: m470wd4
+    21300270: m470we0
+    21300272: m470we1
+    21300274: m470we2
+    21300276: m470we3
+    21300278: m470we4
+    21300280: m470wf0
+    21300282: m470wf1
+    21300284: m470wf2
+    21300286: m470wf3
+    21300288: m470wf4
+    21300290: m470wg0
+    21300292: m470wg1
+    21300294: m470wg2
+    21300296: m470wg3
+    21300298: m470wg4
+    21300300: m470wh0
+    21300302: m470wh1
+    21300304: m470wh2
+    21300306: m470wh3
+    21300308: m470wh4
+    21300310: m470xa0
+    21300312: m470xa1
+    21300314: m470xa2
+    21300316: m470xa3
+    21300318: m470xa4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: m470aa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1849
+        width: 106
+        height: 197
+      alignment: 9
+      pivot: {x: -.575471699, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470aa1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1849
+        width: 101
+        height: 197
+      alignment: 9
+      pivot: {x: -.603960395, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470aa2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1849
+        width: 72
+        height: 197
+      alignment: 9
+      pivot: {x: -1.15277779, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470aa3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1849
+        width: 67
+        height: 197
+      alignment: 9
+      pivot: {x: -1.41791046, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470aa4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1848
+        width: 106
+        height: 198
+      alignment: 9
+      pivot: {x: -.839622617, y: 1.29292929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ab0
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1850
+        width: 104
+        height: 196
+      alignment: 9
+      pivot: {x: -.432692319, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ab1
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1850
+        width: 140
+        height: 196
+      alignment: 9
+      pivot: {x: -.135714293, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ab2
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1850
+        width: 116
+        height: 196
+      alignment: 9
+      pivot: {x: -.431034476, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ab3
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 1850
+        width: 68
+        height: 196
+      alignment: 9
+      pivot: {x: -1.45588231, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ab4
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1850
+        width: 105
+        height: 196
+      alignment: 9
+      pivot: {x: -1.01904762, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ac0
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1850
+        width: 82
+        height: 196
+      alignment: 9
+      pivot: {x: -.768292665, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ac1
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1850
+        width: 148
+        height: 196
+      alignment: 9
+      pivot: {x: -.0945945978, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ac2
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1849
+        width: 142
+        height: 197
+      alignment: 9
+      pivot: {x: -.169014081, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ac3
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 1849
+        width: 95
+        height: 197
+      alignment: 9
+      pivot: {x: -.936842084, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ac4
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1849
+        width: 84
+        height: 197
+      alignment: 9
+      pivot: {x: -1.32142854, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ad0
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1848
+        width: 135
+        height: 198
+      alignment: 9
+      pivot: {x: -.385185182, y: 1.29292929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ad1
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1848
+        width: 134
+        height: 198
+      alignment: 9
+      pivot: {x: -.49253732, y: 1.29292929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ad2
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 1848
+        width: 113
+        height: 198
+      alignment: 9
+      pivot: {x: -.902654886, y: 1.29292929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ad3
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 1848
+        width: 76
+        height: 198
+      alignment: 9
+      pivot: {x: -1.39473689, y: 1.29292929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ad4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1648
+        width: 135
+        height: 198
+      alignment: 9
+      pivot: {x: -.51111114, y: 1.29292929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ae0
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1661
+        width: 73
+        height: 185
+      alignment: 9
+      pivot: {x: -1.31506848, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ae1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1661
+        width: 114
+        height: 185
+      alignment: 9
+      pivot: {x: -.877192974, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ae2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1661
+        width: 119
+        height: 185
+      alignment: 9
+      pivot: {x: -.915966392, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ae3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1661
+        width: 104
+        height: 185
+      alignment: 9
+      pivot: {x: -.894230783, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ae4
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1661
+        width: 73
+        height: 185
+      alignment: 9
+      pivot: {x: -1.19178081, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470af0
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1681
+        width: 69
+        height: 165
+      alignment: 9
+      pivot: {x: -1.34782612, y: 1.5515151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470af1
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1681
+        width: 118
+        height: 165
+      alignment: 9
+      pivot: {x: -.813559294, y: 1.5515151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470af2
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1681
+        width: 120
+        height: 165
+      alignment: 9
+      pivot: {x: -.899999976, y: 1.5515151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470af3
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1681
+        width: 76
+        height: 165
+      alignment: 9
+      pivot: {x: -1.60526311, y: 1.5515151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470af4
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1681
+        width: 69
+        height: 165
+      alignment: 9
+      pivot: {x: -1.36231887, y: 1.5515151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ag0
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1676
+        width: 75
+        height: 170
+      alignment: 9
+      pivot: {x: -1.27999997, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ag1
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1676
+        width: 132
+        height: 170
+      alignment: 9
+      pivot: {x: -.621212125, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ag2
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1676
+        width: 142
+        height: 170
+      alignment: 9
+      pivot: {x: -.549295783, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ag3
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 1676
+        width: 77
+        height: 170
+      alignment: 9
+      pivot: {x: -1.2337662, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ag4
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 1676
+        width: 75
+        height: 170
+      alignment: 9
+      pivot: {x: -1.13333333, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ah0
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1660
+        width: 82
+        height: 186
+      alignment: 9
+      pivot: {x: -1.097561, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ah1
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 1660
+        width: 97
+        height: 186
+      alignment: 9
+      pivot: {x: -.793814421, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ah2
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 1660
+        width: 96
+        height: 186
+      alignment: 9
+      pivot: {x: -.833333313, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ah3
+      rect:
+        serializedVersion: 2
+        x: 1886
+        y: 1660
+        width: 85
+        height: 186
+      alignment: 9
+      pivot: {x: -.835294127, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ah4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1460
+        width: 82
+        height: 186
+      alignment: 9
+      pivot: {x: -1.02439022, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470da0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1484
+        width: 76
+        height: 162
+      alignment: 9
+      pivot: {x: -1.17105258, y: 1.51851857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470da1
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1484
+        width: 127
+        height: 162
+      alignment: 9
+      pivot: {x: -.299212605, y: 1.51851857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470da2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1484
+        width: 168
+        height: 162
+      alignment: 9
+      pivot: {x: -.0773809552, y: 1.51851857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470da3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1484
+        width: 138
+        height: 162
+      alignment: 9
+      pivot: {x: -.333333343, y: 1.51851857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470da4
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1484
+        width: 75
+        height: 162
+      alignment: 9
+      pivot: {x: -1.21333337, y: 1.51851857}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470db0
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1542
+        width: 130
+        height: 104
+      alignment: 9
+      pivot: {x: -.561538458, y: 2.46153855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470db1
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1542
+        width: 130
+        height: 104
+      alignment: 9
+      pivot: {x: -.400000006, y: 2.46153855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470db2
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1542
+        width: 168
+        height: 104
+      alignment: 9
+      pivot: {x: -.119047619, y: 2.46153855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470db3
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1542
+        width: 166
+        height: 104
+      alignment: 9
+      pivot: {x: -.240963861, y: 2.46153855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470db4
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 1542
+        width: 131
+        height: 104
+      alignment: 9
+      pivot: {x: -.396946579, y: 2.46153855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470dc0
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1599
+        width: 150
+        height: 47
+      alignment: 9
+      pivot: {x: -.486666679, y: 5.44680834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470dc1
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 1599
+        width: 168
+        height: 47
+      alignment: 9
+      pivot: {x: -.178571433, y: 5.44680834}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470dc2
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1600
+        width: 183
+        height: 46
+      alignment: 9
+      pivot: {x: -.147540987, y: 5.56521749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470dc3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1412
+        width: 186
+        height: 46
+      alignment: 9
+      pivot: {x: -.188172042, y: 5.56521749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470dc4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1412
+        width: 150
+        height: 46
+      alignment: 9
+      pivot: {x: -.213333338, y: 5.56521749}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470dd0
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1395
+        width: 160
+        height: 63
+      alignment: 9
+      pivot: {x: -.456250012, y: 4.04761887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470dd1
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1396
+        width: 170
+        height: 62
+      alignment: 9
+      pivot: {x: -.205882356, y: 4.0967741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470dd2
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 1396
+        width: 180
+        height: 62
+      alignment: 9
+      pivot: {x: -.177777782, y: 4.0967741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470dd3
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1395
+        width: 196
+        height: 63
+      alignment: 9
+      pivot: {x: -.137755096, y: 4.04761887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470dd4
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1394
+        width: 160
+        height: 64
+      alignment: 9
+      pivot: {x: -.137500003, y: 4}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fa0
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1262
+        width: 115
+        height: 196
+      alignment: 9
+      pivot: {x: -.765217364, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fa1
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 1262
+        width: 126
+        height: 196
+      alignment: 9
+      pivot: {x: -.603174627, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fa2
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1262
+        width: 73
+        height: 196
+      alignment: 9
+      pivot: {x: -1.23287666, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fa3
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1262
+        width: 73
+        height: 196
+      alignment: 9
+      pivot: {x: -1.13698626, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fa4
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1262
+        width: 114
+        height: 196
+      alignment: 9
+      pivot: {x: -.473684222, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fb0
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 1264
+        width: 137
+        height: 194
+      alignment: 9
+      pivot: {x: -.635036469, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fb1
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 1264
+        width: 151
+        height: 194
+      alignment: 9
+      pivot: {x: -.496688753, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fb2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1066
+        width: 90
+        height: 194
+      alignment: 9
+      pivot: {x: -.933333337, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fb3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1066
+        width: 68
+        height: 194
+      alignment: 9
+      pivot: {x: -1.29411769, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fb4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1066
+        width: 136
+        height: 194
+      alignment: 9
+      pivot: {x: -.25, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fc0
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1066
+        width: 71
+        height: 194
+      alignment: 9
+      pivot: {x: -1.25352108, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fc1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1066
+        width: 95
+        height: 194
+      alignment: 9
+      pivot: {x: -.768421054, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fc2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1066
+        width: 97
+        height: 194
+      alignment: 9
+      pivot: {x: -.639175236, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fc3
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1066
+        width: 80
+        height: 194
+      alignment: 9
+      pivot: {x: -1.0625, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fc4
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1066
+        width: 71
+        height: 194
+      alignment: 9
+      pivot: {x: -1.35211265, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fd0
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1064
+        width: 65
+        height: 196
+      alignment: 9
+      pivot: {x: -1.47692311, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fd1
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1064
+        width: 108
+        height: 196
+      alignment: 9
+      pivot: {x: -.555555582, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fd2
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1064
+        width: 114
+        height: 196
+      alignment: 9
+      pivot: {x: -.491228074, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fd3
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1064
+        width: 72
+        height: 196
+      alignment: 9
+      pivot: {x: -1.23611116, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470fd4
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1064
+        width: 66
+        height: 196
+      alignment: 9
+      pivot: {x: -1.439394, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470na0
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1069
+        width: 93
+        height: 191
+      alignment: 9
+      pivot: {x: -.645161271, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470na1
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 1069
+        width: 89
+        height: 191
+      alignment: 9
+      pivot: {x: -.797752798, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470na2
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1069
+        width: 96
+        height: 191
+      alignment: 9
+      pivot: {x: -.770833313, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470na3
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 1068
+        width: 99
+        height: 192
+      alignment: 9
+      pivot: {x: -.878787875, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470na4
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 1068
+        width: 94
+        height: 192
+      alignment: 9
+      pivot: {x: -1.08510637, y: 1.33333337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nb0
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1054
+        width: 83
+        height: 206
+      alignment: 9
+      pivot: {x: -.771084309, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nb1
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 1054
+        width: 127
+        height: 206
+      alignment: 9
+      pivot: {x: -.133858263, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nb2
+      rect:
+        serializedVersion: 2
+        x: 1856
+        y: 1054
+        width: 125
+        height: 206
+      alignment: 9
+      pivot: {x: -.192000002, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nb3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 846
+        width: 79
+        height: 206
+      alignment: 9
+      pivot: {x: -.974683523, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nb4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 846
+        width: 84
+        height: 206
+      alignment: 9
+      pivot: {x: -1.2976191, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nc0
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 883
+        width: 138
+        height: 169
+      alignment: 9
+      pivot: {x: -.5289855, y: 1.51479292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nc1
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 883
+        width: 79
+        height: 169
+      alignment: 9
+      pivot: {x: -.759493649, y: 1.51479292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nc2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 882
+        width: 97
+        height: 170
+      alignment: 9
+      pivot: {x: -.463917524, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nc3
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 882
+        width: 142
+        height: 170
+      alignment: 9
+      pivot: {x: -.0985915512, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nc4
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 882
+        width: 140
+        height: 170
+      alignment: 9
+      pivot: {x: -.314285725, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nd0
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 887
+        width: 126
+        height: 165
+      alignment: 9
+      pivot: {x: -.5, y: 1.5515151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nd1
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 886
+        width: 82
+        height: 166
+      alignment: 9
+      pivot: {x: -.878048778, y: 1.54216862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nd2
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 886
+        width: 98
+        height: 166
+      alignment: 9
+      pivot: {x: -.591836751, y: 1.54216862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nd3
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 886
+        width: 127
+        height: 166
+      alignment: 9
+      pivot: {x: -.464566916, y: 1.54216862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nd4
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 886
+        width: 126
+        height: 166
+      alignment: 9
+      pivot: {x: -.523809552, y: 1.54216862}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ne0
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 875
+        width: 98
+        height: 177
+      alignment: 9
+      pivot: {x: -.744897962, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ne1
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 875
+        width: 59
+        height: 177
+      alignment: 9
+      pivot: {x: -1.40677965, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ne2
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 875
+        width: 93
+        height: 177
+      alignment: 9
+      pivot: {x: -.709677398, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ne3
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 875
+        width: 114
+        height: 177
+      alignment: 9
+      pivot: {x: -.61403507, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470ne4
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 875
+        width: 98
+        height: 177
+      alignment: 9
+      pivot: {x: -.867346942, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nf0
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 864
+        width: 95
+        height: 188
+      alignment: 9
+      pivot: {x: -.778947353, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nf1
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 864
+        width: 80
+        height: 188
+      alignment: 9
+      pivot: {x: -1.01250005, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nf2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 656
+        width: 65
+        height: 188
+      alignment: 9
+      pivot: {x: -1.35384619, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nf3
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 656
+        width: 93
+        height: 188
+      alignment: 9
+      pivot: {x: -.84946239, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470nf4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 656
+        width: 96
+        height: 188
+      alignment: 9
+      pivot: {x: -.895833313, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470sa0
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 646
+        width: 97
+        height: 198
+      alignment: 9
+      pivot: {x: -.824742258, y: 1.29292929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470sa1
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 646
+        width: 91
+        height: 198
+      alignment: 9
+      pivot: {x: -.846153855, y: 1.29292929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470sa2
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 646
+        width: 60
+        height: 198
+      alignment: 9
+      pivot: {x: -1.63333333, y: 1.29292929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470sa3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 646
+        width: 78
+        height: 198
+      alignment: 9
+      pivot: {x: -1, y: 1.29292929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470sa4
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 646
+        width: 98
+        height: 198
+      alignment: 9
+      pivot: {x: -.795918345, y: 1.29292929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wa0
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 663
+        width: 76
+        height: 181
+      alignment: 9
+      pivot: {x: -1.28947365, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wa1
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 663
+        width: 99
+        height: 181
+      alignment: 9
+      pivot: {x: -.878787875, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wa2
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 663
+        width: 110
+        height: 181
+      alignment: 9
+      pivot: {x: -.736363649, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wa3
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 663
+        width: 99
+        height: 181
+      alignment: 9
+      pivot: {x: -.74747473, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wa4
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 663
+        width: 77
+        height: 181
+      alignment: 9
+      pivot: {x: -1.05194807, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wb0
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 658
+        width: 92
+        height: 186
+      alignment: 9
+      pivot: {x: -.978260875, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wb1
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 657
+        width: 86
+        height: 187
+      alignment: 9
+      pivot: {x: -.918604672, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wb2
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 657
+        width: 100
+        height: 187
+      alignment: 9
+      pivot: {x: -.829999983, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wb3
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 658
+        width: 98
+        height: 186
+      alignment: 9
+      pivot: {x: -.846938789, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wb4
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 658
+        width: 91
+        height: 186
+      alignment: 9
+      pivot: {x: -.813186824, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wc0
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 653
+        width: 96
+        height: 191
+      alignment: 9
+      pivot: {x: -.895833313, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wc1
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 653
+        width: 89
+        height: 191
+      alignment: 9
+      pivot: {x: -1.07865167, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wc2
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 653
+        width: 57
+        height: 191
+      alignment: 9
+      pivot: {x: -1.94736838, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wc3
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 653
+        width: 85
+        height: 191
+      alignment: 9
+      pivot: {x: -1.14117646, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wc4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 453
+        width: 96
+        height: 191
+      alignment: 9
+      pivot: {x: -.770833313, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wd0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 458
+        width: 89
+        height: 186
+      alignment: 9
+      pivot: {x: -.887640476, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wd1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 458
+        width: 105
+        height: 186
+      alignment: 9
+      pivot: {x: -.838095248, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wd2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 458
+        width: 94
+        height: 186
+      alignment: 9
+      pivot: {x: -1, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wd3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 458
+        width: 84
+        height: 186
+      alignment: 9
+      pivot: {x: -1.14285719, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wd4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 458
+        width: 89
+        height: 186
+      alignment: 9
+      pivot: {x: -.988764048, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470we0
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 463
+        width: 78
+        height: 181
+      alignment: 9
+      pivot: {x: -1.06410253, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470we1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 463
+        width: 106
+        height: 181
+      alignment: 9
+      pivot: {x: -.792452812, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470we2
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 463
+        width: 117
+        height: 181
+      alignment: 9
+      pivot: {x: -.700854719, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470we3
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 463
+        width: 101
+        height: 181
+      alignment: 9
+      pivot: {x: -.86138612, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470we4
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 463
+        width: 78
+        height: 181
+      alignment: 9
+      pivot: {x: -1.21794868, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wf0
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 458
+        width: 81
+        height: 186
+      alignment: 9
+      pivot: {x: -1.04938269, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wf1
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 458
+        width: 112
+        height: 186
+      alignment: 9
+      pivot: {x: -.767857134, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wf2
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 458
+        width: 110
+        height: 186
+      alignment: 9
+      pivot: {x: -.781818211, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wf3
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 458
+        width: 88
+        height: 186
+      alignment: 9
+      pivot: {x: -.931818187, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wf4
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 458
+        width: 81
+        height: 186
+      alignment: 9
+      pivot: {x: -1.11111116, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wg0
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 453
+        width: 104
+        height: 191
+      alignment: 9
+      pivot: {x: -.798076928, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wg1
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 453
+        width: 106
+        height: 191
+      alignment: 9
+      pivot: {x: -.877358496, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wg2
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 453
+        width: 68
+        height: 191
+      alignment: 9
+      pivot: {x: -1.63235295, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wg3
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 453
+        width: 65
+        height: 191
+      alignment: 9
+      pivot: {x: -1.52307689, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wg4
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 453
+        width: 103
+        height: 191
+      alignment: 9
+      pivot: {x: -.679611623, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wh0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 263
+        width: 101
+        height: 188
+      alignment: 9
+      pivot: {x: -.881188095, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wh1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 263
+        width: 96
+        height: 188
+      alignment: 9
+      pivot: {x: -1.01041663, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wh2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 263
+        width: 96
+        height: 188
+      alignment: 9
+      pivot: {x: -.979166687, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wh3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 263
+        width: 91
+        height: 188
+      alignment: 9
+      pivot: {x: -.967032969, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470wh4
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 263
+        width: 101
+        height: 188
+      alignment: 9
+      pivot: {x: -.653465331, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470xa0
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 416
+        width: 182
+        height: 35
+      alignment: 9
+      pivot: {x: -.390109897, y: 7.31428576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470xa1
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 416
+        width: 202
+        height: 35
+      alignment: 9
+      pivot: {x: -.0297029708, y: 7.31428576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470xa2
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 416
+        width: 219
+        height: 35
+      alignment: 9
+      pivot: {x: -.0273972601, y: 7.31428576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470xa3
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 417
+        width: 221
+        height: 34
+      alignment: 9
+      pivot: {x: -.0452488698, y: 7.52941179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m470xa4
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 417
+        width: 185
+        height: 34
+      alignment: 9
+      pivot: {x: -.00540540554, y: 7.52941179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

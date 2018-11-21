@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: 29684d875e2e2624ba3431d28c49928c
+timeCreated: 1442628390
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M362DA0
+    21300002: M362DB0
+    21300004: M362DC0
+    21300006: M362DD0
+    21300008: M362FA0
+    21300010: M362FB0
+    21300012: M362FC0
+    21300014: M362FD0
+    21300016: M362NA0
+    21300018: M362NA1
+    21300020: M362NA2
+    21300022: M362NA3
+    21300024: M362NA4
+    21300026: M362NB0
+    21300028: M362NB1
+    21300030: M362NB2
+    21300032: M362NB3
+    21300034: M362NB4
+    21300036: M362NC0
+    21300038: M362NC1
+    21300040: M362NC2
+    21300042: M362NC3
+    21300044: M362NC4
+    21300046: M362ND0
+    21300048: M362ND1
+    21300050: M362ND2
+    21300052: M362ND3
+    21300054: M362ND4
+    21300056: M362NE0
+    21300058: M362NE1
+    21300060: M362NE2
+    21300062: M362NE3
+    21300064: M362NE4
+    21300066: M362NF0
+    21300068: M362NF1
+    21300070: M362NF2
+    21300072: M362NF3
+    21300074: M362NF4
+    21300076: M362SA0
+    21300078: M362SA1
+    21300080: M362SA2
+    21300082: M362SA3
+    21300084: M362SA4
+    21300086: M362WA0
+    21300088: M362WA1
+    21300090: M362WA2
+    21300092: M362WA3
+    21300094: M362WA4
+    21300096: M362WB0
+    21300098: M362WB1
+    21300100: M362WB2
+    21300102: M362WB3
+    21300104: M362WB4
+    21300106: M362WC0
+    21300108: M362WC1
+    21300110: M362WC2
+    21300112: M362WC3
+    21300114: M362WC4
+    21300116: M362WD0
+    21300118: M362WD1
+    21300120: M362WD2
+    21300122: M362WD3
+    21300124: M362WD4
+    21300126: M362WE0
+    21300128: M362WE1
+    21300130: M362WE2
+    21300132: M362WE3
+    21300134: M362WE4
+    21300136: M362WF0
+    21300138: M362WF1
+    21300140: M362WF2
+    21300142: M362WF3
+    21300144: M362WF4
+    21300146: M362WG0
+    21300148: M362WG1
+    21300150: M362WG2
+    21300152: M362WG3
+    21300154: M362WG4
+    21300156: M362WH0
+    21300158: M362WH1
+    21300160: M362WH2
+    21300162: M362WH3
+    21300164: M362WH4
+    21300166: M362XA0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: M362DA0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1906
+        width: 151
+        height: 140
+      alignment: 9
+      pivot: {x: -.364238411, y: 1.82142854}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362DB0
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1931
+        width: 117
+        height: 115
+      alignment: 9
+      pivot: {x: -.717948735, y: 2.21739125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362DC0
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1954
+        width: 148
+        height: 92
+      alignment: 9
+      pivot: {x: -.297297299, y: 2.78260875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362DD0
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2000
+        width: 150
+        height: 46
+      alignment: 9
+      pivot: {x: -.360000014, y: 5.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362FA0
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1852
+        width: 95
+        height: 194
+      alignment: 9
+      pivot: {x: -.873684227, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362FB0
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1852
+        width: 98
+        height: 194
+      alignment: 9
+      pivot: {x: -.857142866, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362FC0
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1852
+        width: 90
+        height: 194
+      alignment: 9
+      pivot: {x: -.922222197, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362FD0
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 1852
+        width: 79
+        height: 194
+      alignment: 9
+      pivot: {x: -1.05063295, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NA0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1670
+        width: 120
+        height: 180
+      alignment: 9
+      pivot: {x: -.408333331, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NA1
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1670
+        width: 121
+        height: 180
+      alignment: 9
+      pivot: {x: -.396694213, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NA2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1670
+        width: 94
+        height: 180
+      alignment: 9
+      pivot: {x: -.787234068, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NA3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1670
+        width: 79
+        height: 180
+      alignment: 9
+      pivot: {x: -1.02531648, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NA4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1669
+        width: 120
+        height: 181
+      alignment: 9
+      pivot: {x: -.725000024, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NB0
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1673
+        width: 71
+        height: 177
+      alignment: 9
+      pivot: {x: -1.39436615, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NB1
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1673
+        width: 138
+        height: 177
+      alignment: 9
+      pivot: {x: -.181159422, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NB2
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1673
+        width: 151
+        height: 177
+      alignment: 9
+      pivot: {x: -.0463576168, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NB3
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1673
+        width: 97
+        height: 177
+      alignment: 9
+      pivot: {x: -.59793812, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NB4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1490
+        width: 73
+        height: 177
+      alignment: 9
+      pivot: {x: -1.16438353, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NC0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1491
+        width: 108
+        height: 176
+      alignment: 9
+      pivot: {x: -.712962985, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NC1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1491
+        width: 136
+        height: 176
+      alignment: 9
+      pivot: {x: -.205882356, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NC2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1491
+        width: 127
+        height: 176
+      alignment: 9
+      pivot: {x: -.275590539, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NC3
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1491
+        width: 86
+        height: 176
+      alignment: 9
+      pivot: {x: -.813953459, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NC4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1491
+        width: 109
+        height: 176
+      alignment: 9
+      pivot: {x: -.651376128, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362ND0
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1491
+        width: 156
+        height: 176
+      alignment: 9
+      pivot: {x: -.333333343, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362ND1
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1491
+        width: 121
+        height: 176
+      alignment: 9
+      pivot: {x: -.570247948, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362ND2
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1491
+        width: 87
+        height: 176
+      alignment: 9
+      pivot: {x: -.896551728, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362ND3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1312
+        width: 108
+        height: 176
+      alignment: 9
+      pivot: {x: -.67592591, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362ND4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1312
+        width: 156
+        height: 176
+      alignment: 9
+      pivot: {x: -.307692319, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NE0
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1314
+        width: 118
+        height: 174
+      alignment: 9
+      pivot: {x: -.728813589, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NE1
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1314
+        width: 97
+        height: 174
+      alignment: 9
+      pivot: {x: -.948453605, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NE2
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1314
+        width: 119
+        height: 174
+      alignment: 9
+      pivot: {x: -.588235319, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NE3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1314
+        width: 116
+        height: 174
+      alignment: 9
+      pivot: {x: -.663793087, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NE4
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1314
+        width: 117
+        height: 174
+      alignment: 9
+      pivot: {x: -.444444448, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NF0
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1305
+        width: 96
+        height: 183
+      alignment: 9
+      pivot: {x: -.916666687, y: 1.39890707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NF1
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1305
+        width: 73
+        height: 183
+      alignment: 9
+      pivot: {x: -1.31506848, y: 1.39890707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NF2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1120
+        width: 105
+        height: 183
+      alignment: 9
+      pivot: {x: -.676190495, y: 1.39890707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NF3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1120
+        width: 101
+        height: 183
+      alignment: 9
+      pivot: {x: -.782178223, y: 1.39890707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362NF4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1120
+        width: 96
+        height: 183
+      alignment: 9
+      pivot: {x: -.75, y: 1.39890707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362SA0
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1109
+        width: 89
+        height: 194
+      alignment: 9
+      pivot: {x: -.932584286, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362SA1
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1109
+        width: 70
+        height: 194
+      alignment: 9
+      pivot: {x: -1.32857144, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362SA2
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1109
+        width: 79
+        height: 194
+      alignment: 9
+      pivot: {x: -1, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362SA3
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1109
+        width: 96
+        height: 194
+      alignment: 9
+      pivot: {x: -.822916687, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362SA4
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1109
+        width: 89
+        height: 194
+      alignment: 9
+      pivot: {x: -.943820238, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WA0
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1110
+        width: 72
+        height: 193
+      alignment: 9
+      pivot: {x: -1.25, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WA1
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1110
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: -.884210527, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WA2
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1110
+        width: 90
+        height: 193
+      alignment: 9
+      pivot: {x: -.966666639, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WA3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 914
+        width: 81
+        height: 193
+      alignment: 9
+      pivot: {x: -1.06172836, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WA4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 914
+        width: 73
+        height: 193
+      alignment: 9
+      pivot: {x: -1.27397263, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WB0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 910
+        width: 77
+        height: 197
+      alignment: 9
+      pivot: {x: -1.14285719, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WB1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 910
+        width: 83
+        height: 197
+      alignment: 9
+      pivot: {x: -1, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WB2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 911
+        width: 82
+        height: 196
+      alignment: 9
+      pivot: {x: -1.04878044, y: 1.30102038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WB3
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 912
+        width: 82
+        height: 195
+      alignment: 9
+      pivot: {x: -1.04878044, y: 1.30769229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WB4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 911
+        width: 77
+        height: 196
+      alignment: 9
+      pivot: {x: -1.18181813, y: 1.30102038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WC0
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 910
+        width: 84
+        height: 197
+      alignment: 9
+      pivot: {x: -1.03571427, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WC1
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 910
+        width: 70
+        height: 197
+      alignment: 9
+      pivot: {x: -1.32857144, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WC2
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 910
+        width: 75
+        height: 197
+      alignment: 9
+      pivot: {x: -1.15999997, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WC3
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 910
+        width: 86
+        height: 197
+      alignment: 9
+      pivot: {x: -.988372087, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WC4
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 910
+        width: 84
+        height: 197
+      alignment: 9
+      pivot: {x: -1.01190472, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WD0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 713
+        width: 84
+        height: 195
+      alignment: 9
+      pivot: {x: -1.0476191, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WD1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 713
+        width: 86
+        height: 195
+      alignment: 9
+      pivot: {x: -1.02325583, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WD2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 713
+        width: 93
+        height: 195
+      alignment: 9
+      pivot: {x: -.935483873, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WD3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 713
+        width: 93
+        height: 195
+      alignment: 9
+      pivot: {x: -.913978517, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WD4
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 713
+        width: 84
+        height: 195
+      alignment: 9
+      pivot: {x: -1, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WE0
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 715
+        width: 83
+        height: 193
+      alignment: 9
+      pivot: {x: -1.07228911, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WE1
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 715
+        width: 96
+        height: 193
+      alignment: 9
+      pivot: {x: -.864583313, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WE2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 715
+        width: 91
+        height: 193
+      alignment: 9
+      pivot: {x: -.934065938, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WE3
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 715
+        width: 86
+        height: 193
+      alignment: 9
+      pivot: {x: -1, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WE4
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 715
+        width: 83
+        height: 193
+      alignment: 9
+      pivot: {x: -1.01204824, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WF0
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 713
+        width: 84
+        height: 195
+      alignment: 9
+      pivot: {x: -1.05952382, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WF1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 516
+        width: 92
+        height: 195
+      alignment: 9
+      pivot: {x: -.956521749, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WF2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 516
+        width: 81
+        height: 195
+      alignment: 9
+      pivot: {x: -1.07407403, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WF3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 516
+        width: 77
+        height: 195
+      alignment: 9
+      pivot: {x: -1.11688316, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WF4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 516
+        width: 85
+        height: 195
+      alignment: 9
+      pivot: {x: -.97647059, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WG0
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 514
+        width: 87
+        height: 197
+      alignment: 9
+      pivot: {x: -1, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WG1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 514
+        width: 80
+        height: 197
+      alignment: 9
+      pivot: {x: -1.16250002, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WG2
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 514
+        width: 69
+        height: 197
+      alignment: 9
+      pivot: {x: -1.26086962, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WG3
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 514
+        width: 75
+        height: 197
+      alignment: 9
+      pivot: {x: -1.13333333, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WG4
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 514
+        width: 87
+        height: 197
+      alignment: 9
+      pivot: {x: -.942528725, y: 1.29949236}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WH0
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 516
+        width: 79
+        height: 195
+      alignment: 9
+      pivot: {x: -1.11392403, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WH1
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 516
+        width: 83
+        height: 195
+      alignment: 9
+      pivot: {x: -1.16867471, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WH2
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 516
+        width: 91
+        height: 195
+      alignment: 9
+      pivot: {x: -.956043959, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WH3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 317
+        width: 80
+        height: 195
+      alignment: 9
+      pivot: {x: -1.0625, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362WH4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 317
+        width: 79
+        height: 195
+      alignment: 9
+      pivot: {x: -1.12658226, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M362XA0
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 477
+        width: 174
+        height: 35
+      alignment: 9
+      pivot: {x: -.235632181, y: 7.31428576}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

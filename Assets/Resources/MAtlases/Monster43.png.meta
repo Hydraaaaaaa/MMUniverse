@@ -1,0 +1,1868 @@
+fileFormatVersion: 2
+guid: 09bdf839d0514b14a9e6f9e11df8dce6
+timeCreated: 1442628919
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: m342da0
+    21300002: m342db0
+    21300004: m342dc0
+    21300006: m342dd0
+    21300008: m342fa0
+    21300010: m342fb0
+    21300012: m342fc0
+    21300014: m342fd0
+    21300016: m342na0
+    21300018: m342na1
+    21300020: m342na2
+    21300022: m342na3
+    21300024: m342na4
+    21300026: m342nb0
+    21300028: m342nb1
+    21300030: m342nb2
+    21300032: m342nb3
+    21300034: m342nb4
+    21300036: m342nc0
+    21300038: m342nc1
+    21300040: m342nc2
+    21300042: m342nc3
+    21300044: m342nc4
+    21300046: m342nd0
+    21300048: m342nd1
+    21300050: m342nd2
+    21300052: m342nd3
+    21300054: m342nd4
+    21300056: m342ne0
+    21300058: m342ne1
+    21300060: m342ne2
+    21300062: m342ne3
+    21300064: m342ne4
+    21300066: m342nf0
+    21300068: m342nf1
+    21300070: m342nf2
+    21300072: m342nf3
+    21300074: m342nf4
+    21300076: m342sa0
+    21300078: m342sa1
+    21300080: m342sa2
+    21300082: m342sa3
+    21300084: m342sa4
+    21300086: m342wa0
+    21300088: m342wa1
+    21300090: m342wa2
+    21300092: m342wa3
+    21300094: m342wa4
+    21300096: m342wb0
+    21300098: m342wb1
+    21300100: m342wb2
+    21300102: m342wb3
+    21300104: m342wb4
+    21300106: m342wc0
+    21300108: m342wc1
+    21300110: m342wc2
+    21300112: m342wc3
+    21300114: m342wc4
+    21300116: m342wd0
+    21300118: m342wd1
+    21300120: m342wd2
+    21300122: m342wd3
+    21300124: m342wd4
+    21300126: m342we0
+    21300128: m342we1
+    21300130: m342we2
+    21300132: m342we3
+    21300134: m342we4
+    21300136: m342wf0
+    21300138: m342wf1
+    21300140: m342wf2
+    21300142: m342wf3
+    21300144: m342wf4
+    21300146: m342wg0
+    21300148: m342wg1
+    21300150: m342wg2
+    21300152: m342wg3
+    21300154: m342wg4
+    21300156: m342wh0
+    21300158: m342wh1
+    21300160: m342wh2
+    21300162: m342wh3
+    21300164: m342wh4
+    21300166: m342xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: m342da0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1931
+        width: 99
+        height: 115
+      alignment: 9
+      pivot: {x: -0.97979796, y: 2.2260869}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 132, y: -157}
+        - {x: 128, y: -161}
+        - {x: 137, y: -142}
+        - {x: 134, y: -141}
+        - {x: 97, y: -141}
+        - {x: 97, y: -256}
+        - {x: 179, y: -256}
+        - {x: 196, y: -232}
+        - {x: 196, y: -186}
+        - {x: 155, y: -156}
+    - name: m342db0
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1954
+        width: 78
+        height: 92
+      alignment: 9
+      pivot: {x: -1.1923077, y: 2.7826087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 160, y: -169}
+        - {x: 159, y: -180}
+        - {x: 160, y: -180}
+        - {x: 160, y: -182}
+        - {x: 157, y: -177}
+        - {x: 158, y: -173}
+        - {x: 152, y: -164}
+        - {x: 109, y: -164}
+        - {x: 93, y: -173}
+        - {x: 93, y: -243}
+        - {x: 95, y: -256}
+        - {x: 160, y: -256}
+        - {x: 171, y: -217}
+        - {x: 171, y: -173}
+        - {x: 166, y: -167}
+    - name: m342dc0
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1989
+        width: 103
+        height: 57
+      alignment: 9
+      pivot: {x: -0.74757284, y: 4.491228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 168, y: -207}
+        - {x: 142, y: -200}
+        - {x: 134, y: -199}
+        - {x: 77, y: -199}
+        - {x: 77, y: -248}
+        - {x: 104, y: -256}
+        - {x: 162, y: -256}
+        - {x: 180, y: -240}
+        - {x: 180, y: -201}
+        - {x: 174, y: -200}
+    - name: m342dd0
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2003
+        width: 140
+        height: 43
+      alignment: 9
+      pivot: {x: -0.41428572, y: 5.860465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: -209}
+        - {x: 58, y: -218}
+        - {x: 58, y: -237}
+        - {x: 72, y: -252}
+        - {x: 183, y: -252}
+        - {x: 198, y: -239}
+        - {x: 198, y: -215}
+        - {x: 182, y: -209}
+    - name: m342fa0
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1867
+        width: 76
+        height: 179
+      alignment: 9
+      pivot: {x: -1.1315789, y: 1.4301676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101, y: -77}
+        - {x: 86, y: -132}
+        - {x: 86, y: -175}
+        - {x: 94, y: -175}
+        - {x: 98, y: -167}
+        - {x: 94, y: -252}
+        - {x: 103, y: -256}
+        - {x: 162, y: -256}
+        - {x: 162, y: -77}
+    - name: m342fb0
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1868
+        width: 72
+        height: 178
+      alignment: 9
+      pivot: {x: -1.1805556, y: 1.4382023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 139, y: -78}
+        - {x: 112, y: -78}
+        - {x: 85, y: -139}
+        - {x: 85, y: -165}
+        - {x: 92, y: -166}
+        - {x: 107, y: -144}
+        - {x: 94, y: -252}
+        - {x: 103, y: -256}
+        - {x: 151, y: -256}
+        - {x: 157, y: -249}
+        - {x: 157, y: -107}
+    - name: m342fc0
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1870
+        width: 62
+        height: 176
+      alignment: 9
+      pivot: {x: -1.532258, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 138, y: -80}
+        - {x: 112, y: -80}
+        - {x: 101, y: -84}
+        - {x: 95, y: -97}
+        - {x: 95, y: -256}
+        - {x: 153, y: -256}
+        - {x: 157, y: -254}
+        - {x: 157, y: -148}
+        - {x: 152, y: -99}
+    - name: m342fd0
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1871
+        width: 58
+        height: 175
+      alignment: 9
+      pivot: {x: -1.7068965, y: 1.4628571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107, y: -81}
+        - {x: 106, y: -82}
+        - {x: 102, y: -95}
+        - {x: 99, y: -155}
+        - {x: 99, y: -256}
+        - {x: 157, y: -256}
+        - {x: 157, y: -114}
+        - {x: 147, y: -81}
+    - name: m342na0
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1873
+        width: 129
+        height: 173
+      alignment: 9
+      pivot: {x: -0.56589144, y: 1.4797688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: -83}
+        - {x: 73, y: -128}
+        - {x: 73, y: -214}
+        - {x: 85, y: -256}
+        - {x: 165, y: -256}
+        - {x: 202, y: -159}
+        - {x: 202, y: -83}
+    - name: m342na1
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1873
+        width: 69
+        height: 173
+      alignment: 9
+      pivot: {x: -1.3478261, y: 1.4797688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: -83}
+        - {x: 93, y: -85}
+        - {x: 93, y: -229}
+        - {x: 94, y: -256}
+        - {x: 159, y: -256}
+        - {x: 162, y: -247}
+        - {x: 162, y: -93}
+        - {x: 126, y: -83}
+    - name: m342na2
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1873
+        width: 84
+        height: 173
+      alignment: 9
+      pivot: {x: -0.88095236, y: 1.4797688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: -83}
+        - {x: 79, y: -83}
+        - {x: 74, y: -95}
+        - {x: 74, y: -128}
+        - {x: 101, y: -256}
+        - {x: 157, y: -256}
+        - {x: 158, y: -253}
+        - {x: 158, y: -120}
+    - name: m342na3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1692
+        width: 141
+        height: 173
+      alignment: 9
+      pivot: {x: -0.32624114, y: 1.4797688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: -83}
+        - {x: 51, y: -85}
+        - {x: 46, y: -87}
+        - {x: 46, y: -145}
+        - {x: 79, y: -211}
+        - {x: 94, y: -205}
+        - {x: 99, y: -199}
+        - {x: 103, y: -256}
+        - {x: 173, y: -256}
+        - {x: 187, y: -211}
+        - {x: 187, y: -134}
+        - {x: 130, y: -83}
+    - name: m342na4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1692
+        width: 130
+        height: 173
+      alignment: 9
+      pivot: {x: -0.4076923, y: 1.4797688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: -83}
+        - {x: 53, y: -83}
+        - {x: 53, y: -154}
+        - {x: 95, y: -256}
+        - {x: 159, y: -256}
+        - {x: 163, y: -238}
+        - {x: 183, y: -200}
+        - {x: 183, y: -125}
+    - name: m342nb0
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1702
+        width: 73
+        height: 163
+      alignment: 9
+      pivot: {x: -1.1643835, y: 1.5705521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 141, y: -93}
+        - {x: 88, y: -93}
+        - {x: 85, y: -95}
+        - {x: 85, y: -211}
+        - {x: 93, y: -252}
+        - {x: 104, y: -256}
+        - {x: 156, y: -256}
+        - {x: 158, y: -250}
+        - {x: 158, y: -135}
+    - name: m342nb1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1702
+        width: 96
+        height: 163
+      alignment: 9
+      pivot: {x: -0.71875, y: 1.5705521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 160, y: -256}
+        - {x: 165, y: -251}
+        - {x: 165, y: -203}
+        - {x: 118, y: -93}
+        - {x: 83, y: -93}
+        - {x: 72, y: -98}
+        - {x: 69, y: -113}
+        - {x: 69, y: -191}
+        - {x: 100, y: -256}
+        - {x: 128, y: -256}
+        - {x: 126, y: -252}
+        - {x: 124, y: -249}
+        - {x: 132, y: -256}
+    - name: m342nb2
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1702
+        width: 139
+        height: 163
+      alignment: 9
+      pivot: {x: -0.16546762, y: 1.5705521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 121, y: -93}
+        - {x: 69, y: -93}
+        - {x: 23, y: -122}
+        - {x: 23, y: -168}
+        - {x: 75, y: -256}
+        - {x: 156, y: -256}
+        - {x: 162, y: -241}
+        - {x: 162, y: -192}
+        - {x: 139, y: -123}
+    - name: m342nb3
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1702
+        width: 121
+        height: 163
+      alignment: 9
+      pivot: {x: -0.30578512, y: 1.5705521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: -93}
+        - {x: 37, y: -117}
+        - {x: 37, y: -202}
+        - {x: 82, y: -256}
+        - {x: 158, y: -256}
+        - {x: 158, y: -93}
+    - name: m342nb4
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1702
+        width: 72
+        height: 163
+      alignment: 9
+      pivot: {x: -1.375, y: 1.5705521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 171, y: -142}
+        - {x: 171, y: -107}
+        - {x: 163, y: -94}
+        - {x: 162, y: -93}
+        - {x: 119, y: -93}
+        - {x: 99, y: -121}
+        - {x: 99, y: -256}
+        - {x: 157, y: -256}
+        - {x: 160, y: -235}
+        - {x: 148, y: -164}
+        - {x: 144, y: -160}
+    - name: m342nc0
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1710
+        width: 114
+        height: 155
+      alignment: 9
+      pivot: {x: -0.54385966, y: 1.6516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: -101}
+        - {x: 62, y: -125}
+        - {x: 62, y: -227}
+        - {x: 70, y: -250}
+        - {x: 84, y: -256}
+        - {x: 154, y: -256}
+        - {x: 163, y: -255}
+        - {x: 176, y: -190}
+        - {x: 176, y: -162}
+        - {x: 148, y: -101}
+    - name: m342nc1
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1710
+        width: 81
+        height: 155
+      alignment: 9
+      pivot: {x: -1.0493827, y: 1.6516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 138, y: -101}
+        - {x: 90, y: -101}
+        - {x: 85, y: -114}
+        - {x: 85, y: -239}
+        - {x: 94, y: -256}
+        - {x: 165, y: -256}
+        - {x: 166, y: -252}
+        - {x: 166, y: -168}
+        - {x: 139, y: -102}
+    - name: m342nc2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1535
+        width: 96
+        height: 155
+      alignment: 9
+      pivot: {x: -0.71875, y: 1.6516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85, y: -101}
+        - {x: 69, y: -115}
+        - {x: 69, y: -256}
+        - {x: 165, y: -256}
+        - {x: 165, y: -130}
+        - {x: 146, y: -101}
+    - name: m342nc3
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1535
+        width: 133
+        height: 155
+      alignment: 9
+      pivot: {x: -0.39849624, y: 1.6516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: -101}
+        - {x: 53, y: -136}
+        - {x: 53, y: -228}
+        - {x: 97, y: -256}
+        - {x: 173, y: -256}
+        - {x: 186, y: -205}
+        - {x: 186, y: -102}
+        - {x: 185, y: -101}
+    - name: m342nc4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1535
+        width: 115
+        height: 155
+      alignment: 9
+      pivot: {x: -0.6869565, y: 1.6516129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 161, y: -253}
+        - {x: 194, y: -239}
+        - {x: 194, y: -101}
+        - {x: 115, y: -101}
+        - {x: 79, y: -158}
+        - {x: 79, y: -181}
+        - {x: 90, y: -182}
+        - {x: 103, y: -177}
+        - {x: 107, y: -174}
+        - {x: 108, y: -173}
+        - {x: 105, y: -177}
+        - {x: 98, y: -206}
+        - {x: 95, y: -248}
+        - {x: 106, y: -256}
+        - {x: 119, y: -256}
+        - {x: 121, y: -254}
+        - {x: 124, y: -256}
+        - {x: 153, y: -256}
+    - name: m342nd0
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1537
+        width: 125
+        height: 153
+      alignment: 9
+      pivot: {x: -0.528, y: 1.6732026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: -103}
+        - {x: 69, y: -154}
+        - {x: 66, y: -158}
+        - {x: 66, y: -238}
+        - {x: 88, y: -256}
+        - {x: 191, y: -256}
+        - {x: 191, y: -150}
+        - {x: 149, y: -103}
+    - name: m342nd1
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1537
+        width: 99
+        height: 153
+      alignment: 9
+      pivot: {x: -0.8989899, y: 1.6732026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144, y: -168}
+        - {x: 158, y: -174}
+        - {x: 176, y: -179}
+        - {x: 188, y: -176}
+        - {x: 188, y: -164}
+        - {x: 156, y: -108}
+        - {x: 147, y: -103}
+        - {x: 113, y: -103}
+        - {x: 89, y: -134}
+        - {x: 89, y: -233}
+        - {x: 92, y: -256}
+        - {x: 166, y: -256}
+        - {x: 175, y: -209}
+        - {x: 146, y: -170}
+    - name: m342nd2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1537
+        width: 65
+        height: 153
+      alignment: 9
+      pivot: {x: -1.5538461, y: 1.6732026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126, y: -103}
+        - {x: 103, y: -139}
+        - {x: 101, y: -150}
+        - {x: 101, y: -256}
+        - {x: 157, y: -256}
+        - {x: 166, y: -243}
+        - {x: 166, y: -104}
+        - {x: 162, y: -103}
+    - name: m342nd3
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1537
+        width: 103
+        height: 153
+      alignment: 9
+      pivot: {x: -0.8640777, y: 1.6732026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 127, y: -103}
+        - {x: 103, y: -115}
+        - {x: 89, y: -139}
+        - {x: 89, y: -219}
+        - {x: 99, y: -214}
+        - {x: 108, y: -256}
+        - {x: 186, y: -256}
+        - {x: 192, y: -245}
+        - {x: 192, y: -154}
+        - {x: 155, y: -103}
+    - name: m342nd4
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1537
+        width: 125
+        height: 153
+      alignment: 9
+      pivot: {x: -0.52, y: 1.6732026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 120, y: -103}
+        - {x: 65, y: -138}
+        - {x: 65, y: -256}
+        - {x: 169, y: -256}
+        - {x: 190, y: -193}
+        - {x: 190, y: -153}
+        - {x: 153, y: -103}
+    - name: m342ne0
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1537
+        width: 87
+        height: 153
+      alignment: 9
+      pivot: {x: -0.9310345, y: 1.6732026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: -103}
+        - {x: 81, y: -146}
+        - {x: 81, y: -197}
+        - {x: 88, y: -204}
+        - {x: 95, y: -201}
+        - {x: 89, y: -256}
+        - {x: 168, y: -256}
+        - {x: 168, y: -108}
+        - {x: 150, y: -103}
+    - name: m342ne1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1380
+        width: 80
+        height: 153
+      alignment: 9
+      pivot: {x: -1.275, y: 1.6732026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 181, y: -189}
+        - {x: 182, y: -188}
+        - {x: 182, y: -174}
+        - {x: 159, y: -114}
+        - {x: 151, y: -103}
+        - {x: 122, y: -103}
+        - {x: 102, y: -124}
+        - {x: 102, y: -256}
+        - {x: 162, y: -256}
+        - {x: 171, y: -242}
+        - {x: 171, y: -209}
+        - {x: 160, y: -192}
+    - name: m342ne2
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1380
+        width: 68
+        height: 153
+      alignment: 9
+      pivot: {x: -1.5, y: 1.6732026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: -256}
+        - {x: 162, y: -256}
+        - {x: 170, y: -253}
+        - {x: 170, y: -103}
+        - {x: 115, y: -103}
+        - {x: 102, y: -105}
+    - name: m342ne3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1380
+        width: 84
+        height: 153
+      alignment: 9
+      pivot: {x: -1.0714285, y: 1.6732026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 167, y: -207}
+        - {x: 174, y: -196}
+        - {x: 174, y: -117}
+        - {x: 170, y: -103}
+        - {x: 131, y: -103}
+        - {x: 118, y: -108}
+        - {x: 90, y: -157}
+        - {x: 90, y: -255}
+        - {x: 92, y: -256}
+        - {x: 169, y: -256}
+        - {x: 163, y: -205}
+        - {x: 159, y: -198}
+        - {x: 162, y: -204}
+    - name: m342ne4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1380
+        width: 87
+        height: 153
+      alignment: 9
+      pivot: {x: -1.0114943, y: 1.6732026}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 152, y: -103}
+        - {x: 119, y: -103}
+        - {x: 88, y: -148}
+        - {x: 88, y: -249}
+        - {x: 90, y: -256}
+        - {x: 162, y: -256}
+        - {x: 175, y: -235}
+        - {x: 175, y: -136}
+        - {x: 165, y: -109}
+    - name: m342nf0
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1364
+        width: 77
+        height: 169
+      alignment: 9
+      pivot: {x: -1.1168832, y: 1.5147929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 154, y: -179}
+        - {x: 153, y: -178}
+        - {x: 153, y: -175}
+        - {x: 153, y: -177}
+        - {x: 154, y: -178}
+        - {x: 154, y: -182}
+        - {x: 157, y: -185}
+        - {x: 158, y: -185}
+        - {x: 163, y: -180}
+        - {x: 163, y: -138}
+        - {x: 154, y: -117}
+        - {x: 134, y: -87}
+        - {x: 107, y: -87}
+        - {x: 86, y: -137}
+        - {x: 86, y: -256}
+        - {x: 156, y: -256}
+        - {x: 160, y: -250}
+        - {x: 163, y: -188}
+        - {x: 155, y: -187}
+    - name: m342nf1
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1364
+        width: 66
+        height: 169
+      alignment: 9
+      pivot: {x: -1.5454545, y: 1.5147929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126, y: -87}
+        - {x: 102, y: -101}
+        - {x: 102, y: -256}
+        - {x: 168, y: -256}
+        - {x: 168, y: -123}
+        - {x: 150, y: -87}
+    - name: m342nf2
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1364
+        width: 57
+        height: 169
+      alignment: 9
+      pivot: {x: -1.8421053, y: 1.5147929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 135, y: -87}
+        - {x: 105, y: -100}
+        - {x: 105, y: -256}
+        - {x: 162, y: -256}
+        - {x: 162, y: -87}
+    - name: m342nf3
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1364
+        width: 72
+        height: 169
+      alignment: 9
+      pivot: {x: -1.2916666, y: 1.5147929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -87}
+        - {x: 93, y: -124}
+        - {x: 93, y: -256}
+        - {x: 165, y: -256}
+        - {x: 165, y: -87}
+    - name: m342nf4
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1364
+        width: 77
+        height: 169
+      alignment: 9
+      pivot: {x: -1.2077922, y: 1.5147929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 146, y: -87}
+        - {x: 121, y: -87}
+        - {x: 93, y: -127}
+        - {x: 93, y: -188}
+        - {x: 94, y: -192}
+        - {x: 100, y: -184}
+        - {x: 102, y: -182}
+        - {x: 102, y: -178}
+        - {x: 103, y: -177}
+        - {x: 103, y: -169}
+        - {x: 103, y: -175}
+        - {x: 102, y: -183}
+        - {x: 101, y: -184}
+        - {x: 97, y: -199}
+        - {x: 94, y: -253}
+        - {x: 102, y: -256}
+        - {x: 152, y: -256}
+        - {x: 161, y: -252}
+        - {x: 170, y: -188}
+        - {x: 170, y: -130}
+    - name: m342sa0
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1353
+        width: 71
+        height: 180
+      alignment: 9
+      pivot: {x: -1.3239436, y: 1.4222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 155, y: -179}
+        - {x: 152, y: -161}
+        - {x: 151, y: -154}
+        - {x: 151, y: -156}
+        - {x: 154, y: -160}
+        - {x: 156, y: -171}
+        - {x: 157, y: -177}
+        - {x: 158, y: -181}
+        - {x: 165, y: -177}
+        - {x: 165, y: -126}
+        - {x: 143, y: -76}
+        - {x: 111, y: -76}
+        - {x: 108, y: -77}
+        - {x: 94, y: -100}
+        - {x: 94, y: -240}
+        - {x: 97, y: -256}
+        - {x: 152, y: -256}
+        - {x: 165, y: -252}
+        - {x: 165, y: -225}
+        - {x: 162, y: -194}
+    - name: m342sa1
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 1353
+        width: 63
+        height: 180
+      alignment: 9
+      pivot: {x: -1.5396825, y: 1.4222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: -76}
+        - {x: 97, y: -256}
+        - {x: 158, y: -256}
+        - {x: 160, y: -249}
+        - {x: 160, y: -105}
+        - {x: 148, y: -76}
+    - name: m342sa2
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1353
+        width: 45
+        height: 180
+      alignment: 9
+      pivot: {x: -2.3333333, y: 1.4222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: -76}
+        - {x: 105, y: -77}
+        - {x: 105, y: -256}
+        - {x: 150, y: -256}
+        - {x: 150, y: -76}
+    - name: m342sa3
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1353
+        width: 60
+        height: 180
+      alignment: 9
+      pivot: {x: -1.5666667, y: 1.4222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114, y: -76}
+        - {x: 94, y: -89}
+        - {x: 94, y: -247}
+        - {x: 101, y: -256}
+        - {x: 154, y: -256}
+        - {x: 154, y: -86}
+        - {x: 150, y: -76}
+    - name: m342sa4
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1353
+        width: 71
+        height: 180
+      alignment: 9
+      pivot: {x: -1.2816901, y: 1.4222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 139, y: -76}
+        - {x: 110, y: -76}
+        - {x: 98, y: -87}
+        - {x: 91, y: -125}
+        - {x: 91, y: -181}
+        - {x: 98, y: -182}
+        - {x: 101, y: -172}
+        - {x: 101, y: -160}
+        - {x: 105, y: -156}
+        - {x: 105, y: -152}
+        - {x: 105, y: -157}
+        - {x: 104, y: -158}
+        - {x: 98, y: -194}
+        - {x: 91, y: -216}
+        - {x: 91, y: -256}
+        - {x: 162, y: -256}
+        - {x: 162, y: -122}
+        - {x: 146, y: -78}
+    - name: m342wa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1174
+        width: 64
+        height: 177
+      alignment: 9
+      pivot: {x: -1.5, y: 1.4463277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: -79}
+        - {x: 96, y: -256}
+        - {x: 156, y: -256}
+        - {x: 160, y: -244}
+        - {x: 160, y: -121}
+        - {x: 151, y: -79}
+    - name: m342wa1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1174
+        width: 71
+        height: 177
+      alignment: 9
+      pivot: {x: -1.2957747, y: 1.4463277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 122, y: -250}
+        - {x: 134, y: -256}
+        - {x: 163, y: -256}
+        - {x: 163, y: -174}
+        - {x: 160, y: -121}
+        - {x: 145, y: -79}
+        - {x: 107, y: -79}
+        - {x: 104, y: -80}
+        - {x: 92, y: -181}
+        - {x: 92, y: -256}
+        - {x: 116, y: -256}
+        - {x: 116, y: -253}
+        - {x: 112, y: -249}
+        - {x: 114, y: -250}
+    - name: m342wa2
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1174
+        width: 82
+        height: 177
+      alignment: 9
+      pivot: {x: -1.0487804, y: 1.4463277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: -79}
+        - {x: 86, y: -155}
+        - {x: 86, y: -256}
+        - {x: 168, y: -256}
+        - {x: 168, y: -196}
+        - {x: 147, y: -79}
+    - name: m342wa3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1174
+        width: 72
+        height: 177
+      alignment: 9
+      pivot: {x: -1.3333334, y: 1.4463277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: -79}
+        - {x: 96, y: -106}
+        - {x: 96, y: -256}
+        - {x: 167, y: -256}
+        - {x: 168, y: -255}
+        - {x: 168, y: -124}
+        - {x: 145, y: -79}
+    - name: m342wa4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1174
+        width: 64
+        height: 177
+      alignment: 9
+      pivot: {x: -1.5, y: 1.4463277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 127, y: -252}
+        - {x: 126, y: -256}
+        - {x: 143, y: -256}
+        - {x: 147, y: -252}
+        - {x: 160, y: -249}
+        - {x: 160, y: -79}
+        - {x: 116, y: -79}
+        - {x: 115, y: -80}
+        - {x: 100, y: -113}
+        - {x: 96, y: -129}
+        - {x: 96, y: -236}
+        - {x: 104, y: -256}
+        - {x: 126, y: -256}
+        - {x: 126, y: -254}
+        - {x: 127, y: -253}
+        - {x: 127, y: -248}
+    - name: m342wb0
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1173
+        width: 70
+        height: 178
+      alignment: 9
+      pivot: {x: -1.3285714, y: 1.4382023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 152, y: -92}
+        - {x: 147, y: -78}
+        - {x: 112, y: -78}
+        - {x: 93, y: -89}
+        - {x: 93, y: -256}
+        - {x: 150, y: -256}
+        - {x: 157, y: -237}
+        - {x: 163, y: -215}
+        - {x: 163, y: -162}
+    - name: m342wb1
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1173
+        width: 65
+        height: 178
+      alignment: 9
+      pivot: {x: -1.4307692, y: 1.4382023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: -78}
+        - {x: 93, y: -101}
+        - {x: 93, y: -256}
+        - {x: 158, y: -256}
+        - {x: 158, y: -113}
+        - {x: 148, y: -78}
+    - name: m342wb2
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1173
+        width: 67
+        height: 178
+      alignment: 9
+      pivot: {x: -1.3432835, y: 1.4382023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 140, y: -78}
+        - {x: 117, y: -78}
+        - {x: 112, y: -79}
+        - {x: 107, y: -108}
+        - {x: 104, y: -143}
+        - {x: 90, y: -229}
+        - {x: 90, y: -248}
+        - {x: 96, y: -256}
+        - {x: 157, y: -256}
+        - {x: 157, y: -113}
+        - {x: 142, y: -80}
+    - name: m342wb3
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1173
+        width: 77
+        height: 178
+      alignment: 9
+      pivot: {x: -1.1948051, y: 1.4382023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 141, y: -78}
+        - {x: 115, y: -78}
+        - {x: 112, y: -79}
+        - {x: 102, y: -104}
+        - {x: 92, y: -143}
+        - {x: 92, y: -196}
+        - {x: 96, y: -195}
+        - {x: 102, y: -246}
+        - {x: 111, y: -256}
+        - {x: 146, y: -256}
+        - {x: 152, y: -252}
+        - {x: 169, y: -188}
+        - {x: 169, y: -147}
+    - name: m342wb4
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1173
+        width: 71
+        height: 178
+      alignment: 9
+      pivot: {x: -1.2957747, y: 1.4382023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: -78}
+        - {x: 92, y: -123}
+        - {x: 92, y: -194}
+        - {x: 96, y: -194}
+        - {x: 98, y: -193}
+        - {x: 93, y: -254}
+        - {x: 100, y: -256}
+        - {x: 161, y: -256}
+        - {x: 163, y: -254}
+        - {x: 163, y: -108}
+        - {x: 160, y: -78}
+    - name: m342wc0
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 1174
+        width: 72
+        height: 177
+      alignment: 9
+      pivot: {x: -1.2777778, y: 1.440678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104, y: -78}
+        - {x: 92, y: -112}
+        - {x: 92, y: -237}
+        - {x: 103, y: -255}
+        - {x: 161, y: -255}
+        - {x: 164, y: -246}
+        - {x: 164, y: -135}
+        - {x: 147, y: -78}
+    - name: m342wc1
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1174
+        width: 54
+        height: 177
+      alignment: 9
+      pivot: {x: -1.9074074, y: 1.440678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: -78}
+        - {x: 108, y: -80}
+        - {x: 103, y: -87}
+        - {x: 103, y: -255}
+        - {x: 120, y: -255}
+        - {x: 120, y: -246}
+        - {x: 120, y: -252}
+        - {x: 121, y: -255}
+        - {x: 155, y: -255}
+        - {x: 157, y: -249}
+        - {x: 157, y: -119}
+        - {x: 143, y: -78}
+    - name: m342wc2
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1175
+        width: 48
+        height: 176
+      alignment: 9
+      pivot: {x: -2.125, y: 1.4431819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: -78}
+        - {x: 102, y: -250}
+        - {x: 108, y: -254}
+        - {x: 150, y: -254}
+        - {x: 150, y: -86}
+        - {x: 145, y: -78}
+    - name: m342wc3
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1175
+        width: 73
+        height: 176
+      alignment: 9
+      pivot: {x: -1.2054795, y: 1.4431819}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101, y: -78}
+        - {x: 88, y: -141}
+        - {x: 88, y: -190}
+        - {x: 93, y: -192}
+        - {x: 101, y: -182}
+        - {x: 96, y: -235}
+        - {x: 107, y: -254}
+        - {x: 145, y: -254}
+        - {x: 161, y: -246}
+        - {x: 161, y: -107}
+        - {x: 144, y: -78}
+    - name: m342wc4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 994
+        width: 72
+        height: 177
+      alignment: 9
+      pivot: {x: -1.2777778, y: 1.440678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 162, y: -112}
+        - {x: 141, y: -78}
+        - {x: 113, y: -78}
+        - {x: 95, y: -113}
+        - {x: 92, y: -147}
+        - {x: 92, y: -192}
+        - {x: 96, y: -190}
+        - {x: 100, y: -185}
+        - {x: 106, y: -176}
+        - {x: 106, y: -175}
+        - {x: 106, y: -194}
+        - {x: 103, y: -194}
+        - {x: 92, y: -224}
+        - {x: 92, y: -242}
+        - {x: 106, y: -255}
+        - {x: 164, y: -255}
+        - {x: 164, y: -116}
+    - name: m342wd0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 994
+        width: 64
+        height: 177
+      alignment: 9
+      pivot: {x: -1.5, y: 1.440678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144, y: -78}
+        - {x: 114, y: -78}
+        - {x: 111, y: -79}
+        - {x: 96, y: -94}
+        - {x: 96, y: -240}
+        - {x: 116, y: -254}
+        - {x: 125, y: -253}
+        - {x: 128, y: -250}
+        - {x: 128, y: -239}
+        - {x: 130, y: -255}
+        - {x: 146, y: -255}
+        - {x: 156, y: -252}
+        - {x: 160, y: -234}
+        - {x: 160, y: -111}
+    - name: m342wd1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 994
+        width: 64
+        height: 177
+      alignment: 9
+      pivot: {x: -1.578125, y: 1.440678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 145, y: -78}
+        - {x: 117, y: -78}
+        - {x: 101, y: -102}
+        - {x: 101, y: -180}
+        - {x: 111, y: -182}
+        - {x: 113, y: -176}
+        - {x: 113, y: -172}
+        - {x: 119, y: -184}
+        - {x: 107, y: -243}
+        - {x: 110, y: -255}
+        - {x: 146, y: -255}
+        - {x: 153, y: -253}
+        - {x: 165, y: -209}
+        - {x: 165, y: -148}
+    - name: m342wd2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 994
+        width: 70
+        height: 177
+      alignment: 9
+      pivot: {x: -1.3857143, y: 1.440678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -78}
+        - {x: 97, y: -128}
+        - {x: 97, y: -255}
+        - {x: 167, y: -255}
+        - {x: 167, y: -154}
+        - {x: 146, y: -78}
+    - name: m342wd3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 993
+        width: 75
+        height: 178
+      alignment: 9
+      pivot: {x: -1.2, y: 1.4382023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143, y: -81}
+        - {x: 141, y: -78}
+        - {x: 113, y: -78}
+        - {x: 100, y: -112}
+        - {x: 90, y: -172}
+        - {x: 90, y: -195}
+        - {x: 92, y: -195}
+        - {x: 90, y: -204}
+        - {x: 90, y: -244}
+        - {x: 96, y: -256}
+        - {x: 142, y: -256}
+        - {x: 158, y: -252}
+        - {x: 165, y: -246}
+        - {x: 165, y: -145}
+        - {x: 161, y: -123}
+    - name: m342wd4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 993
+        width: 64
+        height: 178
+      alignment: 9
+      pivot: {x: -1.5, y: 1.4382023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: -78}
+        - {x: 96, y: -118}
+        - {x: 96, y: -254}
+        - {x: 105, y: -256}
+        - {x: 155, y: -256}
+        - {x: 160, y: -240}
+        - {x: 160, y: -116}
+        - {x: 145, y: -78}
+    - name: m342we0
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 994
+        width: 59
+        height: 177
+      alignment: 9
+      pivot: {x: -1.6949153, y: 1.4463277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 159, y: -256}
+        - {x: 159, y: -79}
+        - {x: 114, y: -79}
+        - {x: 100, y: -97}
+        - {x: 100, y: -256}
+        - {x: 128, y: -256}
+        - {x: 128, y: -248}
+        - {x: 129, y: -256}
+    - name: m342we1
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 994
+        width: 68
+        height: 177
+      alignment: 9
+      pivot: {x: -1.4705882, y: 1.4463277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 154, y: -79}
+        - {x: 115, y: -79}
+        - {x: 100, y: -116}
+        - {x: 100, y: -256}
+        - {x: 155, y: -256}
+        - {x: 161, y: -245}
+        - {x: 168, y: -205}
+        - {x: 168, y: -132}
+    - name: m342we2
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 994
+        width: 84
+        height: 177
+      alignment: 9
+      pivot: {x: -1.0357143, y: 1.4463277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -79}
+        - {x: 87, y: -136}
+        - {x: 87, y: -256}
+        - {x: 171, y: -256}
+        - {x: 171, y: -164}
+        - {x: 153, y: -79}
+    - name: m342we3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 994
+        width: 73
+        height: 177
+      alignment: 9
+      pivot: {x: -1.2465754, y: 1.4463277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144, y: -79}
+        - {x: 117, y: -79}
+        - {x: 100, y: -113}
+        - {x: 91, y: -176}
+        - {x: 91, y: -256}
+        - {x: 164, y: -256}
+        - {x: 164, y: -168}
+        - {x: 154, y: -89}
+    - name: m342we4
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 994
+        width: 59
+        height: 177
+      alignment: 9
+      pivot: {x: -1.6440678, y: 1.4463277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: -79}
+        - {x: 97, y: -256}
+        - {x: 156, y: -256}
+        - {x: 156, y: -106}
+        - {x: 151, y: -79}
+    - name: m342wf0
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 993
+        width: 61
+        height: 178
+      alignment: 9
+      pivot: {x: -1.6229508, y: 1.4382023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 146, y: -78}
+        - {x: 107, y: -78}
+        - {x: 99, y: -123}
+        - {x: 99, y: -206}
+        - {x: 101, y: -238}
+        - {x: 105, y: -246}
+        - {x: 112, y: -256}
+        - {x: 150, y: -256}
+        - {x: 160, y: -249}
+        - {x: 160, y: -104}
+    - name: m342wf1
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 993
+        width: 70
+        height: 178
+      alignment: 9
+      pivot: {x: -1.4285715, y: 1.4382023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 145, y: -78}
+        - {x: 115, y: -78}
+        - {x: 105, y: -97}
+        - {x: 100, y: -107}
+        - {x: 100, y: -252}
+        - {x: 102, y: -256}
+        - {x: 153, y: -256}
+        - {x: 170, y: -182}
+        - {x: 170, y: -142}
+        - {x: 149, y: -79}
+    - name: m342wf2
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 993
+        width: 73
+        height: 178
+      alignment: 9
+      pivot: {x: -1.2054795, y: 1.4382023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: -78}
+        - {x: 106, y: -80}
+        - {x: 88, y: -184}
+        - {x: 88, y: -254}
+        - {x: 94, y: -256}
+        - {x: 161, y: -256}
+        - {x: 161, y: -122}
+        - {x: 146, y: -78}
+    - name: m342wf3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 813
+        width: 69
+        height: 178
+      alignment: 9
+      pivot: {x: -1.2898551, y: 1.4382023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 103, y: -78}
+        - {x: 89, y: -154}
+        - {x: 89, y: -256}
+        - {x: 158, y: -256}
+        - {x: 158, y: -141}
+        - {x: 145, y: -78}
+    - name: m342wf4
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 813
+        width: 61
+        height: 178
+      alignment: 9
+      pivot: {x: -1.5737705, y: 1.4382023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: -78}
+        - {x: 96, y: -102}
+        - {x: 96, y: -247}
+        - {x: 98, y: -256}
+        - {x: 157, y: -256}
+        - {x: 157, y: -109}
+        - {x: 147, y: -78}
+    - name: m342wg0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 814
+        width: 67
+        height: 177
+      alignment: 9
+      pivot: {x: -1.4179105, y: 1.440678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 152, y: -163}
+        - {x: 151, y: -166}
+        - {x: 151, y: -168}
+        - {x: 155, y: -172}
+        - {x: 160, y: -175}
+        - {x: 162, y: -169}
+        - {x: 162, y: -96}
+        - {x: 160, y: -85}
+        - {x: 143, y: -78}
+        - {x: 111, y: -78}
+        - {x: 106, y: -89}
+        - {x: 95, y: -153}
+        - {x: 95, y: -213}
+        - {x: 100, y: -249}
+        - {x: 106, y: -255}
+        - {x: 149, y: -255}
+        - {x: 160, y: -219}
+        - {x: 151, y: -168}
+        - {x: 151, y: -161}
+    - name: m342wg1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 814
+        width: 63
+        height: 177
+      alignment: 9
+      pivot: {x: -1.6349206, y: 1.440678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 141, y: -78}
+        - {x: 103, y: -78}
+        - {x: 103, y: -255}
+        - {x: 140, y: -255}
+        - {x: 153, y: -234}
+        - {x: 166, y: -177}
+        - {x: 166, y: -150}
+    - name: m342wg2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 814
+        width: 52
+        height: 177
+      alignment: 9
+      pivot: {x: -1.9230769, y: 1.440678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: -78}
+        - {x: 100, y: -119}
+        - {x: 100, y: -255}
+        - {x: 152, y: -255}
+        - {x: 152, y: -100}
+        - {x: 144, y: -78}
+    - name: m342wg3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 814
+        width: 56
+        height: 177
+      alignment: 9
+      pivot: {x: -1.75, y: 1.440678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117, y: -78}
+        - {x: 100, y: -101}
+        - {x: 98, y: -116}
+        - {x: 98, y: -250}
+        - {x: 101, y: -255}
+        - {x: 151, y: -255}
+        - {x: 154, y: -238}
+        - {x: 154, y: -119}
+        - {x: 141, y: -78}
+    - name: m342wg4
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 814
+        width: 66
+        height: 177
+      alignment: 9
+      pivot: {x: -1.439394, y: 1.440678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144, y: -78}
+        - {x: 115, y: -78}
+        - {x: 102, y: -82}
+        - {x: 95, y: -93}
+        - {x: 95, y: -255}
+        - {x: 161, y: -255}
+        - {x: 161, y: -117}
+        - {x: 148, y: -85}
+    - name: m342wh0
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 814
+        width: 66
+        height: 177
+      alignment: 9
+      pivot: {x: -1.4242424, y: 1.440678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: -255}
+        - {x: 160, y: -255}
+        - {x: 160, y: -78}
+        - {x: 107, y: -78}
+        - {x: 94, y: -140}
+    - name: m342wh1
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 814
+        width: 69
+        height: 177
+      alignment: 9
+      pivot: {x: -1.4202899, y: 1.440678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: -78}
+        - {x: 112, y: -79}
+        - {x: 102, y: -109}
+        - {x: 98, y: -158}
+        - {x: 98, y: -255}
+        - {x: 167, y: -255}
+        - {x: 167, y: -154}
+        - {x: 145, y: -78}
+    - name: m342wh2
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 813
+        width: 69
+        height: 178
+      alignment: 9
+      pivot: {x: -1.4202899, y: 1.4382023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: -78}
+        - {x: 98, y: -107}
+        - {x: 98, y: -256}
+        - {x: 164, y: -256}
+        - {x: 167, y: -255}
+        - {x: 167, y: -211}
+        - {x: 152, y: -78}
+    - name: m342wh3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 813
+        width: 65
+        height: 178
+      alignment: 9
+      pivot: {x: -1.5076923, y: 1.4382023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: -78}
+        - {x: 98, y: -248}
+        - {x: 108, y: -256}
+        - {x: 163, y: -256}
+        - {x: 163, y: -134}
+        - {x: 156, y: -78}
+    - name: m342wh4
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 813
+        width: 66
+        height: 178
+      alignment: 9
+      pivot: {x: -1.4545455, y: 1.4382023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 141, y: -78}
+        - {x: 114, y: -78}
+        - {x: 96, y: -103}
+        - {x: 96, y: -242}
+        - {x: 109, y: -255}
+        - {x: 115, y: -256}
+        - {x: 125, y: -256}
+        - {x: 127, y: -253}
+        - {x: 128, y: -255}
+        - {x: 129, y: -256}
+        - {x: 149, y: -256}
+        - {x: 162, y: -243}
+        - {x: 162, y: -111}
+    - name: m342xa0
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 962
+        width: 160
+        height: 29
+      alignment: 9
+      pivot: {x: -0.3, y: 8.827586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

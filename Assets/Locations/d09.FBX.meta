@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: 57a5b60084618bf42943ecd63e8c77b2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Room1
+    100004: Room10
+    100006: Room11
+    100008: Room12
+    100010: Room13
+    100012: Room14
+    100014: Room15
+    100016: Room16
+    100018: Room17
+    100020: Room18
+    100022: Room19
+    100024: Room2
+    100026: Room20
+    100028: Room21
+    100030: Room22
+    100032: Room23
+    100034: Room24
+    100036: Room25
+    100038: Room26
+    100040: Room27
+    100042: Room28
+    100044: Room29
+    100046: Room3
+    100048: Room30
+    100050: Room31
+    100052: Room32
+    100054: Room33
+    100056: Room34
+    100058: Room4
+    100060: Room5
+    100062: Room6
+    100064: Room7
+    100066: Room8
+    100068: Room9
+    400000: //RootNode
+    400002: Room1
+    400004: Room10
+    400006: Room11
+    400008: Room12
+    400010: Room13
+    400012: Room14
+    400014: Room15
+    400016: Room16
+    400018: Room17
+    400020: Room18
+    400022: Room19
+    400024: Room2
+    400026: Room20
+    400028: Room21
+    400030: Room22
+    400032: Room23
+    400034: Room24
+    400036: Room25
+    400038: Room26
+    400040: Room27
+    400042: Room28
+    400044: Room29
+    400046: Room3
+    400048: Room30
+    400050: Room31
+    400052: Room32
+    400054: Room33
+    400056: Room34
+    400058: Room4
+    400060: Room5
+    400062: Room6
+    400064: Room7
+    400066: Room8
+    400068: Room9
+    2300000: Room1
+    2300002: Room10
+    2300004: Room11
+    2300006: Room12
+    2300008: Room13
+    2300010: Room14
+    2300012: Room15
+    2300014: Room16
+    2300016: Room17
+    2300018: Room18
+    2300020: Room19
+    2300022: Room2
+    2300024: Room20
+    2300026: Room21
+    2300028: Room22
+    2300030: Room23
+    2300032: Room24
+    2300034: Room25
+    2300036: Room26
+    2300038: Room27
+    2300040: Room28
+    2300042: Room29
+    2300044: Room3
+    2300046: Room30
+    2300048: Room31
+    2300050: Room32
+    2300052: Room33
+    2300054: Room34
+    2300056: Room4
+    2300058: Room5
+    2300060: Room6
+    2300062: Room7
+    2300064: Room8
+    2300066: Room9
+    3300000: Room1
+    3300002: Room10
+    3300004: Room11
+    3300006: Room12
+    3300008: Room13
+    3300010: Room14
+    3300012: Room15
+    3300014: Room16
+    3300016: Room17
+    3300018: Room18
+    3300020: Room19
+    3300022: Room2
+    3300024: Room20
+    3300026: Room21
+    3300028: Room22
+    3300030: Room23
+    3300032: Room24
+    3300034: Room25
+    3300036: Room26
+    3300038: Room27
+    3300040: Room28
+    3300042: Room29
+    3300044: Room3
+    3300046: Room30
+    3300048: Room31
+    3300050: Room32
+    3300052: Room33
+    3300054: Room34
+    3300056: Room4
+    3300058: Room5
+    3300060: Room6
+    3300062: Room7
+    3300064: Room8
+    3300066: Room9
+    4300000: Room27
+    4300002: Room15
+    4300004: Room26
+    4300006: Room23
+    4300008: Room9
+    4300010: Room3
+    4300012: Room19
+    4300014: Room24
+    4300016: Room12
+    4300018: Room6
+    4300020: Room14
+    4300022: Room8
+    4300024: Room22
+    4300026: Room18
+    4300028: Room21
+    4300030: Room30
+    4300032: Room2
+    4300034: Room34
+    4300036: Room33
+    4300038: Room13
+    4300040: Room5
+    4300042: Room32
+    4300044: Room31
+    4300046: Room11
+    4300048: Room4
+    4300050: Room25
+    4300052: Room28
+    4300054: Room20
+    4300056: Room17
+    4300058: Room29
+    4300060: Room7
+    4300062: Room16
+    4300064: Room1
+    4300066: Room10
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T3S2B1
+    second: {fileID: 2100000, guid: de0ffc1cef6db8b4f882a8f5bc53dff6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T3S2C
+    second: {fileID: 2100000, guid: 55744fe5421f1a24ca1d7eea4f0d8540, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T4bs
+    second: {fileID: 2100000, guid: fd4ea3d9e3935834081a67b32c097f8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T5bs
+    second: {fileID: 2100000, guid: df038bd73d60ea5428e291168ff71a8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: T5d1
+    second: {fileID: 2100000, guid: d2304ed052b4d6245ba84ed568dc3a3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TFB08
+    second: {fileID: 2100000, guid: cafe2759b5bf5a84aba41f632503fb04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TFB09
+    second: {fileID: 2100000, guid: f637ec485f8f7cb4f9fba75573ca2b53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tfb1
+    second: {fileID: 2100000, guid: 6dea2fb5eed1cd743935284d413d3cb6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gt002a
+    second: {fileID: 2100000, guid: df6e6c2a212078a4095335ca5bc92683, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gt002b
+    second: {fileID: 2100000, guid: aef28528be4d9304081d13781fab6a4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gt002c
+    second: {fileID: 2100000, guid: c63ae4dc1ae022a439fcda3f0dced482, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gt002e
+    second: {fileID: 2100000, guid: d8ea4e550421ad14898c4d6f1fb97919, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gt002g
+    second: {fileID: 2100000, guid: 7b068f8b1c08cda49b2aed8f12ace380, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

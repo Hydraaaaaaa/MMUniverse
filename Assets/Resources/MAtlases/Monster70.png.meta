@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: 10209de253dbc0d4198cd257d42ac3c3
+timeCreated: 1442628016
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: m500da0
+    21300002: m500db0
+    21300004: m500dc0
+    21300006: m500dd0
+    21300008: m500de0
+    21300010: m500sa0
+    21300012: m500sa1
+    21300014: m500sa2
+    21300016: m500sa3
+    21300018: m500sa4
+    21300020: m500wa0
+    21300022: m500wa1
+    21300024: m500wa2
+    21300026: m500wa3
+    21300028: m500wa4
+    21300030: m500wb0
+    21300032: m500wb1
+    21300034: m500wb2
+    21300036: m500wb3
+    21300038: m500wb4
+    21300040: m500wc0
+    21300042: m500wc1
+    21300044: m500wc2
+    21300046: m500wc3
+    21300048: m500wc4
+    21300050: m500wd0
+    21300052: m500wd1
+    21300054: m500wd2
+    21300056: m500wd3
+    21300058: m500wd4
+    21300060: m500we0
+    21300062: m500we1
+    21300064: m500we2
+    21300066: m500we3
+    21300068: m500we4
+    21300070: m500wf0
+    21300072: m500wf1
+    21300074: m500wf2
+    21300076: m500wf3
+    21300078: m500wf4
+    21300080: m500wg0
+    21300082: m500wg1
+    21300084: m500wg2
+    21300086: m500wg3
+    21300088: m500wg4
+    21300090: m500wh0
+    21300092: m500wh1
+    21300094: m500wh2
+    21300096: m500wh3
+    21300098: m500wh4
+    21300100: m500xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: m500da0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 923
+        width: 68
+        height: 99
+      alignment: 9
+      pivot: {x: -1.25, y: 2.5757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500db0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 918
+        width: 82
+        height: 104
+      alignment: 9
+      pivot: {x: -.963414609, y: 2.45192313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500dc0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 926
+        width: 83
+        height: 96
+      alignment: 9
+      pivot: {x: -1.12048197, y: 2.66666675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500dd0
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 945
+        width: 98
+        height: 77
+      alignment: 9
+      pivot: {x: -1, y: 3.32467532}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500de0
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 974
+        width: 101
+        height: 48
+      alignment: 9
+      pivot: {x: -1.02970302, y: 5.3125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500sa0
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 928
+        width: 39
+        height: 94
+      alignment: 9
+      pivot: {x: -2.74358964, y: 2.71276593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500sa1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 822
+        width: 125
+        height: 94
+      alignment: 9
+      pivot: {x: -.463999987, y: 2.71276593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500sa2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 822
+        width: 169
+        height: 94
+      alignment: 9
+      pivot: {x: -.201183438, y: 2.71276593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500sa3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 821
+        width: 122
+        height: 95
+      alignment: 9
+      pivot: {x: -.516393423, y: 2.69473696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500sa4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 821
+        width: 39
+        height: 95
+      alignment: 9
+      pivot: {x: -2.82051277, y: 2.69473696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wa0
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 830
+        width: 36
+        height: 86
+      alignment: 9
+      pivot: {x: -3, y: 2.97674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wa1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 733
+        width: 129
+        height: 86
+      alignment: 9
+      pivot: {x: -.4108527, y: 2.97674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wa2
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 733
+        width: 165
+        height: 86
+      alignment: 9
+      pivot: {x: -.230303034, y: 2.97674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wa3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 733
+        width: 118
+        height: 86
+      alignment: 9
+      pivot: {x: -.584745765, y: 2.97674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wa4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 733
+        width: 35
+        height: 86
+      alignment: 9
+      pivot: {x: -3.20000005, y: 2.97674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wb0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 732
+        width: 36
+        height: 87
+      alignment: 9
+      pivot: {x: -3, y: 2.94252872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wb1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 643
+        width: 126
+        height: 87
+      alignment: 9
+      pivot: {x: -.460317463, y: 2.94252872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wb2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 642
+        width: 162
+        height: 88
+      alignment: 9
+      pivot: {x: -.253086418, y: 2.909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wb3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 642
+        width: 114
+        height: 88
+      alignment: 9
+      pivot: {x: -.640350878, y: 2.909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wb4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 642
+        width: 36
+        height: 88
+      alignment: 9
+      pivot: {x: -3.11111116, y: 2.909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wc0
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 640
+        width: 39
+        height: 90
+      alignment: 9
+      pivot: {x: -2.69230771, y: 2.84444451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wc1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 547
+        width: 118
+        height: 91
+      alignment: 9
+      pivot: {x: -.576271176, y: 2.81318688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wc2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 547
+        width: 156
+        height: 91
+      alignment: 9
+      pivot: {x: -.301282048, y: 2.81318688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wc3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 547
+        width: 116
+        height: 91
+      alignment: 9
+      pivot: {x: -.620689631, y: 2.81318688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wc4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 547
+        width: 40
+        height: 91
+      alignment: 9
+      pivot: {x: -2.7750001, y: 2.81318688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wd0
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 550
+        width: 38
+        height: 88
+      alignment: 9
+      pivot: {x: -2.78947377, y: 2.909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wd1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 457
+        width: 116
+        height: 88
+      alignment: 9
+      pivot: {x: -.603448272, y: 2.909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wd2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 456
+        width: 161
+        height: 89
+      alignment: 9
+      pivot: {x: -.260869563, y: 2.87640452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wd3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 456
+        width: 124
+        height: 89
+      alignment: 9
+      pivot: {x: -.5, y: 2.87640452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wd4
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 456
+        width: 38
+        height: 89
+      alignment: 9
+      pivot: {x: -2.94736838, y: 2.87640452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500we0
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 459
+        width: 35
+        height: 86
+      alignment: 9
+      pivot: {x: -3.11428571, y: 2.97674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500we1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 368
+        width: 117
+        height: 86
+      alignment: 9
+      pivot: {x: -.581196606, y: 2.97674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500we2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 368
+        width: 165
+        height: 86
+      alignment: 9
+      pivot: {x: -.230303034, y: 2.97674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500we3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 368
+        width: 129
+        height: 86
+      alignment: 9
+      pivot: {x: -.426356584, y: 2.97674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500we4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 368
+        width: 35
+        height: 86
+      alignment: 9
+      pivot: {x: -3.20000005, y: 2.97674417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wf0
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 364
+        width: 35
+        height: 90
+      alignment: 9
+      pivot: {x: -3.11428571, y: 2.84444451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wf1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 272
+        width: 117
+        height: 90
+      alignment: 9
+      pivot: {x: -.589743614, y: 2.84444451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wf2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 272
+        width: 162
+        height: 90
+      alignment: 9
+      pivot: {x: -.253086418, y: 2.84444451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wf3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 272
+        width: 124
+        height: 90
+      alignment: 9
+      pivot: {x: -.491935492, y: 2.84444451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wf4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 272
+        width: 35
+        height: 90
+      alignment: 9
+      pivot: {x: -3.20000005, y: 2.84444451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wg0
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 272
+        width: 41
+        height: 90
+      alignment: 9
+      pivot: {x: -2.65853667, y: 2.84444451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wg1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 179
+        width: 120
+        height: 91
+      alignment: 9
+      pivot: {x: -.550000012, y: 2.81318688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wg2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 179
+        width: 156
+        height: 91
+      alignment: 9
+      pivot: {x: -.301282048, y: 2.81318688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wg3
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 179
+        width: 115
+        height: 91
+      alignment: 9
+      pivot: {x: -.634782612, y: 2.81318688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wg4
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 179
+        width: 41
+        height: 91
+      alignment: 9
+      pivot: {x: -2.58536577, y: 2.81318688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wh0
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 183
+        width: 38
+        height: 87
+      alignment: 9
+      pivot: {x: -2.86842108, y: 2.94252872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wh1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 89
+        width: 126
+        height: 88
+      alignment: 9
+      pivot: {x: -.460317463, y: 2.909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wh2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 89
+        width: 161
+        height: 88
+      alignment: 9
+      pivot: {x: -.260869563, y: 2.909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wh3
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 89
+        width: 116
+        height: 88
+      alignment: 9
+      pivot: {x: -.620689631, y: 2.909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500wh4
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 89
+        width: 38
+        height: 88
+      alignment: 9
+      pivot: {x: -2.86842108, y: 2.909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m500xa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 96
+        height: 37
+      alignment: 9
+      pivot: {x: -1.08333337, y: 6.91891909}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

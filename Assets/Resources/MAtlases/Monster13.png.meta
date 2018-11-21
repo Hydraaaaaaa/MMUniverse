@@ -1,0 +1,2756 @@
+fileFormatVersion: 2
+guid: 0805c28a0aa99484a97b9b6869b06873
+timeCreated: 1442627842
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M198AA0
+    21300002: M198AA1
+    21300004: M198AA2
+    21300006: M198AA3
+    21300008: M198AA4
+    21300010: M198AB0
+    21300012: M198AB1
+    21300014: M198AB2
+    21300016: M198AB3
+    21300018: M198AB4
+    21300020: M198AC0
+    21300022: M198AC1
+    21300024: M198AC2
+    21300026: M198AC3
+    21300028: M198AC4
+    21300030: M198AD0
+    21300032: M198AD1
+    21300034: M198AD2
+    21300036: M198AD3
+    21300038: M198AD4
+    21300040: M198AE0
+    21300042: M198AE1
+    21300044: M198AE2
+    21300046: M198AE3
+    21300048: M198AE4
+    21300050: M198AF0
+    21300052: M198AF1
+    21300054: M198AF2
+    21300056: M198AF3
+    21300058: M198AF4
+    21300060: M198AG0
+    21300062: M198AG1
+    21300064: M198AG2
+    21300066: M198AG3
+    21300068: M198AG4
+    21300070: M198DA0
+    21300072: M198DB0
+    21300074: M198DC0
+    21300076: M198DD0
+    21300078: M198FA0
+    21300080: M198FB0
+    21300082: M198FC0
+    21300084: M198FD0
+    21300086: M198FE0
+    21300088: M198NA0
+    21300090: M198NA1
+    21300092: M198NA2
+    21300094: M198NA3
+    21300096: M198NA4
+    21300098: M198NB0
+    21300100: M198NB1
+    21300102: M198NB2
+    21300104: M198NB3
+    21300106: M198NB4
+    21300108: M198NC0
+    21300110: M198NC1
+    21300112: M198NC2
+    21300114: M198NC3
+    21300116: M198NC4
+    21300118: M198ND0
+    21300120: M198ND1
+    21300122: M198ND2
+    21300124: M198ND3
+    21300126: M198ND4
+    21300128: M198NE0
+    21300130: M198NE1
+    21300132: M198NE2
+    21300134: M198NE3
+    21300136: M198NE4
+    21300138: M198NF0
+    21300140: M198NF1
+    21300142: M198NF2
+    21300144: M198NF3
+    21300146: M198NF4
+    21300148: M198SA0
+    21300150: M198SA1
+    21300152: M198SA2
+    21300154: M198SA3
+    21300156: M198SA4
+    21300158: M198WA0
+    21300160: M198WA1
+    21300162: M198WA2
+    21300164: M198WA3
+    21300166: M198WA4
+    21300168: M198WB0
+    21300170: M198WB1
+    21300172: M198WB2
+    21300174: M198WB3
+    21300176: M198WB4
+    21300178: M198WC0
+    21300180: M198WC1
+    21300182: M198WC2
+    21300184: M198WC3
+    21300186: M198WC4
+    21300188: M198WD0
+    21300190: M198WD1
+    21300192: M198WD2
+    21300194: M198WD3
+    21300196: M198WD4
+    21300198: M198WE0
+    21300200: M198WE1
+    21300202: M198WE2
+    21300204: M198WE3
+    21300206: M198WE4
+    21300208: M198WF0
+    21300210: M198WF1
+    21300212: M198WF2
+    21300214: M198WF3
+    21300216: M198WF4
+    21300218: M198WG0
+    21300220: M198WG1
+    21300222: M198WG2
+    21300224: M198WG3
+    21300226: M198WG4
+    21300228: M198WH0
+    21300230: M198WH1
+    21300232: M198WH2
+    21300234: M198WH3
+    21300236: M198WH4
+    21300238: M198XA0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: M198AA0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1846
+        width: 223
+        height: 200
+      alignment: 9
+      pivot: {x: -0.058295965, y: 1.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -56}
+        - {x: 13, y: -63}
+        - {x: 13, y: -112}
+        - {x: 85, y: -256}
+        - {x: 193, y: -256}
+        - {x: 236, y: -148}
+        - {x: 236, y: -67}
+        - {x: 205, y: -56}
+    - name: M198AA1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1846
+        width: 171
+        height: 200
+      alignment: 9
+      pivot: {x: -0.2631579, y: 1.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: -56}
+        - {x: 45, y: -152}
+        - {x: 72, y: -256}
+        - {x: 198, y: -256}
+        - {x: 216, y: -255}
+        - {x: 216, y: -56}
+    - name: M198AA2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1846
+        width: 79
+        height: 200
+      alignment: 9
+      pivot: {x: -1.0253165, y: 1.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90, y: -56}
+        - {x: 81, y: -90}
+        - {x: 81, y: -256}
+        - {x: 158, y: -256}
+        - {x: 160, y: -254}
+        - {x: 160, y: -83}
+        - {x: 139, y: -56}
+    - name: M198AA3
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1846
+        width: 163
+        height: 200
+      alignment: 9
+      pivot: {x: -0.33128834, y: 1.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: -56}
+        - {x: 54, y: -250}
+        - {x: 56, y: -256}
+        - {x: 159, y: -256}
+        - {x: 217, y: -121}
+        - {x: 217, y: -63}
+        - {x: 204, y: -56}
+    - name: M198AA4
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1846
+        width: 223
+        height: 200
+      alignment: 9
+      pivot: {x: -0.089686096, y: 1.28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 70, y: -56}
+        - {x: 21, y: -73}
+        - {x: 20, y: -79}
+        - {x: 20, y: -114}
+        - {x: 21, y: -115}
+        - {x: 57, y: -132}
+        - {x: 75, y: -245}
+        - {x: 77, y: -256}
+        - {x: 170, y: -256}
+        - {x: 174, y: -254}
+        - {x: 243, y: -107}
+        - {x: 243, y: -56}
+    - name: M198AB0
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1831
+        width: 131
+        height: 215
+      alignment: 9
+      pivot: {x: -0.48854962, y: 1.1906977}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 151, y: -41}
+        - {x: 116, y: -55}
+        - {x: 111, y: -64}
+        - {x: 105, y: -41}
+        - {x: 64, y: -41}
+        - {x: 64, y: -256}
+        - {x: 182, y: -256}
+        - {x: 195, y: -178}
+        - {x: 195, y: -41}
+    - name: M198AB1
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1830
+        width: 147
+        height: 216
+      alignment: 9
+      pivot: {x: -0.17687075, y: 1.1851852}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -40}
+        - {x: 26, y: -165}
+        - {x: 42, y: -256}
+        - {x: 173, y: -256}
+        - {x: 173, y: -73}
+        - {x: 145, y: -40}
+    - name: M198AB2
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1829
+        width: 121
+        height: 217
+      alignment: 9
+      pivot: {x: -0.32231405, y: 1.1797235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 119, y: -59}
+        - {x: 97, y: -39}
+        - {x: 39, y: -39}
+        - {x: 39, y: -229}
+        - {x: 78, y: -256}
+        - {x: 160, y: -256}
+        - {x: 160, y: -204}
+        - {x: 137, y: -106}
+    - name: M198AB3
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 1829
+        width: 112
+        height: 217
+      alignment: 9
+      pivot: {x: -0.3482143, y: 1.1797235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39, y: -39}
+        - {x: 39, y: -190}
+        - {x: 53, y: -256}
+        - {x: 151, y: -256}
+        - {x: 151, y: -69}
+        - {x: 136, y: -39}
+    - name: M198AB4
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 1829
+        width: 133
+        height: 217
+      alignment: 9
+      pivot: {x: -0.45112783, y: 1.1797235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: -39}
+        - {x: 60, y: -42}
+        - {x: 60, y: -193}
+        - {x: 75, y: -253}
+        - {x: 78, y: -256}
+        - {x: 169, y: -256}
+        - {x: 172, y: -254}
+        - {x: 193, y: -137}
+        - {x: 193, y: -39}
+    - name: M198AC0
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 1807
+        width: 116
+        height: 239
+      alignment: 9
+      pivot: {x: -0.6034483, y: 1.0711297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 186, y: -33}
+        - {x: 182, y: -17}
+        - {x: 168, y: -17}
+        - {x: 157, y: -25}
+        - {x: 143, y: -42}
+        - {x: 141, y: -49}
+        - {x: 112, y: -20}
+        - {x: 107, y: -17}
+        - {x: 70, y: -17}
+        - {x: 70, y: -186}
+        - {x: 85, y: -256}
+        - {x: 178, y: -256}
+        - {x: 180, y: -253}
+        - {x: 177, y: -243}
+        - {x: 186, y: -184}
+    - name: M198AC1
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 1807
+        width: 110
+        height: 239
+      alignment: 9
+      pivot: {x: -0.6909091, y: 1.0711297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 164, y: -17}
+        - {x: 138, y: -30}
+        - {x: 138, y: -45}
+        - {x: 132, y: -26}
+        - {x: 126, y: -17}
+        - {x: 85, y: -17}
+        - {x: 76, y: -210}
+        - {x: 76, y: -256}
+        - {x: 184, y: -256}
+        - {x: 186, y: -249}
+        - {x: 186, y: -17}
+    - name: M198AC2
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 1807
+        width: 87
+        height: 239
+      alignment: 9
+      pivot: {x: -0.9310345, y: 1.0711297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 122, y: -17}
+        - {x: 86, y: -99}
+        - {x: 81, y: -198}
+        - {x: 81, y: -256}
+        - {x: 159, y: -256}
+        - {x: 168, y: -253}
+        - {x: 168, y: -17}
+    - name: M198AC3
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 1807
+        width: 104
+        height: 239
+      alignment: 9
+      pivot: {x: -0.8173077, y: 1.0711297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 150, y: -17}
+        - {x: 144, y: -32}
+        - {x: 136, y: -55}
+        - {x: 120, y: -56}
+        - {x: 130, y: -48}
+        - {x: 130, y: -32}
+        - {x: 124, y: -27}
+        - {x: 112, y: -23}
+        - {x: 104, y: -24}
+        - {x: 96, y: -30}
+        - {x: 85, y: -90}
+        - {x: 85, y: -256}
+        - {x: 152, y: -256}
+        - {x: 169, y: -191}
+        - {x: 189, y: -84}
+        - {x: 189, y: -17}
+    - name: M198AC4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1566
+        width: 116
+        height: 239
+      alignment: 9
+      pivot: {x: -0.6034483, y: 1.0711297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: -17}
+        - {x: 70, y: -27}
+        - {x: 70, y: -256}
+        - {x: 174, y: -256}
+        - {x: 186, y: -102}
+        - {x: 186, y: -18}
+        - {x: 183, y: -17}
+    - name: M198AD0
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1624
+        width: 88
+        height: 181
+      alignment: 9
+      pivot: {x: -1, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 114, y: -75}
+        - {x: 88, y: -102}
+        - {x: 88, y: -256}
+        - {x: 176, y: -256}
+        - {x: 176, y: -171}
+        - {x: 173, y: -103}
+        - {x: 143, y: -75}
+    - name: M198AD1
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1624
+        width: 147
+        height: 181
+      alignment: 9
+      pivot: {x: -0.5170068, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126, y: -75}
+        - {x: 96, y: -93}
+        - {x: 76, y: -198}
+        - {x: 76, y: -256}
+        - {x: 184, y: -256}
+        - {x: 223, y: -173}
+        - {x: 223, y: -86}
+        - {x: 189, y: -75}
+    - name: M198AD2
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1624
+        width: 165
+        height: 181
+      alignment: 9
+      pivot: {x: -0.4909091, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81, y: -75}
+        - {x: 81, y: -256}
+        - {x: 164, y: -256}
+        - {x: 246, y: -177}
+        - {x: 246, y: -75}
+    - name: M198AD3
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1624
+        width: 140
+        height: 181
+      alignment: 9
+      pivot: {x: -0.6, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 123, y: -75}
+        - {x: 84, y: -86}
+        - {x: 84, y: -256}
+        - {x: 157, y: -256}
+        - {x: 200, y: -251}
+        - {x: 224, y: -198}
+        - {x: 224, y: -76}
+        - {x: 222, y: -75}
+    - name: M198AD4
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1624
+        width: 89
+        height: 181
+      alignment: 9
+      pivot: {x: -0.8876405, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: -75}
+        - {x: 79, y: -102}
+        - {x: 79, y: -256}
+        - {x: 168, y: -256}
+        - {x: 168, y: -87}
+        - {x: 144, y: -75}
+    - name: M198AE0
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1659
+        width: 126
+        height: 146
+      alignment: 9
+      pivot: {x: -0.50793654, y: 1.7534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81, y: -110}
+        - {x: 64, y: -171}
+        - {x: 64, y: -230}
+        - {x: 79, y: -232}
+        - {x: 92, y: -231}
+        - {x: 97, y: -220}
+        - {x: 97, y: -217}
+        - {x: 92, y: -204}
+        - {x: 94, y: -177}
+        - {x: 96, y: -170}
+        - {x: 97, y: -164}
+        - {x: 96, y: -171}
+        - {x: 95, y: -175}
+        - {x: 94, y: -201}
+        - {x: 98, y: -214}
+        - {x: 96, y: -225}
+        - {x: 88, y: -243}
+        - {x: 88, y: -256}
+        - {x: 185, y: -256}
+        - {x: 190, y: -245}
+        - {x: 190, y: -163}
+        - {x: 170, y: -110}
+    - name: M198AE1
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1659
+        width: 118
+        height: 146
+      alignment: 9
+      pivot: {x: -0.6440678, y: 1.7534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: -110}
+        - {x: 84, y: -172}
+        - {x: 76, y: -225}
+        - {x: 76, y: -256}
+        - {x: 187, y: -256}
+        - {x: 194, y: -244}
+        - {x: 194, y: -110}
+    - name: M198AE2
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 1659
+        width: 125
+        height: 146
+      alignment: 9
+      pivot: {x: -0.648, y: 1.7534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: -110}
+        - {x: 81, y: -192}
+        - {x: 81, y: -256}
+        - {x: 190, y: -256}
+        - {x: 206, y: -229}
+        - {x: 206, y: -112}
+        - {x: 203, y: -110}
+    - name: M198AE3
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1659
+        width: 102
+        height: 146
+      alignment: 9
+      pivot: {x: -0.8333333, y: 1.7534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 147, y: -233}
+        - {x: 154, y: -226}
+        - {x: 156, y: -210}
+        - {x: 158, y: -205}
+        - {x: 160, y: -199}
+        - {x: 160, y: -189}
+        - {x: 162, y: -202}
+        - {x: 157, y: -208}
+        - {x: 155, y: -217}
+        - {x: 156, y: -224}
+        - {x: 158, y: -230}
+        - {x: 181, y: -233}
+        - {x: 187, y: -225}
+        - {x: 187, y: -112}
+        - {x: 185, y: -110}
+        - {x: 112, y: -110}
+        - {x: 86, y: -120}
+        - {x: 85, y: -133}
+        - {x: 85, y: -256}
+        - {x: 151, y: -256}
+        - {x: 151, y: -249}
+        - {x: 149, y: -244}
+        - {x: 142, y: -237}
+    - name: M198AE4
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 1659
+        width: 126
+        height: 146
+      alignment: 9
+      pivot: {x: -0.52380955, y: 1.7534246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 159, y: -221}
+        - {x: 157, y: -211}
+        - {x: 162, y: -200}
+        - {x: 161, y: -175}
+        - {x: 160, y: -174}
+        - {x: 160, y: -171}
+        - {x: 162, y: -177}
+        - {x: 169, y: -197}
+        - {x: 158, y: -216}
+        - {x: 159, y: -220}
+        - {x: 163, y: -232}
+        - {x: 185, y: -230}
+        - {x: 192, y: -228}
+        - {x: 192, y: -173}
+        - {x: 178, y: -110}
+        - {x: 92, y: -110}
+        - {x: 66, y: -168}
+        - {x: 66, y: -222}
+        - {x: 78, y: -256}
+        - {x: 169, y: -256}
+        - {x: 169, y: -245}
+        - {x: 160, y: -236}
+        - {x: 160, y: -225}
+    - name: M198AF0
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1643
+        width: 134
+        height: 162
+      alignment: 9
+      pivot: {x: -0.46268657, y: 1.5802469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87, y: -94}
+        - {x: 68, y: -122}
+        - {x: 62, y: -162}
+        - {x: 62, y: -211}
+        - {x: 73, y: -216}
+        - {x: 92, y: -211}
+        - {x: 95, y: -194}
+        - {x: 88, y: -246}
+        - {x: 88, y: -256}
+        - {x: 193, y: -256}
+        - {x: 196, y: -235}
+        - {x: 196, y: -128}
+        - {x: 162, y: -94}
+    - name: M198AF1
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1643
+        width: 116
+        height: 162
+      alignment: 9
+      pivot: {x: -0.6551724, y: 1.5802469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 192, y: -154}
+        - {x: 187, y: -103}
+        - {x: 178, y: -94}
+        - {x: 114, y: -94}
+        - {x: 78, y: -136}
+        - {x: 76, y: -186}
+        - {x: 76, y: -256}
+        - {x: 174, y: -256}
+        - {x: 174, y: -248}
+        - {x: 167, y: -240}
+        - {x: 192, y: -200}
+    - name: M198AF2
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1643
+        width: 117
+        height: 162
+      alignment: 9
+      pivot: {x: -0.6923077, y: 1.5802469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 165, y: -177}
+        - {x: 198, y: -130}
+        - {x: 198, y: -99}
+        - {x: 196, y: -94}
+        - {x: 147, y: -94}
+        - {x: 134, y: -96}
+        - {x: 119, y: -100}
+        - {x: 89, y: -156}
+        - {x: 81, y: -221}
+        - {x: 81, y: -256}
+        - {x: 160, y: -256}
+        - {x: 162, y: -254}
+        - {x: 160, y: -247}
+        - {x: 170, y: -194}
+    - name: M198AF3
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 1643
+        width: 106
+        height: 162
+      alignment: 9
+      pivot: {x: -0.7830189, y: 1.5802469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 166, y: -213}
+        - {x: 179, y: -214}
+        - {x: 189, y: -207}
+        - {x: 189, y: -145}
+        - {x: 185, y: -105}
+        - {x: 182, y: -94}
+        - {x: 129, y: -94}
+        - {x: 83, y: -104}
+        - {x: 83, y: -256}
+        - {x: 153, y: -256}
+        - {x: 158, y: -254}
+        - {x: 156, y: -174}
+        - {x: 159, y: -205}
+    - name: M198AF4
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1643
+        width: 134
+        height: 162
+      alignment: 9
+      pivot: {x: -0.4477612, y: 1.5802469}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 161, y: -195}
+        - {x: 164, y: -209}
+        - {x: 182, y: -216}
+        - {x: 194, y: -208}
+        - {x: 194, y: -147}
+        - {x: 171, y: -94}
+        - {x: 81, y: -94}
+        - {x: 60, y: -132}
+        - {x: 60, y: -250}
+        - {x: 65, y: -256}
+        - {x: 169, y: -256}
+        - {x: 169, y: -245}
+        - {x: 161, y: -199}
+        - {x: 164, y: -168}
+    - name: M198AG0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1374
+        width: 128
+        height: 190
+      alignment: 9
+      pivot: {x: -0.5078125, y: 1.3473685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 147, y: -66}
+        - {x: 107, y: -66}
+        - {x: 65, y: -95}
+        - {x: 65, y: -219}
+        - {x: 75, y: -256}
+        - {x: 179, y: -256}
+        - {x: 193, y: -217}
+        - {x: 193, y: -126}
+        - {x: 174, y: -76}
+    - name: M198AG1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1374
+        width: 113
+        height: 190
+      alignment: 9
+      pivot: {x: -0.67256635, y: 1.3473685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: -66}
+        - {x: 79, y: -69}
+        - {x: 76, y: -99}
+        - {x: 76, y: -256}
+        - {x: 174, y: -256}
+        - {x: 189, y: -245}
+        - {x: 189, y: -66}
+    - name: M198AG2
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1374
+        width: 94
+        height: 190
+      alignment: 9
+      pivot: {x: -0.87234044, y: 1.3473685}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 135, y: -66}
+        - {x: 96, y: -87}
+        - {x: 82, y: -152}
+        - {x: 82, y: -256}
+        - {x: 163, y: -256}
+        - {x: 176, y: -229}
+        - {x: 176, y: -66}
+    - name: M198AG3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1375
+        width: 120
+        height: 189
+      alignment: 9
+      pivot: {x: -0.64166665, y: 1.3544973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 147, y: -149}
+        - {x: 146, y: -149}
+        - {x: 147, y: -151}
+        - {x: 153, y: -156}
+        - {x: 159, y: -160}
+        - {x: 169, y: -182}
+        - {x: 178, y: -196}
+        - {x: 197, y: -187}
+        - {x: 197, y: -131}
+        - {x: 179, y: -67}
+        - {x: 77, y: -67}
+        - {x: 77, y: -256}
+        - {x: 155, y: -256}
+        - {x: 155, y: -190}
+        - {x: 149, y: -156}
+        - {x: 145, y: -152}
+    - name: M198AG4
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1375
+        width: 126
+        height: 189
+      alignment: 9
+      pivot: {x: -0.50793654, y: 1.3544973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 146, y: -67}
+        - {x: 104, y: -67}
+        - {x: 64, y: -103}
+        - {x: 64, y: -256}
+        - {x: 175, y: -256}
+        - {x: 190, y: -222}
+        - {x: 190, y: -137}
+        - {x: 176, y: -84}
+    - name: M198DA0
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1404
+        width: 187
+        height: 160
+      alignment: 9
+      pivot: {x: -0.021390375, y: 1.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 173, y: -96}
+        - {x: 139, y: -96}
+        - {x: 130, y: -119}
+        - {x: 156, y: -129}
+        - {x: 120, y: -116}
+        - {x: 80, y: -96}
+        - {x: 18, y: -96}
+        - {x: 4, y: -110}
+        - {x: 4, y: -221}
+        - {x: 80, y: -256}
+        - {x: 158, y: -256}
+        - {x: 178, y: -242}
+        - {x: 191, y: -232}
+        - {x: 191, y: -112}
+    - name: M198DB0
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 1432
+        width: 130
+        height: 132
+      alignment: 9
+      pivot: {x: -0.5153846, y: 1.939394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: -124}
+        - {x: 67, y: -256}
+        - {x: 179, y: -256}
+        - {x: 197, y: -234}
+        - {x: 197, y: -124}
+    - name: M198DC0
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1433
+        width: 184
+        height: 131
+      alignment: 9
+      pivot: {x: -0.17391305, y: 1.9541985}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 191, y: -155}
+        - {x: 189, y: -162}
+        - {x: 185, y: -180}
+        - {x: 104, y: -125}
+        - {x: 68, y: -125}
+        - {x: 53, y: -147}
+        - {x: 56, y: -158}
+        - {x: 60, y: -168}
+        - {x: 66, y: -173}
+        - {x: 72, y: -175}
+        - {x: 60, y: -196}
+        - {x: 60, y: -171}
+        - {x: 54, y: -156}
+        - {x: 44, y: -155}
+        - {x: 32, y: -160}
+        - {x: 32, y: -193}
+        - {x: 51, y: -229}
+        - {x: 46, y: -256}
+        - {x: 216, y: -256}
+        - {x: 216, y: -162}
+        - {x: 208, y: -145}
+    - name: M198DD0
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1485
+        width: 196
+        height: 79
+      alignment: 9
+      pivot: {x: -0.1122449, y: 3.2405064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -177}
+        - {x: 22, y: -214}
+        - {x: 48, y: -256}
+        - {x: 209, y: -256}
+        - {x: 218, y: -232}
+        - {x: 218, y: -177}
+    - name: M198FA0
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1365
+        width: 151
+        height: 199
+      alignment: 9
+      pivot: {x: -0.33774835, y: 1.2864321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 165, y: -57}
+        - {x: 98, y: -57}
+        - {x: 51, y: -88}
+        - {x: 51, y: -150}
+        - {x: 82, y: -143}
+        - {x: 87, y: -256}
+        - {x: 185, y: -256}
+        - {x: 202, y: -212}
+        - {x: 202, y: -107}
+        - {x: 200, y: -103}
+    - name: M198FB0
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1365
+        width: 166
+        height: 199
+      alignment: 9
+      pivot: {x: -0.26506025, y: 1.2864321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 210, y: -91}
+        - {x: 205, y: -74}
+        - {x: 187, y: -75}
+        - {x: 171, y: -86}
+        - {x: 172, y: -93}
+        - {x: 177, y: -97}
+        - {x: 169, y: -91}
+        - {x: 145, y: -57}
+        - {x: 105, y: -57}
+        - {x: 44, y: -72}
+        - {x: 44, y: -201}
+        - {x: 63, y: -256}
+        - {x: 180, y: -256}
+        - {x: 179, y: -244}
+        - {x: 210, y: -139}
+    - name: M198FC0
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1365
+        width: 137
+        height: 199
+      alignment: 9
+      pivot: {x: -0.4452555, y: 1.2864321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 149, y: -57}
+        - {x: 108, y: -57}
+        - {x: 61, y: -100}
+        - {x: 61, y: -125}
+        - {x: 65, y: -135}
+        - {x: 80, y: -256}
+        - {x: 185, y: -256}
+        - {x: 198, y: -182}
+        - {x: 198, y: -92}
+        - {x: 165, y: -63}
+    - name: M198FD0
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1365
+        width: 129
+        height: 199
+      alignment: 9
+      pivot: {x: -0.4883721, y: 1.2864321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: -57}
+        - {x: 63, y: -84}
+        - {x: 63, y: -233}
+        - {x: 67, y: -256}
+        - {x: 186, y: -256}
+        - {x: 192, y: -218}
+        - {x: 192, y: -89}
+        - {x: 151, y: -57}
+    - name: M198FE0
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1366
+        width: 128
+        height: 198
+      alignment: 9
+      pivot: {x: -0.5078125, y: 1.2929293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: -58}
+        - {x: 65, y: -91}
+        - {x: 65, y: -174}
+        - {x: 84, y: -254}
+        - {x: 87, y: -256}
+        - {x: 193, y: -256}
+        - {x: 193, y: -58}
+    - name: M198NA0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1172
+        width: 166
+        height: 191
+      alignment: 9
+      pivot: {x: -0.14457831, y: 1.3403141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81, y: -65}
+        - {x: 24, y: -126}
+        - {x: 24, y: -206}
+        - {x: 85, y: -256}
+        - {x: 186, y: -256}
+        - {x: 190, y: -227}
+        - {x: 190, y: -102}
+        - {x: 140, y: -65}
+    - name: M198NA1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1172
+        width: 138
+        height: 191
+      alignment: 9
+      pivot: {x: -0.38405797, y: 1.3403141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144, y: -65}
+        - {x: 72, y: -65}
+        - {x: 53, y: -124}
+        - {x: 53, y: -244}
+        - {x: 55, y: -256}
+        - {x: 175, y: -256}
+        - {x: 187, y: -251}
+        - {x: 191, y: -241}
+        - {x: 191, y: -117}
+    - name: M198NA2
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1172
+        width: 95
+        height: 191
+      alignment: 9
+      pivot: {x: -0.85263157, y: 1.3403141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 149, y: -65}
+        - {x: 89, y: -65}
+        - {x: 86, y: -67}
+        - {x: 81, y: -89}
+        - {x: 81, y: -256}
+        - {x: 158, y: -256}
+        - {x: 162, y: -254}
+        - {x: 176, y: -222}
+        - {x: 176, y: -107}
+    - name: M198NA3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1172
+        width: 133
+        height: 191
+      alignment: 9
+      pivot: {x: -0.5864662, y: 1.3403141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107, y: -65}
+        - {x: 105, y: -66}
+        - {x: 78, y: -95}
+        - {x: 78, y: -231}
+        - {x: 81, y: -256}
+        - {x: 180, y: -256}
+        - {x: 211, y: -179}
+        - {x: 211, y: -95}
+        - {x: 161, y: -65}
+    - name: M198NA4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1172
+        width: 166
+        height: 191
+      alignment: 9
+      pivot: {x: -0.39759037, y: 1.3403141}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 218, y: -126}
+        - {x: 161, y: -65}
+        - {x: 127, y: -65}
+        - {x: 86, y: -85}
+        - {x: 66, y: -119}
+        - {x: 66, y: -209}
+        - {x: 75, y: -256}
+        - {x: 176, y: -256}
+        - {x: 230, y: -177}
+        - {x: 232, y: -171}
+        - {x: 232, y: -130}
+    - name: M198NB0
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1184
+        width: 183
+        height: 179
+      alignment: 9
+      pivot: {x: -0.021857923, y: 1.4301676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: -77}
+        - {x: 4, y: -162}
+        - {x: 4, y: -214}
+        - {x: 26, y: -241}
+        - {x: 84, y: -256}
+        - {x: 187, y: -256}
+        - {x: 187, y: -81}
+        - {x: 156, y: -77}
+    - name: M198NB1
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1184
+        width: 184
+        height: 179
+      alignment: 9
+      pivot: {x: -0.054347824, y: 1.4301676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: -77}
+        - {x: 10, y: -160}
+        - {x: 10, y: -210}
+        - {x: 62, y: -255}
+        - {x: 66, y: -256}
+        - {x: 194, y: -256}
+        - {x: 194, y: -92}
+        - {x: 147, y: -77}
+    - name: M198NB2
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1184
+        width: 114
+        height: 179
+      alignment: 9
+      pivot: {x: -0.6403509, y: 1.4301676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 187, y: -103}
+        - {x: 151, y: -77}
+        - {x: 74, y: -77}
+        - {x: 73, y: -85}
+        - {x: 73, y: -176}
+        - {x: 80, y: -195}
+        - {x: 93, y: -203}
+        - {x: 104, y: -203}
+        - {x: 87, y: -228}
+        - {x: 79, y: -256}
+        - {x: 160, y: -256}
+        - {x: 162, y: -254}
+        - {x: 162, y: -252}
+        - {x: 187, y: -177}
+    - name: M198NB3
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1184
+        width: 110
+        height: 179
+      alignment: 9
+      pivot: {x: -0.77272725, y: 1.4301676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 102, y: -77}
+        - {x: 85, y: -98}
+        - {x: 85, y: -256}
+        - {x: 178, y: -256}
+        - {x: 195, y: -209}
+        - {x: 195, y: -126}
+        - {x: 139, y: -77}
+    - name: M198NB4
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1184
+        width: 184
+        height: 179
+      alignment: 9
+      pivot: {x: -0.375, y: 1.4301676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: -77}
+        - {x: 69, y: -82}
+        - {x: 69, y: -256}
+        - {x: 179, y: -256}
+        - {x: 253, y: -202}
+        - {x: 253, y: -154}
+        - {x: 168, y: -77}
+    - name: M198NC0
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1183
+        width: 156
+        height: 180
+      alignment: 9
+      pivot: {x: -0.20512821, y: 1.4222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 125, y: -76}
+        - {x: 79, y: -76}
+        - {x: 32, y: -178}
+        - {x: 32, y: -228}
+        - {x: 60, y: -242}
+        - {x: 84, y: -208}
+        - {x: 90, y: -186}
+        - {x: 96, y: -173}
+        - {x: 100, y: -164}
+        - {x: 99, y: -166}
+        - {x: 97, y: -176}
+        - {x: 93, y: -180}
+        - {x: 86, y: -253}
+        - {x: 87, y: -256}
+        - {x: 184, y: -256}
+        - {x: 188, y: -220}
+        - {x: 188, y: -98}
+        - {x: 157, y: -84}
+    - name: M198NC1
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 1183
+        width: 181
+        height: 180
+      alignment: 9
+      pivot: {x: -0.08287293, y: 1.4222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 127, y: -76}
+        - {x: 84, y: -76}
+        - {x: 72, y: -82}
+        - {x: 15, y: -144}
+        - {x: 15, y: -256}
+        - {x: 175, y: -256}
+        - {x: 193, y: -243}
+        - {x: 196, y: -187}
+        - {x: 196, y: -115}
+        - {x: 183, y: -106}
+    - name: M198NC2
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1183
+        width: 122
+        height: 180
+      alignment: 9
+      pivot: {x: -0.46721312, y: 1.4222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 87, y: -76}
+        - {x: 57, y: -108}
+        - {x: 57, y: -256}
+        - {x: 168, y: -256}
+        - {x: 179, y: -199}
+        - {x: 179, y: -87}
+        - {x: 172, y: -76}
+    - name: M198NC3
+      rect:
+        serializedVersion: 2
+        x: 1960
+        y: 1183
+        width: 79
+        height: 180
+      alignment: 9
+      pivot: {x: -1.0126582, y: 1.4222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 115, y: -76}
+        - {x: 80, y: -95}
+        - {x: 80, y: -242}
+        - {x: 82, y: -254}
+        - {x: 82, y: -256}
+        - {x: 156, y: -256}
+        - {x: 159, y: -255}
+        - {x: 159, y: -77}
+        - {x: 158, y: -76}
+    - name: M198NC4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 990
+        width: 157
+        height: 180
+      alignment: 9
+      pivot: {x: -0.43312103, y: 1.4222223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 173, y: -76}
+        - {x: 81, y: -76}
+        - {x: 68, y: -78}
+        - {x: 68, y: -256}
+        - {x: 180, y: -256}
+        - {x: 225, y: -228}
+        - {x: 225, y: -196}
+    - name: M198ND0
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 983
+        width: 175
+        height: 187
+      alignment: 9
+      pivot: {x: -0.09714286, y: 1.368984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -69}
+        - {x: 91, y: -69}
+        - {x: 17, y: -159}
+        - {x: 17, y: -197}
+        - {x: 41, y: -212}
+        - {x: 84, y: -163}
+        - {x: 84, y: -256}
+        - {x: 180, y: -256}
+        - {x: 192, y: -198}
+        - {x: 192, y: -118}
+        - {x: 176, y: -96}
+    - name: M198ND1
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 983
+        width: 161
+        height: 187
+      alignment: 9
+      pivot: {x: -0.1863354, y: 1.368984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: -69}
+        - {x: 30, y: -158}
+        - {x: 30, y: -200}
+        - {x: 51, y: -213}
+        - {x: 70, y: -256}
+        - {x: 186, y: -256}
+        - {x: 191, y: -239}
+        - {x: 191, y: -72}
+        - {x: 181, y: -69}
+    - name: M198ND2
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 983
+        width: 87
+        height: 187
+      alignment: 9
+      pivot: {x: -0.9310345, y: 1.368984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144, y: -172}
+        - {x: 158, y: -165}
+        - {x: 168, y: -153}
+        - {x: 168, y: -125}
+        - {x: 155, y: -69}
+        - {x: 110, y: -69}
+        - {x: 81, y: -126}
+        - {x: 81, y: -256}
+        - {x: 160, y: -256}
+        - {x: 168, y: -251}
+        - {x: 168, y: -247}
+        - {x: 152, y: -185}
+    - name: M198ND3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 983
+        width: 125
+        height: 187
+      alignment: 9
+      pivot: {x: -0.576, y: 1.368984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85, y: -69}
+        - {x: 72, y: -89}
+        - {x: 72, y: -211}
+        - {x: 81, y: -255}
+        - {x: 83, y: -256}
+        - {x: 178, y: -256}
+        - {x: 197, y: -207}
+        - {x: 197, y: -88}
+        - {x: 174, y: -69}
+    - name: M198ND4
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 983
+        width: 176
+        height: 187
+      alignment: 9
+      pivot: {x: -0.36363637, y: 1.368984}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 240, y: -187}
+        - {x: 240, y: -165}
+        - {x: 163, y: -69}
+        - {x: 86, y: -69}
+        - {x: 64, y: -113}
+        - {x: 64, y: -160}
+        - {x: 73, y: -161}
+        - {x: 90, y: -169}
+        - {x: 89, y: -167}
+        - {x: 91, y: -185}
+        - {x: 78, y: -245}
+        - {x: 77, y: -252}
+        - {x: 77, y: -256}
+        - {x: 171, y: -256}
+        - {x: 214, y: -216}
+        - {x: 224, y: -206}
+        - {x: 239, y: -190}
+    - name: M198NE0
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 978
+        width: 152
+        height: 192
+      alignment: 9
+      pivot: {x: -0.23684211, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: -64}
+        - {x: 36, y: -117}
+        - {x: 36, y: -192}
+        - {x: 71, y: -256}
+        - {x: 188, y: -256}
+        - {x: 188, y: -116}
+        - {x: 148, y: -64}
+    - name: M198NE1
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 978
+        width: 118
+        height: 192
+      alignment: 9
+      pivot: {x: -0.5423729, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 119, y: -64}
+        - {x: 64, y: -116}
+        - {x: 64, y: -203}
+        - {x: 72, y: -256}
+        - {x: 175, y: -256}
+        - {x: 182, y: -252}
+        - {x: 182, y: -82}
+        - {x: 178, y: -64}
+    - name: M198NE2
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 978
+        width: 79
+        height: 192
+      alignment: 9
+      pivot: {x: -1.0253165, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106, y: -64}
+        - {x: 81, y: -120}
+        - {x: 81, y: -256}
+        - {x: 160, y: -256}
+        - {x: 160, y: -67}
+        - {x: 159, y: -64}
+    - name: M198NE3
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 978
+        width: 141
+        height: 192
+      alignment: 9
+      pivot: {x: -0.4893617, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 100, y: -64}
+        - {x: 69, y: -107}
+        - {x: 69, y: -219}
+        - {x: 81, y: -256}
+        - {x: 168, y: -256}
+        - {x: 210, y: -186}
+        - {x: 210, y: -107}
+        - {x: 162, y: -64}
+    - name: M198NE4
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 978
+        width: 152
+        height: 192
+      alignment: 9
+      pivot: {x: -0.4473684, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 167, y: -97}
+        - {x: 158, y: -92}
+        - {x: 151, y: -90}
+        - {x: 144, y: -70}
+        - {x: 141, y: -64}
+        - {x: 112, y: -64}
+        - {x: 68, y: -119}
+        - {x: 68, y: -230}
+        - {x: 74, y: -256}
+        - {x: 169, y: -256}
+        - {x: 220, y: -190}
+        - {x: 220, y: -141}
+    - name: M198NF0
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 975
+        width: 132
+        height: 195
+      alignment: 9
+      pivot: {x: -0.4090909, y: 1.3128206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 88, y: -61}
+        - {x: 54, y: -115}
+        - {x: 54, y: -180}
+        - {x: 75, y: -177}
+        - {x: 86, y: -248}
+        - {x: 87, y: -256}
+        - {x: 186, y: -256}
+        - {x: 186, y: -61}
+    - name: M198NF1
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 975
+        width: 107
+        height: 195
+      alignment: 9
+      pivot: {x: -0.6635514, y: 1.3128206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -61}
+        - {x: 71, y: -109}
+        - {x: 71, y: -253}
+        - {x: 72, y: -256}
+        - {x: 178, y: -256}
+        - {x: 178, y: -116}
+        - {x: 155, y: -61}
+    - name: M198NF2
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 975
+        width: 89
+        height: 195
+      alignment: 9
+      pivot: {x: -0.9101124, y: 1.3128206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: -61}
+        - {x: 106, y: -61}
+        - {x: 81, y: -116}
+        - {x: 81, y: -256}
+        - {x: 161, y: -256}
+        - {x: 164, y: -249}
+        - {x: 170, y: -223}
+        - {x: 170, y: -79}
+    - name: M198NF3
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 975
+        width: 134
+        height: 195
+      alignment: 9
+      pivot: {x: -0.5074627, y: 1.3128206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 202, y: -256}
+        - {x: 202, y: -74}
+        - {x: 192, y: -61}
+        - {x: 75, y: -61}
+        - {x: 68, y: -65}
+        - {x: 68, y: -256}
+    - name: M198NF4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 778
+        width: 132
+        height: 195
+      alignment: 9
+      pivot: {x: -0.530303, y: 1.3128206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143, y: -61}
+        - {x: 102, y: -61}
+        - {x: 82, y: -100}
+        - {x: 70, y: -126}
+        - {x: 70, y: -203}
+        - {x: 74, y: -256}
+        - {x: 197, y: -256}
+        - {x: 202, y: -236}
+        - {x: 202, y: -103}
+        - {x: 180, y: -80}
+    - name: M198SA0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 774
+        width: 114
+        height: 199
+      alignment: 9
+      pivot: {x: -0.61403507, y: 1.2864321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: -57}
+        - {x: 111, y: -58}
+        - {x: 70, y: -118}
+        - {x: 70, y: -159}
+        - {x: 86, y: -158}
+        - {x: 87, y: -256}
+        - {x: 182, y: -256}
+        - {x: 184, y: -251}
+        - {x: 184, y: -94}
+        - {x: 162, y: -57}
+    - name: M198SA1
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 774
+        width: 99
+        height: 199
+      alignment: 9
+      pivot: {x: -0.75757575, y: 1.2864321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144, y: -57}
+        - {x: 107, y: -57}
+        - {x: 75, y: -106}
+        - {x: 75, y: -256}
+        - {x: 174, y: -256}
+        - {x: 174, y: -118}
+        - {x: 147, y: -58}
+    - name: M198SA2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 774
+        width: 89
+        height: 199
+      alignment: 9
+      pivot: {x: -0.9101124, y: 1.2864321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: -57}
+        - {x: 81, y: -110}
+        - {x: 81, y: -256}
+        - {x: 156, y: -256}
+        - {x: 170, y: -250}
+        - {x: 170, y: -57}
+    - name: M198SA3
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 775
+        width: 125
+        height: 198
+      alignment: 9
+      pivot: {x: -0.536, y: 1.2929293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 171, y: -58}
+        - {x: 104, y: -58}
+        - {x: 67, y: -85}
+        - {x: 67, y: -256}
+        - {x: 152, y: -256}
+        - {x: 153, y: -247}
+        - {x: 192, y: -194}
+        - {x: 192, y: -107}
+    - name: M198SA4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 774
+        width: 114
+        height: 199
+      alignment: 9
+      pivot: {x: -0.6315789, y: 1.2864321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 149, y: -57}
+        - {x: 114, y: -57}
+        - {x: 72, y: -106}
+        - {x: 72, y: -222}
+        - {x: 76, y: -256}
+        - {x: 169, y: -256}
+        - {x: 172, y: -254}
+        - {x: 186, y: -188}
+        - {x: 186, y: -114}
+    - name: M198WA0
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 781
+        width: 90
+        height: 192
+      alignment: 9
+      pivot: {x: -0.98888886, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116, y: -64}
+        - {x: 89, y: -104}
+        - {x: 89, y: -256}
+        - {x: 179, y: -256}
+        - {x: 179, y: -197}
+        - {x: 171, y: -113}
+        - {x: 154, y: -64}
+    - name: M198WA1
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 781
+        width: 126
+        height: 192
+      alignment: 9
+      pivot: {x: -0.46031746, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 181, y: -256}
+        - {x: 184, y: -254}
+        - {x: 184, y: -227}
+        - {x: 162, y: -88}
+        - {x: 147, y: -64}
+        - {x: 121, y: -64}
+        - {x: 89, y: -107}
+        - {x: 58, y: -230}
+        - {x: 58, y: -256}
+        - {x: 118, y: -256}
+        - {x: 116, y: -250}
+        - {x: 112, y: -244}
+        - {x: 128, y: -256}
+    - name: M198WA2
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 781
+        width: 123
+        height: 192
+      alignment: 9
+      pivot: {x: -0.4878049, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 151, y: -196}
+        - {x: 161, y: -204}
+        - {x: 177, y: -204}
+        - {x: 183, y: -189}
+        - {x: 183, y: -147}
+        - {x: 161, y: -69}
+        - {x: 147, y: -64}
+        - {x: 111, y: -64}
+        - {x: 60, y: -121}
+        - {x: 60, y: -256}
+        - {x: 171, y: -256}
+        - {x: 179, y: -246}
+        - {x: 151, y: -201}
+        - {x: 147, y: -183}
+    - name: M198WA3
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 781
+        width: 115
+        height: 192
+      alignment: 9
+      pivot: {x: -0.53913045, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 177, y: -102}
+        - {x: 147, y: -64}
+        - {x: 106, y: -64}
+        - {x: 75, y: -79}
+        - {x: 62, y: -121}
+        - {x: 62, y: -216}
+        - {x: 84, y: -256}
+        - {x: 144, y: -256}
+        - {x: 146, y: -253}
+        - {x: 144, y: -243}
+        - {x: 177, y: -209}
+    - name: M198WA4
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 781
+        width: 93
+        height: 192
+      alignment: 9
+      pivot: {x: -0.8172043, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -64}
+        - {x: 103, y: -67}
+        - {x: 90, y: -101}
+        - {x: 89, y: -108}
+        - {x: 76, y: -218}
+        - {x: 76, y: -256}
+        - {x: 169, y: -256}
+        - {x: 169, y: -97}
+        - {x: 142, y: -64}
+    - name: M198WB0
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 780
+        width: 119
+        height: 193
+      alignment: 9
+      pivot: {x: -0.57983196, y: 1.3264248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 145, y: -63}
+        - {x: 106, y: -63}
+        - {x: 77, y: -93}
+        - {x: 69, y: -133}
+        - {x: 69, y: -214}
+        - {x: 86, y: -256}
+        - {x: 186, y: -256}
+        - {x: 188, y: -245}
+        - {x: 188, y: -104}
+        - {x: 181, y: -95}
+    - name: M198WB1
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 780
+        width: 107
+        height: 193
+      alignment: 9
+      pivot: {x: -0.7009346, y: 1.3264248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: -255}
+        - {x: 76, y: -256}
+        - {x: 182, y: -256}
+        - {x: 182, y: -197}
+        - {x: 156, y: -63}
+        - {x: 107, y: -63}
+        - {x: 75, y: -114}
+    - name: M198WB2
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 780
+        width: 108
+        height: 193
+      alignment: 9
+      pivot: {x: -0.6388889, y: 1.3264248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: -228}
+        - {x: 73, y: -236}
+        - {x: 91, y: -256}
+        - {x: 177, y: -256}
+        - {x: 177, y: -63}
+        - {x: 108, y: -63}
+        - {x: 69, y: -124}
+    - name: M198WB3
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 780
+        width: 146
+        height: 193
+      alignment: 9
+      pivot: {x: -0.33561644, y: 1.3264248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 188, y: -195}
+        - {x: 195, y: -190}
+        - {x: 195, y: -142}
+        - {x: 163, y: -63}
+        - {x: 119, y: -63}
+        - {x: 49, y: -127}
+        - {x: 49, y: -195}
+        - {x: 86, y: -198}
+        - {x: 92, y: -177}
+        - {x: 92, y: -172}
+        - {x: 87, y: -168}
+        - {x: 91, y: -154}
+        - {x: 93, y: -183}
+        - {x: 86, y: -256}
+        - {x: 157, y: -256}
+        - {x: 159, y: -250}
+        - {x: 159, y: -179}
+        - {x: 165, y: -188}
+    - name: M198WB4
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 781
+        width: 120
+        height: 192
+      alignment: 9
+      pivot: {x: -0.55833334, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 187, y: -256}
+        - {x: 187, y: -78}
+        - {x: 155, y: -64}
+        - {x: 101, y: -64}
+        - {x: 73, y: -90}
+        - {x: 67, y: -117}
+        - {x: 67, y: -191}
+        - {x: 76, y: -193}
+        - {x: 81, y: -194}
+        - {x: 74, y: -251}
+        - {x: 74, y: -255}
+        - {x: 75, y: -256}
+        - {x: 124, y: -256}
+        - {x: 124, y: -245}
+        - {x: 124, y: -253}
+        - {x: 125, y: -256}
+    - name: M198WC0
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 776
+        width: 154
+        height: 197
+      alignment: 9
+      pivot: {x: -0.33766234, y: 1.2994924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 163, y: -162}
+        - {x: 164, y: -178}
+        - {x: 166, y: -181}
+        - {x: 180, y: -193}
+        - {x: 198, y: -196}
+        - {x: 206, y: -182}
+        - {x: 206, y: -122}
+        - {x: 162, y: -59}
+        - {x: 111, y: -59}
+        - {x: 52, y: -111}
+        - {x: 52, y: -169}
+        - {x: 60, y: -174}
+        - {x: 73, y: -174}
+        - {x: 94, y: -154}
+        - {x: 88, y: -164}
+        - {x: 83, y: -223}
+        - {x: 97, y: -238}
+        - {x: 130, y: -229}
+        - {x: 132, y: -225}
+        - {x: 135, y: -217}
+        - {x: 135, y: -206}
+        - {x: 132, y: -200}
+        - {x: 121, y: -186}
+        - {x: 135, y: -204}
+        - {x: 135, y: -229}
+        - {x: 134, y: -230}
+        - {x: 128, y: -242}
+        - {x: 128, y: -250}
+        - {x: 130, y: -256}
+        - {x: 182, y: -256}
+        - {x: 181, y: -245}
+        - {x: 167, y: -214}
+    - name: M198WC1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 575
+        width: 110
+        height: 197
+      alignment: 9
+      pivot: {x: -0.6181818, y: 1.2994924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: -197}
+        - {x: 75, y: -227}
+        - {x: 117, y: -256}
+        - {x: 178, y: -256}
+        - {x: 178, y: -82}
+        - {x: 176, y: -63}
+        - {x: 169, y: -59}
+        - {x: 106, y: -59}
+        - {x: 68, y: -83}
+    - name: M198WC2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 575
+        width: 76
+        height: 197
+      alignment: 9
+      pivot: {x: -1.2236842, y: 1.2994924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 152, y: -59}
+        - {x: 119, y: -59}
+        - {x: 93, y: -90}
+        - {x: 93, y: -256}
+        - {x: 148, y: -256}
+        - {x: 155, y: -246}
+        - {x: 169, y: -237}
+        - {x: 169, y: -96}
+    - name: M198WC3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 575
+        width: 139
+        height: 197
+      alignment: 9
+      pivot: {x: -0.4388489, y: 1.2994924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -59}
+        - {x: 61, y: -106}
+        - {x: 61, y: -223}
+        - {x: 67, y: -256}
+        - {x: 169, y: -256}
+        - {x: 200, y: -221}
+        - {x: 200, y: -99}
+        - {x: 170, y: -59}
+    - name: M198WC4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 575
+        width: 153
+        height: 197
+      alignment: 9
+      pivot: {x: -0.3267974, y: 1.2994924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 166, y: -228}
+        - {x: 175, y: -221}
+        - {x: 174, y: -207}
+        - {x: 165, y: -160}
+        - {x: 153, y: -146}
+        - {x: 161, y: -145}
+        - {x: 170, y: -170}
+        - {x: 201, y: -182}
+        - {x: 203, y: -178}
+        - {x: 203, y: -118}
+        - {x: 157, y: -59}
+        - {x: 97, y: -59}
+        - {x: 50, y: -139}
+        - {x: 50, y: -196}
+        - {x: 55, y: -200}
+        - {x: 87, y: -190}
+        - {x: 92, y: -178}
+        - {x: 93, y: -173}
+        - {x: 85, y: -167}
+        - {x: 96, y: -131}
+        - {x: 91, y: -192}
+        - {x: 70, y: -256}
+        - {x: 124, y: -256}
+        - {x: 130, y: -241}
+        - {x: 122, y: -229}
+        - {x: 128, y: -229}
+    - name: M198WD0
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 575
+        width: 130
+        height: 197
+      alignment: 9
+      pivot: {x: -0.46153846, y: 1.2994924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 105, y: -59}
+        - {x: 63, y: -87}
+        - {x: 60, y: -114}
+        - {x: 60, y: -190}
+        - {x: 75, y: -195}
+        - {x: 85, y: -185}
+        - {x: 88, y: -169}
+        - {x: 78, y: -228}
+        - {x: 91, y: -237}
+        - {x: 105, y: -239}
+        - {x: 129, y: -235}
+        - {x: 132, y: -229}
+        - {x: 132, y: -211}
+        - {x: 134, y: -230}
+        - {x: 128, y: -242}
+        - {x: 128, y: -249}
+        - {x: 130, y: -256}
+        - {x: 187, y: -256}
+        - {x: 190, y: -239}
+        - {x: 190, y: -100}
+        - {x: 169, y: -59}
+    - name: M198WD1
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 575
+        width: 123
+        height: 197
+      alignment: 9
+      pivot: {x: -0.5203252, y: 1.2994924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 172, y: -211}
+        - {x: 163, y: -204}
+        - {x: 153, y: -181}
+        - {x: 146, y: -138}
+        - {x: 154, y: -152}
+        - {x: 152, y: -168}
+        - {x: 158, y: -191}
+        - {x: 171, y: -199}
+        - {x: 187, y: -193}
+        - {x: 187, y: -138}
+        - {x: 143, y: -59}
+        - {x: 116, y: -59}
+        - {x: 113, y: -61}
+        - {x: 81, y: -69}
+        - {x: 64, y: -103}
+        - {x: 64, y: -240}
+        - {x: 109, y: -256}
+        - {x: 168, y: -256}
+        - {x: 167, y: -247}
+        - {x: 163, y: -243}
+        - {x: 160, y: -239}
+    - name: M198WD2
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 575
+        width: 121
+        height: 197
+      alignment: 9
+      pivot: {x: -0.6446281, y: 1.2994924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144, y: -59}
+        - {x: 92, y: -59}
+        - {x: 78, y: -96}
+        - {x: 78, y: -231}
+        - {x: 86, y: -256}
+        - {x: 140, y: -256}
+        - {x: 156, y: -253}
+        - {x: 199, y: -218}
+        - {x: 199, y: -200}
+    - name: M198WD3
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 575
+        width: 130
+        height: 197
+      alignment: 9
+      pivot: {x: -0.53846157, y: 1.2994924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 109, y: -59}
+        - {x: 82, y: -90}
+        - {x: 70, y: -208}
+        - {x: 70, y: -256}
+        - {x: 131, y: -256}
+        - {x: 153, y: -254}
+        - {x: 200, y: -232}
+        - {x: 200, y: -176}
+        - {x: 145, y: -59}
+    - name: M198WD4
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 575
+        width: 130
+        height: 197
+      alignment: 9
+      pivot: {x: -0.50769234, y: 1.2994924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 182, y: -229}
+        - {x: 176, y: -211}
+        - {x: 167, y: -200}
+        - {x: 163, y: -159}
+        - {x: 167, y: -189}
+        - {x: 192, y: -200}
+        - {x: 196, y: -192}
+        - {x: 196, y: -135}
+        - {x: 152, y: -59}
+        - {x: 91, y: -59}
+        - {x: 66, y: -118}
+        - {x: 66, y: -251}
+        - {x: 68, y: -256}
+        - {x: 122, y: -256}
+        - {x: 129, y: -252}
+        - {x: 124, y: -234}
+        - {x: 132, y: -241}
+    - name: M198WE0
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 580
+        width: 90
+        height: 192
+      alignment: 9
+      pivot: {x: -0.98888886, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 108, y: -64}
+        - {x: 89, y: -92}
+        - {x: 89, y: -256}
+        - {x: 179, y: -256}
+        - {x: 179, y: -113}
+        - {x: 152, y: -64}
+    - name: M198WE1
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 580
+        width: 111
+        height: 192
+      alignment: 9
+      pivot: {x: -0.6306306, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 151, y: -64}
+        - {x: 102, y: -64}
+        - {x: 70, y: -95}
+        - {x: 70, y: -234}
+        - {x: 72, y: -256}
+        - {x: 170, y: -256}
+        - {x: 181, y: -197}
+        - {x: 181, y: -115}
+    - name: M198WE2
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 580
+        width: 116
+        height: 192
+      alignment: 9
+      pivot: {x: -0.5344828, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 178, y: -211}
+        - {x: 178, y: -150}
+        - {x: 154, y: -80}
+        - {x: 149, y: -69}
+        - {x: 144, y: -64}
+        - {x: 117, y: -64}
+        - {x: 62, y: -111}
+        - {x: 62, y: -256}
+        - {x: 170, y: -256}
+        - {x: 178, y: -253}
+        - {x: 178, y: -249}
+        - {x: 169, y: -235}
+    - name: M198WE3
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 580
+        width: 123
+        height: 192
+      alignment: 9
+      pivot: {x: -0.44715446, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 178, y: -256}
+        - {x: 178, y: -105}
+        - {x: 154, y: -64}
+        - {x: 86, y: -64}
+        - {x: 70, y: -136}
+        - {x: 55, y: -223}
+        - {x: 55, y: -256}
+        - {x: 114, y: -256}
+        - {x: 114, y: -255}
+        - {x: 109, y: -246}
+        - {x: 122, y: -256}
+    - name: M198WE4
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 580
+        width: 93
+        height: 192
+      alignment: 9
+      pivot: {x: -0.8172043, y: 1.3333334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: -256}
+        - {x: 169, y: -256}
+        - {x: 169, y: -189}
+        - {x: 163, y: -96}
+        - {x: 154, y: -64}
+        - {x: 118, y: -64}
+        - {x: 76, y: -95}
+    - name: M198WF0
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 576
+        width: 113
+        height: 196
+      alignment: 9
+      pivot: {x: -0.6637168, y: 1.3061224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 137, y: -60}
+        - {x: 116, y: -60}
+        - {x: 104, y: -66}
+        - {x: 75, y: -82}
+        - {x: 75, y: -256}
+        - {x: 175, y: -256}
+        - {x: 188, y: -252}
+        - {x: 188, y: -124}
+        - {x: 174, y: -95}
+    - name: M198WF1
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 576
+        width: 134
+        height: 196
+      alignment: 9
+      pivot: {x: -0.37313432, y: 1.3061224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 154, y: -168}
+        - {x: 151, y: -163}
+        - {x: 151, y: -160}
+        - {x: 152, y: -164}
+        - {x: 157, y: -170}
+        - {x: 158, y: -184}
+        - {x: 163, y: -190}
+        - {x: 179, y: -189}
+        - {x: 184, y: -178}
+        - {x: 184, y: -128}
+        - {x: 148, y: -60}
+        - {x: 111, y: -60}
+        - {x: 72, y: -83}
+        - {x: 50, y: -149}
+        - {x: 50, y: -218}
+        - {x: 73, y: -256}
+        - {x: 166, y: -256}
+        - {x: 158, y: -191}
+        - {x: 158, y: -180}
+    - name: M198WF2
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 576
+        width: 105
+        height: 196
+      alignment: 9
+      pivot: {x: -0.6, y: 1.3061224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 131, y: -60}
+        - {x: 120, y: -67}
+        - {x: 96, y: -93}
+        - {x: 78, y: -121}
+        - {x: 70, y: -137}
+        - {x: 63, y: -164}
+        - {x: 63, y: -194}
+        - {x: 72, y: -253}
+        - {x: 79, y: -256}
+        - {x: 168, y: -256}
+        - {x: 168, y: -64}
+        - {x: 166, y: -60}
+    - name: M198WF3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 377
+        width: 104
+        height: 196
+      alignment: 9
+      pivot: {x: -0.625, y: 1.3061224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90, y: -60}
+        - {x: 73, y: -64}
+        - {x: 65, y: -91}
+        - {x: 65, y: -256}
+        - {x: 169, y: -256}
+        - {x: 169, y: -116}
+        - {x: 161, y: -60}
+    - name: M198WF4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 377
+        width: 114
+        height: 196
+      alignment: 9
+      pivot: {x: -0.5964912, y: 1.3061224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 101, y: -60}
+        - {x: 69, y: -96}
+        - {x: 68, y: -103}
+        - {x: 68, y: -248}
+        - {x: 70, y: -256}
+        - {x: 178, y: -256}
+        - {x: 182, y: -255}
+        - {x: 182, y: -77}
+        - {x: 157, y: -60}
+    - name: M198WG0
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 375
+        width: 147
+        height: 198
+      alignment: 9
+      pivot: {x: -0.3537415, y: 1.2929293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126, y: -199}
+        - {x: 129, y: -218}
+        - {x: 131, y: -228}
+        - {x: 142, y: -246}
+        - {x: 191, y: -229}
+        - {x: 199, y: -213}
+        - {x: 199, y: -124}
+        - {x: 156, y: -58}
+        - {x: 107, y: -58}
+        - {x: 52, y: -149}
+        - {x: 52, y: -244}
+        - {x: 55, y: -256}
+        - {x: 135, y: -256}
+        - {x: 137, y: -255}
+        - {x: 136, y: -237}
+        - {x: 131, y: -233}
+    - name: M198WG1
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 375
+        width: 122
+        height: 198
+      alignment: 9
+      pivot: {x: -0.5081967, y: 1.2929293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 155, y: -58}
+        - {x: 121, y: -58}
+        - {x: 78, y: -86}
+        - {x: 62, y: -118}
+        - {x: 62, y: -245}
+        - {x: 77, y: -256}
+        - {x: 173, y: -256}
+        - {x: 181, y: -243}
+        - {x: 184, y: -210}
+        - {x: 184, y: -130}
+    - name: M198WG2
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 375
+        width: 65
+        height: 198
+      alignment: 9
+      pivot: {x: -1.4153847, y: 1.2929293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 116, y: -58}
+        - {x: 92, y: -96}
+        - {x: 92, y: -256}
+        - {x: 157, y: -256}
+        - {x: 157, y: -58}
+    - name: M198WG3
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 375
+        width: 117
+        height: 198
+      alignment: 9
+      pivot: {x: -0.5641026, y: 1.2929293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 183, y: -148}
+        - {x: 153, y: -58}
+        - {x: 108, y: -58}
+        - {x: 66, y: -90}
+        - {x: 66, y: -205}
+        - {x: 85, y: -256}
+        - {x: 160, y: -256}
+        - {x: 162, y: -254}
+        - {x: 162, y: -245}
+        - {x: 183, y: -198}
+    - name: M198WG4
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 375
+        width: 147
+        height: 198
+      alignment: 9
+      pivot: {x: -0.3877551, y: 1.2929293}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143, y: -58}
+        - {x: 114, y: -58}
+        - {x: 57, y: -99}
+        - {x: 57, y: -197}
+        - {x: 63, y: -230}
+        - {x: 88, y: -236}
+        - {x: 119, y: -235}
+        - {x: 126, y: -222}
+        - {x: 116, y: -241}
+        - {x: 122, y: -256}
+        - {x: 180, y: -256}
+        - {x: 204, y: -194}
+        - {x: 204, y: -165}
+        - {x: 175, y: -102}
+    - name: M198WH0
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 378
+        width: 112
+        height: 195
+      alignment: 9
+      pivot: {x: -0.6785714, y: 1.3128206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 157, y: -236}
+        - {x: 175, y: -235}
+        - {x: 186, y: -227}
+        - {x: 188, y: -220}
+        - {x: 188, y: -119}
+        - {x: 159, y: -61}
+        - {x: 106, y: -61}
+        - {x: 76, y: -79}
+        - {x: 76, y: -252}
+        - {x: 77, y: -256}
+        - {x: 136, y: -256}
+        - {x: 139, y: -239}
+        - {x: 130, y: -229}
+        - {x: 138, y: -235}
+    - name: M198WH1
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 378
+        width: 133
+        height: 195
+      alignment: 9
+      pivot: {x: -0.5112782, y: 1.3128206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 183, y: -152}
+        - {x: 149, y: -61}
+        - {x: 110, y: -61}
+        - {x: 83, y: -109}
+        - {x: 68, y: -219}
+        - {x: 68, y: -256}
+        - {x: 143, y: -256}
+        - {x: 198, y: -233}
+        - {x: 201, y: -232}
+        - {x: 201, y: -192}
+    - name: M198WH2
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 378
+        width: 114
+        height: 195
+      alignment: 9
+      pivot: {x: -0.65789473, y: 1.3128206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 189, y: -141}
+        - {x: 141, y: -61}
+        - {x: 108, y: -61}
+        - {x: 104, y: -62}
+        - {x: 75, y: -115}
+        - {x: 75, y: -256}
+        - {x: 133, y: -256}
+        - {x: 134, y: -255}
+        - {x: 134, y: -252}
+        - {x: 189, y: -245}
+    - name: M198WH3
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 378
+        width: 131
+        height: 195
+      alignment: 9
+      pivot: {x: -0.45801526, y: 1.3128206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: -61}
+        - {x: 60, y: -94}
+        - {x: 60, y: -256}
+        - {x: 187, y: -256}
+        - {x: 191, y: -245}
+        - {x: 191, y: -154}
+        - {x: 145, y: -61}
+    - name: M198WH4
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 378
+        width: 113
+        height: 195
+      alignment: 9
+      pivot: {x: -0.59292036, y: 1.3128206}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: -61}
+        - {x: 67, y: -83}
+        - {x: 67, y: -256}
+        - {x: 178, y: -256}
+        - {x: 180, y: -252}
+        - {x: 180, y: -105}
+        - {x: 165, y: -61}
+    - name: M198XA0
+      rect:
+        serializedVersion: 2
+        x: 1445
+        y: 518
+        width: 251
+        height: 55
+      alignment: 9
+      pivot: {x: -0.011952192, y: 4.6545453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -201}
+        - {x: 3, y: -205}
+        - {x: 3, y: -255}
+        - {x: 6, y: -256}
+        - {x: 254, y: -256}
+        - {x: 254, y: -216}
+        - {x: 232, y: -201}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

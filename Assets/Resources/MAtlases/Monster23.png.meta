@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 8fc44c247ff9e6e41ba318cb6041eb48
+timeCreated: 1442629394
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M238Aa0
+    21300002: M238Aa1
+    21300004: M238Aa2
+    21300006: M238Aa3
+    21300008: M238Aa4
+    21300010: M238Ab0
+    21300012: M238Ab1
+    21300014: M238Ab2
+    21300016: M238Ab3
+    21300018: M238Ab4
+    21300020: M238Ac0
+    21300022: M238Ac1
+    21300024: M238Ac2
+    21300026: M238Ac3
+    21300028: M238Ac4
+    21300030: M238Ad0
+    21300032: M238Ad1
+    21300034: M238Ad2
+    21300036: M238Ad3
+    21300038: M238Ad4
+    21300040: M238Ae0
+    21300042: M238Ae1
+    21300044: M238Ae2
+    21300046: M238Ae3
+    21300048: M238Ae4
+    21300050: M238Af0
+    21300052: M238Af1
+    21300054: M238Af2
+    21300056: M238Af3
+    21300058: M238Af4
+    21300060: M238Ag0
+    21300062: M238Ag1
+    21300064: M238Ag2
+    21300066: M238Ag3
+    21300068: M238Ag4
+    21300070: M238Da0
+    21300072: M238Db0
+    21300074: M238Dc0
+    21300076: M238Dd0
+    21300078: M238De0
+    21300080: M238Df0
+    21300082: M238Fa0
+    21300084: M238Fb0
+    21300086: M238Fc0
+    21300088: M238Fd0
+    21300090: M238Fe0
+    21300092: M238Na0
+    21300094: M238Na1
+    21300096: M238Na2
+    21300098: M238Na3
+    21300100: M238Na4
+    21300102: M238Nb0
+    21300104: M238Nb1
+    21300106: M238Nb2
+    21300108: M238Nb3
+    21300110: M238Nb4
+    21300112: M238Nc0
+    21300114: M238Nc1
+    21300116: M238Nc2
+    21300118: M238Nc3
+    21300120: M238Nc4
+    21300122: M238Nd0
+    21300124: M238Nd1
+    21300126: M238Nd2
+    21300128: M238Nd3
+    21300130: M238Nd4
+    21300132: M238Ne0
+    21300134: M238Ne1
+    21300136: M238Ne2
+    21300138: M238Ne3
+    21300140: M238Ne4
+    21300142: M238Nf0
+    21300144: M238Nf1
+    21300146: M238Nf2
+    21300148: M238Nf3
+    21300150: M238Nf4
+    21300152: M238Wa0
+    21300154: M238Wa1
+    21300156: M238Wa2
+    21300158: M238Wa3
+    21300160: M238Wa4
+    21300162: M238Wb0
+    21300164: M238Wb1
+    21300166: M238Wb2
+    21300168: M238Wb3
+    21300170: M238Wb4
+    21300172: M238Wc0
+    21300174: M238Wc1
+    21300176: M238Wc2
+    21300178: M238Wc3
+    21300180: M238Wc4
+    21300182: M238Wd0
+    21300184: M238Wd1
+    21300186: M238Wd2
+    21300188: M238Wd3
+    21300190: M238Wd4
+    21300192: M238We0
+    21300194: M238We1
+    21300196: M238We2
+    21300198: M238We3
+    21300200: M238We4
+    21300202: M238Wf0
+    21300204: M238Wf1
+    21300206: M238Wf2
+    21300208: M238Wf3
+    21300210: M238Wf4
+    21300212: M238Wg0
+    21300214: M238Wg1
+    21300216: M238Wg2
+    21300218: M238Wg3
+    21300220: M238Wg4
+    21300222: M238Xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: M238Aa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1864
+        width: 85
+        height: 182
+      alignment: 9
+      pivot: {x: -.97647059, y: 1.23626375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Aa1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1863
+        width: 75
+        height: 183
+      alignment: 9
+      pivot: {x: -1.10666668, y: 1.22950816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Aa2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1863
+        width: 84
+        height: 183
+      alignment: 9
+      pivot: {x: -.916666687, y: 1.22950816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Aa3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1865
+        width: 77
+        height: 181
+      alignment: 9
+      pivot: {x: -1.19480515, y: 1.23204422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Aa4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1865
+        width: 85
+        height: 181
+      alignment: 9
+      pivot: {x: -1.03529418, y: 1.23204422}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ab0
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1843
+        width: 106
+        height: 203
+      alignment: 9
+      pivot: {x: -.641509414, y: 1.07881773}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ab1
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1845
+        width: 83
+        height: 201
+      alignment: 9
+      pivot: {x: -.867469907, y: 1.08457708}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ab2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1844
+        width: 84
+        height: 202
+      alignment: 9
+      pivot: {x: -.821428597, y: 1.08415842}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ab3
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1845
+        width: 86
+        height: 201
+      alignment: 9
+      pivot: {x: -.895348847, y: 1.08955228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ab4
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1849
+        width: 108
+        height: 197
+      alignment: 9
+      pivot: {x: -.75, y: 1.1015228}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ac0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1646
+        width: 134
+        height: 195
+      alignment: 9
+      pivot: {x: -.365671635, y: 1.1025641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ac1
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1647
+        width: 101
+        height: 194
+      alignment: 9
+      pivot: {x: -.554455459, y: 1.1082474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ac2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1648
+        width: 80
+        height: 193
+      alignment: 9
+      pivot: {x: -.837499976, y: 1.11398959}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ac3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1649
+        width: 105
+        height: 192
+      alignment: 9
+      pivot: {x: -.628571451, y: 1.11979163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ac4
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1648
+        width: 137
+        height: 193
+      alignment: 9
+      pivot: {x: -.525547445, y: 1.10880828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ad0
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1682
+        width: 77
+        height: 159
+      alignment: 9
+      pivot: {x: -1.27272725, y: 1.27672958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ad1
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1682
+        width: 135
+        height: 159
+      alignment: 9
+      pivot: {x: -.651851833, y: 1.27672958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ad2
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1682
+        width: 138
+        height: 159
+      alignment: 9
+      pivot: {x: -.637681186, y: 1.27672958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ad3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1484
+        width: 100
+        height: 160
+      alignment: 9
+      pivot: {x: -1.05999994, y: 1.27499998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ad4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1485
+        width: 77
+        height: 159
+      alignment: 9
+      pivot: {x: -1.06493509, y: 1.27672958}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ae0
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1479
+        width: 73
+        height: 165
+      alignment: 9
+      pivot: {x: -1.34246576, y: 1.26666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ae1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1479
+        width: 127
+        height: 165
+      alignment: 9
+      pivot: {x: -.748031497, y: 1.26666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ae2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1479
+        width: 138
+        height: 165
+      alignment: 9
+      pivot: {x: -.666666687, y: 1.26666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ae3
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1480
+        width: 109
+        height: 164
+      alignment: 9
+      pivot: {x: -.954128444, y: 1.27439022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ae4
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1480
+        width: 73
+        height: 164
+      alignment: 9
+      pivot: {x: -1.16438353, y: 1.27439022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Af0
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1456
+        width: 87
+        height: 188
+      alignment: 9
+      pivot: {x: -.988505721, y: 1.17553186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Af1
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1456
+        width: 86
+        height: 188
+      alignment: 9
+      pivot: {x: -1.27906978, y: 1.17553186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Af2
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1456
+        width: 84
+        height: 188
+      alignment: 9
+      pivot: {x: -1.38095236, y: 1.17553186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Af3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1266
+        width: 83
+        height: 188
+      alignment: 9
+      pivot: {x: -1.32530117, y: 1.17553186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Af4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1266
+        width: 87
+        height: 188
+      alignment: 9
+      pivot: {x: -.954023004, y: 1.17553186}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ag0
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1269
+        width: 84
+        height: 185
+      alignment: 9
+      pivot: {x: -1.03571427, y: 1.21621621}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ag1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1269
+        width: 66
+        height: 185
+      alignment: 9
+      pivot: {x: -1.63636363, y: 1.21081078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ag2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1269
+        width: 81
+        height: 185
+      alignment: 9
+      pivot: {x: -1.28395057, y: 1.21081078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ag3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1270
+        width: 71
+        height: 184
+      alignment: 9
+      pivot: {x: -1.50704229, y: 1.2119565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ag4
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1270
+        width: 83
+        height: 184
+      alignment: 9
+      pivot: {x: -1.02409637, y: 1.2119565}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Da0
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1301
+        width: 126
+        height: 153
+      alignment: 9
+      pivot: {x: -.523809552, y: 1.39215684}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Db0
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1317
+        width: 143
+        height: 137
+      alignment: 9
+      pivot: {x: -.377622366, y: 1.59854019}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Dc0
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1307
+        width: 171
+        height: 147
+      alignment: 9
+      pivot: {x: -.245614037, y: 1.53061223}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Dd0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1093
+        width: 147
+        height: 171
+      alignment: 9
+      pivot: {x: -.367346942, y: 1.4912281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238De0
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1238
+        width: 42
+        height: 26
+      alignment: 9
+      pivot: {x: -2.80952382, y: 9.23076916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Df0
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1240
+        width: 43
+        height: 24
+      alignment: 9
+      pivot: {x: -2.72093034, y: 10.666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Fa0
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1078
+        width: 58
+        height: 186
+      alignment: 9
+      pivot: {x: -1.7241379, y: 1.23655915}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Fb0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1078
+        width: 59
+        height: 186
+      alignment: 9
+      pivot: {x: -1.69491529, y: 1.22043014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Fc0
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1078
+        width: 59
+        height: 186
+      alignment: 9
+      pivot: {x: -1.69491529, y: 1.22043014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Fd0
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1076
+        width: 59
+        height: 188
+      alignment: 9
+      pivot: {x: -1.69491529, y: 1.22340429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Fe0
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 1076
+        width: 59
+        height: 188
+      alignment: 9
+      pivot: {x: -1.69491529, y: 1.23936164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Na0
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1093
+        width: 95
+        height: 171
+      alignment: 9
+      pivot: {x: -.747368395, y: 1.29239762}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Na1
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1094
+        width: 87
+        height: 170
+      alignment: 9
+      pivot: {x: -.689655185, y: 1.29411769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Na2
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1095
+        width: 87
+        height: 169
+      alignment: 9
+      pivot: {x: -.620689631, y: 1.29585803}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Na3
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 1094
+        width: 85
+        height: 170
+      alignment: 9
+      pivot: {x: -.800000012, y: 1.28823531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Na4
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1094
+        width: 97
+        height: 170
+      alignment: 9
+      pivot: {x: -.917525768, y: 1.28823531}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nb0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 925
+        width: 128
+        height: 149
+      alignment: 9
+      pivot: {x: -.40625, y: 1.40939593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nb1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 924
+        width: 150
+        height: 150
+      alignment: 9
+      pivot: {x: -.00666666683, y: 1.40666664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nb2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 924
+        width: 155
+        height: 150
+      alignment: 9
+      pivot: {x: -.0838709697, y: 1.40666664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nb3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 926
+        width: 146
+        height: 148
+      alignment: 9
+      pivot: {x: -.116438359, y: 1.41216218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nb4
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 923
+        width: 132
+        height: 151
+      alignment: 9
+      pivot: {x: -.560606062, y: 1.39735103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nc0
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 933
+        width: 138
+        height: 141
+      alignment: 9
+      pivot: {x: -.369565219, y: 1.53191495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nc1
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 933
+        width: 145
+        height: 141
+      alignment: 9
+      pivot: {x: 0, y: 1.53191495}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nc2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 779
+        width: 157
+        height: 142
+      alignment: 9
+      pivot: {x: 0, y: 1.52816904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nc3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 778
+        width: 124
+        height: 143
+      alignment: 9
+      pivot: {x: -.266129047, y: 1.51748252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nc4
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 776
+        width: 142
+        height: 145
+      alignment: 9
+      pivot: {x: -.464788735, y: 1.50344825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nd0
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 771
+        width: 119
+        height: 150
+      alignment: 9
+      pivot: {x: -.40336135, y: 1.64666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nd1
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 771
+        width: 113
+        height: 150
+      alignment: 9
+      pivot: {x: -.407079637, y: 1.64666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nd2
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 771
+        width: 113
+        height: 150
+      alignment: 9
+      pivot: {x: -.460177004, y: 1.64666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nd3
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 771
+        width: 128
+        height: 150
+      alignment: 9
+      pivot: {x: -.453125, y: 1.64666665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nd4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 618
+        width: 119
+        height: 151
+      alignment: 9
+      pivot: {x: -.747899175, y: 1.64238405}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ne0
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 599
+        width: 89
+        height: 170
+      alignment: 9
+      pivot: {x: -.842696607, y: 1.44117641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ne1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 599
+        width: 82
+        height: 170
+      alignment: 9
+      pivot: {x: -.963414609, y: 1.44117641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ne2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 599
+        width: 106
+        height: 170
+      alignment: 9
+      pivot: {x: -.584905684, y: 1.44117641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ne3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 600
+        width: 113
+        height: 169
+      alignment: 9
+      pivot: {x: -.566371679, y: 1.44378698}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Ne4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 599
+        width: 90
+        height: 170
+      alignment: 9
+      pivot: {x: -1.01111114, y: 1.44117641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nf0
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 585
+        width: 77
+        height: 184
+      alignment: 9
+      pivot: {x: -1.09090912, y: 1.29347825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nf1
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 585
+        width: 68
+        height: 184
+      alignment: 9
+      pivot: {x: -1.41176474, y: 1.29347825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nf2
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 586
+        width: 91
+        height: 183
+      alignment: 9
+      pivot: {x: -.934065938, y: 1.29508197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nf3
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 585
+        width: 83
+        height: 184
+      alignment: 9
+      pivot: {x: -1.06024098, y: 1.29347825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Nf4
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 584
+        width: 77
+        height: 185
+      alignment: 9
+      pivot: {x: -1.2337662, y: 1.29189193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 395
+        width: 60
+        height: 187
+      alignment: 9
+      pivot: {x: -1.66666663, y: 1.26203203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wa1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 395
+        width: 60
+        height: 187
+      alignment: 9
+      pivot: {x: -1.7166667, y: 1.26203203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wa2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 394
+        width: 60
+        height: 188
+      alignment: 9
+      pivot: {x: -1.70000005, y: 1.25531912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wa3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 395
+        width: 65
+        height: 187
+      alignment: 9
+      pivot: {x: -1.53846157, y: 1.25668454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wa4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 395
+        width: 59
+        height: 187
+      alignment: 9
+      pivot: {x: -1.62711859, y: 1.25668454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wb0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 396
+        width: 58
+        height: 186
+      alignment: 9
+      pivot: {x: -1.7758621, y: 1.25806451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wb1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 396
+        width: 64
+        height: 186
+      alignment: 9
+      pivot: {x: -1.5625, y: 1.25806451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wb2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 394
+        width: 61
+        height: 188
+      alignment: 9
+      pivot: {x: -1.65573776, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wb3
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 395
+        width: 64
+        height: 187
+      alignment: 9
+      pivot: {x: -1.5625, y: 1.25133693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wb4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 394
+        width: 59
+        height: 188
+      alignment: 9
+      pivot: {x: -1.59322035, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wc0
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 396
+        width: 57
+        height: 186
+      alignment: 9
+      pivot: {x: -1.82456136, y: 1.25268817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wc1
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 395
+        width: 63
+        height: 187
+      alignment: 9
+      pivot: {x: -1.61904764, y: 1.25133693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wc2
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 394
+        width: 66
+        height: 188
+      alignment: 9
+      pivot: {x: -1.4545455, y: 1.24468088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wc3
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 394
+        width: 64
+        height: 188
+      alignment: 9
+      pivot: {x: -1.53125, y: 1.24468088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wc4
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 394
+        width: 59
+        height: 188
+      alignment: 9
+      pivot: {x: -1.59322035, y: 1.24468088}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wd0
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 395
+        width: 59
+        height: 187
+      alignment: 9
+      pivot: {x: -1.72881353, y: 1.26737964}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wd1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 205
+        width: 61
+        height: 187
+      alignment: 9
+      pivot: {x: -1.73770487, y: 1.26203203}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wd2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 204
+        width: 65
+        height: 188
+      alignment: 9
+      pivot: {x: -1.49230766, y: 1.26063836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wd3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 204
+        width: 63
+        height: 188
+      alignment: 9
+      pivot: {x: -1.55555558, y: 1.26063836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wd4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 204
+        width: 57
+        height: 188
+      alignment: 9
+      pivot: {x: -1.68421054, y: 1.26063836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238We0
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 205
+        width: 60
+        height: 187
+      alignment: 9
+      pivot: {x: -1.66666663, y: 1.27807486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238We1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 205
+        width: 64
+        height: 187
+      alignment: 9
+      pivot: {x: -1.609375, y: 1.27807486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238We2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 205
+        width: 61
+        height: 187
+      alignment: 9
+      pivot: {x: -1.67213118, y: 1.27807486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238We3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 205
+        width: 63
+        height: 187
+      alignment: 9
+      pivot: {x: -1.57142854, y: 1.27807486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238We4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 205
+        width: 59
+        height: 187
+      alignment: 9
+      pivot: {x: -1.62711859, y: 1.27807486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wf0
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 204
+        width: 58
+        height: 188
+      alignment: 9
+      pivot: {x: -1.7241379, y: 1.26595747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wf1
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 204
+        width: 61
+        height: 188
+      alignment: 9
+      pivot: {x: -1.70491803, y: 1.26595747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wf2
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 204
+        width: 61
+        height: 188
+      alignment: 9
+      pivot: {x: -1.67213118, y: 1.26595747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wf3
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 204
+        width: 63
+        height: 188
+      alignment: 9
+      pivot: {x: -1.60317457, y: 1.26595747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wf4
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 204
+        width: 59
+        height: 188
+      alignment: 9
+      pivot: {x: -1.66101694, y: 1.26595747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wg0
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 205
+        width: 60
+        height: 187
+      alignment: 9
+      pivot: {x: -1.64999998, y: 1.25668454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wg1
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 205
+        width: 60
+        height: 187
+      alignment: 9
+      pivot: {x: -1.73333335, y: 1.25668454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wg2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 60
+        height: 187
+      alignment: 9
+      pivot: {x: -1.70000005, y: 1.25668454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wg3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 13
+        width: 65
+        height: 189
+      alignment: 9
+      pivot: {x: -1.53846157, y: 1.24867725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Wg4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 14
+        width: 59
+        height: 188
+      alignment: 9
+      pivot: {x: -1.66101694, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M238Xa0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 179
+        width: 44
+        height: 23
+      alignment: 9
+      pivot: {x: -2.63636374, y: 11.130435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

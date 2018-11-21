@@ -1,0 +1,594 @@
+fileFormatVersion: 2
+guid: bb5fff3928ea76441ae80be681d690e1
+timeCreated: 1442629730
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: m504da0
+    21300002: m504db0
+    21300004: m504dc0
+    21300006: m504sa0
+    21300008: m504sa1
+    21300010: m504sa2
+    21300012: m504sa3
+    21300014: m504sa4
+    21300016: m504wa0
+    21300018: m504wa1
+    21300020: m504wa2
+    21300022: m504wa3
+    21300024: m504wa4
+    21300026: m504wb0
+    21300028: m504wb1
+    21300030: m504wb2
+    21300032: m504wb3
+    21300034: m504wb4
+    21300036: m504wc0
+    21300038: m504wc1
+    21300040: m504wc2
+    21300042: m504wc3
+    21300044: m504wc4
+    21300046: m504wd0
+    21300048: m504wd1
+    21300050: m504wd2
+    21300052: m504wd3
+    21300054: m504wd4
+    21300056: m504we0
+    21300058: m504we1
+    21300060: m504we2
+    21300062: m504we3
+    21300064: m504we4
+    21300066: m504wf0
+    21300068: m504wf1
+    21300070: m504wf2
+    21300072: m504wf3
+    21300074: m504wf4
+    21300076: m504wg0
+    21300078: m504wg1
+    21300080: m504wg2
+    21300082: m504wg3
+    21300084: m504wg4
+    21300086: m504wh0
+    21300088: m504wh1
+    21300090: m504wh2
+    21300092: m504wh3
+    21300094: m504wh4
+    21300096: m504xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: m504da0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 444
+        width: 40
+        height: 66
+      alignment: 9
+      pivot: {x: -2.6500001, y: 3.68181825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504db0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 443
+        width: 50
+        height: 67
+      alignment: 9
+      pivot: {x: -2.27999997, y: 3.62686563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504dc0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 452
+        width: 45
+        height: 58
+      alignment: 9
+      pivot: {x: -2.68888879, y: 4.1896553}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504sa0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 445
+        width: 22
+        height: 65
+      alignment: 9
+      pivot: {x: -5.31818199, y: 3.73846149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504sa1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 445
+        width: 32
+        height: 65
+      alignment: 9
+      pivot: {x: -3.625, y: 3.73846149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504sa2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 445
+        width: 47
+        height: 65
+      alignment: 9
+      pivot: {x: -2.34042549, y: 3.73846149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504sa3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 445
+        width: 36
+        height: 65
+      alignment: 9
+      pivot: {x: -3.13888884, y: 3.73846149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504sa4
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 445
+        width: 22
+        height: 65
+      alignment: 9
+      pivot: {x: -5.31818199, y: 3.73846149}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wa0
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 444
+        width: 22
+        height: 66
+      alignment: 9
+      pivot: {x: -5.31818199, y: 3.65151525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wa1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 444
+        width: 32
+        height: 66
+      alignment: 9
+      pivot: {x: -3.625, y: 3.65151525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wa2
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 445
+        width: 47
+        height: 65
+      alignment: 9
+      pivot: {x: -2.34042549, y: 3.69230771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wa3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 445
+        width: 36
+        height: 65
+      alignment: 9
+      pivot: {x: -3.13888884, y: 3.69230771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wa4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 445
+        width: 22
+        height: 65
+      alignment: 9
+      pivot: {x: -5.31818199, y: 3.69230771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wb0
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 441
+        width: 24
+        height: 69
+      alignment: 9
+      pivot: {x: -4.79166651, y: 3.52173924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wb1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 370
+        width: 32
+        height: 69
+      alignment: 9
+      pivot: {x: -3.59375, y: 3.52173924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wb2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 369
+        width: 46
+        height: 70
+      alignment: 9
+      pivot: {x: -2.39130425, y: 3.47142863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wb3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 369
+        width: 34
+        height: 70
+      alignment: 9
+      pivot: {x: -3.35294127, y: 3.47142863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wb4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 369
+        width: 24
+        height: 70
+      alignment: 9
+      pivot: {x: -4.875, y: 3.47142863}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wc0
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 370
+        width: 23
+        height: 69
+      alignment: 9
+      pivot: {x: -5.04347849, y: 3.49275351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wc1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 370
+        width: 32
+        height: 69
+      alignment: 9
+      pivot: {x: -3.59375, y: 3.49275351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wc2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 371
+        width: 44
+        height: 68
+      alignment: 9
+      pivot: {x: -2.5, y: 3.52941179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wc3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 371
+        width: 33
+        height: 68
+      alignment: 9
+      pivot: {x: -3.4545455, y: 3.52941179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wc4
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 371
+        width: 23
+        height: 68
+      alignment: 9
+      pivot: {x: -5.0869565, y: 3.52941179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wd0
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 372
+        width: 23
+        height: 67
+      alignment: 9
+      pivot: {x: -5.04347849, y: 3.58208966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wd1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 372
+        width: 34
+        height: 67
+      alignment: 9
+      pivot: {x: -3.35294127, y: 3.58208966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wd2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 372
+        width: 45
+        height: 67
+      alignment: 9
+      pivot: {x: -2.44444442, y: 3.58208966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wd3
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 372
+        width: 32
+        height: 67
+      alignment: 9
+      pivot: {x: -3.59375, y: 3.58208966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wd4
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 372
+        width: 23
+        height: 67
+      alignment: 9
+      pivot: {x: -5.0869565, y: 3.58208966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504we0
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 374
+        width: 22
+        height: 65
+      alignment: 9
+      pivot: {x: -5.31818199, y: 3.69230771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504we1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 302
+        width: 36
+        height: 65
+      alignment: 9
+      pivot: {x: -3.13888884, y: 3.69230771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504we2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 302
+        width: 47
+        height: 65
+      alignment: 9
+      pivot: {x: -2.34042549, y: 3.69230771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504we3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 302
+        width: 32
+        height: 65
+      alignment: 9
+      pivot: {x: -3.625, y: 3.69230771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504we4
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 302
+        width: 22
+        height: 65
+      alignment: 9
+      pivot: {x: -5.31818199, y: 3.69230771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wf0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 298
+        width: 24
+        height: 69
+      alignment: 9
+      pivot: {x: -4.875, y: 3.52173924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wf1
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 298
+        width: 34
+        height: 69
+      alignment: 9
+      pivot: {x: -3.35294127, y: 3.52173924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wf2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 298
+        width: 46
+        height: 69
+      alignment: 9
+      pivot: {x: -2.39130425, y: 3.52173924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wf3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 298
+        width: 31
+        height: 69
+      alignment: 9
+      pivot: {x: -3.74193549, y: 3.52173924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wf4
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 298
+        width: 24
+        height: 69
+      alignment: 9
+      pivot: {x: -4.79166651, y: 3.52173924}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wg0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 297
+        width: 23
+        height: 70
+      alignment: 9
+      pivot: {x: -5.0869565, y: 3.45714283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wg1
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 297
+        width: 32
+        height: 70
+      alignment: 9
+      pivot: {x: -3.59375, y: 3.45714283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wg2
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 297
+        width: 44
+        height: 70
+      alignment: 9
+      pivot: {x: -2.5, y: 3.45714283}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wg3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 298
+        width: 32
+        height: 69
+      alignment: 9
+      pivot: {x: -3.59375, y: 3.49275351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wg4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 298
+        width: 24
+        height: 69
+      alignment: 9
+      pivot: {x: -4.79166651, y: 3.49275351}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wh0
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 299
+        width: 23
+        height: 68
+      alignment: 9
+      pivot: {x: -5.0869565, y: 3.54411769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wh1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 227
+        width: 32
+        height: 68
+      alignment: 9
+      pivot: {x: -3.625, y: 3.54411769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wh2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 227
+        width: 45
+        height: 68
+      alignment: 9
+      pivot: {x: -2.44444442, y: 3.54411769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wh3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 227
+        width: 34
+        height: 68
+      alignment: 9
+      pivot: {x: -3.35294127, y: 3.54411769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504wh4
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 227
+        width: 23
+        height: 68
+      alignment: 9
+      pivot: {x: -5.04347849, y: 3.54411769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m504xa0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 262
+        width: 52
+        height: 33
+      alignment: 9
+      pivot: {x: -2.38461542, y: 7.36363649}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

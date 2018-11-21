@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 357e120ff32158143a699734e0c0bab7
+timeCreated: 1440778538
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC13BRD
+    21300002: PC13Bod
+    21300004: PC13LAU
+    21300006: PC13LH
+    21300008: PC13Lad
+    21300010: PC13Lhu
+    21300012: PC13RH
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC13BRD
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 439
+        width: 54
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC13Bod
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 157
+        width: 173
+        height: 353
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC13LAU
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 70
+        width: 105
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC13LH
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 403
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC13Lad
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 342
+        width: 39
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC13Lhu
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 425
+        width: 20
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC13RH
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 378
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

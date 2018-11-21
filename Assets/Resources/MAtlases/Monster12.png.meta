@@ -1,0 +1,1331 @@
+fileFormatVersion: 2
+guid: 4e682495dd125fa4a894a9f0ec1ab969
+timeCreated: 1442628901
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M194Aa0
+    21300002: M194Aa1
+    21300004: M194Aa2
+    21300006: M194Aa3
+    21300008: M194Aa4
+    21300010: M194Ab0
+    21300012: M194Ab1
+    21300014: M194Ab2
+    21300016: M194Ab3
+    21300018: M194Ab4
+    21300020: M194Ac0
+    21300022: M194Ac1
+    21300024: M194Ac2
+    21300026: M194Ac3
+    21300028: M194Ac4
+    21300030: M194Ad0
+    21300032: M194Ad1
+    21300034: M194Ad2
+    21300036: M194Ad3
+    21300038: M194Ad4
+    21300040: M194Ae0
+    21300042: M194Ae1
+    21300044: M194Ae2
+    21300046: M194Ae3
+    21300048: M194Ae4
+    21300050: M194Af0
+    21300052: M194Af1
+    21300054: M194Af2
+    21300056: M194Af3
+    21300058: M194Af4
+    21300060: M194Ag0
+    21300062: M194Ag1
+    21300064: M194Ag2
+    21300066: M194Ag3
+    21300068: M194Ag4
+    21300070: M194Da0
+    21300072: M194Db0
+    21300074: M194Dc0
+    21300076: M194Dd0
+    21300078: M194De0
+    21300080: M194Fa0
+    21300082: M194Fb0
+    21300084: M194Fc0
+    21300086: M194Fd0
+    21300088: M194Fe0
+    21300090: M194Ff0
+    21300092: M194Na0
+    21300094: M194Na1
+    21300096: M194Na2
+    21300098: M194Na3
+    21300100: M194Na4
+    21300102: M194Nb0
+    21300104: M194Nb1
+    21300106: M194Nb2
+    21300108: M194Nb3
+    21300110: M194Nb4
+    21300112: M194Nc0
+    21300114: M194Nc1
+    21300116: M194Nc2
+    21300118: M194Nc3
+    21300120: M194Nc4
+    21300122: M194Nd0
+    21300124: M194Nd1
+    21300126: M194Nd2
+    21300128: M194Nd3
+    21300130: M194Nd4
+    21300132: M194Ne0
+    21300134: M194Ne1
+    21300136: M194Ne2
+    21300138: M194Ne3
+    21300140: M194Ne4
+    21300142: M194Nf0
+    21300144: M194Nf1
+    21300146: M194Nf2
+    21300148: M194Nf3
+    21300150: M194Nf4
+    21300152: M194Sa0
+    21300154: M194Sa1
+    21300156: M194Sa2
+    21300158: M194Sa3
+    21300160: M194Sa4
+    21300162: M194Wa0
+    21300164: M194Wa1
+    21300166: M194Wa2
+    21300168: M194Wa3
+    21300170: M194Wa4
+    21300172: M194Wb0
+    21300174: M194Wb1
+    21300176: M194Wb2
+    21300178: M194Wb3
+    21300180: M194Wb4
+    21300182: M194Wc0
+    21300184: M194Wc1
+    21300186: M194Wc2
+    21300188: M194Wc3
+    21300190: M194Wc4
+    21300192: M194Wd0
+    21300194: M194Wd1
+    21300196: M194Wd2
+    21300198: M194Wd3
+    21300200: M194Wd4
+    21300202: M194We0
+    21300204: M194We1
+    21300206: M194We2
+    21300208: M194We3
+    21300210: M194We4
+    21300212: M194Wf0
+    21300214: M194Wf1
+    21300216: M194Wf2
+    21300218: M194Wf3
+    21300220: M194Wf4
+    21300222: M194Wg0
+    21300224: M194Wg1
+    21300226: M194Wg2
+    21300228: M194Wg3
+    21300230: M194Wg4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: M194Aa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1848
+        width: 174
+        height: 198
+      alignment: 9
+      pivot: {x: -.264367819, y: 1.17676771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Aa1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1850
+        width: 139
+        height: 196
+      alignment: 9
+      pivot: {x: -.345323741, y: 1.17857146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Aa2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1848
+        width: 74
+        height: 198
+      alignment: 9
+      pivot: {x: -.743243217, y: 1.17676771}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Aa3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1848
+        width: 122
+        height: 198
+      alignment: 9
+      pivot: {x: -.401639342, y: 1.17171717}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Aa4
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1846
+        width: 174
+        height: 200
+      alignment: 9
+      pivot: {x: -.206896558, y: 1.16999996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ab0
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1857
+        width: 195
+        height: 189
+      alignment: 9
+      pivot: {x: -.220512822, y: 1.12169313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ab1
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 1857
+        width: 176
+        height: 189
+      alignment: 9
+      pivot: {x: -.0284090918, y: 1.11640215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ab2
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 1857
+        width: 84
+        height: 189
+      alignment: 9
+      pivot: {x: -.357142866, y: 1.11640215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ab3
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 1855
+        width: 128
+        height: 191
+      alignment: 9
+      pivot: {x: -.125, y: 1.11518323}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ab4
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1854
+        width: 198
+        height: 192
+      alignment: 9
+      pivot: {x: -.0858585835, y: 1.109375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ac0
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 1820
+        width: 178
+        height: 226
+      alignment: 9
+      pivot: {x: -.241573036, y: 1.01327431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ac1
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1820
+        width: 162
+        height: 226
+      alignment: 9
+      pivot: {x: -.30864197, y: 1.01327431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ac2
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 1818
+        width: 148
+        height: 228
+      alignment: 9
+      pivot: {x: -.202702701, y: 1.0087719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ac3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1588
+        width: 169
+        height: 228
+      alignment: 9
+      pivot: {x: -.278106511, y: 1.0087719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ac4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1587
+        width: 178
+        height: 229
+      alignment: 9
+      pivot: {x: -.191011235, y: 1.01746726}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ad0
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1652
+        width: 132
+        height: 164
+      alignment: 9
+      pivot: {x: -.515151501, y: 1.27439022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ad1
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1652
+        width: 220
+        height: 164
+      alignment: 9
+      pivot: {x: -.163636357, y: 1.27439022}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ad2
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1651
+        width: 237
+        height: 165
+      alignment: 9
+      pivot: {x: -.0801687762, y: 1.27272725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ad3
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1650
+        width: 196
+        height: 166
+      alignment: 9
+      pivot: {x: -.306122452, y: 1.27108431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ad4
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1650
+        width: 135
+        height: 166
+      alignment: 9
+      pivot: {x: -.385185182, y: 1.27108431}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ae0
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1671
+        width: 118
+        height: 145
+      alignment: 9
+      pivot: {x: -.635593235, y: 1.49655175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ae1
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 1673
+        width: 224
+        height: 143
+      alignment: 9
+      pivot: {x: -.142857149, y: 1.50349653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ae2
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 1671
+        width: 236
+        height: 145
+      alignment: 9
+      pivot: {x: -.0847457647, y: 1.49655175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ae3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1440
+        width: 187
+        height: 145
+      alignment: 9
+      pivot: {x: -.336898386, y: 1.50344825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ae4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1440
+        width: 117
+        height: 145
+      alignment: 9
+      pivot: {x: -.547008574, y: 1.50344825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Af0
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1413
+        width: 122
+        height: 172
+      alignment: 9
+      pivot: {x: -.573770463, y: 1.3430233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Af1
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1413
+        width: 134
+        height: 172
+      alignment: 9
+      pivot: {x: -.402985066, y: 1.3430233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Af2
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1413
+        width: 126
+        height: 172
+      alignment: 9
+      pivot: {x: -.317460328, y: 1.3430233}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Af3
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1411
+        width: 120
+        height: 174
+      alignment: 9
+      pivot: {x: -.583333313, y: 1.33908045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Af4
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1411
+        width: 121
+        height: 174
+      alignment: 9
+      pivot: {x: -.53719008, y: 1.33908045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ag0
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1389
+        width: 112
+        height: 196
+      alignment: 9
+      pivot: {x: -.642857134, y: 1.22959185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ag1
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1389
+        width: 96
+        height: 196
+      alignment: 9
+      pivot: {x: -.864583313, y: 1.22959185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ag2
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1389
+        width: 77
+        height: 196
+      alignment: 9
+      pivot: {x: -1.02597404, y: 1.22959185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ag3
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1388
+        width: 100
+        height: 197
+      alignment: 9
+      pivot: {x: -.810000002, y: 1.22842634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ag4
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1388
+        width: 112
+        height: 197
+      alignment: 9
+      pivot: {x: -.642857134, y: 1.22842634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Da0
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1365
+        width: 161
+        height: 220
+      alignment: 9
+      pivot: {x: -.192546591, y: 1.04090905}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Db0
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 1360
+        width: 176
+        height: 225
+      alignment: 9
+      pivot: {x: -.153409094, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Dc0
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1334
+        width: 218
+        height: 251
+      alignment: 9
+      pivot: {x: -.169724777, y: 1.00796807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Dd0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1078
+        width: 208
+        height: 254
+      alignment: 9
+      pivot: {x: -.105769232, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194De0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1137
+        width: 147
+        height: 195
+      alignment: 9
+      pivot: {x: -.367346942, y: 1.17435896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Fa0
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1129
+        width: 124
+        height: 203
+      alignment: 9
+      pivot: {x: -.540322602, y: 1.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Fb0
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1129
+        width: 132
+        height: 203
+      alignment: 9
+      pivot: {x: -.477272719, y: 1.19704437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Fc0
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1130
+        width: 120
+        height: 202
+      alignment: 9
+      pivot: {x: -.566666663, y: 1.19306934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Fd0
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1129
+        width: 100
+        height: 203
+      alignment: 9
+      pivot: {x: -.769999981, y: 1.19704437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Fe0
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1130
+        width: 100
+        height: 202
+      alignment: 9
+      pivot: {x: -.769999981, y: 1.20297027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ff0
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1129
+        width: 104
+        height: 203
+      alignment: 9
+      pivot: {x: -.730769217, y: 1.20689654}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Na0
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1136
+        width: 162
+        height: 196
+      alignment: 9
+      pivot: {x: -.277777791, y: 1.23469388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Na1
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1135
+        width: 146
+        height: 197
+      alignment: 9
+      pivot: {x: -.39041096, y: 1.23350251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Na2
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 1135
+        width: 79
+        height: 197
+      alignment: 9
+      pivot: {x: -1.05063295, y: 1.23350251}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Na3
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 1133
+        width: 101
+        height: 199
+      alignment: 9
+      pivot: {x: -.821782172, y: 1.2261306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Na4
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1134
+        width: 162
+        height: 198
+      alignment: 9
+      pivot: {x: -.302469134, y: 1.22727275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nb0
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1103
+        width: 165
+        height: 229
+      alignment: 9
+      pivot: {x: -.169696972, y: 1.03930128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nb1
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1103
+        width: 153
+        height: 229
+      alignment: 9
+      pivot: {x: -.124183007, y: 1.04366815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nb2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 847
+        width: 91
+        height: 229
+      alignment: 9
+      pivot: {x: -.6813187, y: 1.04366815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nb3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 847
+        width: 91
+        height: 229
+      alignment: 9
+      pivot: {x: -.824175835, y: 1.04366815}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nb4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 847
+        width: 166
+        height: 229
+      alignment: 9
+      pivot: {x: -.379518062, y: 1.03930128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nc0
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 869
+        width: 156
+        height: 207
+      alignment: 9
+      pivot: {x: -.18589744, y: 1.02415454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nc1
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 870
+        width: 184
+        height: 206
+      alignment: 9
+      pivot: {x: -.0271739122, y: 1.02427185}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nc2
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 871
+        width: 136
+        height: 205
+      alignment: 9
+      pivot: {x: -.301470578, y: 1.01951218}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nc3
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 868
+        width: 86
+        height: 208
+      alignment: 9
+      pivot: {x: -.744186044, y: 1.01442313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nc4
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 867
+        width: 158
+        height: 209
+      alignment: 9
+      pivot: {x: -.449367076, y: 1.00956941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nd0
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 885
+        width: 135
+        height: 191
+      alignment: 9
+      pivot: {x: -.355555564, y: 1.07853401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nd1
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 884
+        width: 191
+        height: 192
+      alignment: 9
+      pivot: {x: -.036649216, y: 1.07291663}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nd2
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 883
+        width: 147
+        height: 193
+      alignment: 9
+      pivot: {x: -.176870748, y: 1.06735754}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nd3
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 882
+        width: 84
+        height: 194
+      alignment: 9
+      pivot: {x: -.607142866, y: 1.06185567}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nd4
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 883
+        width: 138
+        height: 193
+      alignment: 9
+      pivot: {x: -.521739125, y: 1.06217611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ne0
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 897
+        width: 148
+        height: 179
+      alignment: 9
+      pivot: {x: -.32432431, y: 1.25698328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ne1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 667
+        width: 155
+        height: 178
+      alignment: 9
+      pivot: {x: -.167741939, y: 1.25842702}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ne2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 666
+        width: 116
+        height: 179
+      alignment: 9
+      pivot: {x: -.422413796, y: 1.25698328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ne3
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 666
+        width: 93
+        height: 179
+      alignment: 9
+      pivot: {x: -.559139788, y: 1.25698328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Ne4
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 665
+        width: 150
+        height: 180
+      alignment: 9
+      pivot: {x: -.393333346, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nf0
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 663
+        width: 152
+        height: 182
+      alignment: 9
+      pivot: {x: -.368421048, y: 1.33516479}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nf1
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 663
+        width: 131
+        height: 182
+      alignment: 9
+      pivot: {x: -.412213743, y: 1.32967031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nf2
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 662
+        width: 85
+        height: 183
+      alignment: 9
+      pivot: {x: -.847058833, y: 1.32786882}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nf3
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 660
+        width: 108
+        height: 185
+      alignment: 9
+      pivot: {x: -.564814806, y: 1.32432437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Nf4
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 663
+        width: 153
+        height: 182
+      alignment: 9
+      pivot: {x: -.307189554, y: 1.32967031}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Sa0
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 641
+        width: 108
+        height: 204
+      alignment: 9
+      pivot: {x: -.694444418, y: 1.21568632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Sa1
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 642
+        width: 85
+        height: 203
+      alignment: 9
+      pivot: {x: -.97647059, y: 1.21674871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Sa2
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 641
+        width: 68
+        height: 204
+      alignment: 9
+      pivot: {x: -1.33823526, y: 1.21568632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Sa3
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 641
+        width: 96
+        height: 204
+      alignment: 9
+      pivot: {x: -.84375, y: 1.21568632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Sa4
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 640
+        width: 108
+        height: 205
+      alignment: 9
+      pivot: {x: -.67592591, y: 1.21463418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wa0
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 654
+        width: 108
+        height: 191
+      alignment: 9
+      pivot: {x: -.685185194, y: 1.24083769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wa1
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 654
+        width: 93
+        height: 191
+      alignment: 9
+      pivot: {x: -.892473102, y: 1.24083769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wa2
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 653
+        width: 84
+        height: 192
+      alignment: 9
+      pivot: {x: -.892857134, y: 1.23958337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wa3
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 652
+        width: 96
+        height: 193
+      alignment: 9
+      pivot: {x: -.885416687, y: 1.23834193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wa4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 445
+        width: 108
+        height: 193
+      alignment: 9
+      pivot: {x: -.685185194, y: 1.23834193}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wb0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 448
+        width: 99
+        height: 190
+      alignment: 9
+      pivot: {x: -.767676771, y: 1.23684216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wb1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 448
+        width: 102
+        height: 190
+      alignment: 9
+      pivot: {x: -.79411763, y: 1.23684216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wb2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 447
+        width: 95
+        height: 191
+      alignment: 9
+      pivot: {x: -.778947353, y: 1.23560214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wb3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 446
+        width: 80
+        height: 192
+      alignment: 9
+      pivot: {x: -1.0625, y: 1.234375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wb4
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 447
+        width: 98
+        height: 191
+      alignment: 9
+      pivot: {x: -.836734712, y: 1.23560214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wc0
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 449
+        width: 92
+        height: 189
+      alignment: 9
+      pivot: {x: -.858695626, y: 1.23280418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wc1
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 449
+        width: 109
+        height: 189
+      alignment: 9
+      pivot: {x: -.697247684, y: 1.23280418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wc2
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 448
+        width: 105
+        height: 190
+      alignment: 9
+      pivot: {x: -.704761922, y: 1.23157895}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wc3
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 447
+        width: 77
+        height: 191
+      alignment: 9
+      pivot: {x: -1.06493509, y: 1.23036647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wc4
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 448
+        width: 92
+        height: 190
+      alignment: 9
+      pivot: {x: -.923913062, y: 1.23684216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wd0
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 450
+        width: 101
+        height: 188
+      alignment: 9
+      pivot: {x: -.752475262, y: 1.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wd1
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 449
+        width: 98
+        height: 189
+      alignment: 9
+      pivot: {x: -.816326559, y: 1.24867725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wd2
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 450
+        width: 92
+        height: 188
+      alignment: 9
+      pivot: {x: -.75, y: 1.25531912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wd3
+      rect:
+        serializedVersion: 2
+        x: 1378
+        y: 449
+        width: 96
+        height: 189
+      alignment: 9
+      pivot: {x: -.875, y: 1.25396824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wd4
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 449
+        width: 101
+        height: 189
+      alignment: 9
+      pivot: {x: -.782178223, y: 1.25396824}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194We0
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 453
+        width: 101
+        height: 185
+      alignment: 9
+      pivot: {x: -.772277236, y: 1.2594595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194We1
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 453
+        width: 86
+        height: 185
+      alignment: 9
+      pivot: {x: -.930232584, y: 1.2594595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194We2
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 452
+        width: 108
+        height: 186
+      alignment: 9
+      pivot: {x: -.592592597, y: 1.25806451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194We3
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 452
+        width: 106
+        height: 186
+      alignment: 9
+      pivot: {x: -.764150918, y: 1.25806451}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194We4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 102
+        height: 187
+      alignment: 9
+      pivot: {x: -.745098054, y: 1.25668454}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wf0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 259
+        width: 101
+        height: 184
+      alignment: 9
+      pivot: {x: -.772277236, y: 1.24456525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wf1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 259
+        width: 78
+        height: 184
+      alignment: 9
+      pivot: {x: -1.02564108, y: 1.24456525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wf2
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 259
+        width: 111
+        height: 184
+      alignment: 9
+      pivot: {x: -.594594598, y: 1.24456525}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wf3
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 257
+        width: 113
+        height: 186
+      alignment: 9
+      pivot: {x: -.672566354, y: 1.24193549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wf4
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 257
+        width: 100
+        height: 186
+      alignment: 9
+      pivot: {x: -.769999981, y: 1.24193549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wg0
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 254
+        width: 105
+        height: 189
+      alignment: 9
+      pivot: {x: -.72380954, y: 1.23809528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wg1
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 254
+        width: 81
+        height: 189
+      alignment: 9
+      pivot: {x: -1.02469134, y: 1.23809528}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wg2
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 255
+        width: 99
+        height: 188
+      alignment: 9
+      pivot: {x: -.707070708, y: 1.23936164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wg3
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 254
+        width: 107
+        height: 189
+      alignment: 9
+      pivot: {x: -.738317728, y: 1.24338627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M194Wg4
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 253
+        width: 105
+        height: 190
+      alignment: 9
+      pivot: {x: -.704761922, y: 1.23684216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

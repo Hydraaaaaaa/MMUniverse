@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: aa111db2344e3b4408dc143eb4762461
+timeCreated: 1442629571
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M322DA0
+    21300002: M322DB0
+    21300004: M322DC0
+    21300006: M322DD0
+    21300008: M322FA0
+    21300010: M322FB0
+    21300012: M322FC0
+    21300014: M322FD0
+    21300016: M322NA0
+    21300018: M322NA1
+    21300020: M322NA2
+    21300022: M322NA3
+    21300024: M322NA4
+    21300026: M322NB0
+    21300028: M322NB1
+    21300030: M322NB2
+    21300032: M322NB3
+    21300034: M322NB4
+    21300036: M322NC0
+    21300038: M322NC1
+    21300040: M322NC2
+    21300042: M322NC3
+    21300044: M322NC4
+    21300046: M322ND0
+    21300048: M322ND1
+    21300050: M322ND2
+    21300052: M322ND3
+    21300054: M322ND4
+    21300056: M322NE0
+    21300058: M322NE1
+    21300060: M322NE2
+    21300062: M322NE3
+    21300064: M322NE4
+    21300066: M322NF0
+    21300068: M322NF1
+    21300070: M322NF2
+    21300072: M322NF3
+    21300074: M322NF4
+    21300076: M322SA0
+    21300078: M322SA1
+    21300080: M322SA2
+    21300082: M322SA3
+    21300084: M322SA4
+    21300086: M322WA0
+    21300088: M322WA1
+    21300090: M322WA2
+    21300092: M322WA3
+    21300094: M322WA4
+    21300096: M322WB0
+    21300098: M322WB1
+    21300100: M322WB2
+    21300102: M322WB3
+    21300104: M322WB4
+    21300106: M322WC0
+    21300108: M322WC1
+    21300110: M322WC2
+    21300112: M322WC3
+    21300114: M322WC4
+    21300116: M322WD0
+    21300118: M322WD1
+    21300120: M322WD2
+    21300122: M322WD3
+    21300124: M322WD4
+    21300126: M322WE0
+    21300128: M322WE1
+    21300130: M322WE2
+    21300132: M322WE3
+    21300134: M322WE4
+    21300136: M322WF0
+    21300138: M322WF1
+    21300140: M322WF2
+    21300142: M322WF3
+    21300144: M322WF4
+    21300146: M322WG0
+    21300148: M322WG1
+    21300150: M322WG2
+    21300152: M322WG3
+    21300154: M322WG4
+    21300156: M322WH0
+    21300158: M322WH1
+    21300160: M322WH2
+    21300162: M322WH3
+    21300164: M322WH4
+    21300166: M322XA0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: M322DA0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1891
+        width: 108
+        height: 155
+      alignment: 9
+      pivot: {x: -.416666657, y: 1.64516127}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322DB0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1902
+        width: 67
+        height: 144
+      alignment: 9
+      pivot: {x: -1.34328353, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322DC0
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1881
+        width: 122
+        height: 165
+      alignment: 9
+      pivot: {x: -.590163946, y: 1.5515151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322DD0
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1953
+        width: 164
+        height: 93
+      alignment: 9
+      pivot: {x: -.359756112, y: 2.75268817}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322FA0
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1856
+        width: 93
+        height: 190
+      alignment: 9
+      pivot: {x: -.946236551, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322FB0
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 1858
+        width: 99
+        height: 188
+      alignment: 9
+      pivot: {x: -.868686855, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322FC0
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1860
+        width: 104
+        height: 186
+      alignment: 9
+      pivot: {x: -.817307711, y: 1.37634408}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322FD0
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1862
+        width: 110
+        height: 184
+      alignment: 9
+      pivot: {x: -.75454545, y: 1.39130437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NA0
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 1868
+        width: 119
+        height: 178
+      alignment: 9
+      pivot: {x: -.49579832, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NA1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1676
+        width: 194
+        height: 178
+      alignment: 9
+      pivot: {x: -.24742268, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NA2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1676
+        width: 177
+        height: 178
+      alignment: 9
+      pivot: {x: -.35028249, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NA3
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 1676
+        width: 89
+        height: 178
+      alignment: 9
+      pivot: {x: -.95505619, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NA4
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1676
+        width: 119
+        height: 178
+      alignment: 9
+      pivot: {x: -.663865566, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NB0
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1676
+        width: 55
+        height: 178
+      alignment: 9
+      pivot: {x: -1.89090908, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NB1
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 1676
+        width: 146
+        height: 178
+      alignment: 9
+      pivot: {x: -.479452044, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NB2
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1676
+        width: 196
+        height: 178
+      alignment: 9
+      pivot: {x: -.234693885, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NB3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1496
+        width: 145
+        height: 178
+      alignment: 9
+      pivot: {x: -.400000006, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NB4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1496
+        width: 56
+        height: 178
+      alignment: 9
+      pivot: {x: -1.71428573, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NC0
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1502
+        width: 77
+        height: 172
+      alignment: 9
+      pivot: {x: -1.24675322, y: 1.48837209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NC1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1502
+        width: 144
+        height: 172
+      alignment: 9
+      pivot: {x: -.5, y: 1.48837209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NC2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1502
+        width: 134
+        height: 172
+      alignment: 9
+      pivot: {x: -.559701502, y: 1.48837209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NC3
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1502
+        width: 78
+        height: 172
+      alignment: 9
+      pivot: {x: -1.01282048, y: 1.48837209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NC4
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1502
+        width: 76
+        height: 172
+      alignment: 9
+      pivot: {x: -1.10526311, y: 1.48837209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322ND0
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1512
+        width: 82
+        height: 162
+      alignment: 9
+      pivot: {x: -1.20731711, y: 1.58024693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322ND1
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1512
+        width: 101
+        height: 162
+      alignment: 9
+      pivot: {x: -.910891116, y: 1.58024693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322ND2
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1512
+        width: 74
+        height: 162
+      alignment: 9
+      pivot: {x: -1.32432437, y: 1.58024693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322ND3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1332
+        width: 55
+        height: 162
+      alignment: 9
+      pivot: {x: -1.79999995, y: 1.58024693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322ND4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1332
+        width: 82
+        height: 162
+      alignment: 9
+      pivot: {x: -.914634168, y: 1.58024693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NE0
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1336
+        width: 89
+        height: 158
+      alignment: 9
+      pivot: {x: -1.05617976, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NE1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1336
+        width: 117
+        height: 158
+      alignment: 9
+      pivot: {x: -.803418815, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NE2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1336
+        width: 96
+        height: 158
+      alignment: 9
+      pivot: {x: -1.03125, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NE3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1337
+        width: 66
+        height: 157
+      alignment: 9
+      pivot: {x: -1.59090912, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NE4
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1337
+        width: 88
+        height: 157
+      alignment: 9
+      pivot: {x: -.840909064, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NF0
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 1319
+        width: 86
+        height: 175
+      alignment: 9
+      pivot: {x: -1.08139539, y: 1.46285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NF1
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 1319
+        width: 115
+        height: 175
+      alignment: 9
+      pivot: {x: -.808695674, y: 1.46285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NF2
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1319
+        width: 97
+        height: 175
+      alignment: 9
+      pivot: {x: -1.01030922, y: 1.46285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NF3
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1319
+        width: 64
+        height: 175
+      alignment: 9
+      pivot: {x: -1.65625, y: 1.46285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322NF4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1142
+        width: 85
+        height: 175
+      alignment: 9
+      pivot: {x: -.917647064, y: 1.46285713}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322SA0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1126
+        width: 88
+        height: 191
+      alignment: 9
+      pivot: {x: -1.02272725, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322SA1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1126
+        width: 84
+        height: 191
+      alignment: 9
+      pivot: {x: -1.10714281, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322SA2
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1126
+        width: 60
+        height: 191
+      alignment: 9
+      pivot: {x: -1.64999998, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322SA3
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1126
+        width: 69
+        height: 191
+      alignment: 9
+      pivot: {x: -1.34782612, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322SA4
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1126
+        width: 88
+        height: 191
+      alignment: 9
+      pivot: {x: -.886363626, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WA0
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1129
+        width: 78
+        height: 188
+      alignment: 9
+      pivot: {x: -1.26923072, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WA1
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1129
+        width: 86
+        height: 188
+      alignment: 9
+      pivot: {x: -1.02325583, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WA2
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1129
+        width: 100
+        height: 188
+      alignment: 9
+      pivot: {x: -.819999993, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WA3
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1129
+        width: 101
+        height: 188
+      alignment: 9
+      pivot: {x: -.762376249, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WA4
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1129
+        width: 78
+        height: 188
+      alignment: 9
+      pivot: {x: -1.01282048, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WB0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 934
+        width: 100
+        height: 190
+      alignment: 9
+      pivot: {x: -.850000024, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WB1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 934
+        width: 95
+        height: 190
+      alignment: 9
+      pivot: {x: -.905263186, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WB2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 934
+        width: 88
+        height: 190
+      alignment: 9
+      pivot: {x: -.863636374, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WB3
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 934
+        width: 129
+        height: 190
+      alignment: 9
+      pivot: {x: -.403100789, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WB4
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 934
+        width: 100
+        height: 190
+      alignment: 9
+      pivot: {x: -.709999979, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WC0
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 933
+        width: 122
+        height: 191
+      alignment: 9
+      pivot: {x: -.639344275, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WC1
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 933
+        width: 116
+        height: 191
+      alignment: 9
+      pivot: {x: -.801724136, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WC2
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 933
+        width: 77
+        height: 191
+      alignment: 9
+      pivot: {x: -1.2337662, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WC3
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 933
+        width: 75
+        height: 191
+      alignment: 9
+      pivot: {x: -1.32000005, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WC4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 740
+        width: 121
+        height: 191
+      alignment: 9
+      pivot: {x: -.471074373, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WD0
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 742
+        width: 84
+        height: 189
+      alignment: 9
+      pivot: {x: -1.11904764, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WD1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 741
+        width: 137
+        height: 190
+      alignment: 9
+      pivot: {x: -.671532869, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WD2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 741
+        width: 130
+        height: 190
+      alignment: 9
+      pivot: {x: -.707692325, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WD3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 741
+        width: 77
+        height: 190
+      alignment: 9
+      pivot: {x: -1.24675322, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WD4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 742
+        width: 83
+        height: 189
+      alignment: 9
+      pivot: {x: -.951807201, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WE0
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 743
+        width: 72
+        height: 188
+      alignment: 9
+      pivot: {x: -1.43055558, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WE1
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 743
+        width: 117
+        height: 188
+      alignment: 9
+      pivot: {x: -.735042751, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WE2
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 743
+        width: 111
+        height: 188
+      alignment: 9
+      pivot: {x: -.693693697, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WE3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 550
+        width: 88
+        height: 188
+      alignment: 9
+      pivot: {x: -.954545438, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WE4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 550
+        width: 71
+        height: 188
+      alignment: 9
+      pivot: {x: -1.15492952, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WF0
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 548
+        width: 77
+        height: 190
+      alignment: 9
+      pivot: {x: -1.28571427, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WF1
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 548
+        width: 107
+        height: 190
+      alignment: 9
+      pivot: {x: -.785046756, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WF2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 548
+        width: 88
+        height: 190
+      alignment: 9
+      pivot: {x: -.943181813, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WF3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 548
+        width: 72
+        height: 190
+      alignment: 9
+      pivot: {x: -1.20833337, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WF4
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 548
+        width: 76
+        height: 190
+      alignment: 9
+      pivot: {x: -1.06578946, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WG0
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 547
+        width: 87
+        height: 191
+      alignment: 9
+      pivot: {x: -1.03448272, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WG1
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 547
+        width: 88
+        height: 191
+      alignment: 9
+      pivot: {x: -1.05681813, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WG2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 547
+        width: 56
+        height: 191
+      alignment: 9
+      pivot: {x: -1.80357146, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WG3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 547
+        width: 55
+        height: 191
+      alignment: 9
+      pivot: {x: -1.76363635, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WG4
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 547
+        width: 87
+        height: 191
+      alignment: 9
+      pivot: {x: -.908045948, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WH0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 355
+        width: 84
+        height: 190
+      alignment: 9
+      pivot: {x: -1.11904764, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WH1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 355
+        width: 86
+        height: 190
+      alignment: 9
+      pivot: {x: -1.12790692, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WH2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 355
+        width: 96
+        height: 190
+      alignment: 9
+      pivot: {x: -.979166687, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WH3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 355
+        width: 79
+        height: 190
+      alignment: 9
+      pivot: {x: -1.15189874, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322WH4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 355
+        width: 84
+        height: 190
+      alignment: 9
+      pivot: {x: -.928571403, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M322XA0
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 511
+        width: 134
+        height: 34
+      alignment: 9
+      pivot: {x: -.559701502, y: 7.52941179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

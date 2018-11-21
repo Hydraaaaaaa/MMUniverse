@@ -1,0 +1,1087 @@
+fileFormatVersion: 2
+guid: 14ceeca87c329bf4591ebe7b95a76838
+timeCreated: 1457842471
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1
+    21300002: 10
+    21300004: 11
+    21300006: 12
+    21300008: 13
+    21300010: 14
+    21300012: 15
+    21300014: 16
+    21300016: 17
+    21300018: 18
+    21300020: 19
+    21300022: 2
+    21300024: 20
+    21300026: 21
+    21300028: 22
+    21300030: 23
+    21300032: 24
+    21300034: 25
+    21300036: 26
+    21300038: 27
+    21300040: 28
+    21300042: 29
+    21300044: 3
+    21300046: 30
+    21300048: 31
+    21300050: 32
+    21300052: 33
+    21300054: 34
+    21300056: 35
+    21300058: 36
+    21300060: 37
+    21300062: 38
+    21300064: 39
+    21300066: 4
+    21300068: 40
+    21300070: 41
+    21300072: 42
+    21300074: 43
+    21300076: 44
+    21300078: 45
+    21300080: 46
+    21300082: 47
+    21300084: 48
+    21300086: 49
+    21300088: 5
+    21300090: 50
+    21300092: 6
+    21300094: 7
+    21300096: 8
+    21300098: 9
+    21300100: Monster72_0
+    21300102: Monster72_1
+    21300104: Walk_1
+    21300106: Monster72_3
+    21300108: Monster72_4
+    21300110: Monster72_5
+    21300112: Monster72_6
+    21300114: Walk_2
+    21300116: Monster72_8
+    21300118: Monster72_9
+    21300120: Monster72_10
+    21300122: Monster72_11
+    21300124: Monster72_12
+    21300126: Walk_3
+    21300128: Monster72_14
+    21300130: Monster72_15
+    21300132: Monster72_16
+    21300134: Monster72_17
+    21300136: Walk_4
+    21300138: Monster72_19
+    21300140: Monster72_20
+    21300142: Monster72_21
+    21300144: Monster72_22
+    21300146: Monster72_23
+    21300148: Walk_5
+    21300150: Monster72_25
+    21300152: Monster72_26
+    21300154: Monster72_27
+    21300156: Monster72_28
+    21300158: Walk_6
+    21300160: Monster72_30
+    21300162: Monster72_31
+    21300164: Monster72_32
+    21300166: Monster72_33
+    21300168: Monster72_34
+    21300170: Walk_7
+    21300172: Monster72_36
+    21300174: Monster72_37
+    21300176: Monster72_38
+    21300178: Monster72_39
+    21300180: Walk_8
+    21300182: Monster72_41
+    21300184: Monster72_42
+    21300186: Monster72_43
+    21300188: Monster72_44
+    21300190: Monster72_45
+    21300192: Walk_9
+    21300194: Monster72_47
+    21300196: Monster72_48
+    21300198: Monster72_49
+    21300200: Monster72_2
+    21300202: Monster72_7
+    21300204: Monster72_13
+    21300206: Monster72_18
+    21300208: Monster72_24
+    21300210: Monster72_29
+    21300212: Monster72_35
+    21300214: Monster72_40
+    21300216: Monster72_46
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 388
+        width: 53
+        height: 122
+      alignment: 9
+      pivot: {x: -1.9622642, y: 1.9836066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 131, y: -242}
+        - {x: 145, y: -242}
+        - {x: 157, y: -206}
+        - {x: 157, y: -127}
+        - {x: 156, y: -124}
+        - {x: 149, y: -120}
+        - {x: 119, y: -120}
+        - {x: 104, y: -193}
+        - {x: 104, y: -231}
+        - {x: 117, y: -242}
+        - {x: 130, y: -242}
+        - {x: 130, y: -239}
+        - {x: 131, y: -232}
+        - {x: 130, y: -240}
+    - name: 10
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 400
+        width: 32
+        height: 110
+      alignment: 9
+      pivot: {x: -3.46875, y: 2.1909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: -131}
+        - {x: 111, y: -241}
+        - {x: 143, y: -241}
+        - {x: 143, y: -131}
+    - name: 11
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 400
+        width: 100
+        height: 110
+      alignment: 9
+      pivot: {x: -0.71, y: 2.1909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 171, y: -131}
+        - {x: 127, y: -131}
+        - {x: 71, y: -191}
+        - {x: 71, y: -229}
+        - {x: 94, y: -241}
+        - {x: 121, y: -241}
+        - {x: 123, y: -236}
+        - {x: 125, y: -241}
+        - {x: 171, y: -241}
+    - name: 12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 400
+        width: 129
+        height: 110
+      alignment: 9
+      pivot: {x: -0.4651163, y: 2.1909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 125, y: -236}
+        - {x: 132, y: -241}
+        - {x: 188, y: -241}
+        - {x: 189, y: -231}
+        - {x: 189, y: -137}
+        - {x: 187, y: -131}
+        - {x: 153, y: -131}
+        - {x: 96, y: -155}
+        - {x: 83, y: -175}
+        - {x: 79, y: -187}
+        - {x: 60, y: -209}
+        - {x: 60, y: -223}
+        - {x: 75, y: -241}
+        - {x: 86, y: -241}
+        - {x: 90, y: -237}
+        - {x: 102, y: -241}
+        - {x: 124, y: -241}
+    - name: 13
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 400
+        width: 94
+        height: 110
+      alignment: 9
+      pivot: {x: -0.86170214, y: 2.1909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 145, y: -131}
+        - {x: 81, y: -180}
+        - {x: 81, y: -241}
+        - {x: 175, y: -241}
+        - {x: 175, y: -131}
+    - name: 14
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 400
+        width: 31
+        height: 110
+      alignment: 9
+      pivot: {x: -3.6451614, y: 2.1909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 15
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 399
+        width: 32
+        height: 111
+      alignment: 9
+      pivot: {x: -3.46875, y: 2.18018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143, y: -242}
+        - {x: 143, y: -131}
+        - {x: 111, y: -131}
+        - {x: 111, y: -242}
+    - name: 16
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 399
+        width: 96
+        height: 111
+      alignment: 9
+      pivot: {x: -0.78125, y: 2.18018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 133, y: -131}
+        - {x: 75, y: -188}
+        - {x: 75, y: -242}
+        - {x: 171, y: -242}
+        - {x: 171, y: -131}
+    - name: 17
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 399
+        width: 128
+        height: 111
+      alignment: 9
+      pivot: {x: -0.4765625, y: 2.18018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 179, y: -131}
+        - {x: 132, y: -131}
+        - {x: 61, y: -184}
+        - {x: 61, y: -242}
+        - {x: 184, y: -242}
+        - {x: 189, y: -210}
+        - {x: 189, y: -151}
+    - name: 18
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 398
+        width: 97
+        height: 112
+      alignment: 9
+      pivot: {x: -0.8041237, y: 2.169643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: -195}
+        - {x: 78, y: -243}
+        - {x: 175, y: -243}
+        - {x: 175, y: -131}
+        - {x: 149, y: -131}
+        - {x: 87, y: -162}
+    - name: 19
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 398
+        width: 31
+        height: 112
+      alignment: 9
+      pivot: {x: -3.6451614, y: 2.169643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 2
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 389
+        width: 75
+        height: 121
+      alignment: 9
+      pivot: {x: -1.3066666, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: -228}
+        - {x: 109, y: -242}
+        - {x: 143, y: -242}
+        - {x: 173, y: -212}
+        - {x: 173, y: -121}
+        - {x: 102, y: -121}
+        - {x: 98, y: -122}
+    - name: 20
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 399
+        width: 33
+        height: 111
+      alignment: 9
+      pivot: {x: -3.3333333, y: 2.1711712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: -130}
+        - {x: 111, y: -131}
+        - {x: 110, y: -144}
+        - {x: 110, y: -241}
+        - {x: 143, y: -241}
+        - {x: 143, y: -135}
+        - {x: 142, y: -130}
+    - name: 21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 275
+        width: 89
+        height: 111
+      alignment: 9
+      pivot: {x: -0.94382024, y: 2.1711712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 139, y: -130}
+        - {x: 84, y: -171}
+        - {x: 84, y: -232}
+        - {x: 93, y: -241}
+        - {x: 172, y: -241}
+        - {x: 173, y: -239}
+        - {x: 173, y: -130}
+    - name: 22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 275
+        width: 124
+        height: 111
+      alignment: 9
+      pivot: {x: -0.5322581, y: 2.1711712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143, y: -130}
+        - {x: 80, y: -145}
+        - {x: 66, y: -195}
+        - {x: 66, y: -241}
+        - {x: 177, y: -241}
+        - {x: 190, y: -168}
+        - {x: 190, y: -147}
+        - {x: 188, y: -130}
+    - name: 23
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 275
+        width: 90
+        height: 111
+      alignment: 9
+      pivot: {x: -0.9222222, y: 2.1711712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 173, y: -190}
+        - {x: 173, y: -130}
+        - {x: 110, y: -130}
+        - {x: 83, y: -176}
+        - {x: 83, y: -241}
+        - {x: 123, y: -241}
+        - {x: 123, y: -237}
+        - {x: 129, y: -241}
+        - {x: 163, y: -241}
+    - name: 24
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 274
+        width: 33
+        height: 112
+      alignment: 9
+      pivot: {x: -3.4242425, y: 2.1607144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 113, y: -130}
+        - {x: 113, y: -242}
+        - {x: 146, y: -242}
+        - {x: 146, y: -130}
+    - name: 25
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 275
+        width: 32
+        height: 111
+      alignment: 9
+      pivot: {x: -3.46875, y: 2.18018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: -131}
+        - {x: 111, y: -242}
+        - {x: 143, y: -242}
+        - {x: 143, y: -131}
+    - name: 26
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 276
+        width: 91
+        height: 110
+      alignment: 9
+      pivot: {x: -0.9120879, y: 2.1909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 172, y: -131}
+        - {x: 150, y: -131}
+        - {x: 148, y: -134}
+        - {x: 100, y: -162}
+        - {x: 83, y: -177}
+        - {x: 83, y: -241}
+        - {x: 168, y: -241}
+        - {x: 174, y: -195}
+        - {x: 174, y: -137}
+    - name: 27
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 276
+        width: 126
+        height: 110
+      alignment: 9
+      pivot: {x: -0.5, y: 2.1909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 145, y: -131}
+        - {x: 89, y: -152}
+        - {x: 63, y: -198}
+        - {x: 63, y: -238}
+        - {x: 67, y: -241}
+        - {x: 178, y: -241}
+        - {x: 189, y: -207}
+        - {x: 189, y: -131}
+    - name: 28
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 275
+        width: 99
+        height: 111
+      alignment: 9
+      pivot: {x: -0.7373737, y: 2.1711712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: -201}
+        - {x: 73, y: -230}
+        - {x: 95, y: -241}
+        - {x: 172, y: -241}
+        - {x: 172, y: -130}
+        - {x: 119, y: -130}
+        - {x: 87, y: -140}
+    - name: 29
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 275
+        width: 31
+        height: 111
+      alignment: 9
+      pivot: {x: -3.6451614, y: 2.1711712}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 3
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 279
+        width: 80
+        height: 107
+      alignment: 9
+      pivot: {x: -1.2375, y: 2.271028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 163, y: -136}
+        - {x: 150, y: -149}
+        - {x: 127, y: -139}
+        - {x: 115, y: -140}
+        - {x: 99, y: -165}
+        - {x: 99, y: -198}
+        - {x: 111, y: -243}
+        - {x: 140, y: -243}
+        - {x: 179, y: -221}
+        - {x: 179, y: -136}
+    - name: 30
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 276
+        width: 35
+        height: 110
+      alignment: 9
+      pivot: {x: -3.1714287, y: 2.1909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 143, y: -131}
+        - {x: 111, y: -131}
+        - {x: 111, y: -241}
+        - {x: 144, y: -241}
+        - {x: 146, y: -226}
+        - {x: 146, y: -144}
+    - name: 31
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 276
+        width: 94
+        height: 110
+      alignment: 9
+      pivot: {x: -0.85106385, y: 2.1909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 128, y: -131}
+        - {x: 80, y: -175}
+        - {x: 80, y: -241}
+        - {x: 174, y: -241}
+        - {x: 174, y: -139}
+        - {x: 172, y: -131}
+    - name: 32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 127
+        height: 110
+      alignment: 9
+      pivot: {x: -0.48818898, y: 2.1909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126, y: -236}
+        - {x: 120, y: -231}
+        - {x: 114, y: -227}
+        - {x: 111, y: -206}
+        - {x: 132, y: -241}
+        - {x: 189, y: -241}
+        - {x: 189, y: -131}
+        - {x: 151, y: -131}
+        - {x: 81, y: -156}
+        - {x: 62, y: -194}
+        - {x: 62, y: -232}
+        - {x: 72, y: -241}
+        - {x: 87, y: -241}
+        - {x: 89, y: -236}
+        - {x: 107, y: -241}
+        - {x: 126, y: -241}
+    - name: 33
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 162
+        width: 103
+        height: 110
+      alignment: 9
+      pivot: {x: -0.66019416, y: 2.1909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 163, y: -241}
+        - {x: 171, y: -241}
+        - {x: 171, y: -136}
+        - {x: 170, y: -131}
+        - {x: 147, y: -131}
+        - {x: 144, y: -136}
+        - {x: 104, y: -165}
+        - {x: 89, y: -184}
+        - {x: 68, y: -203}
+        - {x: 68, y: -234}
+        - {x: 78, y: -241}
+        - {x: 141, y: -241}
+        - {x: 143, y: -235}
+        - {x: 158, y: -240}
+    - name: 34
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 162
+        width: 35
+        height: 110
+      alignment: 9
+      pivot: {x: -3.1142857, y: 2.1909091}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: -131}
+        - {x: 109, y: -136}
+        - {x: 109, y: -241}
+        - {x: 144, y: -241}
+        - {x: 144, y: -131}
+    - name: 35
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 161
+        width: 31
+        height: 111
+      alignment: 9
+      pivot: {x: -3.612903, y: 2.18018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 36
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 160
+        width: 94
+        height: 112
+      alignment: 9
+      pivot: {x: -0.85106385, y: 2.169643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 134, y: -131}
+        - {x: 87, y: -152}
+        - {x: 80, y: -183}
+        - {x: 80, y: -243}
+        - {x: 162, y: -243}
+        - {x: 174, y: -201}
+        - {x: 174, y: -131}
+    - name: 37
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 160
+        width: 126
+        height: 112
+      alignment: 9
+      pivot: {x: -0.5, y: 2.169643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 119, y: -243}
+        - {x: 121, y: -241}
+        - {x: 122, y: -237}
+        - {x: 115, y: -230}
+        - {x: 121, y: -208}
+        - {x: 122, y: -241}
+        - {x: 127, y: -243}
+        - {x: 130, y: -243}
+        - {x: 135, y: -235}
+        - {x: 139, y: -226}
+        - {x: 167, y: -243}
+        - {x: 179, y: -241}
+        - {x: 189, y: -196}
+        - {x: 189, y: -136}
+        - {x: 186, y: -131}
+        - {x: 153, y: -131}
+        - {x: 94, y: -154}
+        - {x: 63, y: -196}
+        - {x: 63, y: -232}
+        - {x: 67, y: -243}
+        - {x: 83, y: -243}
+        - {x: 84, y: -238}
+        - {x: 107, y: -243}
+    - name: 38
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 160
+        width: 100
+        height: 112
+      alignment: 9
+      pivot: {x: -0.72, y: 2.169643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 141, y: -131}
+        - {x: 107, y: -160}
+        - {x: 86, y: -179}
+        - {x: 72, y: -210}
+        - {x: 72, y: -222}
+        - {x: 83, y: -221}
+        - {x: 81, y: -243}
+        - {x: 172, y: -243}
+        - {x: 172, y: -131}
+    - name: 39
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 160
+        width: 31
+        height: 112
+      alignment: 9
+      pivot: {x: -3.6451614, y: 2.169643}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 4
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 211
+        width: 92
+        height: 61
+      alignment: 9
+      pivot: {x: -1.0652174, y: 3.9836066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 126, y: -182}
+        - {x: 98, y: -197}
+        - {x: 98, y: -227}
+        - {x: 100, y: -230}
+        - {x: 110, y: -230}
+        - {x: 107, y: -230}
+        - {x: 102, y: -233}
+        - {x: 101, y: -243}
+        - {x: 144, y: -243}
+        - {x: 186, y: -232}
+        - {x: 190, y: -228}
+        - {x: 190, y: -185}
+        - {x: 188, y: -182}
+    - name: 40
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 159
+        width: 35
+        height: 113
+      alignment: 9
+      pivot: {x: -3.2, y: 2.1504424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: -130}
+        - {x: 112, y: -240}
+        - {x: 115, y: -243}
+        - {x: 147, y: -243}
+        - {x: 147, y: -159}
+        - {x: 142, y: -130}
+    - name: 41
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 159
+        width: 90
+        height: 113
+      alignment: 9
+      pivot: {x: -0.9222222, y: 2.1504424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 151, y: -130}
+        - {x: 147, y: -138}
+        - {x: 83, y: -164}
+        - {x: 83, y: -243}
+        - {x: 166, y: -243}
+        - {x: 173, y: -233}
+        - {x: 173, y: -130}
+    - name: 42
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 159
+        width: 124
+        height: 113
+      alignment: 9
+      pivot: {x: -0.5322581, y: 2.1504424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 168, y: -130}
+        - {x: 149, y: -135}
+        - {x: 70, y: -168}
+        - {x: 66, y: -197}
+        - {x: 66, y: -230}
+        - {x: 89, y: -243}
+        - {x: 190, y: -243}
+        - {x: 190, y: -145}
+        - {x: 180, y: -130}
+    - name: 43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 44
+        width: 90
+        height: 113
+      alignment: 9
+      pivot: {x: -0.9222222, y: 2.1504424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 173, y: -130}
+        - {x: 146, y: -130}
+        - {x: 97, y: -156}
+        - {x: 83, y: -179}
+        - {x: 83, y: -239}
+        - {x: 84, y: -243}
+        - {x: 108, y: -243}
+        - {x: 108, y: -236}
+        - {x: 105, y: -233}
+        - {x: 108, y: -228}
+        - {x: 108, y: -236}
+        - {x: 113, y: -243}
+        - {x: 114, y: -243}
+        - {x: 124, y: -239}
+        - {x: 122, y: -233}
+        - {x: 119, y: -223}
+        - {x: 130, y: -243}
+        - {x: 164, y: -243}
+        - {x: 170, y: -193}
+        - {x: 173, y: -171}
+    - name: 44
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 44
+        width: 35
+        height: 113
+      alignment: 9
+      pivot: {x: -3.1142857, y: 2.1504424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 112, y: -130}
+        - {x: 109, y: -187}
+        - {x: 109, y: -243}
+        - {x: 144, y: -243}
+        - {x: 144, y: -130}
+    - name: 45
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 46
+        width: 32
+        height: 111
+      alignment: 9
+      pivot: {x: -3.46875, y: 2.18018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 111, y: -131}
+        - {x: 111, y: -242}
+        - {x: 143, y: -242}
+        - {x: 143, y: -131}
+    - name: 46
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 46
+        width: 97
+        height: 111
+      alignment: 9
+      pivot: {x: -0.7938144, y: 2.18018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 174, y: -238}
+        - {x: 174, y: -131}
+        - {x: 124, y: -131}
+        - {x: 77, y: -180}
+        - {x: 77, y: -238}
+        - {x: 83, y: -242}
+        - {x: 114, y: -242}
+        - {x: 117, y: -240}
+        - {x: 115, y: -233}
+        - {x: 127, y: -242}
+        - {x: 170, y: -242}
+    - name: 47
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 46
+        width: 127
+        height: 111
+      alignment: 9
+      pivot: {x: -0.496063, y: 2.18018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 190, y: -140}
+        - {x: 179, y: -131}
+        - {x: 167, y: -131}
+        - {x: 76, y: -165}
+        - {x: 63, y: -211}
+        - {x: 63, y: -232}
+        - {x: 77, y: -242}
+        - {x: 159, y: -242}
+        - {x: 175, y: -238}
+        - {x: 183, y: -234}
+        - {x: 190, y: -200}
+    - name: 48
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 46
+        width: 90
+        height: 111
+      alignment: 9
+      pivot: {x: -0.93333334, y: 2.18018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 160, y: -239}
+        - {x: 174, y: -222}
+        - {x: 174, y: -131}
+        - {x: 147, y: -131}
+        - {x: 84, y: -171}
+        - {x: 84, y: -242}
+        - {x: 160, y: -242}
+        - {x: 148, y: -232}
+        - {x: 148, y: -228}
+        - {x: 151, y: -233}
+    - name: 49
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 46
+        width: 31
+        height: 111
+      alignment: 9
+      pivot: {x: -3.6451614, y: 2.18018}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 5
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 43
+        width: 31
+        height: 114
+      alignment: 9
+      pivot: {x: -3.612903, y: 2.122807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: 50
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 113
+        width: 88
+        height: 44
+      alignment: 9
+      pivot: {x: -1.125, y: 5.5227275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 165, y: -199}
+        - {x: 123, y: -199}
+        - {x: 99, y: -221}
+        - {x: 99, y: -243}
+        - {x: 187, y: -243}
+        - {x: 187, y: -210}
+        - {x: 184, y: -203}
+    - name: 6
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 43
+        width: 101
+        height: 114
+      alignment: 9
+      pivot: {x: -0.7029703, y: 2.122807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 137, y: -128}
+        - {x: 71, y: -195}
+        - {x: 71, y: -235}
+        - {x: 75, y: -242}
+        - {x: 165, y: -242}
+        - {x: 172, y: -231}
+        - {x: 172, y: -128}
+    - name: 7
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 43
+        width: 129
+        height: 114
+      alignment: 9
+      pivot: {x: -0.4651163, y: 2.122807}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 167, y: -242}
+        - {x: 189, y: -187}
+        - {x: 189, y: -144}
+        - {x: 181, y: -128}
+        - {x: 164, y: -128}
+        - {x: 87, y: -161}
+        - {x: 60, y: -196}
+        - {x: 60, y: -219}
+        - {x: 77, y: -242}
+        - {x: 90, y: -242}
+        - {x: 91, y: -241}
+        - {x: 92, y: -238}
+        - {x: 120, y: -242}
+    - name: 8
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 42
+        width: 90
+        height: 115
+      alignment: 9
+      pivot: {x: -0.9222222, y: 2.1130435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 163, y: -243}
+        - {x: 173, y: -187}
+        - {x: 173, y: -130}
+        - {x: 172, y: -128}
+        - {x: 132, y: -128}
+        - {x: 83, y: -155}
+        - {x: 83, y: -243}
+        - {x: 111, y: -243}
+        - {x: 111, y: -239}
+        - {x: 108, y: -235}
+        - {x: 133, y: -243}
+    - name: 9
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 42
+        width: 31
+        height: 115
+      alignment: 9
+      pivot: {x: -3.6451614, y: 2.1130435}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

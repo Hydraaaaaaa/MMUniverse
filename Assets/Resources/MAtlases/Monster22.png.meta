@@ -1,0 +1,1419 @@
+fileFormatVersion: 2
+guid: 0ad5fd37360b5194da3719e1b1c9e6ae
+timeCreated: 1442627954
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: m234Aa0
+    21300002: m234Aa1
+    21300004: m234Aa2
+    21300006: m234Aa3
+    21300008: m234Aa4
+    21300010: m234Ab0
+    21300012: m234Ab1
+    21300014: m234Ab2
+    21300016: m234Ab3
+    21300018: m234Ab4
+    21300020: m234Ac0
+    21300022: m234Ac1
+    21300024: m234Ac2
+    21300026: m234Ac3
+    21300028: m234Ac4
+    21300030: m234Ad0
+    21300032: m234Ad1
+    21300034: m234Ad2
+    21300036: m234Ad3
+    21300038: m234Ad4
+    21300040: m234Ae0
+    21300042: m234Ae1
+    21300044: m234Ae2
+    21300046: m234Ae3
+    21300048: m234Ae4
+    21300050: m234Af0
+    21300052: m234Af1
+    21300054: m234Af2
+    21300056: m234Af3
+    21300058: m234Af4
+    21300060: m234Ag0
+    21300062: m234Ag1
+    21300064: m234Ag2
+    21300066: m234Ag3
+    21300068: m234Ag4
+    21300070: m234Ah0
+    21300072: m234Ah1
+    21300074: m234Ah2
+    21300076: m234Ah3
+    21300078: m234Ah4
+    21300080: m234Da0
+    21300082: m234Db0
+    21300084: m234Dc0
+    21300086: m234Dd0
+    21300088: m234Fa0
+    21300090: m234Fb0
+    21300092: m234Fc0
+    21300094: m234Fd0
+    21300096: m234Na0
+    21300098: m234Na1
+    21300100: m234Na2
+    21300102: m234Na3
+    21300104: m234Na4
+    21300106: m234Nb0
+    21300108: m234Nb1
+    21300110: m234Nb2
+    21300112: m234Nb3
+    21300114: m234Nb4
+    21300116: m234Nc0
+    21300118: m234Nc1
+    21300120: m234Nc2
+    21300122: m234Nc3
+    21300124: m234Nc4
+    21300126: m234Nd0
+    21300128: m234Nd1
+    21300130: m234Nd2
+    21300132: m234Nd3
+    21300134: m234Nd4
+    21300136: m234Ne0
+    21300138: m234Ne1
+    21300140: m234Ne2
+    21300142: m234Ne3
+    21300144: m234Ne4
+    21300146: m234Nf0
+    21300148: m234Nf1
+    21300150: m234Nf2
+    21300152: m234Nf3
+    21300154: m234Nf4
+    21300156: m234Sa0
+    21300158: m234Sa1
+    21300160: m234Sa2
+    21300162: m234Sa3
+    21300164: m234Sa4
+    21300166: m234Wa0
+    21300168: m234Wa1
+    21300170: m234Wa2
+    21300172: m234Wa3
+    21300174: m234Wa4
+    21300176: m234Wb0
+    21300178: m234Wb1
+    21300180: m234Wb2
+    21300182: m234Wb3
+    21300184: m234Wb4
+    21300186: m234Wc0
+    21300188: m234Wc1
+    21300190: m234Wc2
+    21300192: m234Wc3
+    21300194: m234Wc4
+    21300196: m234Wd0
+    21300198: m234Wd1
+    21300200: m234Wd2
+    21300202: m234Wd3
+    21300204: m234Wd4
+    21300206: m234We0
+    21300208: m234We1
+    21300210: m234We2
+    21300212: m234We3
+    21300214: m234We4
+    21300216: m234Wf0
+    21300218: m234Wf1
+    21300220: m234Wf2
+    21300222: m234Wf3
+    21300224: m234Wf4
+    21300226: m234Wg0
+    21300228: m234Wg1
+    21300230: m234Wg2
+    21300232: m234Wg3
+    21300234: m234Wg4
+    21300236: m234Wh0
+    21300238: m234Wh1
+    21300240: m234Wh2
+    21300242: m234Wh3
+    21300244: m234Wh4
+    21300246: m234Xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: m234Aa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3941
+        width: 183
+        height: 153
+      alignment: 9
+      pivot: {x: -.218579233, y: 1.67320263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Aa1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3941
+        width: 188
+        height: 153
+      alignment: 9
+      pivot: {x: -.223404258, y: 1.67320263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Aa2
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 3941
+        width: 130
+        height: 153
+      alignment: 9
+      pivot: {x: -.41538462, y: 1.67320263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Aa3
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 3941
+        width: 132
+        height: 153
+      alignment: 9
+      pivot: {x: -.553030312, y: 1.67320263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Aa4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3941
+        width: 182
+        height: 153
+      alignment: 9
+      pivot: {x: -.203296706, y: 1.67320263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ab0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3784
+        width: 198
+        height: 155
+      alignment: 9
+      pivot: {x: -.106060609, y: 1.65161288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ab1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3784
+        width: 230
+        height: 155
+      alignment: 9
+      pivot: {x: -.0608695634, y: 1.65161288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ab2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 3779
+        width: 153
+        height: 160
+      alignment: 9
+      pivot: {x: -.307189554, y: 1.60000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ab3
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 3779
+        width: 112
+        height: 160
+      alignment: 9
+      pivot: {x: -.616071403, y: 1.60000002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ab4
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 3780
+        width: 199
+        height: 159
+      alignment: 9
+      pivot: {x: -.206030145, y: 1.61006284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ac0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3605
+        width: 198
+        height: 172
+      alignment: 9
+      pivot: {x: -.0252525248, y: 1.48837209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ac1
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3605
+        width: 237
+        height: 172
+      alignment: 9
+      pivot: {x: 0, y: 1.48837209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ac2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3614
+        width: 146
+        height: 163
+      alignment: 9
+      pivot: {x: -.273972601, y: 1.57055211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ac3
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 3614
+        width: 116
+        height: 163
+      alignment: 9
+      pivot: {x: -.568965495, y: 1.57055211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ac4
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 3614
+        width: 204
+        height: 163
+      alignment: 9
+      pivot: {x: -.254901975, y: 1.57055211}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ad0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3426
+        width: 212
+        height: 177
+      alignment: 9
+      pivot: {x: 0, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ad1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 3425
+        width: 239
+        height: 178
+      alignment: 9
+      pivot: {x: -.041841004, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ad2
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 3436
+        width: 151
+        height: 167
+      alignment: 9
+      pivot: {x: -.264900655, y: 1.53293419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ad3
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 3436
+        width: 144
+        height: 167
+      alignment: 9
+      pivot: {x: -.4375, y: 1.53293419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ad4
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 3436
+        width: 211
+        height: 167
+      alignment: 9
+      pivot: {x: -.213270143, y: 1.53293419}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ae0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3259
+        width: 237
+        height: 164
+      alignment: 9
+      pivot: {x: -.0337552726, y: 1.56097555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ae1
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 3259
+        width: 178
+        height: 164
+      alignment: 9
+      pivot: {x: -.438202262, y: 1.56097555}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ae2
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3249
+        width: 157
+        height: 174
+      alignment: 9
+      pivot: {x: -.331210196, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ae3
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 3249
+        width: 187
+        height: 174
+      alignment: 9
+      pivot: {x: -.368983954, y: 1.47126436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ae4
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 3250
+        width: 231
+        height: 173
+      alignment: 9
+      pivot: {x: -.0692640692, y: 1.47976875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Af0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3119
+        width: 185
+        height: 128
+      alignment: 9
+      pivot: {x: -.329729736, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Af1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3119
+        width: 153
+        height: 128
+      alignment: 9
+      pivot: {x: -.529411793, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Af2
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 3119
+        width: 191
+        height: 128
+      alignment: 9
+      pivot: {x: -.303664923, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Af3
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3119
+        width: 174
+        height: 128
+      alignment: 9
+      pivot: {x: -.37931034, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Af4
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 3119
+        width: 183
+        height: 128
+      alignment: 9
+      pivot: {x: -.0601092912, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ag0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2984
+        width: 157
+        height: 133
+      alignment: 9
+      pivot: {x: -.337579608, y: 1.92481208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ag1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2984
+        width: 152
+        height: 133
+      alignment: 9
+      pivot: {x: -.5, y: 1.92481208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ag2
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2984
+        width: 171
+        height: 133
+      alignment: 9
+      pivot: {x: -.292397648, y: 1.92481208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ag3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2984
+        width: 159
+        height: 133
+      alignment: 9
+      pivot: {x: -.440251559, y: 1.92481208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ag4
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2984
+        width: 155
+        height: 133
+      alignment: 9
+      pivot: {x: -.309677422, y: 1.92481208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ah0
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 2973
+        width: 158
+        height: 144
+      alignment: 9
+      pivot: {x: -.310126573, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ah1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2827
+        width: 145
+        height: 144
+      alignment: 9
+      pivot: {x: -.510344803, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ah2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2827
+        width: 153
+        height: 144
+      alignment: 9
+      pivot: {x: -.320261449, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ah3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2827
+        width: 137
+        height: 144
+      alignment: 9
+      pivot: {x: -.510948896, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ah4
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2827
+        width: 157
+        height: 144
+      alignment: 9
+      pivot: {x: -.324840754, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Da0
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 2827
+        width: 206
+        height: 144
+      alignment: 9
+      pivot: {x: -.174757287, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Db0
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2893
+        width: 209
+        height: 78
+      alignment: 9
+      pivot: {x: -.191387564, y: 3.28205132}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Dc0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2758
+        width: 217
+        height: 67
+      alignment: 9
+      pivot: {x: -.175115213, y: 3.82089543}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Dd0
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 2771
+        width: 232
+        height: 54
+      alignment: 9
+      pivot: {x: -.103448279, y: 4.74074078}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Fa0
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2674
+        width: 173
+        height: 151
+      alignment: 9
+      pivot: {x: -.265895963, y: 1.69536424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Fb0
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 2672
+        width: 202
+        height: 153
+      alignment: 9
+      pivot: {x: -.143564358, y: 1.67320263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Fc0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2515
+        width: 227
+        height: 155
+      alignment: 9
+      pivot: {x: -.0660792962, y: 1.65161288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Fd0
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2513
+        width: 247
+        height: 157
+      alignment: 9
+      pivot: {x: -.0040485831, y: 1.63057327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Na0
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2512
+        width: 256
+        height: 158
+      alignment: 9
+      pivot: {x: 0, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Na1
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 2512
+        width: 240
+        height: 158
+      alignment: 9
+      pivot: {x: -.020833334, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Na2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2352
+        width: 117
+        height: 158
+      alignment: 9
+      pivot: {x: -.418803424, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Na3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2352
+        width: 128
+        height: 158
+      alignment: 9
+      pivot: {x: -.515625, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Na4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2352
+        width: 253
+        height: 158
+      alignment: 9
+      pivot: {x: -.0118577071, y: 1.62025321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nb0
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2331
+        width: 227
+        height: 179
+      alignment: 9
+      pivot: {x: -.096916303, y: 1.43016756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nb1
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 2332
+        width: 204
+        height: 178
+      alignment: 9
+      pivot: {x: -.0294117648, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nb2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2150
+        width: 114
+        height: 179
+      alignment: 9
+      pivot: {x: -.403508782, y: 1.43016756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nb3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2151
+        width: 155
+        height: 178
+      alignment: 9
+      pivot: {x: -.174193546, y: 1.43820226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nb4
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2149
+        width: 232
+        height: 180
+      alignment: 9
+      pivot: {x: -.0301724132, y: 1.42222226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nc0
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2185
+        width: 245
+        height: 144
+      alignment: 9
+      pivot: {x: -.0326530598, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nc1
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2185
+        width: 231
+        height: 144
+      alignment: 9
+      pivot: {x: 0, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nc2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2003
+        width: 126
+        height: 144
+      alignment: 9
+      pivot: {x: -.301587313, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nc3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2003
+        width: 132
+        height: 144
+      alignment: 9
+      pivot: {x: -.409090906, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nc4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 2003
+        width: 246
+        height: 144
+      alignment: 9
+      pivot: {x: -.0203252025, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nd0
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2005
+        width: 225
+        height: 142
+      alignment: 9
+      pivot: {x: -.00444444455, y: 1.80281687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nd1
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 2005
+        width: 239
+        height: 142
+      alignment: 9
+      pivot: {x: -.0502092056, y: 1.80281687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nd2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1859
+        width: 155
+        height: 142
+      alignment: 9
+      pivot: {x: -.316129029, y: 1.80281687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nd3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1859
+        width: 123
+        height: 142
+      alignment: 9
+      pivot: {x: -.585365832, y: 1.80281687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nd4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1859
+        width: 223
+        height: 142
+      alignment: 9
+      pivot: {x: -.147982061, y: 1.80281687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ne0
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1863
+        width: 200
+        height: 138
+      alignment: 9
+      pivot: {x: -.109999999, y: 1.8550725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ne1
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1863
+        width: 181
+        height: 138
+      alignment: 9
+      pivot: {x: -.165745854, y: 1.8550725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ne2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1719
+        width: 143
+        height: 138
+      alignment: 9
+      pivot: {x: -.363636374, y: 1.8550725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ne3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1719
+        width: 120
+        height: 138
+      alignment: 9
+      pivot: {x: -.616666675, y: 1.8550725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Ne4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1719
+        width: 202
+        height: 138
+      alignment: 9
+      pivot: {x: -.17326732, y: 1.8550725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nf0
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1713
+        width: 178
+        height: 144
+      alignment: 9
+      pivot: {x: -.219101131, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nf1
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1713
+        width: 166
+        height: 144
+      alignment: 9
+      pivot: {x: -.246987954, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nf2
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 1713
+        width: 147
+        height: 144
+      alignment: 9
+      pivot: {x: -.360544205, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nf3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1567
+        width: 116
+        height: 144
+      alignment: 9
+      pivot: {x: -.646551728, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Nf4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1567
+        width: 178
+        height: 144
+      alignment: 9
+      pivot: {x: -.230337083, y: 1.77777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Sa0
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1560
+        width: 153
+        height: 151
+      alignment: 9
+      pivot: {x: -.372549027, y: 1.69536424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Sa1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1560
+        width: 139
+        height: 151
+      alignment: 9
+      pivot: {x: -.453237414, y: 1.69536424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Sa2
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1560
+        width: 144
+        height: 151
+      alignment: 9
+      pivot: {x: -.375, y: 1.69536424}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Sa3
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1561
+        width: 109
+        height: 150
+      alignment: 9
+      pivot: {x: -.697247684, y: 1.70666671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Sa4
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1561
+        width: 153
+        height: 150
+      alignment: 9
+      pivot: {x: -.313725501, y: 1.70666671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1387
+        width: 125
+        height: 171
+      alignment: 9
+      pivot: {x: -.488000005, y: 1.36842108}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wa1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1386
+        width: 111
+        height: 172
+      alignment: 9
+      pivot: {x: -.693693697, y: 1.36627913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wa2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1386
+        width: 119
+        height: 172
+      alignment: 9
+      pivot: {x: -.478991598, y: 1.36627913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wa3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1386
+        width: 125
+        height: 172
+      alignment: 9
+      pivot: {x: -.536000013, y: 1.36627913}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wa4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1386
+        width: 125
+        height: 172
+      alignment: 9
+      pivot: {x: -.568000019, y: 1.37209308}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wb0
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1385
+        width: 130
+        height: 173
+      alignment: 9
+      pivot: {x: -.461538464, y: 1.35838151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wb1
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 1385
+        width: 115
+        height: 173
+      alignment: 9
+      pivot: {x: -.643478274, y: 1.35838151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wb2
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1385
+        width: 119
+        height: 173
+      alignment: 9
+      pivot: {x: -.470588237, y: 1.35838151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wb3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1210
+        width: 132
+        height: 173
+      alignment: 9
+      pivot: {x: -.446969688, y: 1.35838151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wb4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1210
+        width: 130
+        height: 173
+      alignment: 9
+      pivot: {x: -.515384614, y: 1.35838151}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wc0
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1210
+        width: 165
+        height: 173
+      alignment: 9
+      pivot: {x: -.266666681, y: 1.39306355}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wc1
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1209
+        width: 133
+        height: 174
+      alignment: 9
+      pivot: {x: -.428571433, y: 1.39080465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wc2
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1209
+        width: 118
+        height: 174
+      alignment: 9
+      pivot: {x: -.483050853, y: 1.39080465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wc3
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1209
+        width: 150
+        height: 174
+      alignment: 9
+      pivot: {x: -.306666672, y: 1.39080465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wc4
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1209
+        width: 165
+        height: 174
+      alignment: 9
+      pivot: {x: -.290909082, y: 1.39080465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wd0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1035
+        width: 242
+        height: 172
+      alignment: 9
+      pivot: {x: -.0165289249, y: 1.43023252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wd1
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1034
+        width: 150
+        height: 173
+      alignment: 9
+      pivot: {x: -.300000012, y: 1.4277457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wd2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1034
+        width: 144
+        height: 173
+      alignment: 9
+      pivot: {x: -.215277776, y: 1.4277457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wd3
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1033
+        width: 201
+        height: 174
+      alignment: 9
+      pivot: {x: -.139303476, y: 1.42528737}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wd4
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1034
+        width: 243
+        height: 173
+      alignment: 9
+      pivot: {x: -.0411522649, y: 1.4277457}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234We0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 826
+        width: 234
+        height: 205
+      alignment: 9
+      pivot: {x: -.0427350439, y: 1.21951222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234We1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 825
+        width: 152
+        height: 206
+      alignment: 9
+      pivot: {x: -.269736856, y: 1.21359229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234We2
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 824
+        width: 145
+        height: 207
+      alignment: 9
+      pivot: {x: -.206896558, y: 1.21256042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234We3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 824
+        width: 183
+        height: 207
+      alignment: 9
+      pivot: {x: -.158469945, y: 1.21256042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234We4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 825
+        width: 236
+        height: 206
+      alignment: 9
+      pivot: {x: -.0550847463, y: 1.21844661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wf0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 594
+        width: 203
+        height: 228
+      alignment: 9
+      pivot: {x: -.128078818, y: 1.09649122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wf1
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 593
+        width: 151
+        height: 229
+      alignment: 9
+      pivot: {x: -.258278131, y: 1.09170306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wf2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 591
+        width: 137
+        height: 231
+      alignment: 9
+      pivot: {x: -.277372271, y: 1.08658004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wf3
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 591
+        width: 154
+        height: 231
+      alignment: 9
+      pivot: {x: -.220779225, y: 1.08658004}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wf4
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 592
+        width: 205
+        height: 230
+      alignment: 9
+      pivot: {x: -.131707311, y: 1.0913043}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wg0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 354
+        width: 200
+        height: 235
+      alignment: 9
+      pivot: {x: -.140000001, y: 1.04680848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wg1
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 352
+        width: 156
+        height: 237
+      alignment: 9
+      pivot: {x: -.211538464, y: 1.03797472}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wg2
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 351
+        width: 130
+        height: 238
+      alignment: 9
+      pivot: {x: -.346153855, y: 1.03781509}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wg3
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 350
+        width: 156
+        height: 239
+      alignment: 9
+      pivot: {x: -.192307696, y: 1.03347278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wg4
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 352
+        width: 201
+        height: 237
+      alignment: 9
+      pivot: {x: -.149253726, y: 1.04219413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wh0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 183
+        width: 256
+        height: 165
+      alignment: 9
+      pivot: {x: 0, y: 1.43030298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wh1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 182
+        width: 186
+        height: 166
+      alignment: 9
+      pivot: {x: -.0430107526, y: 1.42771089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wh2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 182
+        width: 128
+        height: 166
+      alignment: 9
+      pivot: {x: -.3671875, y: 1.42771089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wh3
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 182
+        width: 197
+        height: 166
+      alignment: 9
+      pivot: {x: -.0304568522, y: 1.42771089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Wh4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 256
+        height: 166
+      alignment: 9
+      pivot: {x: 0, y: 1.42771089}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m234Xa0
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 146
+        width: 214
+        height: 34
+      alignment: 9
+      pivot: {x: -.140186921, y: 7.52941179}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

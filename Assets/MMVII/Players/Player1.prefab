@@ -1,0 +1,172 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &190206
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 470336}
+  - 114: {fileID: 11454100}
+  m_Layer: 0
+  m_Name: Player1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &470336
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 190206}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &11454100
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 190206}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15836b2be3b336640a1bfeb669ae59a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Conditions: 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  Experience: 0
+  Name: 
+  Sex: 0
+  ClassType: 0
+  CurrentFace: 0
+  Might: 0
+  MightBonus: 0
+  Intelligence: 0
+  IntelligenceBonus: 0
+  Willpower: 0
+  WillpowerBonus: 0
+  Endurance: 0
+  EnduranceBonus: 0
+  Speed: 0
+  SpeedBonus: 0
+  Accuracy: 0
+  AccuracyBonus: 0
+  Luck: 0
+  LuckBonus: 0
+  ACModifier: 0
+  Level: 0
+  LevelModifier: 0
+  AgeModifier: 0
+  skillStaff: 0
+  skillSword: 0
+  skillDagger: 0
+  skillAxe: 0
+  skillSpear: 0
+  skillBow: 0
+  skillMace: 0
+  skillBlaster: 0
+  skillShield: 0
+  skillLeather: 0
+  skillChain: 0
+  skillPlate: 0
+  skillFire: 0
+  skillAir: 0
+  skillWater: 0
+  skillEarth: 0
+  skillSpirit: 0
+  skillMind: 0
+  skillBody: 0
+  skillLight: 0
+  skillDark: 0
+  skillItemId: 0
+  skillMerchant: 0
+  skillRepair: 0
+  skillBodybuilding: 0
+  skillMeditation: 0
+  skillPerception: 0
+  skillDiplomacy: 0
+  skillThievery: 0
+  skillDisarmTrap: 0
+  skillDodge: 0
+  skillUnarmed: 0
+  skillMonsterId: 0
+  skillArmsmaster: 0
+  skillStealing: 0
+  skillAlchemy: 0
+  skillLearning: 0
+  ActiveSkills: 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  AwardsBits: 
+  pure_luck_used: 0
+  pure_speed_used: 0
+  pure_intellect_used: 0
+  pure_endurance_used: 0
+  pure_willpower_used: 0
+  pure_accuracy_used: 0
+  pure_might_used: 0
+  InventoryMatrix: 
+  ResFireBase: 0
+  ResAirBase: 0
+  ResWaterBase: 0
+  ResEarthBase: 0
+  ResMagicBase: 0
+  ResSpiritBase: 0
+  ReseMindBase: 0
+  ResBodyBase: 0
+  ResLightBase: 0
+  ResDarkBase: 0
+  ResFireBonus: 0
+  ResAirBonus: 0
+  ResWaterBonus: 0
+  ResEarthBonus: 0
+  ResMagicBonus: 0
+  ResSpiritBonus: 0
+  ResMindBonus: 0
+  ResBodyBonus: 0
+  ResLightBonus: 0
+  ResDarkBonus: 0
+  VoiceID: 0
+  PrevVoiceID: 0
+  PrevFace: 0
+  TimeToRecovery: 0
+  SkillPoints: 0
+  MaxHealth: 0
+  CurHealth: 0
+  MaxMana: 0
+  CurMana: 0
+  BirthYear: 0
+  lastOpenedSpellbookPage: 0
+  QuickSpell: 0
+  playerEventBits: 
+  some_attack_bonus: 0
+  melee_dmg_bonus: 0
+  ranged_attack_bonus: 0
+  ranged_dmg_bonus: 0
+  FullHealthBonus: 0
+  health_related: 0
+  FullManaBonus: 0
+  mana_related: 0
+  expression: 0
+  ExpressionTimePassed: 0
+  ExpressionTimeLength: 0
+  expression21_animtime: 0
+  expression21_frameset: 0
+  NumDivineInterventionCastsThisDay: 0
+  NumArmageddonCasts: 0
+  NumFireSpikeCasts: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 190206}
+  m_IsPrefabParent: 1

@@ -1,0 +1,979 @@
+fileFormatVersion: 2
+guid: a4d1fd659e50d954fa7c880032906164
+timeCreated: 1442629557
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M332DA0
+    21300002: M332DB0
+    21300004: M332DC0
+    21300006: M332DD0
+    21300008: M332FA0
+    21300010: M332FB0
+    21300012: M332FC0
+    21300014: M332FD0
+    21300016: M332NA0
+    21300018: M332NA1
+    21300020: M332NA2
+    21300022: M332NA3
+    21300024: M332NA4
+    21300026: M332NB0
+    21300028: M332NB1
+    21300030: M332NB2
+    21300032: M332NB3
+    21300034: M332NB4
+    21300036: M332NC0
+    21300038: M332NC1
+    21300040: M332NC2
+    21300042: M332NC3
+    21300044: M332NC4
+    21300046: M332ND0
+    21300048: M332ND1
+    21300050: M332ND2
+    21300052: M332ND3
+    21300054: M332ND4
+    21300056: M332NE0
+    21300058: M332NE1
+    21300060: M332NE2
+    21300062: M332NE3
+    21300064: M332NE4
+    21300066: M332NF0
+    21300068: M332NF1
+    21300070: M332NF2
+    21300072: M332NF3
+    21300074: M332NF4
+    21300076: M332SA0
+    21300078: M332SA1
+    21300080: M332SA2
+    21300082: M332SA3
+    21300084: M332SA4
+    21300086: M332WA0
+    21300088: M332WA1
+    21300090: M332WA2
+    21300092: M332WA3
+    21300094: M332WA4
+    21300096: M332WB0
+    21300098: M332WB1
+    21300100: M332WB2
+    21300102: M332WB3
+    21300104: M332WB4
+    21300106: M332WC0
+    21300108: M332WC1
+    21300110: M332WC2
+    21300112: M332WC3
+    21300114: M332WC4
+    21300116: M332WD0
+    21300118: M332WD1
+    21300120: M332WD2
+    21300122: M332WD3
+    21300124: M332WD4
+    21300126: M332WE0
+    21300128: M332WE1
+    21300130: M332WE2
+    21300132: M332WE3
+    21300134: M332WE4
+    21300136: M332WF0
+    21300138: M332WF1
+    21300140: M332WF2
+    21300142: M332WF3
+    21300144: M332WF4
+    21300146: M332WG0
+    21300148: M332WG1
+    21300150: M332WG2
+    21300152: M332WG3
+    21300154: M332WG4
+    21300156: M332WH0
+    21300158: M332WH1
+    21300160: M332WH2
+    21300162: M332WH3
+    21300164: M332WH4
+    21300166: M332XA0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: M332DA0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1920
+        width: 174
+        height: 126
+      alignment: 9
+      pivot: {x: -.172413796, y: 1.98412693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332DB0
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1911
+        width: 118
+        height: 135
+      alignment: 9
+      pivot: {x: -.593220353, y: 1.8740741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332DC0
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1989
+        width: 157
+        height: 57
+      alignment: 9
+      pivot: {x: -.324840754, y: 4.43859673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332DD0
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1978
+        width: 188
+        height: 68
+      alignment: 9
+      pivot: {x: -.170212761, y: 3.70588231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332FA0
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1858
+        width: 88
+        height: 188
+      alignment: 9
+      pivot: {x: -.931818187, y: 1.36170208}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332FB0
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1857
+        width: 86
+        height: 189
+      alignment: 9
+      pivot: {x: -.988372087, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332FC0
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1857
+        width: 86
+        height: 189
+      alignment: 9
+      pivot: {x: -1, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332FD0
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1856
+        width: 85
+        height: 190
+      alignment: 9
+      pivot: {x: -1.03529418, y: 1.34736848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NA0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1677
+        width: 162
+        height: 177
+      alignment: 9
+      pivot: {x: -.26543209, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NA1
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1677
+        width: 123
+        height: 177
+      alignment: 9
+      pivot: {x: -.398373991, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NA2
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1677
+        width: 105
+        height: 177
+      alignment: 9
+      pivot: {x: -.54285717, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NA3
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1677
+        width: 115
+        height: 177
+      alignment: 9
+      pivot: {x: -.521739125, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NA4
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1677
+        width: 163
+        height: 177
+      alignment: 9
+      pivot: {x: -.30674848, y: 1.44632769}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NB0
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1698
+        width: 131
+        height: 156
+      alignment: 9
+      pivot: {x: -.328244269, y: 1.64102566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NB1
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1698
+        width: 147
+        height: 156
+      alignment: 9
+      pivot: {x: -.15646258, y: 1.64102566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NB2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1519
+        width: 129
+        height: 156
+      alignment: 9
+      pivot: {x: -.255813956, y: 1.64102566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NB3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1519
+        width: 117
+        height: 156
+      alignment: 9
+      pivot: {x: -.264957279, y: 1.64102566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NB4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1519
+        width: 133
+        height: 156
+      alignment: 9
+      pivot: {x: -.609022558, y: 1.64102566}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NC0
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1505
+        width: 128
+        height: 170
+      alignment: 9
+      pivot: {x: -.40625, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NC1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1505
+        width: 139
+        height: 170
+      alignment: 9
+      pivot: {x: -.223021582, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NC2
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 1505
+        width: 118
+        height: 170
+      alignment: 9
+      pivot: {x: -.372881353, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NC3
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1505
+        width: 113
+        height: 170
+      alignment: 9
+      pivot: {x: -.309734523, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NC4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1333
+        width: 131
+        height: 170
+      alignment: 9
+      pivot: {x: -.564885497, y: 1.50588238}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332ND0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1324
+        width: 118
+        height: 179
+      alignment: 9
+      pivot: {x: -.559322059, y: 1.43016756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332ND1
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1324
+        width: 119
+        height: 179
+      alignment: 9
+      pivot: {x: -.428571433, y: 1.43016756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332ND2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 1324
+        width: 86
+        height: 179
+      alignment: 9
+      pivot: {x: -.883720934, y: 1.43016756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332ND3
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1324
+        width: 82
+        height: 179
+      alignment: 9
+      pivot: {x: -.804878056, y: 1.43016756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332ND4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1324
+        width: 119
+        height: 179
+      alignment: 9
+      pivot: {x: -.60504204, y: 1.43016756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NE0
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1322
+        width: 105
+        height: 181
+      alignment: 9
+      pivot: {x: -.657142878, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NE1
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1322
+        width: 111
+        height: 181
+      alignment: 9
+      pivot: {x: -.531531513, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NE2
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1322
+        width: 81
+        height: 181
+      alignment: 9
+      pivot: {x: -1, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NE3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1139
+        width: 68
+        height: 181
+      alignment: 9
+      pivot: {x: -1.19117641, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NE4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1139
+        width: 106
+        height: 181
+      alignment: 9
+      pivot: {x: -.773584902, y: 1.4143647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NF0
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1135
+        width: 100
+        height: 185
+      alignment: 9
+      pivot: {x: -.699999988, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NF1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1135
+        width: 102
+        height: 185
+      alignment: 9
+      pivot: {x: -.666666687, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NF2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1135
+        width: 75
+        height: 185
+      alignment: 9
+      pivot: {x: -1.15999997, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NF3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1135
+        width: 69
+        height: 185
+      alignment: 9
+      pivot: {x: -1.24637675, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332NF4
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1135
+        width: 102
+        height: 185
+      alignment: 9
+      pivot: {x: -.833333313, y: 1.38378382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332SA0
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1133
+        width: 92
+        height: 187
+      alignment: 9
+      pivot: {x: -.836956501, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332SA1
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1133
+        width: 94
+        height: 187
+      alignment: 9
+      pivot: {x: -.819148958, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332SA2
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1133
+        width: 72
+        height: 187
+      alignment: 9
+      pivot: {x: -1.25, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332SA3
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1133
+        width: 68
+        height: 187
+      alignment: 9
+      pivot: {x: -1.32352936, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332SA4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 944
+        width: 92
+        height: 187
+      alignment: 9
+      pivot: {x: -.945652187, y: 1.36898398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WA0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 944
+        width: 64
+        height: 187
+      alignment: 9
+      pivot: {x: -1.5, y: 1.35828876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WA1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 944
+        width: 113
+        height: 187
+      alignment: 9
+      pivot: {x: -.646017671, y: 1.35828876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WA2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 943
+        width: 116
+        height: 188
+      alignment: 9
+      pivot: {x: -.577586234, y: 1.35638297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WA3
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 943
+        width: 79
+        height: 188
+      alignment: 9
+      pivot: {x: -1.03797472, y: 1.35638297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WA4
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 943
+        width: 64
+        height: 188
+      alignment: 9
+      pivot: {x: -1.5, y: 1.35638297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WB0
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 938
+        width: 77
+        height: 193
+      alignment: 9
+      pivot: {x: -1.19480515, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WB1
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 938
+        width: 92
+        height: 193
+      alignment: 9
+      pivot: {x: -.847826064, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WB2
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 938
+        width: 92
+        height: 193
+      alignment: 9
+      pivot: {x: -.815217376, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WB3
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 938
+        width: 85
+        height: 193
+      alignment: 9
+      pivot: {x: -.988235295, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WB4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 938
+        width: 77
+        height: 193
+      alignment: 9
+      pivot: {x: -1.12987018, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WC0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 741
+        width: 92
+        height: 195
+      alignment: 9
+      pivot: {x: -.945652187, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WC1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 741
+        width: 83
+        height: 195
+      alignment: 9
+      pivot: {x: -1.07228911, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WC2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 741
+        width: 61
+        height: 195
+      alignment: 9
+      pivot: {x: -1.59016395, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WC3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 741
+        width: 84
+        height: 195
+      alignment: 9
+      pivot: {x: -1.07142854, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WC4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 741
+        width: 92
+        height: 195
+      alignment: 9
+      pivot: {x: -.836956501, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WD0
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 745
+        width: 80
+        height: 191
+      alignment: 9
+      pivot: {x: -1.08749998, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WD1
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 745
+        width: 92
+        height: 191
+      alignment: 9
+      pivot: {x: -.923913062, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WD2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 745
+        width: 96
+        height: 191
+      alignment: 9
+      pivot: {x: -.875, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WD3
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 745
+        width: 97
+        height: 191
+      alignment: 9
+      pivot: {x: -.845360816, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WD4
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 745
+        width: 80
+        height: 191
+      alignment: 9
+      pivot: {x: -1.11249995, y: 1.34031415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WE0
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 749
+        width: 66
+        height: 187
+      alignment: 9
+      pivot: {x: -1.469697, y: 1.35828876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WE1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 552
+        width: 94
+        height: 187
+      alignment: 9
+      pivot: {x: -.840425551, y: 1.35828876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WE2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 551
+        width: 111
+        height: 188
+      alignment: 9
+      pivot: {x: -.64864862, y: 1.35638297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WE3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 551
+        width: 108
+        height: 188
+      alignment: 9
+      pivot: {x: -.67592591, y: 1.35638297}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WE4
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 550
+        width: 66
+        height: 189
+      alignment: 9
+      pivot: {x: -1.40909088, y: 1.35449731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WF0
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 546
+        width: 79
+        height: 193
+      alignment: 9
+      pivot: {x: -1.11392403, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WF1
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 546
+        width: 106
+        height: 193
+      alignment: 9
+      pivot: {x: -.707547188, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WF2
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 546
+        width: 101
+        height: 193
+      alignment: 9
+      pivot: {x: -.7227723, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WF3
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 546
+        width: 99
+        height: 193
+      alignment: 9
+      pivot: {x: -.696969688, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WF4
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 546
+        width: 79
+        height: 193
+      alignment: 9
+      pivot: {x: -1.12658226, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WG0
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 544
+        width: 96
+        height: 195
+      alignment: 9
+      pivot: {x: -.822916687, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WG1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 347
+        width: 96
+        height: 195
+      alignment: 9
+      pivot: {x: -.895833313, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WG2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 347
+        width: 71
+        height: 195
+      alignment: 9
+      pivot: {x: -1.28169012, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WG3
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 347
+        width: 77
+        height: 195
+      alignment: 9
+      pivot: {x: -1.10389614, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WG4
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 347
+        width: 95
+        height: 195
+      alignment: 9
+      pivot: {x: -.863157868, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WH0
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 349
+        width: 76
+        height: 193
+      alignment: 9
+      pivot: {x: -1.19736838, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WH1
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 349
+        width: 95
+        height: 193
+      alignment: 9
+      pivot: {x: -.905263186, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WH2
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 349
+        width: 91
+        height: 193
+      alignment: 9
+      pivot: {x: -.934065938, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WH3
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 349
+        width: 82
+        height: 193
+      alignment: 9
+      pivot: {x: -1.06097555, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332WH4
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 349
+        width: 76
+        height: 193
+      alignment: 9
+      pivot: {x: -1.17105258, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M332XA0
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 501
+        width: 194
+        height: 41
+      alignment: 9
+      pivot: {x: -.15463917, y: 6.24390221}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,38 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 27.07.2016 06:15:52
+
+newmtl HealerTent_S_mso
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka D:\My pictures\gameproject\Might&Magic\Wheel_001DiffuseMap.jpg
+	map_Kd D:\My pictures\gameproject\Might&Magic\Wheel_001DiffuseMap.jpg
+	map_Ks D:\My pictures\gameproject\Might&Magic\Wheel_001DiffuseMap.jpg
+	map_bump -bm 0.300000 Map__225_Normal_Bump.tga
+
+newmtl wire_177148027
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.694118 0.580392 0.105882
+	Kd 0.694118 0.580392 0.105882
+	Ks 0.350000 0.350000 0.350000
+
+newmtl wire_138008110
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.541176 0.031373 0.431373
+	Kd 0.541176 0.031373 0.431373
+	Ks 0.350000 0.350000 0.350000

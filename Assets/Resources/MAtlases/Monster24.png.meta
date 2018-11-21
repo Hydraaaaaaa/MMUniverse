@@ -1,0 +1,1419 @@
+fileFormatVersion: 2
+guid: 15f1f6887fc5a5549be501f63f840439
+timeCreated: 1442628082
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: m242aa0
+    21300002: m242aa1
+    21300004: m242aa2
+    21300006: m242aa3
+    21300008: m242aa4
+    21300010: m242ab0
+    21300012: m242ab1
+    21300014: m242ab2
+    21300016: m242ab3
+    21300018: m242ab4
+    21300020: m242ac0
+    21300022: m242ac1
+    21300024: m242ac2
+    21300026: m242ac3
+    21300028: m242ac4
+    21300030: m242ad0
+    21300032: m242ad1
+    21300034: m242ad2
+    21300036: m242ad3
+    21300038: m242ad4
+    21300040: m242ae0
+    21300042: m242ae1
+    21300044: m242ae2
+    21300046: m242ae3
+    21300048: m242ae4
+    21300050: m242af0
+    21300052: m242af1
+    21300054: m242af2
+    21300056: m242af3
+    21300058: m242af4
+    21300060: m242ag0
+    21300062: m242ag1
+    21300064: m242ag2
+    21300066: m242ag3
+    21300068: m242ag4
+    21300070: m242ah0
+    21300072: m242ah1
+    21300074: m242ah2
+    21300076: m242ah3
+    21300078: m242ah4
+    21300080: m242da0
+    21300082: m242db0
+    21300084: m242dc0
+    21300086: m242dd0
+    21300088: m242fa0
+    21300090: m242fb0
+    21300092: m242fc0
+    21300094: m242fd0
+    21300096: m242na0
+    21300098: m242na1
+    21300100: m242na2
+    21300102: m242na3
+    21300104: m242na4
+    21300106: m242nb0
+    21300108: m242nb1
+    21300110: m242nb2
+    21300112: m242nb3
+    21300114: m242nb4
+    21300116: m242nc0
+    21300118: m242nc1
+    21300120: m242nc2
+    21300122: m242nc3
+    21300124: m242nc4
+    21300126: m242nd0
+    21300128: m242nd1
+    21300130: m242nd2
+    21300132: m242nd3
+    21300134: m242nd4
+    21300136: m242ne0
+    21300138: m242ne1
+    21300140: m242ne2
+    21300142: m242ne3
+    21300144: m242ne4
+    21300146: m242nf0
+    21300148: m242nf1
+    21300150: m242nf2
+    21300152: m242nf3
+    21300154: m242nf4
+    21300156: m242sa0
+    21300158: m242sa1
+    21300160: m242sa2
+    21300162: m242sa3
+    21300164: m242sa4
+    21300166: m242wa0
+    21300168: m242wa1
+    21300170: m242wa2
+    21300172: m242wa3
+    21300174: m242wa4
+    21300176: m242wb0
+    21300178: m242wb1
+    21300180: m242wb2
+    21300182: m242wb3
+    21300184: m242wb4
+    21300186: m242wc0
+    21300188: m242wc1
+    21300190: m242wc2
+    21300192: m242wc3
+    21300194: m242wc4
+    21300196: m242wd0
+    21300198: m242wd1
+    21300200: m242wd2
+    21300202: m242wd3
+    21300204: m242wd4
+    21300206: m242we0
+    21300208: m242we1
+    21300210: m242we2
+    21300212: m242we3
+    21300214: m242we4
+    21300216: m242wf0
+    21300218: m242wf1
+    21300220: m242wf2
+    21300222: m242wf3
+    21300224: m242wf4
+    21300226: m242wg0
+    21300228: m242wg1
+    21300230: m242wg2
+    21300232: m242wg3
+    21300234: m242wg4
+    21300236: m242wh0
+    21300238: m242wh1
+    21300240: m242wh2
+    21300242: m242wh3
+    21300244: m242wh4
+    21300246: m242xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: m242aa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1882
+        width: 123
+        height: 164
+      alignment: 9
+      pivot: {x: -.471544713, y: 1.46341467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242aa1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1881
+        width: 109
+        height: 165
+      alignment: 9
+      pivot: {x: -.706422031, y: 1.4606061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242aa2
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1882
+        width: 80
+        height: 164
+      alignment: 9
+      pivot: {x: -1.07500005, y: 1.46341467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242aa3
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1881
+        width: 112
+        height: 165
+      alignment: 9
+      pivot: {x: -.732142866, y: 1.4606061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242aa4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1881
+        width: 123
+        height: 165
+      alignment: 9
+      pivot: {x: -.609756112, y: 1.4606061}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ab0
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1865
+        width: 127
+        height: 181
+      alignment: 9
+      pivot: {x: -.448818892, y: 1.27624309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ab1
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 1866
+        width: 97
+        height: 180
+      alignment: 9
+      pivot: {x: -.443298966, y: 1.27777779}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ab2
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1865
+        width: 58
+        height: 181
+      alignment: 9
+      pivot: {x: -1.06896555, y: 1.27624309}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ab3
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1863
+        width: 95
+        height: 183
+      alignment: 9
+      pivot: {x: -.547368407, y: 1.26775956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ab4
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1863
+        width: 129
+        height: 183
+      alignment: 9
+      pivot: {x: -.550387621, y: 1.26775956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ac0
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1888
+        width: 114
+        height: 158
+      alignment: 9
+      pivot: {x: -.578947365, y: 1.40506327}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ac1
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 1889
+        width: 111
+        height: 157
+      alignment: 9
+      pivot: {x: -.270270258, y: 1.40764332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ac2
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 1887
+        width: 83
+        height: 159
+      alignment: 9
+      pivot: {x: -.481927723, y: 1.39622641}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ac3
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1886
+        width: 108
+        height: 160
+      alignment: 9
+      pivot: {x: -.333333343, y: 1.39374995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ac4
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1885
+        width: 116
+        height: 161
+      alignment: 9
+      pivot: {x: -.646551728, y: 1.38509321}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ad0
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 1909
+        width: 97
+        height: 137
+      alignment: 9
+      pivot: {x: -.762886584, y: 1.34306574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ad1
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1909
+        width: 100
+        height: 137
+      alignment: 9
+      pivot: {x: -.720000029, y: 1.34306574}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ad2
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1910
+        width: 101
+        height: 136
+      alignment: 9
+      pivot: {x: -.574257433, y: 1.35294116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ad3
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1910
+        width: 110
+        height: 136
+      alignment: 9
+      pivot: {x: -.645454526, y: 1.35294116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ad4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1724
+        width: 96
+        height: 137
+      alignment: 9
+      pivot: {x: -.885416687, y: 1.35036492}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ae0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1753
+        width: 91
+        height: 108
+      alignment: 9
+      pivot: {x: -.879120886, y: 1.85185182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ae1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1753
+        width: 138
+        height: 108
+      alignment: 9
+      pivot: {x: -.681159437, y: 1.85185182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ae2
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1753
+        width: 153
+        height: 108
+      alignment: 9
+      pivot: {x: -.63398695, y: 1.85185182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ae3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1753
+        width: 135
+        height: 108
+      alignment: 9
+      pivot: {x: -.696296275, y: 1.85185182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ae4
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1753
+        width: 91
+        height: 108
+      alignment: 9
+      pivot: {x: -.934065938, y: 1.85185182}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242af0
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1718
+        width: 133
+        height: 143
+      alignment: 9
+      pivot: {x: -.421052635, y: 1.75524473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242af1
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1718
+        width: 102
+        height: 143
+      alignment: 9
+      pivot: {x: -.90196079, y: 1.75524473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242af2
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1719
+        width: 88
+        height: 142
+      alignment: 9
+      pivot: {x: -1.51136363, y: 1.76056337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242af3
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1719
+        width: 101
+        height: 142
+      alignment: 9
+      pivot: {x: -.970297039, y: 1.76056337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242af4
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 1719
+        width: 131
+        height: 142
+      alignment: 9
+      pivot: {x: -.519083977, y: 1.76056337}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ag0
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1734
+        width: 110
+        height: 127
+      alignment: 9
+      pivot: {x: -.600000024, y: 1.82677162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ag1
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1734
+        width: 113
+        height: 127
+      alignment: 9
+      pivot: {x: -.823008835, y: 1.82677162}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ag2
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1736
+        width: 93
+        height: 125
+      alignment: 9
+      pivot: {x: -1.45161295, y: 1.84800005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ag3
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1737
+        width: 101
+        height: 124
+      alignment: 9
+      pivot: {x: -1.02970302, y: 1.85483873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ag4
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 1737
+        width: 109
+        height: 124
+      alignment: 9
+      pivot: {x: -.733944952, y: 1.85483873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ah0
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1708
+        width: 97
+        height: 153
+      alignment: 9
+      pivot: {x: -.773195863, y: 1.60784316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ah1
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1709
+        width: 93
+        height: 152
+      alignment: 9
+      pivot: {x: -1.11827958, y: 1.61184216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ah2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1555
+        width: 59
+        height: 151
+      alignment: 9
+      pivot: {x: -2.37288141, y: 1.62251651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ah3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1556
+        width: 88
+        height: 150
+      alignment: 9
+      pivot: {x: -1.22727275, y: 1.62666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ah4
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1556
+        width: 97
+        height: 150
+      alignment: 9
+      pivot: {x: -.865979373, y: 1.62666667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242da0
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1614
+        width: 108
+        height: 92
+      alignment: 9
+      pivot: {x: -.666666687, y: 2.4891305}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242db0
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1603
+        width: 91
+        height: 103
+      alignment: 9
+      pivot: {x: -.879120886, y: 2.48543692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242dc0
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1635
+        width: 156
+        height: 71
+      alignment: 9
+      pivot: {x: -.326923072, y: 3.60563374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242dd0
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1661
+        width: 194
+        height: 45
+      alignment: 9
+      pivot: {x: -.144329891, y: 5.5999999}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242fa0
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1541
+        width: 91
+        height: 165
+      alignment: 9
+      pivot: {x: -.879120886, y: 1.4787879}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242fb0
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1550
+        width: 98
+        height: 156
+      alignment: 9
+      pivot: {x: -.744897962, y: 1.55769229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242fc0
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 1564
+        width: 132
+        height: 142
+      alignment: 9
+      pivot: {x: -.431818187, y: 1.71830988}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242fd0
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1577
+        width: 155
+        height: 129
+      alignment: 9
+      pivot: {x: -.309677422, y: 1.95348835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242na0
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 1579
+        width: 91
+        height: 127
+      alignment: 9
+      pivot: {x: -.879120886, y: 1.66929138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242na1
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 1579
+        width: 97
+        height: 127
+      alignment: 9
+      pivot: {x: -.783505142, y: 1.66929138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242na2
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 1579
+        width: 79
+        height: 127
+      alignment: 9
+      pivot: {x: -1.07594931, y: 1.66929138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242na3
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1580
+        width: 97
+        height: 126
+      alignment: 9
+      pivot: {x: -.814432979, y: 1.67460322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242na4
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1579
+        width: 91
+        height: 127
+      alignment: 9
+      pivot: {x: -.934065938, y: 1.66929138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nb0
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 1623
+        width: 147
+        height: 83
+      alignment: 9
+      pivot: {x: -.353741497, y: 2.34939766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nb1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1455
+        width: 150
+        height: 84
+      alignment: 9
+      pivot: {x: 0, y: 2.33333325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nb2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1455
+        width: 128
+        height: 84
+      alignment: 9
+      pivot: {x: -.0859375, y: 2.33333325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nb3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1455
+        width: 141
+        height: 84
+      alignment: 9
+      pivot: {x: -.0638297871, y: 2.33333325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nb4
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1455
+        width: 150
+        height: 84
+      alignment: 9
+      pivot: {x: -.373333335, y: 2.33333325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nc0
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1438
+        width: 106
+        height: 101
+      alignment: 9
+      pivot: {x: -.754716992, y: 2.22772288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nc1
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1438
+        width: 138
+        height: 101
+      alignment: 9
+      pivot: {x: -.0724637657, y: 2.22772288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nc2
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1438
+        width: 144
+        height: 101
+      alignment: 9
+      pivot: {x: -.020833334, y: 2.22772288}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nc3
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1437
+        width: 143
+        height: 102
+      alignment: 9
+      pivot: {x: -.0349650346, y: 2.21568632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nc4
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1437
+        width: 109
+        height: 102
+      alignment: 9
+      pivot: {x: -.623853207, y: 2.21568632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nd0
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1393
+        width: 158
+        height: 146
+      alignment: 9
+      pivot: {x: -.291139245, y: 1.63698626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nd1
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 1393
+        width: 123
+        height: 146
+      alignment: 9
+      pivot: {x: -.300813019, y: 1.63698626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nd2
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1392
+        width: 59
+        height: 147
+      alignment: 9
+      pivot: {x: -1.01694918, y: 1.62585032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nd3
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 1391
+        width: 111
+        height: 148
+      alignment: 9
+      pivot: {x: -.432432443, y: 1.62162161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nd4
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 1391
+        width: 160
+        height: 148
+      alignment: 9
+      pivot: {x: -.318749994, y: 1.62162161}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ne0
+      rect:
+        serializedVersion: 2
+        x: 1850
+        y: 1380
+        width: 131
+        height: 159
+      alignment: 9
+      pivot: {x: -.458015263, y: 1.49685538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ne1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1219
+        width: 109
+        height: 159
+      alignment: 9
+      pivot: {x: -.522935808, y: 1.49685538}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ne2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1217
+        width: 40
+        height: 161
+      alignment: 9
+      pivot: {x: -2.0999999, y: 1.48447204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ne3
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1217
+        width: 100
+        height: 161
+      alignment: 9
+      pivot: {x: -.649999976, y: 1.48447204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242ne4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1217
+        width: 133
+        height: 161
+      alignment: 9
+      pivot: {x: -.48120302, y: 1.48447204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nf0
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1216
+        width: 97
+        height: 162
+      alignment: 9
+      pivot: {x: -.762886584, y: 1.43827164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nf1
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1216
+        width: 92
+        height: 162
+      alignment: 9
+      pivot: {x: -.815217376, y: 1.43827164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nf2
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 1216
+        width: 53
+        height: 162
+      alignment: 9
+      pivot: {x: -1.83018863, y: 1.43827164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nf3
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1216
+        width: 94
+        height: 162
+      alignment: 9
+      pivot: {x: -.829787254, y: 1.43827164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242nf4
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1216
+        width: 97
+        height: 162
+      alignment: 9
+      pivot: {x: -.876288652, y: 1.43827164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242sa0
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1209
+        width: 90
+        height: 169
+      alignment: 9
+      pivot: {x: -.888888896, y: 1.44970417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242sa1
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1209
+        width: 70
+        height: 169
+      alignment: 9
+      pivot: {x: -1.2428571, y: 1.44970417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242sa2
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1209
+        width: 56
+        height: 169
+      alignment: 9
+      pivot: {x: -1.85714281, y: 1.44970417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242sa3
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1209
+        width: 78
+        height: 169
+      alignment: 9
+      pivot: {x: -1.16666663, y: 1.44970417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242sa4
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1209
+        width: 90
+        height: 169
+      alignment: 9
+      pivot: {x: -.955555558, y: 1.44970417}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wa0
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1288
+        width: 91
+        height: 90
+      alignment: 9
+      pivot: {x: -.879120886, y: 2.20000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wa1
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 1288
+        width: 127
+        height: 90
+      alignment: 9
+      pivot: {x: -.417322844, y: 2.20000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wa2
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 1288
+        width: 149
+        height: 90
+      alignment: 9
+      pivot: {x: -.208053693, y: 2.20000005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wa3
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1287
+        width: 134
+        height: 91
+      alignment: 9
+      pivot: {x: -.380597025, y: 2.18681312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wa4
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1287
+        width: 92
+        height: 91
+      alignment: 9
+      pivot: {x: -.923913062, y: 2.18681312}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wb0
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 1283
+        width: 110
+        height: 95
+      alignment: 9
+      pivot: {x: -.627272725, y: 2.13684201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wb1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1112
+        width: 136
+        height: 95
+      alignment: 9
+      pivot: {x: -.411764711, y: 2.13684201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wb2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1112
+        width: 133
+        height: 95
+      alignment: 9
+      pivot: {x: -.315789461, y: 2.13684201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wb3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1111
+        width: 142
+        height: 96
+      alignment: 9
+      pivot: {x: -.387323946, y: 2.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wb4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1111
+        width: 109
+        height: 96
+      alignment: 9
+      pivot: {x: -.706422031, y: 2.125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wc0
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1105
+        width: 141
+        height: 102
+      alignment: 9
+      pivot: {x: -.368794322, y: 2.00980401}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wc1
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1104
+        width: 119
+        height: 103
+      alignment: 9
+      pivot: {x: -.521008432, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wc2
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1104
+        width: 120
+        height: 103
+      alignment: 9
+      pivot: {x: -.400000006, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wc3
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1104
+        width: 128
+        height: 103
+      alignment: 9
+      pivot: {x: -.46875, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wc4
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 1104
+        width: 141
+        height: 103
+      alignment: 9
+      pivot: {x: -.446808517, y: 2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wd0
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 1085
+        width: 145
+        height: 122
+      alignment: 9
+      pivot: {x: -.331034482, y: 1.6885246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wd1
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1085
+        width: 130
+        height: 122
+      alignment: 9
+      pivot: {x: -.484615386, y: 1.6885246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wd2
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1085
+        width: 117
+        height: 122
+      alignment: 9
+      pivot: {x: -.384615391, y: 1.6885246}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wd3
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1084
+        width: 141
+        height: 123
+      alignment: 9
+      pivot: {x: -.453900695, y: 1.68292677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wd4
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1084
+        width: 144
+        height: 123
+      alignment: 9
+      pivot: {x: -.4375, y: 1.68292677}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242we0
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1064
+        width: 117
+        height: 143
+      alignment: 9
+      pivot: {x: -.547008574, y: 1.51748252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242we1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 919
+        width: 122
+        height: 143
+      alignment: 9
+      pivot: {x: -.590163946, y: 1.51748252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242we2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 919
+        width: 114
+        height: 143
+      alignment: 9
+      pivot: {x: -.552631557, y: 1.51748252}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242we3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 917
+        width: 132
+        height: 145
+      alignment: 9
+      pivot: {x: -.530303001, y: 1.50344825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242we4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 917
+        width: 117
+        height: 145
+      alignment: 9
+      pivot: {x: -.641025662, y: 1.50344825}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wf0
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 931
+        width: 90
+        height: 131
+      alignment: 9
+      pivot: {x: -.888888896, y: 1.60305345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wf1
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 931
+        width: 114
+        height: 131
+      alignment: 9
+      pivot: {x: -.570175409, y: 1.60305345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wf2
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 931
+        width: 120
+        height: 131
+      alignment: 9
+      pivot: {x: -.458333343, y: 1.60305345}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wf3
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 930
+        width: 122
+        height: 132
+      alignment: 9
+      pivot: {x: -.524590135, y: 1.59848487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wf4
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 930
+        width: 91
+        height: 132
+      alignment: 9
+      pivot: {x: -.934065938, y: 1.59848487}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wg0
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 958
+        width: 91
+        height: 104
+      alignment: 9
+      pivot: {x: -.879120886, y: 1.86538458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wg1
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 959
+        width: 111
+        height: 103
+      alignment: 9
+      pivot: {x: -.504504502, y: 1.87378645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wg2
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 958
+        width: 134
+        height: 104
+      alignment: 9
+      pivot: {x: -.276119411, y: 1.86538458}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wg3
+      rect:
+        serializedVersion: 2
+        x: 1384
+        y: 957
+        width: 118
+        height: 105
+      alignment: 9
+      pivot: {x: -.466101706, y: 1.85714281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wg4
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 957
+        width: 92
+        height: 105
+      alignment: 9
+      pivot: {x: -.923913062, y: 1.85714281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wh0
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 973
+        width: 91
+        height: 89
+      alignment: 9
+      pivot: {x: -.879120886, y: 2.13483143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wh1
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 973
+        width: 116
+        height: 89
+      alignment: 9
+      pivot: {x: -.439655185, y: 2.13483143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wh2
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 973
+        width: 144
+        height: 89
+      alignment: 9
+      pivot: {x: -.194444448, y: 2.13483143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wh3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 826
+        width: 122
+        height: 89
+      alignment: 9
+      pivot: {x: -.409836054, y: 2.13483143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242wh4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 826
+        width: 91
+        height: 89
+      alignment: 9
+      pivot: {x: -.934065938, y: 2.13483143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m242xa0
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 885
+        width: 188
+        height: 30
+      alignment: 9
+      pivot: {x: -.127659574, y: 8.53333378}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: e4785cbca78d6e146a34a0c9c9a5fad0
+timeCreated: 1440778543
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PC23v1Bod
+    21300002: PC23v1Lad
+    21300004: PC23v1Lau
+    21300006: PC23v1Lh
+    21300008: PC23v1Lhu
+    21300010: PC23v1Rh
+    21300012: PC23v2Bod
+    21300014: PC23v2Lad
+    21300016: PC23v2Lau
+    21300018: PC23v2Lh
+    21300020: PC23v2Lhu
+    21300022: PC23v2Rh
+    21300024: PC23v3Bod
+    21300026: PC23v3Lad
+    21300028: PC23v3Lau
+    21300030: PC23v3Lh
+    21300032: PC23v3Lhu
+    21300034: PC23v3Rh
+    21300036: PC23v4Bod
+    21300038: PC23v4Lad
+    21300040: PC23v4Lau
+    21300042: PC23v4Lh
+    21300044: PC23v4Lhu
+    21300046: PC23v4Rh
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PC23v1Bod
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 669
+        width: 173
+        height: 353
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v1Lad
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 901
+        width: 47
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v1Lau
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 857
+        width: 104
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v1Lh
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 763
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v1Lhu
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 585
+        width: 20
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v1Rh
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 601
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v2Bod
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 669
+        width: 173
+        height: 353
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v2Lad
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 787
+        width: 46
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v2Lau
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 690
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v2Lh
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 742
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v2Lhu
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 603
+        width: 20
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v2Rh
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 626
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v3Bod
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 314
+        width: 173
+        height: 353
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v3Lad
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 690
+        width: 39
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v3Lau
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 937
+        width: 105
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v3Lh
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 646
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v3Lhu
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 603
+        width: 20
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v3Rh
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 665
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v4Bod
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 314
+        width: 173
+        height: 353
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v4Lad
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 599
+        width: 35
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v4Lau
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 777
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v4Lh
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 668
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v4Lhu
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 584
+        width: 20
+        height: 78
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PC23v4Rh
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 664
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

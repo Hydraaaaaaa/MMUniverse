@@ -1,0 +1,1375 @@
+fileFormatVersion: 2
+guid: 450d07d995e339c45bafe99e642db2e6
+timeCreated: 1442628802
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M462Aa0
+    21300002: M462Aa1
+    21300004: M462Aa2
+    21300006: M462Aa3
+    21300008: M462Aa4
+    21300010: M462Ab0
+    21300012: M462Ab1
+    21300014: M462Ab2
+    21300016: M462Ab3
+    21300018: M462Ab4
+    21300020: M462Ac0
+    21300022: M462Ac1
+    21300024: M462Ac2
+    21300026: M462Ac3
+    21300028: M462Ac4
+    21300030: M462Ad0
+    21300032: M462Ad1
+    21300034: M462Ad2
+    21300036: M462Ad3
+    21300038: M462Ad4
+    21300040: M462Ae0
+    21300042: M462Ae1
+    21300044: M462Ae2
+    21300046: M462Ae3
+    21300048: M462Ae4
+    21300050: M462Af0
+    21300052: M462Af1
+    21300054: M462Af2
+    21300056: M462Af3
+    21300058: M462Af4
+    21300060: M462Ag0
+    21300062: M462Ag1
+    21300064: M462Ag2
+    21300066: M462Ag3
+    21300068: M462Ag4
+    21300070: M462Ah0
+    21300072: M462Ah1
+    21300074: M462Ah2
+    21300076: M462Ah3
+    21300078: M462Ah4
+    21300080: M462Da0
+    21300082: M462Db0
+    21300084: M462Dc0
+    21300086: M462Dd0
+    21300088: M462Fa0
+    21300090: M462Fb0
+    21300092: M462Fc0
+    21300094: M462Na0
+    21300096: M462Na1
+    21300098: M462Na2
+    21300100: M462Na3
+    21300102: M462Na4
+    21300104: m462Fd0
+    21300106: m462Fe0
+    21300108: m462Nb0
+    21300110: m462Nb1
+    21300112: m462Nb2
+    21300114: m462Nb3
+    21300116: m462Nb4
+    21300118: m462Nc0
+    21300120: m462Nc1
+    21300122: m462Nc2
+    21300124: m462Nc3
+    21300126: m462Nc4
+    21300128: m462Nd0
+    21300130: m462Nd1
+    21300132: m462Nd2
+    21300134: m462Nd3
+    21300136: m462Nd4
+    21300138: m462Ne0
+    21300140: m462Ne1
+    21300142: m462Ne2
+    21300144: m462Ne3
+    21300146: m462Ne4
+    21300148: m462Sa0
+    21300150: m462Sa1
+    21300152: m462Sa2
+    21300154: m462Sa3
+    21300156: m462Sa4
+    21300158: m462Wa0
+    21300160: m462Wa1
+    21300162: m462Wa2
+    21300164: m462Wa3
+    21300166: m462Wa4
+    21300168: m462Wb0
+    21300170: m462Wb1
+    21300172: m462Wb2
+    21300174: m462Wb3
+    21300176: m462Wb4
+    21300178: m462Wc0
+    21300180: m462Wc1
+    21300182: m462Wc2
+    21300184: m462Wc3
+    21300186: m462Wc4
+    21300188: m462Wd0
+    21300190: m462Wd1
+    21300192: m462Wd2
+    21300194: m462Wd3
+    21300196: m462Wd4
+    21300198: m462We0
+    21300200: m462We1
+    21300202: m462We2
+    21300204: m462We3
+    21300206: m462We4
+    21300208: m462Wf0
+    21300210: m462Wf1
+    21300212: m462Wf2
+    21300214: m462Wf3
+    21300216: m462Wf4
+    21300218: m462Wg0
+    21300220: m462Wg1
+    21300222: m462Wg2
+    21300224: m462Wg3
+    21300226: m462Wg4
+    21300228: m462Wh0
+    21300230: m462Wh1
+    21300232: m462Wh2
+    21300234: m462Wh3
+    21300236: m462Wh4
+    21300238: m462Xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: M462Aa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3895
+        width: 135
+        height: 199
+      alignment: 9
+      pivot: {x: -.65925926, y: 1.28643215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Aa1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3895
+        width: 107
+        height: 199
+      alignment: 9
+      pivot: {x: -.943925261, y: 1.28643215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Aa2
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3895
+        width: 126
+        height: 199
+      alignment: 9
+      pivot: {x: -.634920657, y: 1.28643215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Aa3
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 3896
+        width: 151
+        height: 198
+      alignment: 9
+      pivot: {x: -.238410592, y: 1.28787875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Aa4
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 3896
+        width: 135
+        height: 198
+      alignment: 9
+      pivot: {x: -.237037033, y: 1.28787875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ab0
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 3899
+        width: 143
+        height: 195
+      alignment: 9
+      pivot: {x: -.622377634, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ab1
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 3899
+        width: 85
+        height: 195
+      alignment: 9
+      pivot: {x: -1.20000005, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ab2
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 3899
+        width: 135
+        height: 195
+      alignment: 9
+      pivot: {x: -.370370358, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ab3
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 3900
+        width: 179
+        height: 194
+      alignment: 9
+      pivot: {x: -.0446927361, y: 1.31443298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ab4
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 3900
+        width: 145
+        height: 194
+      alignment: 9
+      pivot: {x: -.151724145, y: 1.31443298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ac0
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 3901
+        width: 143
+        height: 193
+      alignment: 9
+      pivot: {x: -.622377634, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ac1
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 3901
+        width: 84
+        height: 193
+      alignment: 9
+      pivot: {x: -1.21428573, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ac2
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 3901
+        width: 150
+        height: 193
+      alignment: 9
+      pivot: {x: -.233333334, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ac3
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 3902
+        width: 187
+        height: 192
+      alignment: 9
+      pivot: {x: 0, y: 1.328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ac4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3701
+        width: 145
+        height: 192
+      alignment: 9
+      pivot: {x: -.151724145, y: 1.328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ad0
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3699
+        width: 172
+        height: 194
+      alignment: 9
+      pivot: {x: -.447674423, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ad1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3699
+        width: 116
+        height: 194
+      alignment: 9
+      pivot: {x: -.836206913, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ad2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3699
+        width: 112
+        height: 194
+      alignment: 9
+      pivot: {x: -.794642866, y: 1.31958759}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ad3
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 3699
+        width: 176
+        height: 194
+      alignment: 9
+      pivot: {x: -.181818187, y: 1.31443298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ad4
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 3699
+        width: 172
+        height: 194
+      alignment: 9
+      pivot: {x: -.0406976752, y: 1.31443298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ae0
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 3700
+        width: 200
+        height: 193
+      alignment: 9
+      pivot: {x: -.0299999993, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ae1
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 3700
+        width: 206
+        height: 193
+      alignment: 9
+      pivot: {x: -.116504855, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ae2
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 3700
+        width: 111
+        height: 193
+      alignment: 9
+      pivot: {x: -.77477479, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ae3
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 3701
+        width: 168
+        height: 192
+      alignment: 9
+      pivot: {x: -.505952358, y: 1.328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ae4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3701
+        width: 198
+        height: 192
+      alignment: 9
+      pivot: {x: -.25252524, y: 1.328125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Af0
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 3695
+        width: 195
+        height: 198
+      alignment: 9
+      pivot: {x: -.025641026, y: 1.29292929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Af1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3495
+        width: 184
+        height: 198
+      alignment: 9
+      pivot: {x: -.184782609, y: 1.29292929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Af2
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3495
+        width: 108
+        height: 198
+      alignment: 9
+      pivot: {x: -.879629612, y: 1.29292929}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Af3
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 3496
+        width: 170
+        height: 197
+      alignment: 9
+      pivot: {x: -.505882382, y: 1.29441619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Af4
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 3496
+        width: 192
+        height: 197
+      alignment: 9
+      pivot: {x: -.296875, y: 1.29441619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ag0
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3493
+        width: 181
+        height: 200
+      alignment: 9
+      pivot: {x: -.116022103, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ag1
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 3493
+        width: 160
+        height: 200
+      alignment: 9
+      pivot: {x: -.324999988, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ag2
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 3493
+        width: 120
+        height: 200
+      alignment: 9
+      pivot: {x: -.800000012, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ag3
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 3494
+        width: 173
+        height: 199
+      alignment: 9
+      pivot: {x: -.479768783, y: 1.281407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ag4
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3493
+        width: 179
+        height: 200
+      alignment: 9
+      pivot: {x: -.30726257, y: 1.27499998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ah0
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 3489
+        width: 150
+        height: 204
+      alignment: 9
+      pivot: {x: -.366666675, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ah1
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 3489
+        width: 116
+        height: 204
+      alignment: 9
+      pivot: {x: -.741379321, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ah2
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 3489
+        width: 128
+        height: 204
+      alignment: 9
+      pivot: {x: -.7578125, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ah3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3284
+        width: 161
+        height: 203
+      alignment: 9
+      pivot: {x: -.472049683, y: 1.25615764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Ah4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3284
+        width: 149
+        height: 203
+      alignment: 9
+      pivot: {x: -.342281878, y: 1.25615764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Da0
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 3327
+        width: 203
+        height: 160
+      alignment: 9
+      pivot: {x: -.22660099, y: 1.55624998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Db0
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 3370
+        width: 214
+        height: 117
+      alignment: 9
+      pivot: {x: -.144859806, y: 2.1880343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Dc0
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 3410
+        width: 219
+        height: 77
+      alignment: 9
+      pivot: {x: -.141552508, y: 3.29870129}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Dd0
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 3435
+        width: 232
+        height: 52
+      alignment: 9
+      pivot: {x: -.0905172378, y: 4.92307711}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Fa0
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 3285
+        width: 159
+        height: 202
+      alignment: 9
+      pivot: {x: -.415094346, y: 1.26732671}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Fb0
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 3288
+        width: 170
+        height: 199
+      alignment: 9
+      pivot: {x: -.400000006, y: 1.28643215}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Fc0
+      rect:
+        serializedVersion: 2
+        x: 1525
+        y: 3286
+        width: 161
+        height: 201
+      alignment: 9
+      pivot: {x: -.397515535, y: 1.27363181}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Na0
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 3274
+        width: 182
+        height: 213
+      alignment: 9
+      pivot: {x: -.313186824, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Na1
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 3273
+        width: 140
+        height: 214
+      alignment: 9
+      pivot: {x: -.607142866, y: 1.19626164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Na2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3058
+        width: 134
+        height: 213
+      alignment: 9
+      pivot: {x: -.410447747, y: 1.20187795}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Na3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3059
+        width: 155
+        height: 212
+      alignment: 9
+      pivot: {x: -.341935486, y: 1.2028302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M462Na4
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3059
+        width: 180
+        height: 212
+      alignment: 9
+      pivot: {x: -.100000001, y: 1.2028302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Fd0
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 3066
+        width: 161
+        height: 205
+      alignment: 9
+      pivot: {x: -.149068326, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Fe0
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 3065
+        width: 158
+        height: 206
+      alignment: 9
+      pivot: {x: -.259493679, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Nb0
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3054
+        width: 183
+        height: 217
+      alignment: 9
+      pivot: {x: -.377049178, y: 1.1797235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Nb1
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 3054
+        width: 136
+        height: 217
+      alignment: 9
+      pivot: {x: -.602941155, y: 1.1797235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Nb2
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 3055
+        width: 138
+        height: 216
+      alignment: 9
+      pivot: {x: -.340579718, y: 1.18055558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Nb3
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 3054
+        width: 153
+        height: 217
+      alignment: 9
+      pivot: {x: -.222222224, y: 1.17511523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Nb4
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 3054
+        width: 183
+        height: 217
+      alignment: 9
+      pivot: {x: -.0218579229, y: 1.17511523}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Nc0
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 3054
+        width: 191
+        height: 217
+      alignment: 9
+      pivot: {x: -.282722503, y: 1.1797235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Nc1
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 3054
+        width: 151
+        height: 217
+      alignment: 9
+      pivot: {x: -.503311276, y: 1.1797235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Nc2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2835
+        width: 114
+        height: 217
+      alignment: 9
+      pivot: {x: -.622807026, y: 1.1797235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Nc3
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2836
+        width: 142
+        height: 216
+      alignment: 9
+      pivot: {x: -.316901416, y: 1.18055558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Nc4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2836
+        width: 191
+        height: 216
+      alignment: 9
+      pivot: {x: -.0575916246, y: 1.18055558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Nd0
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2859
+        width: 216
+        height: 193
+      alignment: 9
+      pivot: {x: -.0925925896, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Nd1
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2859
+        width: 147
+        height: 193
+      alignment: 9
+      pivot: {x: -.503401339, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Nd2
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2859
+        width: 133
+        height: 193
+      alignment: 9
+      pivot: {x: -.744360924, y: 1.32642484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Nd3
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 2861
+        width: 193
+        height: 191
+      alignment: 9
+      pivot: {x: -.31088084, y: 1.33507848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Nd4
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2862
+        width: 215
+        height: 190
+      alignment: 9
+      pivot: {x: -.0930232555, y: 1.34210527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Ne0
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 2856
+        width: 197
+        height: 196
+      alignment: 9
+      pivot: {x: -.152284265, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Ne1
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2856
+        width: 147
+        height: 196
+      alignment: 9
+      pivot: {x: -.37414965, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Ne2
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 2856
+        width: 107
+        height: 196
+      alignment: 9
+      pivot: {x: -.906542063, y: 1.30612242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Ne3
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 2857
+        width: 196
+        height: 195
+      alignment: 9
+      pivot: {x: -.260204077, y: 1.30769229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Ne4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2638
+        width: 195
+        height: 195
+      alignment: 9
+      pivot: {x: -.148717955, y: 1.30769229}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Sa0
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2627
+        width: 134
+        height: 206
+      alignment: 9
+      pivot: {x: -.529850721, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Sa1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2627
+        width: 106
+        height: 206
+      alignment: 9
+      pivot: {x: -.811320782, y: 1.24271846}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Sa2
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2628
+        width: 122
+        height: 205
+      alignment: 9
+      pivot: {x: -.803278685, y: 1.24390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Sa3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2628
+        width: 156
+        height: 205
+      alignment: 9
+      pivot: {x: -.448717952, y: 1.24390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Sa4
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 2628
+        width: 134
+        height: 205
+      alignment: 9
+      pivot: {x: -.380597025, y: 1.24390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wa0
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 2629
+        width: 175
+        height: 204
+      alignment: 9
+      pivot: {x: -.302857131, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wa1
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 2629
+        width: 170
+        height: 204
+      alignment: 9
+      pivot: {x: -.335294127, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wa2
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 2629
+        width: 136
+        height: 204
+      alignment: 9
+      pivot: {x: -.5, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wa3
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 2628
+        width: 163
+        height: 205
+      alignment: 9
+      pivot: {x: -.404907972, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wa4
+      rect:
+        serializedVersion: 2
+        x: 1513
+        y: 2628
+        width: 174
+        height: 205
+      alignment: 9
+      pivot: {x: -.166666672, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wb0
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 2633
+        width: 161
+        height: 200
+      alignment: 9
+      pivot: {x: -.372670799, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wb1
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 2633
+        width: 130
+        height: 200
+      alignment: 9
+      pivot: {x: -.569230795, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wb2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2425
+        width: 141
+        height: 200
+      alignment: 9
+      pivot: {x: -.574468076, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wb3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2425
+        width: 162
+        height: 200
+      alignment: 9
+      pivot: {x: -.351851851, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wb4
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 2425
+        width: 160
+        height: 200
+      alignment: 9
+      pivot: {x: -.21875, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wc0
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 2430
+        width: 138
+        height: 195
+      alignment: 9
+      pivot: {x: -.5, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wc1
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 2430
+        width: 143
+        height: 195
+      alignment: 9
+      pivot: {x: -.426573426, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wc2
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 2430
+        width: 157
+        height: 195
+      alignment: 9
+      pivot: {x: -.363057315, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wc3
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2430
+        width: 159
+        height: 195
+      alignment: 9
+      pivot: {x: -.28930819, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wc4
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 2430
+        width: 138
+        height: 195
+      alignment: 9
+      pivot: {x: -.347826093, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wd0
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 2425
+        width: 136
+        height: 200
+      alignment: 9
+      pivot: {x: -.477941185, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wd1
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 2425
+        width: 127
+        height: 200
+      alignment: 9
+      pivot: {x: -.48031497, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wd2
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 2425
+        width: 151
+        height: 200
+      alignment: 9
+      pivot: {x: -.357615888, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wd3
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 2425
+        width: 152
+        height: 200
+      alignment: 9
+      pivot: {x: -.355263144, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wd4
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 2425
+        width: 136
+        height: 200
+      alignment: 9
+      pivot: {x: -.397058815, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462We0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2219
+        width: 155
+        height: 204
+      alignment: 9
+      pivot: {x: -.296774179, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462We1
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2219
+        width: 119
+        height: 204
+      alignment: 9
+      pivot: {x: -.563025236, y: 1.25490201}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462We2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2220
+        width: 146
+        height: 203
+      alignment: 9
+      pivot: {x: -.452054799, y: 1.25615764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462We3
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2220
+        width: 144
+        height: 203
+      alignment: 9
+      pivot: {x: -.486111104, y: 1.25615764}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462We4
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2218
+        width: 155
+        height: 205
+      alignment: 9
+      pivot: {x: -.354838699, y: 1.24878049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wf0
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 2223
+        width: 151
+        height: 200
+      alignment: 9
+      pivot: {x: -.29801324, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wf1
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 2223
+        width: 169
+        height: 200
+      alignment: 9
+      pivot: {x: -.254437864, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wf2
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 2223
+        width: 108
+        height: 200
+      alignment: 9
+      pivot: {x: -.768518507, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wf3
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 2223
+        width: 150
+        height: 200
+      alignment: 9
+      pivot: {x: -.5, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wf4
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 2223
+        width: 152
+        height: 200
+      alignment: 9
+      pivot: {x: -.394736856, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wg0
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 2228
+        width: 145
+        height: 195
+      alignment: 9
+      pivot: {x: -.255172402, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wg1
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 2228
+        width: 183
+        height: 195
+      alignment: 9
+      pivot: {x: -.196721315, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wg2
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 2228
+        width: 161
+        height: 195
+      alignment: 9
+      pivot: {x: -.354037255, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wg3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2021
+        width: 158
+        height: 195
+      alignment: 9
+      pivot: {x: -.379746825, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wg4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2021
+        width: 143
+        height: 195
+      alignment: 9
+      pivot: {x: -.524475515, y: 1.31282055}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wh0
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2016
+        width: 142
+        height: 200
+      alignment: 9
+      pivot: {x: -.28169015, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wh1
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2016
+        width: 181
+        height: 200
+      alignment: 9
+      pivot: {x: -.226519331, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wh2
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2016
+        width: 161
+        height: 200
+      alignment: 9
+      pivot: {x: -.33540374, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wh3
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 2016
+        width: 163
+        height: 200
+      alignment: 9
+      pivot: {x: -.361963183, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Wh4
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 2016
+        width: 140
+        height: 200
+      alignment: 9
+      pivot: {x: -.535714269, y: 1.27999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: m462Xa0
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 2166
+        width: 229
+        height: 50
+      alignment: 9
+      pivot: {x: -.10043668, y: 5.11999989}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

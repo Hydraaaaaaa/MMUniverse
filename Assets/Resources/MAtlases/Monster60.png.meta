@@ -1,0 +1,1320 @@
+fileFormatVersion: 2
+guid: 8ce00a1cfd9b8b7438e287f2ec9e147f
+timeCreated: 1442629356
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: M434Aa0
+    21300002: M434Aa1
+    21300004: M434Aa2
+    21300006: M434Aa3
+    21300008: M434Aa4
+    21300010: M434Ab0
+    21300012: M434Ab1
+    21300014: M434Ab2
+    21300016: M434Ab3
+    21300018: M434Ab4
+    21300020: M434Ac0
+    21300022: M434Ac1
+    21300024: M434Ac2
+    21300026: M434Ac3
+    21300028: M434Ac4
+    21300030: M434Ad0
+    21300032: M434Ad1
+    21300034: M434Ad2
+    21300036: M434Ad3
+    21300038: M434Ad4
+    21300040: M434Ae0
+    21300042: M434Ae1
+    21300044: M434Ae2
+    21300046: M434Ae3
+    21300048: M434Ae4
+    21300050: M434Af0
+    21300052: M434Af1
+    21300054: M434Af2
+    21300056: M434Af3
+    21300058: M434Af4
+    21300060: M434Ag0
+    21300062: M434Ag1
+    21300064: M434Ag2
+    21300066: M434Ag3
+    21300068: M434Ag4
+    21300070: M434Da0
+    21300072: M434Db0
+    21300074: M434Dc0
+    21300076: M434Dd0
+    21300078: M434Na0
+    21300080: M434Na1
+    21300082: M434Na2
+    21300084: M434Na3
+    21300086: M434Na4
+    21300088: M434Nb0
+    21300090: M434Nb1
+    21300092: M434Nb2
+    21300094: M434Nb3
+    21300096: M434Nb4
+    21300098: M434Nc0
+    21300100: M434Nc1
+    21300102: M434Nc2
+    21300104: M434Nc3
+    21300106: M434Nc4
+    21300108: M434Nd0
+    21300110: M434Nd1
+    21300112: M434Nd2
+    21300114: M434Nd3
+    21300116: M434Nd4
+    21300118: M434Ne0
+    21300120: M434Ne1
+    21300122: M434Ne2
+    21300124: M434Ne3
+    21300126: M434Ne4
+    21300128: M434Nf0
+    21300130: M434Nf1
+    21300132: M434Nf2
+    21300134: M434Nf3
+    21300136: M434Nf4
+    21300138: M434Ng0
+    21300140: M434Ng1
+    21300142: M434Ng2
+    21300144: M434Ng3
+    21300146: M434Ng4
+    21300148: M434Sa0
+    21300150: M434Sa1
+    21300152: M434Sa2
+    21300154: M434Sa3
+    21300156: M434Sa4
+    21300158: M434Wa0
+    21300160: M434Wa1
+    21300162: M434Wa2
+    21300164: M434Wa3
+    21300166: M434Wa4
+    21300168: M434Wb0
+    21300170: M434Wb1
+    21300172: M434Wb2
+    21300174: M434Wb3
+    21300176: M434Wb4
+    21300178: M434Wc0
+    21300180: M434Wc1
+    21300182: M434Wc2
+    21300184: M434Wc3
+    21300186: M434Wc4
+    21300188: M434Wd0
+    21300190: M434Wd1
+    21300192: M434Wd2
+    21300194: M434Wd3
+    21300196: M434Wd4
+    21300198: M434We0
+    21300200: M434We1
+    21300202: M434We2
+    21300204: M434We3
+    21300206: M434We4
+    21300208: M434Wf0
+    21300210: M434Wf1
+    21300212: M434Wf2
+    21300214: M434Wf3
+    21300216: M434Wf4
+    21300218: M434Wg0
+    21300220: M434Wg1
+    21300222: M434Wg2
+    21300224: M434Wg3
+    21300226: M434Wg4
+    21300228: M434Xa0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: M434Aa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1901
+        width: 178
+        height: 145
+      alignment: 9
+      pivot: {x: -.219101131, y: 1.48275864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Aa1
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1902
+        width: 182
+        height: 144
+      alignment: 9
+      pivot: {x: -.0164835174, y: 1.49305558}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Aa2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1901
+        width: 207
+        height: 145
+      alignment: 9
+      pivot: {x: -.00966183562, y: 1.48965514}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Aa3
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1900
+        width: 183
+        height: 146
+      alignment: 9
+      pivot: {x: -.0109289614, y: 1.48630142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Aa4
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1899
+        width: 182
+        height: 147
+      alignment: 9
+      pivot: {x: -.203296706, y: 1.48299325}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ab0
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1843
+        width: 225
+        height: 203
+      alignment: 9
+      pivot: {x: -.0755555555, y: 1.21182263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ab1
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 1842
+        width: 163
+        height: 204
+      alignment: 9
+      pivot: {x: -.00613496918, y: 1.21078432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ab2
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1842
+        width: 117
+        height: 204
+      alignment: 9
+      pivot: {x: -.487179488, y: 1.21078432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ab3
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 1841
+        width: 165
+        height: 205
+      alignment: 9
+      pivot: {x: -.00606060587, y: 1.20975614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ab4
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1841
+        width: 230
+        height: 205
+      alignment: 9
+      pivot: {x: -.0521739125, y: 1.20975614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ac0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1634
+        width: 252
+        height: 205
+      alignment: 9
+      pivot: {x: -.0119047621, y: 1.2390244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ac1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1635
+        width: 167
+        height: 204
+      alignment: 9
+      pivot: {x: -.215568855, y: 1.24019611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ac2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1635
+        width: 116
+        height: 204
+      alignment: 9
+      pivot: {x: -.836206913, y: 1.24019611}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ac3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1636
+        width: 193
+        height: 203
+      alignment: 9
+      pivot: {x: -.119170986, y: 1.24137926}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ac4
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1637
+        width: 253
+        height: 202
+      alignment: 9
+      pivot: {x: 0, y: 1.24752474}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ad0
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1681
+        width: 206
+        height: 158
+      alignment: 9
+      pivot: {x: -.116504855, y: 1.46835446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ad1
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1681
+        width: 163
+        height: 158
+      alignment: 9
+      pivot: {x: -.423312873, y: 1.46835446}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ad2
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 1683
+        width: 116
+        height: 156
+      alignment: 9
+      pivot: {x: -1.17241383, y: 1.48076928}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ad3
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1684
+        width: 156
+        height: 155
+      alignment: 9
+      pivot: {x: -.480769217, y: 1.48387098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ad4
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1684
+        width: 204
+        height: 155
+      alignment: 9
+      pivot: {x: -.132352948, y: 1.48387098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ae0
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1683
+        width: 159
+        height: 156
+      alignment: 9
+      pivot: {x: -.320754707, y: 1.63461542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ae1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1477
+        width: 135
+        height: 155
+      alignment: 9
+      pivot: {x: -.65925926, y: 1.63870966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ae2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1477
+        width: 124
+        height: 155
+      alignment: 9
+      pivot: {x: -1.05645156, y: 1.63870966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ae3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1478
+        width: 127
+        height: 154
+      alignment: 9
+      pivot: {x: -.677165329, y: 1.64285719}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ae4
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1479
+        width: 157
+        height: 153
+      alignment: 9
+      pivot: {x: -.299363047, y: 1.65359473}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Af0
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1482
+        width: 222
+        height: 150
+      alignment: 9
+      pivot: {x: -.108108111, y: 1.68666661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Af1
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1483
+        width: 186
+        height: 149
+      alignment: 9
+      pivot: {x: -.172043011, y: 1.6979866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Af2
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1483
+        width: 150
+        height: 149
+      alignment: 9
+      pivot: {x: -.646666646, y: 1.6979866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Af3
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1483
+        width: 179
+        height: 149
+      alignment: 9
+      pivot: {x: -.167597771, y: 1.6979866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Af4
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1483
+        width: 222
+        height: 149
+      alignment: 9
+      pivot: {x: -.0450450443, y: 1.6979866}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ag0
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 1475
+        width: 224
+        height: 157
+      alignment: 9
+      pivot: {x: -.09375, y: 1.60509551}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ag1
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1475
+        width: 189
+        height: 157
+      alignment: 9
+      pivot: {x: -.121693119, y: 1.61146498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ag2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1315
+        width: 203
+        height: 158
+      alignment: 9
+      pivot: {x: -.197044328, y: 1.60759497}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ag3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1314
+        width: 179
+        height: 159
+      alignment: 9
+      pivot: {x: -.156424582, y: 1.60377359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ag4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1314
+        width: 226
+        height: 159
+      alignment: 9
+      pivot: {x: -.0442477874, y: 1.60377359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Da0
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1306
+        width: 138
+        height: 167
+      alignment: 9
+      pivot: {x: -.4710145, y: 1.39520955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Db0
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 1294
+        width: 118
+        height: 179
+      alignment: 9
+      pivot: {x: -.771186411, y: 1.41899443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Dc0
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1372
+        width: 157
+        height: 101
+      alignment: 9
+      pivot: {x: -.324840754, y: 2.53465343}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Dd0
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1425
+        width: 168
+        height: 48
+      alignment: 9
+      pivot: {x: -.25, y: 5.33333349}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Na0
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1332
+        width: 189
+        height: 141
+      alignment: 9
+      pivot: {x: -.296296299, y: 1.46808505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Na1
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1331
+        width: 162
+        height: 142
+      alignment: 9
+      pivot: {x: -.129629627, y: 1.45774651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Na2
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1331
+        width: 181
+        height: 142
+      alignment: 9
+      pivot: {x: -.160220996, y: 1.45774651}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Na3
+      rect:
+        serializedVersion: 2
+        x: 1743
+        y: 1329
+        width: 193
+        height: 144
+      alignment: 9
+      pivot: {x: 0, y: 1.44444442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Na4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1149
+        width: 193
+        height: 143
+      alignment: 9
+      pivot: {x: -.0414507762, y: 1.4545455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nb0
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1079
+        width: 179
+        height: 213
+      alignment: 9
+      pivot: {x: -.178770944, y: 1.10328639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nb1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1079
+        width: 180
+        height: 213
+      alignment: 9
+      pivot: {x: -.0833333358, y: 1.10328639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nb2
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1079
+        width: 104
+        height: 213
+      alignment: 9
+      pivot: {x: -.625, y: 1.10328639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nb3
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1079
+        width: 96
+        height: 213
+      alignment: 9
+      pivot: {x: -.729166687, y: 1.10328639}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nb4
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1077
+        width: 180
+        height: 215
+      alignment: 9
+      pivot: {x: -.25, y: 1.09767437}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nc0
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1126
+        width: 156
+        height: 166
+      alignment: 9
+      pivot: {x: -.320512831, y: 1.33132529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nc1
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1126
+        width: 113
+        height: 166
+      alignment: 9
+      pivot: {x: -.610619485, y: 1.33132529}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nc2
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1125
+        width: 130
+        height: 167
+      alignment: 9
+      pivot: {x: -.169230774, y: 1.32335329}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nc3
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1124
+        width: 174
+        height: 168
+      alignment: 9
+      pivot: {x: -.149425283, y: 1.31547618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nc4
+      rect:
+        serializedVersion: 2
+        x: 1527
+        y: 1124
+        width: 156
+        height: 168
+      alignment: 9
+      pivot: {x: -.31410256, y: 1.31547618}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nd0
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1145
+        width: 172
+        height: 147
+      alignment: 9
+      pivot: {x: -.127906978, y: 1.59183669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nd1
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1144
+        width: 137
+        height: 148
+      alignment: 9
+      pivot: {x: -.299270064, y: 1.58783782}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nd2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 928
+        width: 88
+        height: 147
+      alignment: 9
+      pivot: {x: -.636363626, y: 1.59183669}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nd3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 926
+        width: 144
+        height: 149
+      alignment: 9
+      pivot: {x: -.333333343, y: 1.57718122}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nd4
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 927
+        width: 170
+        height: 148
+      alignment: 9
+      pivot: {x: -.376470596, y: 1.58108103}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ne0
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 941
+        width: 175
+        height: 134
+      alignment: 9
+      pivot: {x: -.182857141, y: 1.79850745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ne1
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 941
+        width: 121
+        height: 134
+      alignment: 9
+      pivot: {x: -.561983466, y: 1.79850745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ne2
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 941
+        width: 87
+        height: 134
+      alignment: 9
+      pivot: {x: -.74712646, y: 1.79850745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ne3
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 941
+        width: 158
+        height: 134
+      alignment: 9
+      pivot: {x: -.297468364, y: 1.79850745}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ne4
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 942
+        width: 175
+        height: 133
+      alignment: 9
+      pivot: {x: -.280000001, y: 1.80451131}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nf0
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 935
+        width: 175
+        height: 140
+      alignment: 9
+      pivot: {x: -.297142863, y: 1.77142859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nf1
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 936
+        width: 167
+        height: 139
+      alignment: 9
+      pivot: {x: -.209580839, y: 1.77697837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nf2
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 936
+        width: 140
+        height: 139
+      alignment: 9
+      pivot: {x: -.328571439, y: 1.77697837}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nf3
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 935
+        width: 158
+        height: 140
+      alignment: 9
+      pivot: {x: -.139240503, y: 1.77142859}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Nf4
+      rect:
+        serializedVersion: 2
+        x: 1784
+        y: 934
+        width: 176
+        height: 141
+      alignment: 9
+      pivot: {x: -.164772734, y: 1.76595747}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ng0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 798
+        width: 222
+        height: 126
+      alignment: 9
+      pivot: {x: -.144144148, y: 1.79365075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ng1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 798
+        width: 176
+        height: 126
+      alignment: 9
+      pivot: {x: -.0852272734, y: 1.79365075}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ng2
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 796
+        width: 203
+        height: 128
+      alignment: 9
+      pivot: {x: -.0788177326, y: 1.7734375}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ng3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 794
+        width: 202
+        height: 130
+      alignment: 9
+      pivot: {x: -.00495049497, y: 1.76153851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Ng4
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 794
+        width: 226
+        height: 130
+      alignment: 9
+      pivot: {x: 0, y: 1.76923072}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Sa0
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 742
+        width: 132
+        height: 182
+      alignment: 9
+      pivot: {x: -.477272719, y: 1.16483521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Sa1
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 740
+        width: 161
+        height: 184
+      alignment: 9
+      pivot: {x: -.279503107, y: 1.15760875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Sa2
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 740
+        width: 230
+        height: 184
+      alignment: 9
+      pivot: {x: -.0260869563, y: 1.15760875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Sa3
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 740
+        width: 165
+        height: 184
+      alignment: 9
+      pivot: {x: -.230303034, y: 1.15760875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Sa4
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 740
+        width: 133
+        height: 184
+      alignment: 9
+      pivot: {x: -.451127827, y: 1.15760875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wa0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 609
+        width: 208
+        height: 129
+      alignment: 9
+      pivot: {x: -.115384616, y: 1.58139539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wa1
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 608
+        width: 176
+        height: 130
+      alignment: 9
+      pivot: {x: -.193181813, y: 1.57692313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wa2
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 608
+        width: 237
+        height: 130
+      alignment: 9
+      pivot: {x: -.0253164563, y: 1.56923079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wa3
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 607
+        width: 172
+        height: 131
+      alignment: 9
+      pivot: {x: -.209302321, y: 1.5648855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wa4
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 607
+        width: 210
+        height: 131
+      alignment: 9
+      pivot: {x: -.10952381, y: 1.5648855}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wb0
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 636
+        width: 220
+        height: 102
+      alignment: 9
+      pivot: {x: -.0909090936, y: 1.90196073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wb1
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 636
+        width: 196
+        height: 102
+      alignment: 9
+      pivot: {x: -.0867346972, y: 1.90196073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wb2
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 636
+        width: 238
+        height: 102
+      alignment: 9
+      pivot: {x: -.0420168079, y: 1.90196073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wb3
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 636
+        width: 193
+        height: 102
+      alignment: 9
+      pivot: {x: -.0984455943, y: 1.90196073}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wb4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 502
+        width: 223
+        height: 103
+      alignment: 9
+      pivot: {x: -.0672645718, y: 1.89320385}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wc0
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 474
+        width: 170
+        height: 131
+      alignment: 9
+      pivot: {x: -.264705896, y: 1.71755731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wc1
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 473
+        width: 174
+        height: 132
+      alignment: 9
+      pivot: {x: -.235632181, y: 1.71212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wc2
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 473
+        width: 239
+        height: 132
+      alignment: 9
+      pivot: {x: -.0460251048, y: 1.71212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wc3
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 472
+        width: 176
+        height: 133
+      alignment: 9
+      pivot: {x: -.215909094, y: 1.70676696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wc4
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 473
+        width: 172
+        height: 132
+      alignment: 9
+      pivot: {x: -.232558146, y: 1.71212125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wd0
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 483
+        width: 128
+        height: 122
+      alignment: 9
+      pivot: {x: -.5078125, y: 1.79508197}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wd1
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 485
+        width: 167
+        height: 120
+      alignment: 9
+      pivot: {x: -.28742516, y: 1.81666672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wd2
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 485
+        width: 242
+        height: 120
+      alignment: 9
+      pivot: {x: -.02892562, y: 1.81666672}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wd3
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 484
+        width: 181
+        height: 121
+      alignment: 9
+      pivot: {x: -.176795587, y: 1.80991733}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wd4
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 483
+        width: 129
+        height: 122
+      alignment: 9
+      pivot: {x: -.480620146, y: 1.80327868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434We0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 354
+        width: 149
+        height: 116
+      alignment: 9
+      pivot: {x: -.369127512, y: 1.84482753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434We1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 354
+        width: 164
+        height: 116
+      alignment: 9
+      pivot: {x: -.292682916, y: 1.85344827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434We2
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 352
+        width: 227
+        height: 118
+      alignment: 9
+      pivot: {x: -.0748898685, y: 1.83050847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434We3
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 353
+        width: 166
+        height: 117
+      alignment: 9
+      pivot: {x: -.265060246, y: 1.84615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434We4
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 353
+        width: 149
+        height: 117
+      alignment: 9
+      pivot: {x: -.348993301, y: 1.84615386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wf0
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 350
+        width: 197
+        height: 120
+      alignment: 9
+      pivot: {x: -.172588825, y: 1.77499998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wf1
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 350
+        width: 176
+        height: 120
+      alignment: 9
+      pivot: {x: -.193181813, y: 1.77499998}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wf2
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 348
+        width: 223
+        height: 122
+      alignment: 9
+      pivot: {x: -.0717488825, y: 1.76229513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wf3
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 348
+        width: 177
+        height: 122
+      alignment: 9
+      pivot: {x: -.169491529, y: 1.76229513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wf4
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 348
+        width: 199
+        height: 122
+      alignment: 9
+      pivot: {x: -.120603018, y: 1.76229513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wg0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 218
+        width: 214
+        height: 128
+      alignment: 9
+      pivot: {x: -.102803737, y: 1.6171875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wg1
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 218
+        width: 174
+        height: 128
+      alignment: 9
+      pivot: {x: -.178160921, y: 1.6171875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wg2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 217
+        width: 228
+        height: 129
+      alignment: 9
+      pivot: {x: -.0307017546, y: 1.60465121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wg3
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 217
+        width: 170
+        height: 129
+      alignment: 9
+      pivot: {x: -.19411765, y: 1.60465121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Wg4
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 218
+        width: 216
+        height: 128
+      alignment: 9
+      pivot: {x: -.0879629627, y: 1.6171875}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: M434Xa0
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 310
+        width: 172
+        height: 36
+      alignment: 9
+      pivot: {x: -.215116277, y: 7.11111116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
