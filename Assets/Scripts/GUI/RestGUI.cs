@@ -45,29 +45,28 @@ public class RestGUI : MonoBehaviour
     public void Wait5Minutes()
     {
         StartCoroutine(Wait(GameTime.MINUTE * 5));
-
-        UpdateGUI();
     }
 
     public void Wait1Hour()
     {
         StartCoroutine(Wait(GameTime.HOUR));
-
-        UpdateGUI();
     }
 
     public void WaitUntilDawn()
     {
         float duration = (GameTime.HOUR * 5) - GameTime.TimeInSeconds + 0.1f;
 
-        if (duration <= 0)
+        if (duration <= 1)
         {
             duration += GameTime.DAY;
         }
 
         StartCoroutine(Wait(duration));
+    }
 
-        UpdateGUI();
+    public void Rest8Hours()
+    {
+        StartCoroutine(Wait(GameTime.HOUR * 8));
     }
 
     IEnumerator Wait(float seconds)
