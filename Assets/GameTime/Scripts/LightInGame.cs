@@ -18,8 +18,8 @@ public class LightInGame : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         if (Temp.current_screen == Temp.screen_name.screen_game) {
-            if (gameTime.TimeInHours > gameTime.timeOfDayTransitions[0].startHour ||
-                gameTime.TimeInHours < gameTime.timeOfDayTransitions[1].startHour - 0.5f)
+            if (GameTime.TimeInHours > gameTime.timeOfDayTransitions[0].startHour ||
+                GameTime.TimeInHours < gameTime.timeOfDayTransitions[1].startHour - 0.5f)
             {//ночь
                 if (RenderSettings.reflectionIntensity > reflection_minus)
                     RenderSettings.reflectionIntensity -= Time.deltaTime / 4;
@@ -36,8 +36,8 @@ public class LightInGame : MonoBehaviour {
                     RenderSettings.ambientLight = RenderSettings.ambientGroundColor;
                 }
             }
-            if (gameTime.TimeInHours > gameTime.timeOfDayTransitions[1].startHour - 0.3f &&
-                gameTime.TimeInHours < gameTime.timeOfDayTransitions[3].startHour + 0.5f)
+            if (GameTime.TimeInHours > gameTime.timeOfDayTransitions[1].startHour - 0.3f &&
+                GameTime.TimeInHours < gameTime.timeOfDayTransitions[3].startHour + 0.5f)
             {//день
                 if (RenderSettings.reflectionIntensity < reflection_plus)
                     RenderSettings.reflectionIntensity += Time.deltaTime / 4;

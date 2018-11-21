@@ -217,6 +217,9 @@ public class right_panel : MonoBehaviour {
     public GameObject Player2;
     public GameObject Player3;
     public GameObject Player4;
+
+    [SerializeField] GameObject RestGUI;
+
     private ItemDatebase database;
     Texture2D null_tex = null;
     Texture2D cloak = null;
@@ -904,7 +907,7 @@ public class right_panel : MonoBehaviour {
                 GUI.skin = skin_rest_btn;
                 if (GUI.Button(new Rect(Screen.width - 122, Screen.height - 32, 35, 28), ""))//rest
                 {
-                    Temp.current_screen = Temp.screen_name.screen_rest;
+                    RestGUI.SetActive(true);
                 }
                 GUI.skin = skin_spell_book_btn;
                 if (GUI.Button(new Rect(Screen.width - 164, Screen.height - 32, 35, 28), ""))//spells

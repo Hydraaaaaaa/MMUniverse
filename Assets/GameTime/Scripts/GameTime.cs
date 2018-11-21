@@ -32,7 +32,12 @@ public class GameTime : MonoBehaviour
 	/// <summary>
 	/// Current time in seconds
 	/// </summary>
-	public float timeInSeconds { get; private set; }
+	public static float timeInSeconds { get; private set; }
+
+	/// <summary>
+	/// Current time in hours
+	/// </summary>
+	public static float TimeInHours { get { return timeInSeconds / HOUR; } }
 
 	public Camera playerCamera;
 	public Transform attachedTo;
@@ -40,7 +45,7 @@ public class GameTime : MonoBehaviour
 	public Transform sun;
 	public Transform moon;
 
-	public event System.Action OnDayChanged;
+	public static event System.Action OnDayChanged;
 
 	public TimeOfDayTransition[] timeOfDayTransitions;
 	public int InitialStateIndex;
@@ -50,10 +55,7 @@ public class GameTime : MonoBehaviour
 	/// </summary>
 	public float dayCycleInMinutes = 1;
 
-	/// <summary>
-	/// Current time in hours
-	/// </summary>
-	public float TimeInHours { get { return timeInSeconds / HOUR; } }
+	public static bool Paused { get; set; }
 
 	float realSecondToIngameSecond;
 
@@ -128,27 +130,11 @@ public class GameTime : MonoBehaviour
 	private void Update()
 	{
 		// Update time
-		timeInSeconds += Time.deltaTime * realSecondToIngameSecond;
-
-		if (timeInSeconds >= DAY)
+		if (!Paused)
 		{
-			// Start a new day
-			timeInSeconds -= DAY;
-			currentDay++;
+			timeInSeconds += Time.deltaTime * realSecondToIngameSecond;
 
-			if (currentDay > 30)
-			{
-				currentDay = 1;
-				currentMonth++;
-			}
-
-			if (currentMonth > 12)
-			{
-				currentMonth = 1;
-				currentYear++;
-			}
-
-			OnDayChanged?.Invoke();
+			CheckForDayChange();
 		}
 
 		// Update Sun and Moon position
@@ -250,5 +236,51 @@ public class GameTime : MonoBehaviour
 		}
 
 		return null;
+	}
+
+	public static void Wait5Minutes()
+	{
+		timeInSeconds += MINUTE * 5;
+		CheckForDayChange();
+	}
+	
+	public static void Wait1Hour()
+	{
+		timeInSeconds += HOUR;
+		CheckForDayChange();
+	}
+
+	public static void WaitUntilDawn()
+	{
+		ChangeDay();
+		timeInSeconds = HOUR * 9;
+	}
+
+	static void CheckForDayChange()
+	{
+		if (timeInSeconds >= DAY)
+		{
+			ChangeDay();
+		}
+	}
+
+	static void ChangeDay()
+	{
+        timeInSeconds -= DAY;
+        currentDay++;
+
+        if (currentDay > 30)
+        {
+            currentDay = 1;
+            currentMonth++;
+        }
+
+        if (currentMonth > 12)
+        {
+            currentMonth = 1;
+            currentYear++;
+        }
+
+        OnDayChanged?.Invoke();
 	}
 }

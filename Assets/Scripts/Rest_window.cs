@@ -40,8 +40,8 @@ public class Rest_window : MonoBehaviour {
                 Temp.current_screen = Temp.screen_name.screen_game;
                 gameMenu.Game_active();
             }
-            hour = (int)gameTime.TimeInHours;
-            num = gameTime.TimeInHours;
+            hour = (int)GameTime.TimeInHours;
+            num = GameTime.TimeInHours;
             ost = num - (int)num;
             minute = (int)((ost*100)/1.6f);
             if (minute < 10)

@@ -20,7 +20,7 @@ public class SkyChange : MonoBehaviour
 
     void Start()
     {
-        gameTime.OnDayChanged += OnDayChanged;
+        GameTime.OnDayChanged += OnDayChanged;
     }
 
     void OnDayChanged()

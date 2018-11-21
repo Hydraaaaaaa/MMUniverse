@@ -16,16 +16,16 @@ public class Radius_light : MonoBehaviour
 
 	void Update ()
     {
-        if (gameTime.TimeInHours > gameTime.timeOfDayTransitions[0].startHour ||
-            gameTime.TimeInHours < gameTime.timeOfDayTransitions[1].startHour - 0.5f)
+        if (GameTime.TimeInHours > gameTime.timeOfDayTransitions[0].startHour ||
+            GameTime.TimeInHours < gameTime.timeOfDayTransitions[1].startHour - 0.5f)
         {
             if (light.intensity < light_plus)
                 light.intensity += Time.deltaTime / 4;
             if (light.intensity > light_plus)
                 light.intensity = light_plus;
         }
-        if (gameTime.TimeInHours > gameTime.timeOfDayTransitions[1].startHour - 0.3f &&
-            gameTime.TimeInHours < gameTime.timeOfDayTransitions[3].startHour + 0.5f)
+        if (GameTime.TimeInHours > gameTime.timeOfDayTransitions[1].startHour - 0.3f &&
+            GameTime.TimeInHours < gameTime.timeOfDayTransitions[3].startHour + 0.5f)
         {
             if (light.intensity > light_minus)
                 light.intensity -= Time.deltaTime / 4;
