@@ -10,6 +10,8 @@ public class RestGUI : MonoBehaviour
     [SerializeField] Text monthText;
     [SerializeField] Text yearText;
 
+    [SerializeField] float waitDayDurationInSeconds = 3;
+
     void OnEnable()
     {
         UpdateGUI();
@@ -25,10 +27,6 @@ public class RestGUI : MonoBehaviour
     {
         int hours = Mathf.FloorToInt(GameTime.TimeInHours);
         int minutes = Mathf.FloorToInt((GameTime.TimeInHours - hours) * 60);
-
-        Debug.Log("hours = " + hours);
-        Debug.Log("GameTime.TimeInHours = " + GameTime.TimeInHours);
-        Debug.Log("minutes = " + minutes);
 
         if (minutes < 10)
         {
@@ -46,22 +44,49 @@ public class RestGUI : MonoBehaviour
 
     public void Wait5Minutes()
     {
-        GameTime.Wait5Minutes();
+        StartCoroutine(Wait(GameTime.MINUTE * 5));
 
         UpdateGUI();
     }
 
     public void Wait1Hour()
     {
-        GameTime.Wait1Hour();
+        StartCoroutine(Wait(GameTime.HOUR));
 
         UpdateGUI();
     }
 
     public void WaitUntilDawn()
     {
-        GameTime.WaitUntilDawn();
+        float duration = (GameTime.HOUR * 5) - GameTime.TimeInSeconds + 0.1f;
+
+        if (duration <= 0)
+        {
+            duration += GameTime.DAY;
+        }
+
+        StartCoroutine(Wait(duration));
 
         UpdateGUI();
+    }
+
+    IEnumerator Wait(float seconds)
+    {
+        while (seconds > 0)
+        {
+            float change = Time.deltaTime * GameTime.DAY / waitDayDurationInSeconds;
+
+            if (change > seconds)
+            {
+                change = seconds;
+            }
+
+            seconds -= change;
+            GameTime.TimeInSeconds += change;
+
+            UpdateGUI();
+
+            yield return null;
+        }
     }
 }

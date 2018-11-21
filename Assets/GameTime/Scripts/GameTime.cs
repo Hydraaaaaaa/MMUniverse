@@ -9,9 +9,9 @@ using UnityEngine;
 [AddComponentMenu("Day-Night Cycle/GameTime")]
 public class GameTime : MonoBehaviour
 {
-	private const float MINUTE = 60; // constant for how many seconds in a minute
-	private const float HOUR = 60 * MINUTE; // constant for how many seconds in an hour
-	private const float DAY = 24 * HOUR; // constant for how many seconds in a day
+	public const float MINUTE = 60; // constant for how many seconds in a minute
+	public const float HOUR = 60 * MINUTE; // constant for how many seconds in an hour
+	public const float DAY = 24 * HOUR; // constant for how many seconds in a day
 	
 	public const int STARTING_YEAR = 1168;
 
@@ -32,12 +32,22 @@ public class GameTime : MonoBehaviour
 	/// <summary>
 	/// Current time in seconds
 	/// </summary>
-	public static float timeInSeconds { get; private set; }
+	public static float TimeInSeconds
+	{
+		get { return timeInSeconds; }
+		set { timeInSeconds = value; CheckForDayChange(); }
+	}
+
+	private static float timeInSeconds;
 
 	/// <summary>
 	/// Current time in hours
 	/// </summary>
-	public static float TimeInHours { get { return timeInSeconds / HOUR; } }
+	public static float TimeInHours
+	{
+		get { return timeInSeconds / HOUR; }
+		set { timeInSeconds = value * HOUR; CheckForDayChange(); }
+	}
 
 	public Camera playerCamera;
 	public Transform attachedTo;
@@ -236,24 +246,6 @@ public class GameTime : MonoBehaviour
 		}
 
 		return null;
-	}
-
-	public static void Wait5Minutes()
-	{
-		timeInSeconds += MINUTE * 5;
-		CheckForDayChange();
-	}
-	
-	public static void Wait1Hour()
-	{
-		timeInSeconds += HOUR;
-		CheckForDayChange();
-	}
-
-	public static void WaitUntilDawn()
-	{
-		ChangeDay();
-		timeInSeconds = HOUR * 9;
 	}
 
 	static void CheckForDayChange()
