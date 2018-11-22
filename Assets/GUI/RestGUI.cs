@@ -5,10 +5,29 @@ using UnityEngine.UI;
 
 public class RestGUI : MonoBehaviour
 {
+    public static RestGUI Instance { get; private set; }
+
+    [RuntimeInitializeOnLoadMethod]
+    static void Initialize()
+    {
+        Instance = Instantiate(Resources.Load<RestGUI>("RestGUI"));
+
+        DontDestroyOnLoad(Instance);
+
+        Instance.gameObject.SetActive(false);
+    }
+
     [SerializeField] Text timeText;
     [SerializeField] Text dayText;
     [SerializeField] Text monthText;
     [SerializeField] Text yearText;
+
+    [Space]
+
+    [SerializeField] Image landscape;
+    [SerializeField] Sprite[] landscapeSprites;
+
+    [Space]
 
     [SerializeField] float waitDayDurationInSeconds = 3;
 
@@ -40,6 +59,10 @@ public class RestGUI : MonoBehaviour
         dayText.text = GameTime.CurrentDay.ToString();
         monthText.text = GameTime.CurrentMonth.ToString();
         yearText.text = GameTime.CurrentYear.ToString();
+
+        float secondsPerSprite = GameTime.DAY / landscapeSprites.Length;
+
+        landscape.sprite = landscapeSprites[Mathf.FloorToInt(GameTime.TimeInSeconds / secondsPerSprite)];
     }
 
     public void Wait5Minutes()
