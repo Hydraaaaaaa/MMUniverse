@@ -3,7 +3,7 @@ using System.Collections;
 
 public class MovePlayer : MonoBehaviour {
 	[SerializeField] private AudioClip[] m_FootstepSounds;    // an array of footstep sounds that will be randomly selected from.
-	[SerializeField] private float m_StepInterval;
+	//[SerializeField] public float m_StepInterval = 0.5f;
 	[SerializeField] private AudioClip m_JumpSound;           // the sound played when character leaves the ground.
 	[SerializeField] private AudioClip m_LandSound;
 	
@@ -150,15 +150,15 @@ public class MovePlayer : MonoBehaviour {
 	private void PlayJumpSound()
 	{
 		m_AudioSource.clip = m_JumpSound;
-		m_AudioSource.Play();
+		m_AudioSource.PlayOneShot(m_AudioSource.clip);
 	}
 
 	private void PlayLandingSound()
 	{
 		m_AudioSource.clip = m_LandSound;
-		m_AudioSource.Play();
-		//m_NextStep = m_StepCycle + .5f;
-	}
+        m_AudioSource.PlayOneShot(m_AudioSource.clip);
+        //m_NextStep = m_StepCycle + .5f;
+    }
 
 	//Звуки ходьбы
 	private void PlayFootStepAudio()
@@ -177,9 +177,10 @@ public class MovePlayer : MonoBehaviour {
 			m_FootstepSounds [n] = m_FootstepSounds [0];
 			m_FootstepSounds [0] = m_AudioSource.clip;
 
-			walk_sound_timer = m_StepInterval;
+            //walk_sound_timer = m_StepInterval;
+            walk_sound_timer = 0.5f;
 			if(is_run)
-				walk_sound_timer = m_StepInterval/2;
+				walk_sound_timer = walk_sound_timer / 2;
 		}
 	}
 	
