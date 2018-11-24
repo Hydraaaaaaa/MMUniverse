@@ -37,7 +37,7 @@ public class PlayPostIntro : MonoBehaviour {
 			GetComponent<AudioSource>().Stop();
 			Cursor.visible=true;
 			Temp.NextMapName = "emerald_01";
-            Temp.NextLevelID = 3;
+            Temp.NextLevelID = 5;
             Application.LoadLevel("Load");
 		}
 		if (Event.current.type.Equals (EventType.Repaint)) {

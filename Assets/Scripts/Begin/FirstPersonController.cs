@@ -39,6 +39,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private Vector3 m_OriginalCameraPosition;
         private float m_StepCycle;
         private float m_NextStep;
+        private float m_LandingCycle;
         private bool m_Jumping;
         private AudioSource m_AudioSource;
 
@@ -51,6 +52,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
             m_FovKick.Setup(m_Camera);
             m_HeadBob.Setup(m_Camera, m_StepInterval);
             m_StepCycle = 0f;
+            m_LandingCycle = 0f;
             m_NextStep = m_StepCycle/2f;
             m_Jumping = false;
             m_AudioSource = GetComponent<AudioSource>();
@@ -68,10 +70,11 @@ namespace UnityStandardAssets.Characters.FirstPerson
                 m_Jump = CrossPlatformInputManager.GetButtonDown("Jump");
             }
 
-            if (!m_PreviouslyGrounded && m_CharacterController.isGrounded)
+            if (!m_PreviouslyGrounded && m_CharacterController.isGrounded && (m_LandingCycle <= 0f))
             {
                 StartCoroutine(m_JumpBob.DoBobCycle());
                 PlayLandingSound();
+                m_LandingCycle = 0.5f;
                 m_MoveDir.y = 0f;
                 m_Jumping = false;
             }
@@ -87,13 +90,20 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private void PlayLandingSound()
         {
             m_AudioSource.clip = m_LandSound;
-            m_AudioSource.Play();
+            m_AudioSource.PlayOneShot(clip: m_AudioSource.clip);
             m_NextStep = m_StepCycle + .5f;
         }
 
 
         private void FixedUpdate()
         {
+            if (m_LandingCycle > 0f)
+            {
+                if (m_LandingCycle >= Time.deltaTime)
+                    m_LandingCycle -= Time.deltaTime;
+                else
+                    m_LandingCycle = 0;
+            }
             float speed;
             GetInput(out speed);
             // always move along the camera forward as it is the direction that it being aimed at
@@ -135,7 +145,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
         private void PlayJumpSound()
         {
             m_AudioSource.clip = m_JumpSound;
-            m_AudioSource.Play();
+            m_AudioSource.PlayOneShot(clip: m_AudioSource.clip);
         }
 
 
