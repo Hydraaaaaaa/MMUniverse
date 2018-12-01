@@ -73,6 +73,8 @@ public class GameTime : MonoBehaviour
 		{
 			currentSceneSettings = sceneSettings.GetCurrentSettings();
 		};
+
+		timeInSeconds = HOUR * 9;
 	}
 
 	private void Start()

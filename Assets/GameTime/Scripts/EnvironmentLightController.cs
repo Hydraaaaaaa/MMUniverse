@@ -28,6 +28,9 @@ public class EnvironmentLightController : MonoBehaviour
 
     [SerializeField] AnimationCurve nightLightIntensity;
 
+    [SerializeField] float dayStartHour;
+    [SerializeField] float dayEndHour;
+
     float m_SunIntensity;
 
     void Reset()
@@ -44,11 +47,11 @@ public class EnvironmentLightController : MonoBehaviour
 
     void Update()
     {
-        float dayPercentage = GameTime.TimeInSeconds / GameTime.DAY;
+        float dayPercentage = Mathf.Clamp01((GameTime.TimeInHours - dayStartHour) / (dayEndHour - dayStartHour));
 
         transform.eulerAngles = new Vector3
         (
-            dayPercentage * 360 + 270,
+            dayPercentage * 180,
             0,
             0
         );

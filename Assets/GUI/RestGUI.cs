@@ -44,16 +44,43 @@ public class RestGUI : MonoBehaviour
 
     void UpdateGUI()
     {
+        bool pm = false;
         int hours = Mathf.FloorToInt(GameTime.TimeInHours);
+
         int minutes = Mathf.FloorToInt((GameTime.TimeInHours - hours) * 60);
+
+        if (hours >= 12)
+        {
+            pm = true;
+        }
+
+        if (hours > 12)
+        {
+            hours -= 12;
+        }
+        else if (hours < 1)
+        {
+            hours += 12;
+        }
+
+        timeText.text = hours.ToString();
 
         if (minutes < 10)
         {
-            timeText.text = hours.ToString() + ":0" + minutes;
+            timeText.text += ":0" + minutes;
         }
         else
         {
-            timeText.text = hours.ToString() + ":" + minutes;
+            timeText.text += ":" + minutes;
+        }
+
+        if (pm)
+        {
+            timeText.text += " pm";
+        }
+        else
+        {
+            timeText.text += " am";
         }
 
         dayText.text = GameTime.CurrentDay.ToString();
