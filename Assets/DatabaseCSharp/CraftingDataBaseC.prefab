@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 400000}
+  - component: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: CraftingDataBaseC
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 169.3733, y: -2.4222918, z: 122.22102}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa73f2abbfed6a847a1664ff88af1c7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  craftingData:
+  - itemName: High Potion
+    ingredient:
+    - itemId: 1
+      itemType: 0
+      quantity: 2
+    gotItem:
+      itemId: 3
+      itemType: 0
+      quantity: 1
+  - itemName: High Ether
+    ingredient:
+    - itemId: 2
+      itemType: 0
+      quantity: 2
+    gotItem:
+      itemId: 4
+      itemType: 0
+      quantity: 1
+  - itemName: Magic Blade
+    ingredient:
+    - itemId: 2
+      itemType: 1
+      quantity: 1
+    - itemId: 7
+      itemType: 0
+      quantity: 3
+    - itemId: 5
+      itemType: 0
+      quantity: 5
+    gotItem:
+      itemId: 3
+      itemType: 1
+      quantity: 1
+  - itemName: Magic Coat
+    ingredient:
+    - itemId: 6
+      itemType: 1
+      quantity: 1
+    - itemId: 6
+      itemType: 0
+      quantity: 3
+    - itemId: 5
+      itemType: 0
+      quantity: 3
+    gotItem:
+      itemId: 7
+      itemType: 1
+      quantity: 1

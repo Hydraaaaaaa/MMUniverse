@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 400000}
+  - component: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: QuestDataC
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 15.469342, y: 0.09645724, z: 13.944976}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fac6b8bff0e4af41b3ead79e6bb1abf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemData: {fileID: 100000, guid: 7806a301268f6af44a212bb77a5f4768, type: 3}
+  questData:
+  - questName: 
+    icon: {fileID: 0}
+    description: 
+    finishProgress: 5
+    rewardCash: 100
+    rewardExp: 100
+    rewardItemID: 
+    rewardEquipmentID: 
+  - questName: Kill 5 Field Goblins
+    icon: {fileID: 0}
+    description: Field Goblin Kill
+    finishProgress: 5
+    rewardCash: 300
+    rewardExp: 150
+    rewardItemID: 0100000002000000
+    rewardEquipmentID: 
+  - questName: Kill 10 Spiders
+    icon: {fileID: 0}
+    description: Spider Kill
+    finishProgress: 10
+    rewardCash: 500
+    rewardExp: 200
+    rewardItemID: 
+    rewardEquipmentID: 03000000

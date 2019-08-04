@@ -1,0 +1,376 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 400000}
+  - component: {fileID: 11400000}
+  m_Layer: 0
+  m_Name: ItemDataC
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &400000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 15.469342, y: 0.09645724, z: 13.944976}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3abfee503336f44cbc05d6d44e4297b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  usableItem:
+  - itemName: 
+    icon: {fileID: 0}
+    model: {fileID: 0}
+    description: 
+    price: 10
+    hpRecover: 0
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 0
+  - itemName: Potion
+    icon: {fileID: 2800000, guid: b321eb647d425554e8ee874dc94a537c, type: 3}
+    model: {fileID: 0}
+    description: Recover 50 HP
+    price: 100
+    hpRecover: 50
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 0
+  - itemName: Ether
+    icon: {fileID: 2800000, guid: eafdd323cf59bd6478b4d81dbbdc36e6, type: 3}
+    model: {fileID: 0}
+    description: Recover 50 MP
+    price: 100
+    hpRecover: 0
+    mpRecover: 50
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 0
+  - itemName: High Potion
+    icon: {fileID: 2800000, guid: daad465d1b41c4040b2c6e1a28993ec8, type: 3}
+    model: {fileID: 0}
+    description: Recover 200 HP
+    price: 300
+    hpRecover: 200
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 0
+  - itemName: High Ether
+    icon: {fileID: 2800000, guid: 6a573be1f6fcdb245974286ea7ed2064, type: 3}
+    model: {fileID: 0}
+    description: Recover 200 MP
+    price: 300
+    hpRecover: 0
+    mpRecover: 200
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 0
+  - itemName: Trunk
+    icon: {fileID: 2800000, guid: b35358091e97c5e4cbad891094a16727, type: 3}
+    model: {fileID: 0}
+    description: 
+    price: 50
+    hpRecover: 0
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 1
+  - itemName: Spider Web
+    icon: {fileID: 2800000, guid: 30b32aaff6679b64babbe7883e7e46c5, type: 3}
+    model: {fileID: 0}
+    description: 
+    price: 70
+    hpRecover: 0
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 1
+  - itemName: Spiper Venom
+    icon: {fileID: 2800000, guid: b7f03723a64f06f47885ef86dcce64bf, type: 3}
+    model: {fileID: 0}
+    description: 
+    price: 80
+    hpRecover: 0
+    mpRecover: 0
+    atkPlus: 0
+    defPlus: 0
+    matkPlus: 0
+    mdefPlus: 0
+    unusable: 1
+  equipment:
+  - itemName: 
+    icon: {fileID: 0}
+    model: {fileID: 0}
+    assignAllWeapon: 1
+    description: 
+    price: 10
+    weaponType: 10
+    attack: 5
+    defense: 0
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 0
+    attackPrefab: {fileID: 0}
+    attackCombo:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    idleAnimation: {fileID: 0}
+    runAnimation: {fileID: 0}
+    rightAnimation: {fileID: 0}
+    leftAnimation: {fileID: 0}
+    backAnimation: {fileID: 0}
+    jumpAnimation: {fileID: 0}
+    whileAttack: 0
+    attackSpeed: 0.18
+    attackDelay: 0.12
+  - itemName: Steel Sword
+    icon: {fileID: 2800000, guid: 12f511be42d48e84b8315ae79493150c, type: 3}
+    model: {fileID: 100000, guid: e2e2d6909e1a71448a1721a03c93c8e5, type: 2}
+    assignAllWeapon: 1
+    description: ATK 5 MATK 5
+    price: 1000
+    weaponType: 0
+    attack: 5
+    defense: 0
+    magicAttack: 5
+    magicDefense: 0
+    EquipmentType: 0
+    attackPrefab: {fileID: 0}
+    attackCombo:
+    - {fileID: 7400016, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400018, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400020, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400022, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400024, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    idleAnimation: {fileID: 7400002, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    runAnimation: {fileID: 7400004, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    rightAnimation: {fileID: 7400012, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    leftAnimation: {fileID: 7400010, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    backAnimation: {fileID: 7400028, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    jumpAnimation: {fileID: 7400008, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    whileAttack: 0
+    attackSpeed: 0.18
+    attackDelay: 0.12
+  - itemName: Falchion
+    icon: {fileID: 2800000, guid: 27f45323aa26758468d7e8826f90ab02, type: 3}
+    model: {fileID: 100002, guid: 6d6ad06e933143d498814495ef5f8a49, type: 2}
+    assignAllWeapon: 1
+    description: ATK 15
+    price: 1600
+    weaponType: 0
+    attack: 15
+    defense: 0
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 0
+    attackPrefab: {fileID: 0}
+    attackCombo:
+    - {fileID: 7400016, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400018, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400020, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400022, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400024, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    idleAnimation: {fileID: 7400002, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    runAnimation: {fileID: 7400004, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    rightAnimation: {fileID: 7400012, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    leftAnimation: {fileID: 7400010, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    backAnimation: {fileID: 7400028, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    jumpAnimation: {fileID: 7400008, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    whileAttack: 0
+    attackSpeed: 0.18
+    attackDelay: 0.12
+  - itemName: Magic Blade
+    icon: {fileID: 2800000, guid: 999d3968c2c36004f8576590b901766a, type: 3}
+    model: {fileID: 100002, guid: 03e7a74da65937147ac24f6149be5c8f, type: 2}
+    assignAllWeapon: 1
+    description: ATK 25 MATK 25 (Poison 40%)
+    price: 1600
+    weaponType: 0
+    attack: 25
+    defense: 0
+    magicAttack: 25
+    magicDefense: 0
+    EquipmentType: 0
+    attackPrefab: {fileID: 0}
+    attackCombo:
+    - {fileID: 7400016, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400018, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400020, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400022, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400024, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    idleAnimation: {fileID: 7400002, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    runAnimation: {fileID: 7400004, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    rightAnimation: {fileID: 7400012, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    leftAnimation: {fileID: 7400010, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    backAnimation: {fileID: 7400028, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    jumpAnimation: {fileID: 7400008, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    whileAttack: 0
+    attackSpeed: 0.18
+    attackDelay: 0.12
+  - itemName: Fireblend
+    icon: {fileID: 2800000, guid: 1459e5fcf36362e4f80f046c936c16e3, type: 3}
+    model: {fileID: 100000, guid: aeb2612ad557dbc4fb6c9df38880d819, type: 2}
+    assignAllWeapon: 1
+    description: Cast Firebolt when Attack
+    price: 3300
+    weaponType: 0
+    attack: 5
+    defense: 0
+    magicAttack: 10
+    magicDefense: 0
+    EquipmentType: 0
+    attackPrefab: {fileID: 0}
+    attackCombo:
+    - {fileID: 7400016, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400018, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400020, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400022, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    - {fileID: 7400024, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    idleAnimation: {fileID: 7400002, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    runAnimation: {fileID: 7400004, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    rightAnimation: {fileID: 7400012, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    leftAnimation: {fileID: 7400010, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    backAnimation: {fileID: 7400028, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    jumpAnimation: {fileID: 7400008, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    whileAttack: 0
+    attackSpeed: 0.18
+    attackDelay: 0.12
+  - itemName: Light Armor
+    icon: {fileID: 2800000, guid: d16ca83fa43209e46b0ff10c61279b45, type: 3}
+    model: {fileID: 0}
+    assignAllWeapon: 0
+    description: DEF 5
+    price: 1200
+    weaponType: 10
+    attack: 0
+    defense: 5
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 1
+    attackPrefab: {fileID: 0}
+    attackCombo: []
+    idleAnimation: {fileID: 0}
+    runAnimation: {fileID: 0}
+    rightAnimation: {fileID: 0}
+    leftAnimation: {fileID: 0}
+    backAnimation: {fileID: 0}
+    jumpAnimation: {fileID: 0}
+    whileAttack: 0
+    attackSpeed: 0.18
+    attackDelay: 0.12
+  - itemName: Heavy Armor
+    icon: {fileID: 2800000, guid: cc30bea927540f047971fa5c314c1129, type: 3}
+    model: {fileID: 0}
+    assignAllWeapon: 0
+    description: DEF 15
+    price: 2200
+    weaponType: 10
+    attack: 0
+    defense: 15
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 1
+    attackPrefab: {fileID: 0}
+    attackCombo: []
+    idleAnimation: {fileID: 0}
+    runAnimation: {fileID: 0}
+    rightAnimation: {fileID: 0}
+    leftAnimation: {fileID: 0}
+    backAnimation: {fileID: 0}
+    jumpAnimation: {fileID: 0}
+    whileAttack: 0
+    attackSpeed: 0.18
+    attackDelay: 0.12
+  - itemName: Magic Coat
+    icon: {fileID: 2800000, guid: c9bfdb121ac6567478be492e4c4059d7, type: 3}
+    model: {fileID: 0}
+    assignAllWeapon: 0
+    description: DEF 20 MDEF 20
+    price: 2200
+    weaponType: 10
+    attack: 0
+    defense: 20
+    magicAttack: 0
+    magicDefense: 20
+    EquipmentType: 1
+    attackPrefab: {fileID: 0}
+    attackCombo: []
+    idleAnimation: {fileID: 0}
+    runAnimation: {fileID: 0}
+    rightAnimation: {fileID: 0}
+    leftAnimation: {fileID: 0}
+    backAnimation: {fileID: 0}
+    jumpAnimation: {fileID: 0}
+    whileAttack: 0
+    attackSpeed: 0.18
+    attackDelay: 0.12
+  - itemName: Bow
+    icon: {fileID: 2800000, guid: f00764d7fa2a3bd4a8bf172e63094002, type: 3}
+    model: {fileID: 100000, guid: 4c34700efa00b494ab2128a3a0c9c672, type: 2}
+    assignAllWeapon: 0
+    description: MDEF 20
+    price: 1500
+    weaponType: 1
+    attack: 10
+    defense: 0
+    magicAttack: 0
+    magicDefense: 0
+    EquipmentType: 0
+    attackPrefab: {fileID: 100000, guid: 30fa79b49bff3d249b808ddd3670ca8d, type: 3}
+    attackCombo:
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    - {fileID: 7400010, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    idleAnimation: {fileID: 7400002, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    runAnimation: {fileID: 7400004, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    rightAnimation: {fileID: 7400008, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    leftAnimation: {fileID: 7400006, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    backAnimation: {fileID: 7400012, guid: 52aca401324632e489486e6172bd60e5, type: 3}
+    jumpAnimation: {fileID: 7400008, guid: 2434b64943f63cf40958d9a43bfea4dc, type: 3}
+    whileAttack: 1
+    attackSpeed: 0.24
+    attackDelay: 0.18
