@@ -1399,16 +1399,16 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 100082}
-  m_LocalRotation: {x: 0, y: -0.99386024, z: 0, w: -0.11064288}
+  m_LocalRotation: {x: 0, y: 0.99386, z: 0, w: 0.110645056}
   m_LocalPosition: {x: 7.2730923, y: -3.4843283, z: 32.798058}
-  m_LocalScale: {x: 6.9349866, y: 6.9349866, z: 6.9349866}
+  m_LocalScale: {x: 6.9, y: 6.9, z: 6.9}
   m_Children:
   - {fileID: 400080}
   - {fileID: 4765093813794174828}
   - {fileID: 400078}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 167.29501, z: 0}
 --- !u!114 &11400004
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1521,10 +1521,10 @@ MonoBehaviour:
   speed: 4
   useMecanim: 0
   animator: {fileID: 0}
-  movingAnimation: {fileID: 0}
-  idleAnimation: {fileID: 0}
-  attackAnimation: {fileID: 0}
-  hurtAnimation: {fileID: 0}
+  movingAnimation: {fileID: 7400004, guid: e2c8a12556678b64f838f8633431cd40, type: 3}
+  idleAnimation: {fileID: 7400002, guid: e2c8a12556678b64f838f8633431cd40, type: 3}
+  attackAnimation: {fileID: 7400006, guid: e2c8a12556678b64f838f8633431cd40, type: 3}
+  hurtAnimation: {fileID: 7400008, guid: e2c8a12556678b64f838f8633431cd40, type: 3}
   flinch: 0
   stability: 0
   freeze: 0
