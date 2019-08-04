@@ -3,7 +3,41 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Party
+  - Item
+  - Minimap
+  - Actor
+  - boat_door
+  - Explosion
+  - alchimist_door
+  - air_door
+  - bonfire
+  - Dungeon_quit
+  - fire_door
+  - spirit_door
+  - doctor_door
+  - LordMarhem_door
+  - tavern_door
+  - moon_door
+  - body_door
+  - home5_door
+  - home1_door
+  - cave_door
+  - home2_door
+  - home4_door
+  - armor_door
+  - mage_door
+  - weaponsmith_door
+  - training_door
+  - home3_door
+  - wall
+  - Explosions
+  - Chest
+  - Invis_body
+  - Invis
+  - Enemy
+  - Ally
   layers:
   - Default
   - TransparentFX

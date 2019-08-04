@@ -10,6 +10,6 @@ public class for_sprite : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		transform.LookAt(GameObject.Find("FPSController").transform); 
+		//transform.LookAt(GameObject.Find("FPSController").transform); 
 	}
 }
