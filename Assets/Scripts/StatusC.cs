@@ -18,8 +18,77 @@ public class StatusC : MonoBehaviour {
 	public int mana = 100;
 	public int statusPoint = 0;
 	private bool  dead = false;
-	
-	[HideInInspector]
+
+    uint[] pConditionImportancyTable = new uint[] { 16, 15, 14, 17, 13, 2, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 1, 0 };
+    public bool[] Conditions = new bool[18];
+    public float ExpressionTimePassed;
+    public Player_expression_ID expression;
+    public enum Player_expression_ID
+    {
+        CHARACTER_EXPRESSION_INVALID = 0,
+        CHARACTER_EXPRESSION_NORMAL = 1,      //нормальный
+        CHARACTER_EXPRESSION_CURSED = 2,      //отравлен
+        CHARACTER_EXPRESSION_WEAK = 3,        //слабость
+        CHARACTER_EXPRESSION_SLEEP = 4,       //спит
+        CHARACTER_EXPRESSION_FEAR = 5,        //страх
+        CHARACTER_EXPRESSION_DRUNK = 6,       //пьян
+        CHARACTER_EXPRESSION_INSANE = 7,      //безумие
+        CHARACTER_EXPRESSION_POISONED = 8,    //отравлен
+        CHARACTER_EXPRESSION_DISEASED = 9,    //болен
+        CHARACTER_EXPRESSION_PARALYZED = 10,  //парализован
+        CHARACTER_EXPRESSION_UNCONCIOUS = 11, //без сознания
+        CHARACTER_EXPRESSION_PERTIFIED = 12,  //окаменел
+        CHARACTER_EXPRESSION_CLOSED_EYES = 13,// закрыл глаза
+        CHARACTER_EXPRESSION_BLINKED = 14,    //моргание
+        CHARACTER_EXPRESSION_OPENED_MOUTH1 = 15,//открыть рот1
+        CHARACTER_EXPRESSION_OPENED_MOUTH2 = 16,//открыть рот шире
+        CHARACTER_EXPRESSION_VIEWUP = 17,     // взгляд вверх
+        CHARACTER_EXPRESSION_VIEWRIGHT = 18,  // взгляд вправо
+        CHARACTER_EXPRESSION_VIEWLEFT = 19,   // взгляд влево
+        CHARACTER_EXPRESSION_VIEWDOWN = 20,   // взгляд вниз
+        CHARACTER_EXPRESSION_SURPRISE1 = 21,  //сюрприз1
+        CHARACTER_EXPRESSION_SURPRISE2 = 22,  //сюрприз2
+        CHARACTER_EXPRESSION_SURPRISE3 = 23,  //
+        CHARACTER_EXPRESSION_SURPRISE4 = 24,  //
+        CHARACTER_EXPRESSION_BIG_TURN_RIGHT = 25,         //
+        CHARACTER_EXPRESSION_SMALL_TURN_RIGHT = 26,         //
+        CHARACTER_EXPRESSION_CENTER = 27,         //
+        CHARACTER_EXPRESSION_SMALL_TURN_LEFT = 28,         //
+        CHARACTER_EXPRESSION_BIG_TURN_LEFT = 29,         //
+        CHARACTER_EXPRESSION_BIG_TURN_DOWN = 30,         //
+        CHARACTER_EXPRESSION_SMALL_TURN_DOWN = 31,         //
+        CHARACTER_EXPRESSION_SMALL_TURN_UP = 32,         //
+        CHARACTER_EXPRESSION_BIG_TURN_UP = 33,         //
+        CHARACTER_EXPRESSION_SQUATTING_SMALL = 34,     //присел
+        CHARACTER_EXPRESSION_SQUATTING_MEDIUM = 35,  //
+        CHARACTER_EXPRESSION_SQUATTING_BIG = 36,     //
+        CHARACTER_EXPRESSION_DMGRECVD_MINOR = 37,                 //
+        CHARACTER_EXPRESSION_DMGRECVD_MODERATE = 38,                 //
+        CHARACTER_EXPRESSION_DMGRECVD_MAJOR = 39,                 //
+        CHARACTER_EXPRESSION_SMILE = 40,//улыбка
+        CHARACTER_EXPRESSION_LAUGH = 41,//смех
+        CHARACTER_EXPRESSION_SADNESS = 42,//грусть
+        CHARACTER_EXPRESSION_ANGER = 43,//злость
+        CHARACTER_EXPRESSION_SHOCK = 44,//шок
+        CHARACTER_EXPRESSION_SHAME = 45,//досада
+        CHARACTER_EXPRESSION_TENDER = 46,             // нежность
+        CHARACTER_EXPRESSION_APATHY = 47,                 //
+        CHARACTER_EXPRESSION_SMIRK = 48,                 //ухмылка
+        CHARACTER_EXPRESSION_CRY = 49,                 //крик
+        CHARACTER_EXPRESSION_EUREKA = 50,                 //
+        CHARACTER_EXPRESSION_RAISED_EYEBROW_BIG = 51,                 //бровка вверх
+        CHARACTER_EXPRESSION_RAISED_EYEBROW_SMAL = 52,                 //
+        CHARACTER_EXPRESSION_AGRESSOR = 53,                 //
+        CHARACTER_EXPRESSION_RED = 54,                 //краснеет
+        CHARACTER_EXPRESSION_TIPSY = 55,                 //на веселе
+        CHARACTER_EXPRESSION_SCARED = 56,                 //испуган
+        CHARACTER_EXPRESSION_57 = 57,                 //
+        CHARACTER_EXPRESSION_FALLING = 58,            //падение
+        CHARACTER_EXPRESSION_DEAD = 98,               //мертв
+        CHARACTER_EXPRESSION_ERADICATED = 99,         //уничтожен
+    };
+
+    [HideInInspector]
 	public GameObject mainModel;
 	
 	[HideInInspector]
@@ -551,4 +620,12 @@ public class StatusC : MonoBehaviour {
 		
 		
 	}
+    public uint GetMajorConditionIdx()
+    {
+        for (uint i = 0; i < 18; ++i)
+            if (Conditions[pConditionImportancyTable[i]])
+                return pConditionImportancyTable[i];
+
+        return 18;
+    }
 }

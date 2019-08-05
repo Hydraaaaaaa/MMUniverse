@@ -150,7 +150,7 @@ public class Characters_panel : MonoBehaviour
         int anim_num = (int)indicator_timer;*/
         UpdatePlayersAndHirelingsEmotions();
 
-        switch (person_oreol_ID)
+        /*switch (person_oreol_ID)
         {
             case 1:
                 Oreol_x = 205;
@@ -168,7 +168,7 @@ public class Characters_panel : MonoBehaviour
                 Oreol_x = -141;
                 Oreol_y = 98;
                 break;
-        }
+        }*/
 
         /*if (!Temp.Player1CurentFacePath)
         {
@@ -271,6 +271,7 @@ else if (Id > 12)
             Temp.ActiveCharacter = 4;
         }
     }
+
     public void Faces_Init()
     {
         for (int j = 0; j < 58; j++)
