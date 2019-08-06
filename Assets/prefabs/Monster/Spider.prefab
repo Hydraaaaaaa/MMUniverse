@@ -1435,6 +1435,9 @@ MonoBehaviour:
   maxMana: 100
   mana: 100
   statusPoint: 0
+  Conditions: 000000000000000000000000000000000000
+  ExpressionTimePassed: 0
+  expression: 0
   mainModel: {fileID: 0}
   addAtk: 0
   addDef: 0
@@ -1513,7 +1516,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37c56a8cd6981c5448330316dd2bb7bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mainModel: {fileID: 100076, guid: e2c8a12556678b64f838f8633431cd40, type: 3}
+  mainModel: {fileID: 100078}
   followTarget: {fileID: 0}
   approachDistance: 2.5
   detectRange: 12
@@ -1531,7 +1534,7 @@ MonoBehaviour:
   bulletPrefab: {fileID: 400000, guid: fe9ad716d35a4584aa1d0a7f95bdb18a, type: 3}
   attackPoint: {fileID: 400080}
   attackCast: 0.3
-  attackDelay: 0.5
+  attackDelay: 1.2
   followState: 0
   cancelAttack: 0
   attackVoice: {fileID: 0}

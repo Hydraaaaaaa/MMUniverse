@@ -38,6 +38,7 @@ TagManager:
   - Invis
   - Enemy
   - Ally
+  - SpawnPoint
   layers:
   - Default
   - TransparentFX

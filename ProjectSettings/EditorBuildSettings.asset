@@ -5,64 +5,64 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Copyright.unity
     guid: 892a1a79cda17d84a8ab46d1e9d24e5d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/d09.unity
     guid: 580a779709d4b434e8b5c2e4e22d28e4
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Daggerwound Island.unity
     guid: 625dcfd0e893ac94bb16c9092c2a606b
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/dragon_cave.unity
     guid: 75663978135620a48adb314b1b4e16f6
-  - enabled: 1
+  - enabled: 0
     path: Assets/UFTAtlasEditor/Demo/EditorDemo.unity
     guid: 18880913320bd43fbac6f1e837675b63
   - enabled: 1
     path: Assets/Scenes/emerald_01.unity
     guid: 24e9040328ee2b44e946ad240d4dcf7e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Infinity Code/MeshToTerrain/Example/Scene/Example.unity
     guid: 22c5c8cb561d7874caa81c09546e626c
-  - enabled: 1
+  - enabled: 0
     path: Assets/UFTAtlasEditor/Demo/GameScene.unity
     guid: 433e2d7e5dd9d483489cdd4e0063aa57
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GameSelect.unity
     guid: 14eb29c8bc6d2084082cea171f63e566
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Harmondale.unity
     guid: 314b5e2a3e6fa1d4f9dd240790a3c5a7
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Load.unity
     guid: 4f24ee410ef4b7b4db1905329911ecd1
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MM7_MainMenu.unity
     guid: c68cb9b150f3b2c4a9fd5dd143f2a83d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MM7_VideoIntro.unity
     guid: 02bd5b9710c87274db907e8863a42d60
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/new_sorpigal.unity
     guid: fdc0807e30b62844898fdbae5f9bb4db
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PartyMM7Dead.unity
     guid: 086059ace60b5e7468e6cd554f756f21
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/PostIntroVideo.unity
     guid: e9a66a52f1dd5a1498f6f03cb298e7db
-  - enabled: 1
+  - enabled: 0
     path: Assets/rain/Rain.unity
     guid: 7f43aa1e5e7d30b4fb7c2e07676f8e4e
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: a73374f87400735438e7e0164e7d36f2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Tample_of_moon.unity
     guid: ce277af04081fed4c82f7f0c50928ffa
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/TempAlbeoris.unity
     guid: caeaafd890e76a64bbee11fa4a539a43
   m_configObjects: {}
