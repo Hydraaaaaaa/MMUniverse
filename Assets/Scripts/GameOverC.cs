@@ -9,10 +9,13 @@ public class GameOverC : MonoBehaviour {
 	private Vector3 lastPosition;
 	private Transform mainCam;
 	GameObject oldPlayer;
-	
-	void  Start (){
+    public GameObject InvisHeadModel;
+    public GameObject InvisBodyModel;
+
+    void  Start (){
 		StartCoroutine(Delay());
-	}
+       
+    }
 
 	IEnumerator Delay(){
 		yield return new WaitForSeconds(delay);
@@ -24,7 +27,11 @@ public class GameOverC : MonoBehaviour {
 		if(menu){
 			GUI.Box(new Rect(Screen.width /2 -100,Screen.height /2 -120,200,160), "Game Over");
 			if(GUI.Button(new Rect(Screen.width /2 -80,Screen.height /2 -80,160,40), "Retry")) {
-				LoadData();
+                Object allObject = Object.FindObjectOfType<ARPGcameraC>();
+                GameObject Temp = GameObject.Find(allObject.name);
+                Temp.GetComponent<ARPGcameraC>().useFirstPerson = false;
+
+                LoadData();
 			}
 			if(GUI.Button(new Rect(Screen.width /2 -80,Screen.height /2 -20,160,40), "Quit Game")) {
 				mainCam = GameObject.FindWithTag ("MainCamera").transform;

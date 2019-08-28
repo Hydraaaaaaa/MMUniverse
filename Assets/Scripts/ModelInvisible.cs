@@ -18,6 +18,8 @@ public class ModelInvisible : MonoBehaviour
     {
         if (active)//от первого лица
         {
+            if (!MainCamC)
+                MainCamC = GameObject.FindWithTag("MainCamera");
             if (MainCamC.GetComponent<ARPGcameraC>().useFirstPerson)//от первого лица
             {
                 This_object.SetActive(false);//отключить отрисовку

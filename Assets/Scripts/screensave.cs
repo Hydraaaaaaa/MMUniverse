@@ -78,7 +78,7 @@ public class screensave : MonoBehaviour
     {
 
 
-        if (Input.GetKeyDown(KeyCode.B) )
+        if (Input.GetKeyDown(KeyCode.SysReq) )
         {
             i++;
             cName = "Screen_" + i;

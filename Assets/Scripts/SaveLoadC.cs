@@ -9,8 +9,8 @@ public class SaveLoadC : MonoBehaviour {
 	private Transform mainCam;
 	public GameObject oldPlayer;
 	private int saveSlot = 0;
-	
-	void  Start (){
+
+    void  Start (){
 		if(!player){
 			player = GameObject.FindWithTag ("Player");
 		}
@@ -173,8 +173,9 @@ public class SaveLoadC : MonoBehaviour {
 		respawn.GetComponent<StatusC>().statusPoint = PlayerPrefs.GetInt("PlayerSTP" +saveSlot.ToString());
 		mainCam = GameObject.FindWithTag ("MainCamera").transform;
 		mainCam.GetComponent<ARPGcameraC>().target = respawn.transform;
-		//-------------------------------
-		respawn.GetComponent<InventoryC>().cash = PlayerPrefs.GetInt("Cash" +saveSlot.ToString());
+
+        //-------------------------------
+        respawn.GetComponent<InventoryC>().cash = PlayerPrefs.GetInt("Cash" +saveSlot.ToString());
 		int itemSize = player.GetComponent<InventoryC>().itemSlot.Length;
 		int a = 0;
 		if(itemSize > 0){

@@ -1,0 +1,319 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8014571740931261700
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2660050362755530142}
+  - component: {fileID: 4105279219422358541}
+  m_Layer: 0
+  m_Name: BodyDataC
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2660050362755530142
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8014571740931261700}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -134.75822, y: 2.9979248, z: -146.86935}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4105279219422358541
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8014571740931261700}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c0f3174e9dd735408ccbcd56dd63de1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bodies:
+  - face_id: 1
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 2800000, guid: 525ea864e7f811d4f8d53dba8b699a7f, type: 3}
+    - {fileID: 2800000, guid: 3fbd70d6d2c31044686df4706d1fbd1a, type: 3}
+    - {fileID: 2800000, guid: 3038a94be756a8f4296081a882ff3c7f, type: 3}
+    - {fileID: 2800000, guid: 9a07f90ed0e2b4649b8563de1c6f5834, type: 3}
+    - {fileID: 2800000, guid: 5599371ddb10fce41bc41df9b69646cf, type: 3}
+    - {fileID: 2800000, guid: febc6c33739e5434d955996bb3f968ae, type: 3}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - face_id: 0
+    SexType: 0
+    RaceType: 0
+    Body_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  Aqualangs:
+  - SexType: 0
+    Aqualang_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - SexType: 0
+    Aqualang_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - SexType: 0
+    Aqualang_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - SexType: 0
+    Aqualang_parts:
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}

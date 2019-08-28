@@ -316,7 +316,7 @@ public class right_panel : MonoBehaviour {
         {
             GUI.DrawTexture(new Rect(Screen.width - panel1_texture.width, Screen.height - panel1_texture.height, panel1_texture.width, panel1_texture.height), panel1_texture);
         }
-        else if (panel2_texture_flag)
+        else if (panel2_texture_flag)//панель с кольцами
         {
             GUI.DrawTexture(new Rect(Screen.width - panel2_texture.width, Screen.height - panel2_texture.height, panel2_texture.width, panel2_texture.height), panel2_texture);
         }

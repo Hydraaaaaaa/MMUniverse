@@ -7,8 +7,8 @@ public class InventoryC : MonoBehaviour {
 	private bool  itemMenu = true;
 	private bool  equipMenu = false;
 	
-	public int[] itemSlot = new int[16];
-	public int[] itemQuantity = new int[16];
+	public int[] itemSlot = new int[126];
+	public int[] itemQuantity = new int[126];
 	public int[] equipment = new int[8];
 	
 	public int weaponEquip = 0;
@@ -20,21 +20,91 @@ public class InventoryC : MonoBehaviour {
 	public GameObject player;
 	public GameObject database;
 	public GameObject fistPrefab;
-	
-	public int cash = 500;
+    public GameObject body_database;
+
+    public int cash = 500;
 	
 	public GUISkin skin;
-	public Rect windowRect = new Rect (260 ,140 ,280 ,385);
-	
-	//private string hover = ""; 
-	
-	void  Start (){
+    const int INVENTORY_WINDOW_ID = 0; //id окна инвентаря 
+    public Rect windowRect = new Rect (200 ,200 ,800 ,385);
+    const int INVENTORY_TEXTURE_ID = 1; //id окна с иконкой 
+    const int CHARACTER_WINDOW_ID = 2; //id окна персонажа
+    Rect inventoryBoxRect = new Rect(); //область окна с изображением иконки 
+    public Rect characterBoxRect = new Rect(1001,200,400,400); //область окна с изображением иконки 
+    public float ButtonWidth = 40; //высота ячейки 
+    public float ButtonHeight = 40; //ширина ячейки 
+    public int indent_x = 0;//отступы
+    public int indent_y = 0;
+    int invRows = 9; //количество колонок 
+    int invColumns = 14; //количество в строке 
+    bool isDraggable; //перемещение предмета 
+    //int TempitemQuantity;
+    int Item_Count;
+    //public Texture2D BG;
+    public GUIStyle BG_style;
+    public GUIStyle BG_Char;
+    public float gold_positionX;
+    public float gold_positionY;
+    public float Hint_positionX;
+    public float Hint_positionY;
+    public float Hint_Width;
+    public float Hint_Height;
+    public float Papperdoll_bodypositionX;
+    public float Papperdoll_bodypositionY;
+    public Rect Papperdoll_rhandposition = new Rect(0,0,0,0);
+    public Rect Papperdoll_lhandposition = new Rect(0,0,0,0);
+   
+    int selectItem; //вспомогательная переменная куда заносим предмет инвентаря 
+    Texture2D dragTexture; //текстура которая отображается при перетягивании предмета в инвентаре
+    ItemDataC dataItem;
+    BodyDataC databody;
+    //private string hover = ""; 
+
+    Texture2D null_tex = null;
+    Texture2D cloak = null;
+    Texture2D cloak_collar = null;
+    Texture2D bow = null;
+    Texture2D armor = null;
+    Texture2D armor_shoulders = null;
+    Texture2D helm = null;
+    Texture2D boot = null;
+    Texture2D belt = null;
+    Texture2D shield = null;
+    Texture2D weapon1 = null;
+    int cloak_x = 0;
+    int cloak_y = 0;
+    int bow_x = 0;
+    int bow_y = 0;
+    int armor_x = 0;
+    int armor_y = 0;
+    int helm_x = 0;
+    int helm_y = 0;
+    int boot_x = 0;
+    int boot_y = 0;
+    int belt_x = 0;
+    int belt_y = 0;
+    int shield_x = 0;
+    int shield_y = 0;
+    int weapon1_x = 0;
+    int weapon1_y = 0;
+    public bool panel2_texture_flag = false;
+    public Texture2D panel2_texture;
+    public Texture2D character_body;
+    public Texture2D character_hand;
+    public Texture2D character_hand2;
+    public Texture2D character_fast;
+    public Texture2D character_fast_left;
+    public Texture2D character_fast_left2;
+
+
+    void  Start (){
 		if(!player){
 			player = this.gameObject;
 		}
 		ItemDataC dataItem = database.GetComponent<ItemDataC>();
-		//Reset Power of Current Weapon & Armor
-		player.GetComponent<StatusC>().addAtk = 0;
+        BodyDataC databody = body_database.GetComponent<BodyDataC>();
+        //Reset Power of Current Weapon & Armor
+        player.GetComponent<StatusC>().addAtk = 0;
 		player.GetComponent<StatusC>().addDef = 0;
 		player.GetComponent<StatusC>().addMatk = 0;
 		player.GetComponent<StatusC>().addMdef = 0;
@@ -51,8 +121,7 @@ public class InventoryC : MonoBehaviour {
 		player.GetComponent<StatusC>().weaponMatk += dataItem.equipment[armorEquip].magicAttack;
 		player.GetComponent<StatusC>().addMdef += dataItem.equipment[armorEquip].magicDefense;
 		player.GetComponent<StatusC>().CalculateStatus();
-		
-	}
+    }
 	
 	void  Update (){
 		if (Input.GetKeyDown("i") || Input.GetKeyDown(KeyCode.Return) || Input.GetKeyDown(KeyCode.KeypadEnter)) {
@@ -219,14 +288,27 @@ public class InventoryC : MonoBehaviour {
 	
 	void  OnGUI (){
 		GUI.skin = skin;
-		if(menu && itemMenu){
-			windowRect = GUI.Window (1, windowRect, ItemWindow, "Items");
+		if(menu && itemMenu){//Создаем окно
+            windowRect = GUI.Window(INVENTORY_WINDOW_ID, windowRect, ItemWindow, "INVENTORY", BG_style);
+            if (isDraggable)
+            {
+                inventoryBoxRect = GUI.Window(INVENTORY_TEXTURE_ID, new Rect(Event.current.mousePosition.x + 1, Event.current.mousePosition.y + 1, 40, 40), insert, "", "box");
+
+            }
+            //characterBoxRect = GUI.Window(CHARACTER_WINDOW_ID, characterBoxRect, CharacterWindow, "CHARACTER", BG_Char);
+
+        }
+        if(menu && equipMenu){
+			windowRect = GUI.Window (INVENTORY_WINDOW_ID, windowRect, ItemWindow, "EQUIPMENT", BG_style);
+            if (isDraggable)
+            {
+                inventoryBoxRect = GUI.Window(INVENTORY_TEXTURE_ID, new Rect(Event.current.mousePosition.x + 1, Event.current.mousePosition.y + 1, 40, 40), insert, "", "box");
+
+            }
+            characterBoxRect = GUI.Window(CHARACTER_WINDOW_ID, characterBoxRect, CharacterWindow, "CHARACTER", BG_Char);
 		}
-		if(menu && equipMenu){
-			windowRect = GUI.Window (1, windowRect, ItemWindow, "Equipment");
-		}
-		
-		if(menu){
+
+        if(menu){
 			if (GUI.Button ( new Rect(windowRect.x -50, windowRect.y +105,50,100), "Item")) {
 				//Switch to Item Tab
 				itemMenu = true;
@@ -238,358 +320,305 @@ public class InventoryC : MonoBehaviour {
 				itemMenu = false;	
 			}
 		}
-		//hover = GUI.tooltip;
-	}
-	
-	//-----------Item Window-------------
-	void ItemWindow(int windowID){
-		ItemDataC dataItem = database.GetComponent<ItemDataC>();
-		if(menu && itemMenu){
-			//GUI.Box ( new Rect(260,140,280,385), "Items");
-			//Close Window Button
-			if (GUI.Button ( new Rect(250,2,30,30), "X")) {
-				OnOffMenu();
+        //hover = GUI.tooltip;
+    }
+
+    //окно с изображением иконки 
+    void insert(int id)
+    {
+        GUI.BringWindowToFront(INVENTORY_TEXTURE_ID);//выводим на передний план окно с иконкой 
+        GUI.DrawTexture(new Rect(Event.current.mousePosition.x, Event.current.mousePosition.y, 40, 40), dragTexture);//рисуем текстуру иконки 
+        if (menu && itemMenu)
+           GUI.Label(new Rect(30, 0, 20, 20), ""+Item_Count); //Количество
+    }
+
+    //Окно персонажа
+    void CharacterWindow(int windowID)
+    {
+        dataItem = database.GetComponent<ItemDataC>();
+        databody = body_database.GetComponent<BodyDataC>();
+        GUI.Box(new Rect(characterBoxRect.x, characterBoxRect.y, characterBoxRect.width, characterBoxRect.height), "CHARACTER");
+
+        if (panel2_texture_flag)//панель с кольцами
+        {
+            GUI.DrawTexture(new Rect(characterBoxRect.x, characterBoxRect.y, characterBoxRect.width, characterBoxRect.height), panel2_texture);
+        }
+
+        //определение персонажа
+
+        //отрисовка лука
+
+        //отрисовка плаща
+
+        //отрисовка куклы
+        //Body
+        GUI.DrawTexture(new Rect(Papperdoll_bodypositionX, Papperdoll_bodypositionY, characterBoxRect.width, characterBoxRect.height), databody.Bodies[0].Body_parts[0]);
+        //Hands
+        //Right
+        GUI.DrawTexture(new Rect(Papperdoll_rhandposition.x, Papperdoll_rhandposition.y, Papperdoll_rhandposition.width, Papperdoll_rhandposition.height), databody.Bodies[0].Body_parts[1]);
+
+        //Left
+        GUI.DrawTexture(new Rect(Papperdoll_lhandposition.x, Papperdoll_lhandposition.y, Papperdoll_lhandposition.width, Papperdoll_lhandposition.height), databody.Bodies[0].Body_parts[5]);
+
+        //броня
+
+        //шлем
+
+        //обувь
+
+        //пояс
+        //плечи брони
+        //воротник
+        //оружие
+        //оружие во второй руке
+        //кулак
+        //щит
+       
+        /*
+        //отрисовка кнопок
+        if (GUI.Button(new Rect(100, 115, 50, 50), new GUIContent(dataItem.equipment[weaponEquip].icon, dataItem.equipment[weaponEquip].itemName + "\n" + "\n" + dataItem.equipment[weaponEquip].description)))
+        {
+            if (!allowWeaponUnequip || weaponEquip == 0)
+            {
+                return;
+            }
+            UnEquip(weaponEquip);
+        }
+        //Armor
+        GUI.Label(new Rect(20, 190, 150, 50), "Armor");
+        if (GUI.Button(new Rect(100, 175, 50, 50), new GUIContent(dataItem.equipment[armorEquip].icon, dataItem.equipment[armorEquip].itemName + "\n" + "\n" + dataItem.equipment[armorEquip].description)))
+        {
+            if (!allowArmorUnequip || armorEquip == 0)
+            {
+                return;
+            }
+            UnEquip(armorEquip);
+
+        }*/
+        GUI.DragWindow();
+    }
+
+    //-----------Item Window-------------
+    void ItemWindow(int windowID){
+        dataItem = database.GetComponent<ItemDataC>();
+        if(menu && itemMenu)
+        {
+            //GUI.Box ( new Rect(260,140,280,385), "Items");
+
+            //Close Window Button
+            float button_x = windowRect.width - 30;
+            if (GUI.Button ( new Rect(button_x,0,25,25), "X")) {
+				    OnOffMenu();
 			}
-			//Items Slot
-			if (GUI.Button ( new Rect(30,115,50,50),new GUIContent (dataItem.usableItem[itemSlot[0]].icon, dataItem.usableItem[itemSlot[0]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[0]].description ))){
-				if(!dataItem.usableItem[itemSlot[0]].unusable){
-					UseItem(itemSlot[0]);
-					if(itemQuantity[0] > 0){
-						itemQuantity[0]--;
-					}
-					if(itemQuantity[0] <= 0){
-						itemSlot[0] = 0;
-						itemQuantity[0] = 0;
-						AutoSortItem();
-					}
-				}
-			}
-			if(itemQuantity[0] > 0){
-				GUI.Label ( new Rect(70, 150, 20, 20), itemQuantity[0].ToString()); //Quantity
-			}
-			
-			if (GUI.Button ( new Rect(90,115,50,50),new GUIContent (dataItem.usableItem[itemSlot[1]].icon, dataItem.usableItem[itemSlot[1]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[1]].description ))){
-				if(!dataItem.usableItem[itemSlot[1]].unusable){
-					UseItem(itemSlot[1]);
-					if(itemQuantity[1] > 0){
-						itemQuantity[1]--;
-					}
-					if(itemQuantity[1] <= 0){
-						itemSlot[1] = 0;
-						itemQuantity[1] = 0;
-						AutoSortItem();
-					}
-				}
-			}
-			if(itemQuantity[1] > 0){
-				GUI.Label ( new Rect(130, 150, 20, 20), itemQuantity[1].ToString()); //Quantity
-			}
-			
-			if (GUI.Button ( new Rect(150,115,50,50),new GUIContent (dataItem.usableItem[itemSlot[2]].icon, dataItem.usableItem[itemSlot[2]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[2]].description ))){
-				if(!dataItem.usableItem[itemSlot[2]].unusable){
-					UseItem(itemSlot[2]);
-					if(itemQuantity[2] > 0){
-						itemQuantity[2]--;
-					}
-					if(itemQuantity[2] <= 0){
-						itemSlot[2] = 0;
-						itemQuantity[2] = 0;
-						AutoSortItem();
-					}
-				}
-			}
-			if(itemQuantity[2] > 0){
-				GUI.Label ( new Rect(190, 150, 20, 20), itemQuantity[2].ToString()); //Quantity
-			}
-			
-			if (GUI.Button ( new Rect(210,115,50,50),new GUIContent (dataItem.usableItem[itemSlot[3]].icon, dataItem.usableItem[itemSlot[3]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[3]].description ))){
-				if(!dataItem.usableItem[itemSlot[3]].unusable){
-					UseItem(itemSlot[3]);
-					if(itemQuantity[3] > 0){
-						itemQuantity[3]--;
-					}
-					if(itemQuantity[3] <= 0){
-						itemSlot[3] = 0;
-						itemQuantity[3] = 0;
-						AutoSortItem();
-					}
-				}
-			}
-			if(itemQuantity[3] > 0){
-				GUI.Label ( new Rect(250, 150, 20, 20), itemQuantity[3].ToString()); //Quantity
-			}
-			
-			//-----------------------------
-			if (GUI.Button ( new Rect(30,175,50,50),new GUIContent (dataItem.usableItem[itemSlot[4]].icon, dataItem.usableItem[itemSlot[4]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[4]].description ))){
-				if(!dataItem.usableItem[itemSlot[4]].unusable){
-					UseItem(itemSlot[4]);
-					if(itemQuantity[4] > 0){
-						itemQuantity[4]--;
-					}
-					if(itemQuantity[4] <= 0){
-						itemSlot[4] = 0;
-						itemQuantity[4] = 0;
-						AutoSortItem();
-					}
-				}
-			}
-			if(itemQuantity[4] > 0){
-				GUI.Label ( new Rect(70, 210, 20, 20), itemQuantity[4].ToString()); //Quantity
-			}
-			
-			if (GUI.Button ( new Rect(90,175,50,50),new GUIContent (dataItem.usableItem[itemSlot[5]].icon, dataItem.usableItem[itemSlot[5]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[5]].description ))){
-				if(!dataItem.usableItem[itemSlot[5]].unusable){
-					UseItem(itemSlot[5]);
-					if(itemQuantity[5] > 0){
-						itemQuantity[5]--;
-					}
-					if(itemQuantity[5] <= 0){
-						itemSlot[5] = 0;
-						itemQuantity[5] = 0;
-						AutoSortItem();
-					}
-				}
-			}
-			if(itemQuantity[5] > 0){
-				GUI.Label ( new Rect(130, 210, 20, 20), itemQuantity[5].ToString()); //Quantity
-			}
-			
-			if (GUI.Button ( new Rect(150,175,50,50),new GUIContent (dataItem.usableItem[itemSlot[6]].icon, dataItem.usableItem[itemSlot[6]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[6]].description ))){
-				if(!dataItem.usableItem[itemSlot[6]].unusable){
-					UseItem(itemSlot[6]);
-					if(itemQuantity[6] > 0){
-						itemQuantity[6]--;
-					}
-					if(itemQuantity[6] <= 0){
-						itemSlot[6] = 0;
-						itemQuantity[6] = 0;
-						AutoSortItem();
-					}
-				}
-			}
-			if(itemQuantity[6] > 0){
-				GUI.Label ( new Rect(190, 210, 20, 20), itemQuantity[6].ToString()); //Quantity
-			}
-			
-			if (GUI.Button ( new Rect(210,175,50,50),new GUIContent (dataItem.usableItem[itemSlot[7]].icon, dataItem.usableItem[itemSlot[7]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[7]].description ))){
-				if(!dataItem.usableItem[itemSlot[7]].unusable){
-					UseItem(itemSlot[7]);
-					if(itemQuantity[7] > 0){
-						itemQuantity[7]--;
-					}
-					if(itemQuantity[7] <= 0){
-						itemSlot[7] = 0;
-						itemQuantity[7] = 0;
-						AutoSortItem();
-					}
-				}
-			}
-			if(itemQuantity[7] > 0){
-				GUI.Label ( new Rect(250, 210, 20, 20), itemQuantity[7].ToString()); //Quantity
-			}
-			//-----------------------------
-			if (GUI.Button ( new Rect(30,235,50,50),new GUIContent (dataItem.usableItem[itemSlot[8]].icon, dataItem.usableItem[itemSlot[8]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[8]].description ))){
-				if(!dataItem.usableItem[itemSlot[8]].unusable){
-					UseItem(itemSlot[8]);
-					if(itemQuantity[8] > 0){
-						itemQuantity[8]--;
-					}
-					if(itemQuantity[8] <= 0){
-						itemSlot[8] = 0;
-						itemQuantity[8] = 0;
-						AutoSortItem();
-					}
-				}
-			}
-			if(itemQuantity[8] > 0){
-				GUI.Label ( new Rect(70, 270, 20, 20), itemQuantity[8].ToString()); //Quantity
-			}
-			
-			if (GUI.Button ( new Rect(90,235,50,50),new GUIContent (dataItem.usableItem[itemSlot[9]].icon, dataItem.usableItem[itemSlot[9]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[9]].description ))){
-				if(!dataItem.usableItem[itemSlot[9]].unusable){
-					UseItem(itemSlot[9]);
-					if(itemQuantity[9] > 0){
-						itemQuantity[9]--;
-					}
-					if(itemQuantity[9] <= 0){
-						itemSlot[9] = 0;
-						itemQuantity[9] = 0;
-						AutoSortItem();
-					}
-				}
-			}
-			if(itemQuantity[9] > 0){
-				GUI.Label ( new Rect(130, 270, 20, 20), itemQuantity[9].ToString()); //Quantity
-			}
-			
-			if (GUI.Button ( new Rect(150,235,50,50),new GUIContent (dataItem.usableItem[itemSlot[10]].icon, dataItem.usableItem[itemSlot[10]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[10]].description ))){
-				if(!dataItem.usableItem[itemSlot[10]].unusable){
-					UseItem(itemSlot[10]);
-					if(itemQuantity[10] > 0){
-						itemQuantity[10]--;
-					}
-					if(itemQuantity[10] <= 0){
-						itemSlot[10] = 0;
-						itemQuantity[10] = 0;
-						AutoSortItem();
-					}
-				}
-			}
-			if(itemQuantity[10] > 0){
-				GUI.Label ( new Rect(190, 270, 20, 20), itemQuantity[10].ToString()); //Quantity
-			}
-			
-			if (GUI.Button ( new Rect(210,235,50,50),new GUIContent (dataItem.usableItem[itemSlot[11]].icon, dataItem.usableItem[itemSlot[11]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[11]].description ))){
-				if(!dataItem.usableItem[itemSlot[11]].unusable){
-					UseItem(itemSlot[11]);
-					if(itemQuantity[11] > 0){
-						itemQuantity[11]--;
-					}
-					if(itemQuantity[11] <= 0){
-						itemSlot[11] = 0;
-						itemQuantity[11] = 0;
-						AutoSortItem();
-					}
-				}
-			}
-			if(itemQuantity[11] > 0){
-				GUI.Label ( new Rect(250, 270, 20, 20), itemQuantity[11].ToString()); //Quantity
-			}
-			//-----------------------------
-			if (GUI.Button ( new Rect(30,295,50,50),new GUIContent (dataItem.usableItem[itemSlot[12]].icon, dataItem.usableItem[itemSlot[12]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[12]].description ))){
-				if(!dataItem.usableItem[itemSlot[12]].unusable){
-					UseItem(itemSlot[12]);
-					if(itemQuantity[12] > 0){
-						itemQuantity[12]--;
-					}
-					if(itemQuantity[12] <= 0){
-						itemSlot[12] = 0;
-						itemQuantity[12] = 0;
-						AutoSortItem();
-					}
-				}
-			}
-			if(itemQuantity[12] > 0){
-				GUI.Label ( new Rect(70, 330, 20, 20), itemQuantity[12].ToString()); //Quantity
-			}
-			
-			if (GUI.Button ( new Rect(90,295,50,50),new GUIContent (dataItem.usableItem[itemSlot[13]].icon, dataItem.usableItem[itemSlot[13]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[13]].description ))){
-				if(!dataItem.usableItem[itemSlot[13]].unusable){
-					UseItem(itemSlot[13]);
-					if(itemQuantity[13] > 0){
-						itemQuantity[13]--;
-					}
-					if(itemQuantity[13] <= 0){
-						itemSlot[13] = 0;
-						itemQuantity[13] = 0;
-						AutoSortItem();
-					}
-				}
-			}
-			if(itemQuantity[13] > 0){
-				GUI.Label ( new Rect(130, 330, 20, 20), itemQuantity[13].ToString()); //Quantity
-			}
-			
-			if (GUI.Button ( new Rect(150,295,50,50),new GUIContent (dataItem.usableItem[itemSlot[14]].icon, dataItem.usableItem[itemSlot[14]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[14]].description ))){
-				if(!dataItem.usableItem[itemSlot[14]].unusable){
-					UseItem(itemSlot[14]);
-					if(itemQuantity[14] > 0){
-						itemQuantity[14]--;
-					}
-					if(itemQuantity[14] <= 0){
-						itemSlot[14] = 0;
-						itemQuantity[14] = 0;
-						AutoSortItem();
-					}
-				}
-			}
-			if(itemQuantity[14] > 0){
-				GUI.Label ( new Rect(190, 330, 20, 20), itemQuantity[14].ToString()); //Quantity
-			}
-			
-			if (GUI.Button ( new Rect(210,295,50,50),new GUIContent (dataItem.usableItem[itemSlot[15]].icon, dataItem.usableItem[itemSlot[15]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[15]].description ))){
-				if(!dataItem.usableItem[itemSlot[15]].unusable){
-					UseItem(itemSlot[15]);
-					if(itemQuantity[15] > 0){
-						itemQuantity[15]--;
-					}
-					if(itemQuantity[15] <= 0){
-						itemSlot[15] = 0;
-						itemQuantity[15] = 0;
-						AutoSortItem();
-					}
-				}
-				
-			}
-			if(itemQuantity[15] > 0){
-				GUI.Label ( new Rect(250, 330, 20, 20), itemQuantity[15].ToString()); //Quantity
-			}
-			GUI.Label ( new Rect(20, 355, 150, 50), "$ " + cash.ToString());
-			GUI.Box ( new Rect(20,30,240,60), GUI.tooltip);
-			//---------------------------
-		}
+
+            //Autosort button
+            float button_autosort = button_x - 100;
+            if (GUI.Button(new Rect(button_autosort, 0, 75, 25), "Autosort"))
+            {
+                AutoSortItem();
+            }
+
+            //Items Slot
+            int i = 0;
+            for (int y = 0; y < invRows; y++)
+            {
+                for (int x = 0; x < invColumns; x++)
+                {
+                    if (GUI.Button(new Rect(indent_x + (x * ButtonWidth), indent_y + (y * ButtonHeight), ButtonWidth, ButtonHeight), new GUIContent(dataItem.usableItem[itemSlot[i]].icon, dataItem.usableItem[itemSlot[i]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[i]].description)))
+                    {
+                        if (Input.GetKeyUp(KeyCode.Mouse0))//только при нажатии ЛКМ
+                        {
+                            if (itemSlot[i] > 0)
+                            {
+                                if (!isDraggable)//еще не бралась вещь (первичный клик)
+                                {
+                                    //зажат ли шифт
+                                    if (Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift))
+                                    {
+                                        dragTexture = dataItem.usableItem[itemSlot[i]].icon;//присваиваем нашей текстуре которая должна отображаться при перетаскивании, текстуру предмета 
+                                        isDraggable = true;//возможность перемещать предмет 
+                                        selectItem = itemSlot[i];//присваиваем вспомогательной переменной наш предмет 
+                                        Item_Count = 1;
+                                        itemQuantity[i]--;
+                                        if (itemQuantity[i] <= 0)
+                                        {
+                                            itemSlot[i] = 0;
+                                        }
+                                    }
+                                    else
+                                    {
+                                        //шифт не зажат
+                                        dragTexture = dataItem.usableItem[itemSlot[i]].icon;//присваиваем нашей текстуре которая должна отображаться при перетаскивании, текстуру предмета 
+                                        isDraggable = true;//возможность перемещать предмет 
+                                        selectItem = itemSlot[i];//присваиваем вспомогательной переменной наш предмет 
+                                                                 //RemoveItem((x + y * invColumns) + 1, 1);//удаляем предмет
+                                                                 // if (itemQuantity[i] > 0)
+                                                                 //{
+                                                                 //TempitemQuantity = itemQuantity[i];
+                                        Item_Count = itemQuantity[i];
+                                        itemQuantity[i] = 0;
+                                        if (itemQuantity[i] <= 0)
+                                            itemSlot[i] = 0;
+                                    }
+                                }
+                                else//на этом месте другая вещь
+                                {
+                                    //проверка такая же вещь или нет
+                                    if (itemSlot[i] == selectItem)
+                                    {
+                                        itemQuantity[i] += Item_Count;
+                                        Item_Count = 0;
+                                        selectItem = 0;
+                                        isDraggable = false;//возможность перемещать предмет  
+                                    }
+                                    /*
+                                     elseif(CreateNewItem()){//создание новых вещей
+
+                                    }
+                                     */
+                                    else
+                                    {//другая вещь (замена)
+                                        int temp_selectItem = selectItem;
+                                        int Temp_itemQuantity = Item_Count;
+                                        Texture2D Temp_tex = dragTexture;
+
+                                        //получить данные ячейки
+                                        selectItem = itemSlot[i];//присваиваем вспомогательной переменной наш предмет 
+                                                                 //TempitemQuantity = itemQuantity[i];
+                                        Item_Count = itemQuantity[i];
+                                        dragTexture = dataItem.usableItem[itemSlot[i]].icon;//присваиваем нашей текстуре которая должна отображаться при перетаскивании, текстуру предмета 
+
+                                        //передача ячейке
+                                        itemSlot[i] = temp_selectItem;
+                                        itemQuantity[i] = Temp_itemQuantity;
+                                        dataItem.usableItem[itemSlot[i]].icon = Temp_tex;
+                                        isDraggable = true;//возможность перемещать предмет   
+                                    }
+                                }
+                            }
+                            else//это пустая ячейка
+                            {
+
+                                if (isDraggable)
+                                {
+                                    //обнуляем переменные 
+                                    itemSlot[i] = selectItem;
+                                    itemQuantity[i] = Item_Count;
+                                    isDraggable = false;
+                                    selectItem = 0;
+                                }
+                                else//делаем ячейки не выделяемыми 
+                                {
+                                    GUI.Label(new Rect(indent_x + (x * ButtonWidth), indent_y + (y * ButtonHeight), ButtonWidth, ButtonHeight), new GUIContent(dataItem.usableItem[itemSlot[i]].icon, dataItem.usableItem[itemSlot[i]].itemName + "\n" + "\n" + dataItem.usableItem[itemSlot[i]].description));
+                                }
+                            }
+                        }
+                        if (Input.GetKeyUp(KeyCode.Mouse1))//только при нажатии ПКМ
+                        {
+                            UseItem(itemSlot[i]);
+                            if (itemQuantity[i] > 0)
+                                itemQuantity[i]--;
+                            if (itemQuantity[i] <= 0)
+                            {
+                                itemSlot[i] = 0;
+                                itemQuantity[i] = 0;
+                            }
+                        }
+                    }
+                    //показать количество предметов
+                    if (itemQuantity[i] > 0)
+                    {
+                        GUI.Label(new Rect(40 + (x * ButtonWidth), 20 + (y * ButtonHeight), 20, 20), itemQuantity[i].ToString()); //Количесство больше ноля
+                    }
+                    i++;
+                }
+            }
+            GUI.DragWindow();
+
+            GUI.Label ( new Rect(gold_positionX, gold_positionY, 150, 50), "Gold: " + cash.ToString());
+
+            GUI.skin = skin;
+            GUI.Box(new Rect(Hint_positionX, Hint_positionY, Hint_Width, Hint_Height), GUI.tooltip);//строка пояснения
+            //---------------------------
+        }
 		
 		//---------------Equipment Tab----------------------------
-		if(menu && equipMenu){
-			//Close Window Button
-			if (GUI.Button ( new Rect(250,2,30,30), "X")) {
-				OnOffMenu();
-			}
-			//Weapon
-			GUI.Label ( new Rect(20, 130, 150, 50), "Weapon");			
-			if (GUI.Button ( new Rect(100,115,50,50),new GUIContent (dataItem.equipment[weaponEquip].icon, dataItem.equipment[weaponEquip].itemName + "\n" + "\n" + dataItem.equipment[weaponEquip].description ))){
-				if(!allowWeaponUnequip || weaponEquip == 0){
-					return;
-				}
-				UnEquip(weaponEquip);
-			}
-			//Armor
-			GUI.Label ( new Rect(20, 190, 150, 50), "Armor");
-			if (GUI.Button ( new Rect(100,175,50,50),new GUIContent (dataItem.equipment[armorEquip].icon, dataItem.equipment[armorEquip].itemName + "\n" + "\n" + dataItem.equipment[armorEquip].description ))){
-				if(!allowArmorUnequip || armorEquip == 0){
-					return;
-				}
-				UnEquip(armorEquip);
-				
-			}
-			
-			
-			//--------Equipment Slot---------
-			if (GUI.Button ( new Rect(30,235,50,50),new GUIContent (dataItem.equipment[equipment[0]].icon, dataItem.equipment[equipment[0]].itemName + "\n" + "\n" + dataItem.equipment[equipment[0]].description ))){
-				EquipItem(equipment[0] , 0);
-			}
-			
-			if (GUI.Button ( new Rect(90,235,50,50),new GUIContent (dataItem.equipment[equipment[1]].icon, dataItem.equipment[equipment[1]].itemName + "\n" + "\n" + dataItem.equipment[equipment[1]].description ))){
-				EquipItem(equipment[1] , 1);
-			}
-			
-			if (GUI.Button ( new Rect(150,235,50,50),new GUIContent (dataItem.equipment[equipment[2]].icon, dataItem.equipment[equipment[2]].itemName + "\n" + "\n" + dataItem.equipment[equipment[2]].description ))){
-				EquipItem(equipment[2] , 2);
-			}
-			
-			if (GUI.Button ( new Rect(210,235,50,50),new GUIContent (dataItem.equipment[equipment[3]].icon, dataItem.equipment[equipment[3]].itemName + "\n" + "\n" + dataItem.equipment[equipment[3]].description ))){
-				EquipItem(equipment[3] , 3);
-			}
-			//-----------------------------
-			if (GUI.Button ( new Rect(30,295,50,50),new GUIContent (dataItem.equipment[equipment[4]].icon, dataItem.equipment[equipment[4]].itemName + "\n" + "\n" + dataItem.equipment[equipment[4]].description ))){
-				EquipItem(equipment[4] , 4);
-			}
-			
-			if (GUI.Button ( new Rect(90,295,50,50),new GUIContent (dataItem.equipment[equipment[5]].icon, dataItem.equipment[equipment[5]].itemName + "\n" + "\n" + dataItem.equipment[equipment[5]].description ))){
-				EquipItem(equipment[5] , 5);
-			}
-			
-			if (GUI.Button ( new Rect(150,295,50,50),new GUIContent (dataItem.equipment[equipment[6]].icon, dataItem.equipment[equipment[6]].itemName + "\n" + "\n" + dataItem.equipment[equipment[6]].description ))){
-				EquipItem(equipment[6] , 6);
-			}
-			
-			if (GUI.Button ( new Rect(210,295,50,50),new GUIContent (dataItem.equipment[equipment[7]].icon, dataItem.equipment[equipment[7]].itemName + "\n" + "\n" + dataItem.equipment[equipment[7]].description ))){
-				EquipItem(equipment[7] , 7);
-			}
-			GUI.Label ( new Rect(20, 355, 150, 50), "$ " + cash.ToString());
-			GUI.Box ( new Rect(20,30,240,60), GUI.tooltip);
-			
-		}
+		if(menu && equipMenu)
+        {
+            //Close Window Button
+            float button_x = windowRect.width - 30;
+            if (GUI.Button(new Rect(button_x, 0, 25, 25), "X"))
+            {
+                OnOffMenu();
+            }
+
+            //Autosort button
+            float button_autosort = button_x - 100;
+            if (GUI.Button(new Rect(button_autosort, 0, 75, 25), "Autosort"))
+                AutoSortEquipment();
+            
+            int i = 0;
+            for (int y = 0; y < invRows; y++)
+            {
+                for (int x = 0; x < invColumns; x++)
+                {
+                    if (GUI.Button(new Rect(indent_x + (x * ButtonWidth), indent_y + (y * ButtonHeight), ButtonWidth, ButtonHeight), new GUIContent(dataItem.equipment[equipment[i]].icon, dataItem.equipment[equipment[i]].itemName + "\n" + "\n" + dataItem.equipment[equipment[i]].description)))
+                    {
+                        if (Input.GetKeyUp(KeyCode.Mouse0))//только при нажатии ЛКМ
+                        {
+                            if (equipment[i] > 0)
+                            {
+                                if (!isDraggable)//еще не бралась вещь (первичный клик)
+                                {
+                                    //шифт не зажат
+                                    dragTexture = dataItem.equipment[equipment[i]].icon;//присваиваем нашей текстуре которая должна отображаться при перетаскивании, текстуру предмета 
+                                    isDraggable = true;//возможность перемещать предмет 
+                                    selectItem = equipment[i];//присваиваем вспомогательной переменной наш предмет 
+                                    equipment[i] = 0;
+                                }
+                                else//на этом месте другая вещь
+                                {
+                                    //другая вещь (замена)
+                                    int temp_selectItem = selectItem;
+                                    Texture2D Temp_tex = dragTexture;
+
+                                    //получить данные ячейки
+                                    selectItem = equipment[i];//присваиваем вспомогательной переменной наш предмет 
+                                    dragTexture = dataItem.equipment[equipment[i]].icon;//присваиваем нашей текстуре которая должна отображаться при перетаскивании, текстуру предмета 
+
+                                    //передача ячейке
+                                    equipment[i] = temp_selectItem;
+                                    dataItem.equipment[equipment[i]].icon = Temp_tex;
+                                    isDraggable = true;//возможность перемещать предмет   
+                                    
+                                }
+                            }
+                            else//это пустая ячейка
+                            {
+                                if (isDraggable)
+                                {
+                                    //обнуляем переменные 
+                                    equipment[i] = selectItem;
+                                    isDraggable = false;
+                                    selectItem = 0;
+                                }
+                                else//делаем ячейки не выделяемыми 
+                                {
+                                    GUI.Label(new Rect(indent_x + (x * ButtonWidth), indent_y + (y * ButtonHeight), ButtonWidth, ButtonHeight), new GUIContent(dataItem.equipment[equipment[i]].icon, dataItem.equipment[equipment[i]].itemName + "\n" + "\n" + dataItem.equipment[equipment[i]].description));
+                                }
+                            }
+                        }
+                        if (Input.GetKeyUp(KeyCode.Mouse1))//только при нажатии ПКМ
+                            EquipItem(equipment[i], i);
+                    }
+                    i++;
+                }
+            }
+            GUI.Label(new Rect(gold_positionX, gold_positionY, 150, 50), "Gold: " + cash.ToString());
+
+            GUI.skin = skin;
+            GUI.Box(new Rect(Hint_positionX, Hint_positionY, Hint_Width, Hint_Height), GUI.tooltip);//строка пояснения
+        }
 		GUI.DragWindow (new Rect (0,0,10000,10000)); 
 	}
 	

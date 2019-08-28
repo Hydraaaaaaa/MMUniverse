@@ -39,7 +39,6 @@ namespace UnityStandardAssets.Characters.FirstPerson
                 {
                     GetComponent<MovePlayer>().enabled = true;
                     GetComponent<FirstPersonController>().enabled = false;
-					GetComponent<Crosshair>().enabled = false;
                     Control_flag = false;
                     Cursor.visible = true;
                     Screen.lockCursor = false;
@@ -48,7 +47,6 @@ namespace UnityStandardAssets.Characters.FirstPerson
                 {
                     GetComponent<MovePlayer>().enabled = false;
                     GetComponent<FirstPersonController>().enabled = true;
-					GetComponent<Crosshair>().enabled = true;
                     Control_flag = true;
                     Cursor.visible = false;
                     Screen.lockCursor = true;
@@ -74,14 +72,12 @@ namespace UnityStandardAssets.Characters.FirstPerson
 					Info_window.active = false;
 					Info_flag = false;
 					GameObject.Find("FPSController").GetComponent<Menu_Game>().Game_active();
-					GetComponent<Crosshair>().enabled = true;
 				}
 				else
 				{
 					Info_window.active = true;
 					Info_flag = true;
 					GameObject.Find("FPSController").GetComponent<Menu_Game>().Game_pause();
-					GetComponent<Crosshair>().enabled = false;
 				}
 			}
 			else if (Input.GetKeyDown(KeyCode.Alpha5) && Temp.current_screen == Temp.screen_name.screen_game)
