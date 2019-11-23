@@ -4,28 +4,34 @@ using UnityEngine;
 
 public class ModelInvisible : MonoBehaviour
 {
-    public GameObject MainCamC;
+    //public GameObject MainCamC;
     public GameObject This_object;
-    public bool active = true;//от первого лица
+    public bool active_flag = false;//проверка активна
+    public float timer = 0f;
     // Start is called before the first frame update
     void Start()
     {
-        MainCamC = GameObject.FindWithTag("MainCamera");
+        //MainCamC = GameObject.FindWithTag("MainCamera");
+        This_object.SetActive(false);//отключить отрисовку
+        active_flag = true;
+        timer = 6f;
     }
-
+    public void TimerBegin() {
+        timer = 6f;
+        active_flag = true;
+    }
     // Update is called once per frame
     void Update()
     {
-        if (active)//от первого лица
-        {
-            if (!MainCamC)
-                MainCamC = GameObject.FindWithTag("MainCamera");
-            if (MainCamC.GetComponent<ARPGcameraC>().useFirstPerson)//от первого лица
+        if (active_flag) {
+            if (timer > 0f)
+                timer -= Time.deltaTime;
+            else
             {
+                active_flag = false;
                 This_object.SetActive(false);//отключить отрисовку
-                active = false;
+
             }
         }
-
     }
 }

@@ -39,6 +39,8 @@ TagManager:
   - Enemy
   - Ally
   - SpawnPoint
+  - Invis_RWeapon
+  - Invis_LWeapon
   layers:
   - Default
   - TransparentFX

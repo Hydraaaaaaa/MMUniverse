@@ -119,21 +119,20 @@ MonoBehaviour:
   target: {fileID: 0}
   targetBody: {fileID: 0}
   targetHeight: 1.6
-  distance: 0
-  maxDistance: 0
-  minDistance: 0
+  distance: 4
+  maxDistance: 6
+  minDistance: 1.2
   xSpeed: 250
   ySpeed: 120
-  yMinLimit: 0
-  yMaxLimit: 0
+  yMinLimit: -10
+  yMaxLimit: 70
   zoomRate: 80
   rotationDampening: 3
   aim: {x: 0, y: 0, z: 0, w: 0}
   aimAngle: 9.75
   lockOn: 0
-  useFirstPerson: 1
-  Head_Model: {fileID: 0}
-  Body_Model: {fileID: 0}
+  R_Model: {fileID: 0}
+  L_Model: {fileID: 0}
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0

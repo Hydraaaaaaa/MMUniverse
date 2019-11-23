@@ -121,14 +121,14 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 100000}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 652c145dae12d894a9bbbc342583310b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MainCamC: {fileID: 100000, guid: 685be0844d44a5d4a93b29675b0d0eb4, type: 3}
   This_object: {fileID: 100000}
-  active: 1
+  active_flag: 0
+  timer: 0
 --- !u!1 &100002
 GameObject:
   m_ObjectHideFlags: 0
@@ -588,9 +588,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 400064}
+  - component: {fileID: 88942225717758336}
   m_Layer: 0
   m_Name: Bip01 R Clavicle
-  m_TagString: Untagged
+  m_TagString: Invis_RWeapon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -610,6 +611,21 @@ Transform:
   m_Father: {fileID: 400070}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &88942225717758336
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 652c145dae12d894a9bbbc342583310b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  This_object: {fileID: 100028}
+  active_flag: 0
+  timer: 0
 --- !u!1 &100030
 GameObject:
   m_ObjectHideFlags: 0
@@ -1072,9 +1088,10 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 400066}
+  - component: {fileID: 3169004499137591425}
   m_Layer: 0
   m_Name: Bip01 L Clavicle
-  m_TagString: Untagged
+  m_TagString: Invis_LWeapon
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1094,6 +1111,21 @@ Transform:
   m_Father: {fileID: 400070}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3169004499137591425
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 100056}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 652c145dae12d894a9bbbc342583310b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  This_object: {fileID: 100056}
+  active_flag: 0
+  timer: 0
 --- !u!1 &100058
 GameObject:
   m_ObjectHideFlags: 0
@@ -1422,14 +1454,14 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 100070}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 652c145dae12d894a9bbbc342583310b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MainCamC: {fileID: 100000, guid: 685be0844d44a5d4a93b29675b0d0eb4, type: 3}
   This_object: {fileID: 100070}
-  active: 1
+  active_flag: 0
+  timer: 0
 --- !u!1 &100072
 GameObject:
   m_ObjectHideFlags: 0

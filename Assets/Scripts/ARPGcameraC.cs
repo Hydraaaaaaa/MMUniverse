@@ -6,9 +6,9 @@ public class ARPGcameraC : MonoBehaviour {
 	public Transform target;
 	public Transform targetBody;
 	public float targetHeight = 1.6f;
-	public float distance = 0f;
-	public float maxDistance = 0;
-	public float minDistance = 0f;
+	public float distance;
+	public float maxDistance;
+	public float minDistance;
 	public float xSpeed = 250.0f;
 	public float ySpeed = 120.0f;
 	public float yMinLimit = 0;
@@ -20,23 +20,23 @@ public class ARPGcameraC : MonoBehaviour {
 	public Quaternion aim;
 	public float aimAngle = 8;
 	public bool  lockOn = false;
-    public bool useFirstPerson = true;
-    public GameObject Head_Model;
-    public GameObject Body_Model;
+    //public bool useFirstPerson = true;
+    public GameObject R_Model;
+    public GameObject L_Model;
     RaycastHit hit;
 
 	
 	void  Start (){
 		if(!target){
 			target = GameObject.FindWithTag ("Player").transform;
-            Head_Model = GameObject.FindWithTag("Invis");
-            Body_Model = GameObject.FindWithTag("Invis_body");
+            R_Model = GameObject.FindWithTag("Invis_RWeapon");
+            L_Model = GameObject.FindWithTag("Invis_LWeapon");
 
         }
         else
         {
-            Head_Model = GameObject.FindWithTag("Invis");
-            Body_Model = GameObject.FindWithTag("Invis_body");
+            R_Model = GameObject.FindWithTag("Invis_RWeapon");
+            L_Model = GameObject.FindWithTag("Invis_LWeapon");
         }
 		Vector3 angles = transform.eulerAngles;
 		x = angles.y;
@@ -44,7 +44,8 @@ public class ARPGcameraC : MonoBehaviour {
 		
 		if (GetComponent<Rigidbody>())
 			GetComponent<Rigidbody>().freezeRotation = true;
-		Screen.lockCursor = true;
+        //Screen.lockCursor = true;
+        Cursor.lockState = CursorLockMode.Locked;
 	}
 	
 	void  LateUpdate (){
@@ -58,7 +59,14 @@ public class ARPGcameraC : MonoBehaviour {
 			return;
 		}
 
-        if (Input.GetKeyUp(KeyCode.B))
+        if (Input.GetButton("Fire1"))
+        {
+            R_Model.SetActive(true);//включить отрисовку
+            R_Model.GetComponent<ModelInvisible>().TimerBegin();
+            L_Model.SetActive(true);//включить отрисовку
+            L_Model.GetComponent<ModelInvisible>().TimerBegin();
+        }
+        /*if (Input.GetKeyUp(KeyCode.B))
         {
             if (!useFirstPerson)//Не от первого лица
             {
@@ -85,9 +93,9 @@ public class ARPGcameraC : MonoBehaviour {
                 Body_Model.SetActive(true);
                 Body_Model.GetComponent<ModelInvisible>().active = true;
             }
-        }
-	
-		x += Input.GetAxis("Mouse X") * xSpeed * 0.02f;
+        }*/
+
+        x += Input.GetAxis("Mouse X") * xSpeed * 0.02f;
 		y -= Input.GetAxis("Mouse Y") * ySpeed * 0.02f;
 		
 		distance -= (Input.GetAxis("Mouse ScrollWheel") * Time.deltaTime) * zoomRate * Mathf.Abs(distance);

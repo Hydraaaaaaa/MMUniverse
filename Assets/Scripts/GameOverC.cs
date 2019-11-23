@@ -20,8 +20,10 @@ public class GameOverC : MonoBehaviour {
 	IEnumerator Delay(){
 		yield return new WaitForSeconds(delay);
 		menu = true;
-		Screen.lockCursor = false;
-	}
+		//Screen.lockCursor = false;
+        Cursor.lockState = CursorLockMode.None;
+        Cursor.visible = true;
+    }
 	
 	void  OnGUI (){
 		if(menu){
@@ -29,7 +31,7 @@ public class GameOverC : MonoBehaviour {
 			if(GUI.Button(new Rect(Screen.width /2 -80,Screen.height /2 -80,160,40), "Retry")) {
                 Object allObject = Object.FindObjectOfType<ARPGcameraC>();
                 GameObject Temp = GameObject.Find(allObject.name);
-                Temp.GetComponent<ARPGcameraC>().useFirstPerson = false;
+                //Temp.GetComponent<ARPGcameraC>().useFirstPerson = false;
 
                 LoadData();
 			}
