@@ -548,9 +548,7 @@ public class InventoryC : MonoBehaviour {
             //Close Window Button
             float button_x = windowRect.width - 30;
             if (GUI.Button(new Rect(button_x, 0, 25, 25), "X"))
-            {
                 OnOffMenu();
-            }
 
             //Autosort button
             float button_autosort = button_x - 100;

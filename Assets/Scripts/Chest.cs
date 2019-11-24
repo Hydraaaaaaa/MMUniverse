@@ -40,7 +40,7 @@ public class Chest : MonoBehaviour {
     private bool actives2 = false;
 
 
-    public bool Initialized()
+    /*public bool Initialized()
     {
         if (uFlags == CHEST_FLAGS.CHEST_ITEMS_PLACED)
             return true;
@@ -93,12 +93,12 @@ public class Chest : MonoBehaviour {
         }
     }
     void OnMouseDrag()
-    {
+    {*/
         /*if (Input.GetKey(KeyCode.Mouse1))
         {
             Debug.Log("описание предмета");
         }*/
-        if (Input.GetMouseButton(0))
+        /*if (Input.GetMouseButton(0))
         {
             actives2 = actives2 ? false : true;
         }
@@ -119,7 +119,7 @@ public class Chest : MonoBehaviour {
     }
     //----- (0042041E) --------------------------------------------------------
     public bool Open()
-    {
+    {*/
         /*unsigned int pMapID; // eax@8
         int pRandom; // edx@16
         int v6; // eax@16
@@ -142,8 +142,8 @@ public class Chest : MonoBehaviour {
         SpriteObject pSpellObject; // [sp+14h] [bp-B0h]@28*/
 
 
-        if (!Initialized())
-            PlaceItems();
+        /*if (!Initialized())
+            PlaceItems();*/
 
         //flag_shout = false;
         /*pMapID = pMapStats->GetMapInfo(pCurrentMapName);
@@ -256,7 +256,7 @@ public class Chest : MonoBehaviour {
         }*/
         //OpenedTelekinesis = false;
         //pChestWindow = pGUIWindow_CurrentMenu = new GUIWindow_Chest(uChestID);
-        return true;
+        /*return true;
     }
     //----- (00420284) --------------------------------------------------------
     public void PlaceItems()
@@ -663,7 +663,7 @@ public class Chest : MonoBehaviour {
             
             //pTexture = database.items[Player.InventoryItemList[Player.InventoryMatrix[i] - 1].ItemID].itemTexture;
             if (chest_item_id > 0)
-            {
+            {*/
                 //test_position = 0;
                 /*while (!CanPlaceItemAt(chest_cells_map[test_position], chest_item_id) )
                 {
@@ -677,7 +677,7 @@ public class Chest : MonoBehaviour {
                     //if (uFlags == CHEST_FLAGS.CHEST_OPENED)
                     //igChestItemsNum[items_counter].SetIdentified();
                 }*/
-                for (test_position = 0; test_position < uChestArea; ++test_position)
+                /*for (test_position = 0; test_position < uChestArea; ++test_position)
                 {
                     if (CanPlaceItemAt(chest_cells_map[test_position], chest_item_id))
                     {
@@ -721,13 +721,13 @@ public class Chest : MonoBehaviour {
         v8 = item_texture.height;
         if (v8 < 14)
             v8 = 14;
-        texture_cell_height = ((v8 - 14) >> 5) + 1;
+        texture_cell_height = ((v8 - 14) >> 5) + 1;*/
         /*if (!areWeLoadingTexture)
         {
             item_texture->Release();
             pIcons_LOD->SyncLoadedFilesCount();
         }*/
-        if ((texture_cell_width + test_cell_position % chest_cell_width <= chest_cell_width) &&
+        /*if ((texture_cell_width + test_cell_position % chest_cell_width <= chest_cell_width) &&
             (texture_cell_height + test_cell_position / chest_cell_width <= chest_cell_heght))
         { //we not put over borders
           //_row = 0;
@@ -736,7 +736,7 @@ public class Chest : MonoBehaviour {
             _cell_rows = 0;
             //while ( 1 )
             for (_row = 0; _row < texture_cell_height; ++_row)
-            {
+            {*/
                 //_column = 0;
                 //if ( texture_cell_width > 0 )
                 //{
@@ -748,19 +748,19 @@ public class Chest : MonoBehaviour {
                     break;
                 }
                 */
-                for (_column = 0; _column < texture_cell_width; ++_column)
+                /*for (_column = 0; _column < texture_cell_width; ++_column)
                 {
                     if (pInventoryIndices[test_cell_position + _cell_rows + _column] != 0)
                         return false;
-                }
+                }*/
                 //if (pChests[uChestID].pInventoryIndices[test_cell_position + _cell_rows+_column]!=0)
                 //return false;
                 //}
-                _cell_rows += chest_cell_width;
+                //_cell_rows += chest_cell_width;
                 //++_row;
                 //if ( _row >= texture_cell_height )
                 //return true;
-            }
+            /*}
             return true;
         }
         return false;
@@ -774,7 +774,7 @@ public class Chest : MonoBehaviour {
             int texture_cell_width; // ebx@7
             int textute_cell_height; // edi@9
             int chest_cell_row_pos; // edx@12
-            int chest_cell_width; // [sp+10h] [bp-Ch]@11
+            int chest_cell_width; // [sp+10h] [bp-Ch]@11*/
 
         //uItemID = pChests[uChestID].igChestItems[item_at_cell].uItemID;
         //pItemsTable->SetSpecialBonus(&pChests[uChestID].igChestItems[item_at_cell]);
@@ -786,7 +786,7 @@ public class Chest : MonoBehaviour {
         }*/
         //v7 = pIcons_LOD->LoadTexture(pItemsTable->pItems[uItemID].pIconName, TEXTURE_16BIT_PALETTE);
         //texture = pIcons_LOD->GetTexture(v7);
-        texture = database.items[item_at_cell].itemTexture;
+        /*texture = database.items[item_at_cell].itemTexture;
         v9 = texture.width;
             if (texture.width < 14)
                 v9 = 14;
@@ -794,13 +794,13 @@ public class Chest : MonoBehaviour {
             v10 = texture.height;
             if (texture.height < 14)
                 v10 = 14;
-            textute_cell_height = ((v10 - 14) >> 5) + 1;
+            textute_cell_height = ((v10 - 14) >> 5) + 1;*/
             /*if (!areWeLoadingTexture)
             {
                 texture->Release();
                 pIcons_LOD->SyncLoadedFilesCount();
             }*/
-        chest_cell_width = 9;// pChestWidthsByType[pChests[uChestID].uChestBitmapID];
+        /*chest_cell_width = 9;// pChestWidthsByType[pChests[uChestID].uChestBitmapID];
             chest_cell_row_pos = 0;
             for (int i = 0; i < textute_cell_height; ++i)
             {
@@ -906,7 +906,7 @@ public class Chest : MonoBehaviour {
                                 party.GetComponent<Party>().TakenItemTexture = pTexture;
                                 party.GetComponent<Party>().TakenItemID = (uint)pInventoryIndices[i];
                                 //pInventoryIndices[i] = 0;
-                                DeleteItemArChestIndex(pInventoryIndices[i], (int)i);
+                                DeleteItemArChestIndex(pInventoryIndices[i], (int)i);*/
 
                                 /*else
                                 {
@@ -917,8 +917,8 @@ public class Chest : MonoBehaviour {
                                     Player.InventoryItemList[i].ItemID = -1;
                                 }*/
 
-                            }
-                        }
+                            //}
+                        //}
                         /*if (Input.GetMouseButtonDown(0))
                         {
                             Vector3 MousePos = Input.mousePosition;
@@ -929,7 +929,7 @@ public class Chest : MonoBehaviour {
                         {
                             Debug.Log(database.items[pInventoryIndices[i]].pDescription);
                         }*/
-                    }
+                    /*}
                     if (actives)
                     {
                         //Debug.Log("описание");
@@ -991,5 +991,5 @@ public class Chest : MonoBehaviour {
             chest_cell_row_pos += chest_cell_width;
         }
         pInventoryIndices[index] = 0;
-    }
+    }*/
 }
