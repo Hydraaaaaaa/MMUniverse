@@ -26,8 +26,11 @@ public class ShopC : MonoBehaviour {
 	bool full = false;
 	private int num = 1;
 	private string text = "1";
-	
-	void  Update (){
+
+    public int button_width;
+    public int button_height;
+
+    void  Update (){
 		if(Input.GetKeyDown("e") && enter){
 			OpenShop();
 			
@@ -116,7 +119,7 @@ public class ShopC : MonoBehaviour {
 		int[] equipment = player.GetComponent<InventoryC>().equipment;
 		
 		if(enter && !menu){
-			GUI.DrawTexture( new Rect(Screen.width / 2 - 130, Screen.height - 120, 260, 80), button);
+			GUI.DrawTexture( new Rect(Screen.width / 2 - 130, Screen.height - 120, button_width, button_height), button);
 		}
 				
 		//Shop Main Menu

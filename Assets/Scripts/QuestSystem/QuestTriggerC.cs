@@ -10,8 +10,10 @@ public class QuestTriggerC : MonoBehaviour {
 	public Texture2D button;
 	private GameObject player;
 	private GameObject questData;
+    public int button_width;
+    public int button_height;
 
-	void  Update (){
+    void  Update (){
 		if(Input.GetKeyDown("e") && enter){
 			bool  q = questClients[questStep].GetComponent<QuestClientC>().ActivateQuest(player);
 			if(q && questStep < questClients.Length){
@@ -33,7 +35,7 @@ public class QuestTriggerC : MonoBehaviour {
 			return;
 		}
 		if(enter){
-			GUI.DrawTexture( new Rect(Screen.width / 2 - 130, Screen.height - 120, 260, 80), button);
+			GUI.DrawTexture( new Rect(Screen.width / 2 - 130, Screen.height - 120, button_width, button_height), button);
 		}
 	}
 	

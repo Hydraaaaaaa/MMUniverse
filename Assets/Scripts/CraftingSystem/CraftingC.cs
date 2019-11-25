@@ -26,8 +26,10 @@ public class CraftingC : MonoBehaviour {
 	private int itemQty3;
 	private int itemQty4;
 	private int itemQty5;
-	
-	void  Start (){
+    public int button_width;
+    public int button_height;
+
+    void  Start (){
 		if(!player){
 			player = GameObject.FindWithTag("Player");
 		}
@@ -62,7 +64,7 @@ public class CraftingC : MonoBehaviour {
 	void  OnGUI (){
 		GUI.skin = uiSkin;
 		if(enter && uiPage == 0){
-			GUI.DrawTexture( new Rect(Screen.width / 2 - 130, Screen.height - 120, 260, 80), button);
+			GUI.DrawTexture( new Rect(Screen.width / 2 - 130, Screen.height - 120, button_width, button_height), button);
 		}
 		
 		if(uiPage == 1){

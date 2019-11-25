@@ -456,7 +456,7 @@ public class HealthBarC : MonoBehaviour {
 
         GUI.DrawTexture(new Rect(active_character_indicator_xy.x, active_character_indicator_xy.y, active_character_indicator_width, active_character_indicator_height), active_character_indicator);//Indicator		
         GUI.DrawTexture( new Rect(maxHpBarPosition.x ,maxHpBarPosition.y ,maxHpBarWidth,maxHpBarHeigh), maxHpBar);//Bar
-        GUI.DrawTexture(new Rect(PC_xy.x, PC_xy.y, PC_width, PC_height), PC[0][ExpirionsId]);//portraits
+        GUI.DrawTexture(new Rect(PC_xy.x, PC_xy.y, PC_width, PC_height), PC[4][ExpirionsId]);//portraits
 
         GUI.DrawTexture(new Rect(Oreol_xy.x, Oreol_xy.y, Oreol_width, Oreol_height), active_character_oreol);
 

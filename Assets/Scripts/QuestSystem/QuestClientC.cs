@@ -32,8 +32,10 @@ public class QuestClientC : MonoBehaviour {
 	private bool  thisActive = false;
 	private bool  questFinish = false;
 	public string sendMsgWhenTakeQuest = "";
+    public int button_width;
+    public int button_height;
 
-	void  Update (){
+    void  Update (){
 		if(Input.GetKeyDown("e") && enter && thisActive && !showError){
 			NextPage();
 		}
@@ -151,7 +153,7 @@ public class QuestClientC : MonoBehaviour {
 			return;
 		}
 		if(enter && !showGui && !showError){
-			GUI.DrawTexture( new Rect(Screen.width / 2 - 130, Screen.height - 120, 260, 80), button);
+			GUI.DrawTexture( new Rect(Screen.width / 2 - 130, Screen.height - 120, button_width, button_height), button);
 		}
 		
 		if(showError){
