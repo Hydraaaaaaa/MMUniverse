@@ -26,7 +26,7 @@ public class ARPGcameraC : MonoBehaviour {
     RaycastHit hit;
 
 	
-	void  Start (){
+	void  Awake(){
 		if(!target){
 			target = GameObject.FindWithTag ("Player").transform;
             R_Model = GameObject.FindWithTag("Invis_RWeapon");
@@ -61,10 +61,16 @@ public class ARPGcameraC : MonoBehaviour {
 
         if (Input.GetButton("Fire1"))
         {
-            R_Model.SetActive(true);//включить отрисовку
-            R_Model.GetComponent<ModelInvisible>().TimerBegin();
-            L_Model.SetActive(true);//включить отрисовку
-            L_Model.GetComponent<ModelInvisible>().TimerBegin();
+            if (R_Model)
+            {
+                R_Model.SetActive(true);//включить отрисовку
+                R_Model.GetComponent<ModelInvisible>().TimerBegin();
+            }
+            if (L_Model)
+            {
+                L_Model.SetActive(true);//включить отрисовку
+                L_Model.GetComponent<ModelInvisible>().TimerBegin();
+            }
         }
         /*if (Input.GetKeyUp(KeyCode.B))
         {

@@ -337,7 +337,7 @@ public class InventoryC : MonoBehaviour {
     {
         dataItem = database.GetComponent<ItemDataC>();
         databody = body_database.GetComponent<BodyDataC>();
-        GUI.Box(new Rect(characterBoxRect.x, characterBoxRect.y, characterBoxRect.width, characterBoxRect.height), "CHARACTER");
+        GUI.Box(new Rect(windowRect.width+characterBoxRect.x, windowRect.y, characterBoxRect.width, characterBoxRect.height), "CHARACTER");
 
         if (panel2_texture_flag)//панель с кольцами
         {
@@ -374,7 +374,7 @@ public class InventoryC : MonoBehaviour {
         //кулак
         //щит
        
-        /*
+        
         //отрисовка кнопок
         if (GUI.Button(new Rect(100, 115, 50, 50), new GUIContent(dataItem.equipment[weaponEquip].icon, dataItem.equipment[weaponEquip].itemName + "\n" + "\n" + dataItem.equipment[weaponEquip].description)))
         {
@@ -385,7 +385,7 @@ public class InventoryC : MonoBehaviour {
             UnEquip(weaponEquip);
         }
         //Armor
-        GUI.Label(new Rect(20, 190, 150, 50), "Armor");
+        //GUI.Label(new Rect(20, 190, 150, 50), "Armor");
         if (GUI.Button(new Rect(100, 175, 50, 50), new GUIContent(dataItem.equipment[armorEquip].icon, dataItem.equipment[armorEquip].itemName + "\n" + "\n" + dataItem.equipment[armorEquip].description)))
         {
             if (!allowArmorUnequip || armorEquip == 0)
@@ -394,7 +394,7 @@ public class InventoryC : MonoBehaviour {
             }
             UnEquip(armorEquip);
 
-        }*/
+        }
         GUI.DragWindow();
     }
 

@@ -9,7 +9,7 @@ public class ModelInvisible : MonoBehaviour
     public bool active_flag = false;//проверка активна
     public float timer = 0f;
     // Start is called before the first frame update
-    void Start()
+    void Awake()
     {
         //MainCamC = GameObject.FindWithTag("MainCamera");
         This_object.SetActive(false);//отключить отрисовку
@@ -21,7 +21,7 @@ public class ModelInvisible : MonoBehaviour
         active_flag = true;
     }
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         if (active_flag) {
             if (timer > 0f)
