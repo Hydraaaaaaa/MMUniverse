@@ -89,7 +89,7 @@ public class StatusWindowC : MonoBehaviour {
 		int next = stat.maxExp - exp;
 		int stPoint = stat.statusPoint;
 		
-		GUI.Label ( new Rect(30, 40, 100, 50), lv.ToString() , textStyle2);
+		GUI.Label ( new Rect(70, 40, 100, 50), lv.ToString() , textStyle2);
 		GUI.Label ( new Rect(70, 70, 100, 50), atk.ToString() , textStyle2);
 		GUI.Label ( new Rect(70, 100, 100, 50), def.ToString() , textStyle2);
 		GUI.Label ( new Rect(70, 130, 100, 50), matk.ToString() , textStyle2);

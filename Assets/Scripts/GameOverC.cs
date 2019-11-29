@@ -9,8 +9,6 @@ public class GameOverC : MonoBehaviour {
 	private Vector3 lastPosition;
 	private Transform mainCam;
 	GameObject oldPlayer;
-    public GameObject InvisHeadModel;
-    public GameObject InvisBodyModel;
 
     void  Start (){
 		StartCoroutine(Delay());

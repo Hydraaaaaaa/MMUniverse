@@ -25,8 +25,8 @@ public class ARPGcameraC : MonoBehaviour {
     public GameObject L_Model;
     RaycastHit hit;
 
-	
-	void  Awake(){
+
+    void  Awake(){
 		if(!target){
 			target = GameObject.FindWithTag ("Player").transform;
             R_Model = GameObject.FindWithTag("Invis_RWeapon");
@@ -47,8 +47,8 @@ public class ARPGcameraC : MonoBehaviour {
         //Screen.lockCursor = true;
         Cursor.lockState = CursorLockMode.Locked;
 	}
-	
-	void  LateUpdate (){
+
+    void  LateUpdate (){
 		if(!target)
 			return;
 		if(!targetBody){
